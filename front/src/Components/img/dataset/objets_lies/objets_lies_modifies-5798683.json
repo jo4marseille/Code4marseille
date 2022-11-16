@@ -1,0 +1,108 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5798683,
+  "nom" : {
+    "libelleFr" : "La Marée d'An-To : Marché aux Poissons"
+  },
+  "identifier" : "SITRA2_STR_5798683",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-05-06T12:23:53.517+0000",
+    "dateModification" : "2021-05-06T12:27:05.770+0000",
+    "dateExportModification" : "2022-10-08T16:50:04.120+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Marignane",
+      "dateCreation" : "2020-02-11T08:56:27.494+0000",
+      "dateModification" : "2022-10-24T08:49:40.006+0000",
+      "id" : 1985,
+      "siteWeb" : "http://www.tourisme-marignane.com/"
+    },
+    "signalerUnProblemeMails" : [ "officedetourisme@ville-marignane.fr", "ot-direction@ville-marignane.fr", "ot-promotion@ville-marignane.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88588760,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 60 31 64 02"
+      }
+    }, {
+      "identifiant" : 88588801,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/valpep.valpep"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Port du Jaî",
+      "adresse2" : "route de la Plage",
+      "codePostal" : "13700",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4465
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.194948, 43.437158 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4465
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19193109,
+    "referent" : true,
+    "nom" : "La Marée d'An-To"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

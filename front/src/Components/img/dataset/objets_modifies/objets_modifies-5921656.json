@@ -1,0 +1,226 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5921656,
+  "nom" : {
+    "libelleFr" : "TAYC - Crystal Destiny"
+  },
+  "identifier" : "SITRA2_EVE_5921656",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-20T14:37:28.030+0000",
+    "dateModification" : "2022-06-17T07:23:29.566+0000",
+    "dateExportModification" : "2022-06-17T07:23:29.733+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92235554,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.adamconcerts.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5465470
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le célèbre créateur de l’Afrolov’, savant mélange d’R&B, Jazz, Soul, Pop, le tout associé à une grande Afro Music."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le célèbre créateur de l’Afrolov’, savant mélange d’R&B, Jazz, Soul, Pop, le tout associé à une grande Afro Music, sera en concert à partir du 21 octobre 2022 en France, Suisse, Belgique dans les Zéniths et à l'Accor Arena à Paris le 7 décembre 2022. Bienvenue à la Crystal Destiny !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Dôme",
+      "adresse1" : "48 Av. de Saint-Jus",
+      "codePostal" : "13004",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4534
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.404402, 43.315319 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4534
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 20h.",
+      "libelleEn" : "Wednesday 9 November 2022 at 8 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 20.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 20.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 20 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 20.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  20h.",
+      "libelleJa" : "水曜日 9 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21798547,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23635158
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 42 à 69 €.\n",
+      "libelleEn" : "Full price: 42 to 69 €.\n",
+      "libelleEs" : "Tarifa completa: de 42 a 69 €.\n",
+      "libelleIt" : "Tarrifa intera: da 42 a 69 €.\n",
+      "libelleDe" : "Voller Preis: von 42 bis 69 €.\n",
+      "libelleNl" : "Vol tarief: € 42 tot en met € 69.\n",
+      "libelleRu" : "Полную цену : с 42 до  69 €.\n",
+      "libelleZh" : "全额 : 从 42 到  69 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 42 a 69 €.\n",
+      "libelleJa" : "通常料金: 42 から 69 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12432185,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 42.00,
+        "maximum" : 69.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16641
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12946370,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "TAYC - Crystal Destiny"
+    },
+    "legende" : {
+      "libelleFr" : "TAYC - Crystal Destiny"
+    },
+    "copyright" : {
+      "libelleFr" : "Enzo Trupiano - TAYC - Crystal Destiny - Adam Concerts - Le Dôme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/101/13133062.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/101/13133062-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/101/13133062-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/101/13133062-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "tayc dome",
+      "taille" : 123429,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-05-04T06:09:57.126+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2139
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Dôme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

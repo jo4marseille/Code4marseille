@@ -1,0 +1,396 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6161185,
+  "nom" : {
+    "libelleFr" : "Graffiti et street art, (Famille)"
+  },
+  "identifier" : "SITRA2_EVE_6161185",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-07T22:15:24.719+0000",
+    "dateModification" : "2022-11-08T09:25:20.798+0000",
+    "dateExportModification" : "2022-11-08T23:14:42.783+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100163788,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 100163789,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Au Cours Julien, l'art est dans la rue ! Alexandra propose un parcours à faire en famille pour découvrir cette pratique artistique qu'est l'art urbain.\n\nOuvrez l'oeil, amusez-vous à décrypter graffiti, tags, véritables oeuvres d'art sans cesse…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites sont destinées à une clientèle individuelle. réservation possible jusqu'à 9 personnes\n\nPour les groupes à partir de 10 personnes, réservation OBLIGATOIRE auprès du services Visites Guidées groupes@marseille-tourisme.com"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Cours Julien",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nStation de métro ND du Mont Ligne 2 Ste Marguerite Dromel- Bougainville"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383830, 43.292700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nPrérequis :\nEnfants de 6 à 12 ans\nInformations importantes :\nAnimaux non autorisés (sauf chiens d'assistance).\n\nParcours en extérieur.\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant la visite parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui)."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716906,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716906
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "\nNon compris : Entrées aux sites et musées."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Entrées aux sites et musées"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915495,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993368,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/graffiti-et-street-art"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813356,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/233/15198621.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/233/15198621-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/233/15198621-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/233/15198621-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f71deca4d60f362660674-cropped600-400",
+      "taille" : 119866,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:24.653+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813357,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/233/15198622.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/233/15198622-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/233/15198622-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/233/15198622-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f74569e3dafb211592945-cropped600-400",
+      "taille" : 148776,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:23.880+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813358,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/233/15198623.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/233/15198623-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/233/15198623-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/233/15198623-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f7456b3c0d83342100843-cropped600-400",
+      "taille" : 142892,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:24.275+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813359,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/233/15198624.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/233/15198624-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/233/15198624-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/233/15198624-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8429ba1ec74763870356-cropped600-400",
+      "taille" : 123492,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:25.052+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813360,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Graffiti et street art, (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/233/15198625.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/233/15198625-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/233/15198625-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/233/15198625-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8429cf87efd672863787-cropped600-400",
+      "taille" : 144259,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:25.406+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.8,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 27,
+        "dateMaj" : 1667556981018
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "160069",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-172242",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

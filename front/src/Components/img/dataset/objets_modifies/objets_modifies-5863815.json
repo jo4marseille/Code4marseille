@@ -1,0 +1,377 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863815,
+  "nom" : {
+    "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+    "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+  },
+  "identifier" : "SITRA2_EVE_5863815",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-07T10:36:34.597+0000",
+    "dateModification" : "2022-11-08T09:27:12.354+0000",
+    "dateExportModification" : "2022-11-08T23:13:41.651+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816660,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+3304 90 14 70 00"
+      }
+    }, {
+      "identifiant" : 97816661,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bonjour.provence@alafrancaise.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Vous découvrirez tout au long de la journée 3 lieux incontournables en Provence : Aix en Provence, ville d'eau et d'art, Cassis et ses Calanques et Marseille, 2ème ville de France.",
+      "libelleEn" : "This full-day excursion combines 3 highlights : Aix en Provence, city of water and art, Cassis and the wild Calanques, and Marseille, the 2nd largest city in France."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Démarrez votre journée par la ville d’art et d’eau : Aix-en-Provence ! Admirez la Fontaine de la Rotonde, parcourez le célèbre Cours Mirabeau et ses demeures des 17ème et 18ème siècles, et profitez d’un temps libre pour découvrir les différents marchés de la ville, et goûter les nombreuses spécialités régionales.\n\nPrenez ensuite la direction de Marseille avec votre guide de l’équipe « A la Française » pour un tour panoramique de la ville. Visitez l’Abbaye Saint-Victor, et Notre-Dame de la Garde pour profiter d’une vue exceptionnelle sur la Cité Phocéenne.\n\nContinuez votre journée à Cassis, et découvrez le site du Cap Canaille et sa vue splendide sur la baie de Cassis. Visitez le port coloré la ville et embarquez, si vous le souhaitez, pour une croisière de 45 minutes à travers 3 Calanques (billets non inclus, possibilité d’achat sur place).\n\nSavourez un temps libre pour déjeuner (non inclus) durant la journée.",
+      "libelleEn" : "In Aix-en-Provence, walk on the Cours Mirabeau lined with 17th and 18th centuries private mansions. The old town is packed with shops, architectural and religious sites, bustling squares and refreshing fountains. Taste local specialties like Calissons, nougat or tapenade...\n\nCassis is a very ancient fishing port, walk on the harbour and stroll through the village. Appreciate the exceptional view on the bay from Cape Canaille.You will have the possibility to board on a 45-minute boat trip (ticket not included) to discover 3 Calanques, steep-walled coves with tiny harbours or beaches at the end.\n\nEnjoy a panoramic tour of the city of Marseille on the way back, including a photo stop at Notre-Dame de la Garde basilica. From this hill, enjoy an breathtaking view on the city. You will then reach Saint-Victor abbey (11th century) that keeps the entry of the Vieux-Port (Old Port).\n\nFree time for lunch (not included) on your own during the day.\n\nINFORMATION-We cannot be held responsible in the event that the boat trip is cancelled due to bad weather, or if the Crest roads and the access to Cape Canaille are closed."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "38 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nMetro arrêt = Vieux Port- Bus N° 82 et 83 - arrêt Théâtre de la Criée",
+        "libelleEn" : "\nMetro station stop = Vieux Port- Bus N° 82 and 83 - stops Théâtre de la Criée"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367380, 43.292400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRendez-vous devant l'hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).",
+      "libelleEn" : "\nImportant information:\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).\n\nPlease be ready 10 minutes before the departure of the tour."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716860,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716860
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Individual ticket : 130,00 EUR",
+      "libelleEn" : "Individual ticket : 130,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Transport en minibus climatisé avec chauffeur\nDégustation de produits locaux\nNon compris : Le Déjeuner\nLes entrées aux sites et monuments \nLes tickets pour la croisière dans les Calanques",
+      "libelleEn" : "Included: Transportation with an 8 seater air-conditionned minivan with a driver/guide\n\nTasting of local specialties\nNot included: Lunch\n\nEntrance fees to the monuments\n\nTickets for the Calanques cruise"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915453,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5236755
+      },
+      "nom" : "Tylène Transport Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993238,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/a-taste-of-aix-en-provence-marseille-and-cassis"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813230,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "legende" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "copyright" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/233/15198495.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/233/15198495-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/233/15198495-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/233/15198495-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e33fb2d59e074918892-cropped600-400-dpl-5e612ed90d0df",
+      "taille" : 85521,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:13.543+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813231,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "legende" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "copyright" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/233/15198496.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/233/15198496-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/233/15198496-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/233/15198496-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e34bb7fcf9194275733-cropped600-400-dpl-5e612ed93ee0c",
+      "taille" : 113202,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:14.195+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813232,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "legende" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "copyright" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/233/15198497.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/233/15198497-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/233/15198497-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/233/15198497-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e34d8b9e6a590729813-cropped600-400-dpl-5e612ed96b415",
+      "taille" : 80499,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:14.501+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813233,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "legende" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "copyright" : {
+      "libelleFr" : "Découverte d'Aix en Provence, Marseille et Cassis M11",
+      "libelleEn" : "A taste of Aix en Provence, Marseille and Cassis M11"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/233/15198498.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/233/15198498-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/233/15198498-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/233/15198498-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e34fb50193055364639-cropped600-400-dpl-5e612ed997ff6",
+      "taille" : 68646,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:13.815+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144578",
+        "product_supplier_id" : "32302",
+        "sku" : "T-TY50-155363",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

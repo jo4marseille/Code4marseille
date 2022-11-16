@@ -1,0 +1,188 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223007,
+  "nom" : {
+    "libelleFr" : "Musée Cantini",
+    "libelleEn" : "Musée Cantini (art museum)",
+    "libelleEs" : "Musée Cantini",
+    "libelleIt" : "Museo Cantini",
+    "libelleDe" : "Musée Cantini",
+    "libelleNl" : "Musée Cantini"
+  },
+  "identifier" : "SITRA2_STR_5223007",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:46:45.509+0000",
+    "dateModification" : "2022-08-30T09:27:02.515+0000",
+    "dateExportModification" : "2022-10-20T05:21:15.470+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512624,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 54 77 75"
+      }
+    }, {
+      "identifiant" : 70512625,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 58 21"
+      }
+    }, {
+      "identifiant" : 70512626,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 03 61"
+      }
+    }, {
+      "identifiant" : 70512627,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "dgac-musee-cantini@marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512628,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "irivoire@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512629,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fleroy@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512630,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://culture.marseille.fr/node/613"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "19 Rue Grignan",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.378129, 43.292379 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21239938,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MIGLIETTI",
+    "prenom" : "Claude",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 102727272,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "cmiglietti@marseille.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

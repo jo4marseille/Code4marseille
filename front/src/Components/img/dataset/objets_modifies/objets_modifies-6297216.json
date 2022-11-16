@@ -1,0 +1,303 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6297216,
+  "nom" : {
+    "libelleFr" : "Veille infinie",
+    "libelleEn" : "Veille infinie",
+    "libelleEs" : "Veille infinie",
+    "libelleIt" : "Veille infinie",
+    "libelleDe" : "Veille infinie",
+    "libelleNl" : "Veille infinie",
+    "libelleRu" : "Veille infinie",
+    "libelleZh" : "Veille infinie",
+    "libellePtBR" : "Veille infinie",
+    "libelleJa" : "Veille infinie"
+  },
+  "identifier" : "SITRA2_EVE_6297216",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T14:12:03.686+0000",
+    "dateModification" : "2022-11-03T15:53:32.569+0000",
+    "dateExportModification" : "2022-11-03T15:53:32.756+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77076913,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.3bisf.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468112
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Donatien Aubert propose une installation immersive avec vidéo-projections et expérience en réalité virtuelle à partir d’un travail sur l’hyperconnexion et l’injonction sous-jacente, par appareils connectés interposés, à être joignable tout le temps.",
+      "libelleEn" : "Infinite Watchfulness is an immersive, video and plastic installation conceived for various digital devices (virtual reality, CGI and animation, computer assisted design)."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Veille infinie est une installation immersive, vidéo et plastique intégrant plusieurs technologies (réalité virtuelle, images de synthèse et animation, fabrication assistée par ordinateur).\r\n\r\nL’œuvre questionne des thématiques au cœur des débats publics actuels concernant les sociétés numériques : la souveraineté des données, l’économie cognitive, le profilage et la légalité des techniques le permettant. L’hyperconnexion aux réseaux de l’information a instauré une nouvelle norme : nous avons la responsabilité d’être disponibles à tout moment. Un temps de nos vies habituellement “improductif”, la nuit, est grignotée par des logiques utilitaires et marchandes. Nos rapports au travail, aux loisirs et à la sexualité en ressortent transformés car désormais soumis au calcul.\r\n\r\nVernissage de l’exposition le 12 novembre à 11h.",
+      "libelleEn" : "The artwork questions themes that structure the public debate concerning digital societies today: the question of data sovereignty, the cognitive economy, the legality of attentional capture and profiling techniques. Hyperconnection to information networks has introduced a new normativity: we have the responsibility to be available at all times. A time of our lives that is usually “unproductive”, the night, is nibbled away by utilitarian and commercial rationales. Our relationships to work, leisure and sexuality are thus transformed, as they are now subject to computing.\r\n\r\nOpening of the exhibition on November 12th at 11am"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "3 bis f, lieu d'arts contemporains",
+      "adresse1" : "Hôpital Montperrin",
+      "adresse2" : "109 Avenue Du Petit Barthélémy",
+      "codePostal" : "13617",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.440408, 43.520936 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5484537
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11/2022 au 21/01/2023, tous les mardis, mercredis, jeudis, vendredis et samedis de 14h à 18h.\nNocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+      "libelleEn" : "From 11/11/2022 to 21/01/2023, every Tuesday, Wednesday, Thursday, Friday and Saturday between 2 pm and 6 pm.\nNocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm.",
+      "libelleEs" : "Del 11/11/2022 al 21/01/2023, todos los martes, miércoles, jueves, viernes y sábados de 14 a 18.",
+      "libelleIt" : "Dal 11/11/2022 al 21/01/2023, tutti i martedì, mercoledì, giovedì, venerdì e sabati dalle 14 alle 18.",
+      "libelleDe" : "Vom 11/11/2022 bis 21/01/2023, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 11/11/2022 tot en met 21/01/2023, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 11/11/2022 до 21/01/2023, каждый вторники, среды, четверги, пятницы и субботы с 14h до 18h.",
+      "libelleZh" : "从 2022年11月11日 到 2023年1月21日, 每星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 11/11/2022 a 21/01/2023, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 14h a  18h.",
+      "libelleJa" : "11/11/2022 から 21/01/2023 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24502759,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-21",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h",
+        "libelleEn" : "Nocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm."
+      },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24691076
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14750878,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Donatien Aubert"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/216/15128758.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/216/15128758-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/216/15128758-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/216/15128758-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "infiniebis",
+      "taille" : 274461,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-03T15:52:23.779+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14408753,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Donatien Aubert"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/19/14750663.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/19/14750663-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/19/14750663-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/19/14750663-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "infinie",
+      "taille" : 95675,
+      "hauteur" : 453,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-14T14:28:12.418+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14750885,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/189/216/15128765/15122555.pdf",
+      "extension" : "pdf",
+      "fileName" : "15122555",
+      "taille" : 169212,
+      "lastModifiedDate" : "2022-11-03T15:53:32.668+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2303
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "3 bis f, lieu d'arts contemporains"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-21T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,389 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466385,
+  "nom" : {
+    "libelleFr" : "Les dimanches aux musées",
+    "libelleEn" : "Sundays in museum",
+    "libelleEs" : "Les dimanches aux musées",
+    "libelleIt" : "Les dimanches aux musées",
+    "libelleDe" : "Les dimanches aux musées",
+    "libelleNl" : "Les dimanches aux musées"
+  },
+  "identifier" : "SITRA2_EVE_5466385",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:44:34.066+0000",
+    "dateModification" : "2022-03-21T13:33:17.082+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77072549,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.aixenprovence.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466384
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le premier dimanche du mois, les musées de la ville d'Aix-en-Provence sont ouverts gratuitement au public. L'occasion de (re)découvrir les collections permanentes et temporaires du patrimoine de la ville"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les musées participants sont : \r\n\r\n▶ Le musée Granet & Granet XXe (hors période d'exposition estivale)\r\n\r\n▶ Le musée du Pavillon de Vendôme\r\n\r\n▶ Le musée des Tapisseries - Palais de l'Archevêché\r\n\r\n▶ Le musée du Vieil Aix - Hôtel Estienne de Saint-Jean",
+      "libelleEn" : "The Tapestry museum, the Pavillon Vendôme, the Old Aix museum and the Granet museum open for free on the first Sunday of each month."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Granet",
+      "adresse1" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447809, 43.531532 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538194
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539049
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538995
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539372
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12, le 1er dimanche du mois.",
+      "libelleEn" : "From 01/01 to 31/12, 1st Sunday of the month.",
+      "libelleEs" : "Del 01/01 al 31/12, el 1er domingo de mes.",
+      "libelleIt" : "Dal 01/01 al 31/12, la 1° domenica del mese.",
+      "libelleDe" : "Vom 01/01 bis 31/12, jeden 1. Sonntag des Monats.",
+      "libelleNl" : "Van 01/01 tot en met 31/12, op de 1ste zondag van de maand.",
+      "libelleRu" : "С 01/01 до 31/12, 1-й воскресенье месяца.",
+      "libelleZh" : "从 1月1日 到 12月31日, 本月 于 第一天 星期日.",
+      "libellePtBR" : "De 01/01 a 31/12, as 1º domingo do mês.",
+      "libelleJa" : "01/01 から 31/12 まで, 月の1日 日曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19481676,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_MOIS",
+      "tousLesAns" : true,
+      "ouverturesJourDuMois" : [ {
+        "jourDuMois" : "D_1ER",
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22945954
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 10423379,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EV078613_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/170/10201776.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/170/10201776-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/170/10201776-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/170/10201776-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 36669,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-07-06T12:17:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10423382,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EV078613_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/170/10201779.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/170/10201779-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/170/10201779-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/170/10201779-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 22979,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-07-06T12:17:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10423385,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EV078613_3_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/170/10201782.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/170/10201782-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/170/10201782-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/170/10201782-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 32918,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-07-06T12:17:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10423388,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EV078613_4_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/170/10201785.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/170/10201785-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/170/10201785-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/170/10201785-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 28289,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-07-06T12:17:57.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-06", "2022-12-04", "2023-01-01", "2023-02-05", "2023-03-05", "2023-04-02", "2023-05-07", "2023-06-04", "2023-07-02", "2023-08-06", "2023-09-03", "2023-10-01", "2023-11-05", "2023-12-03", "2024-01-07", "2024-02-04", "2024-03-03", "2024-04-07", "2024-05-05", "2024-06-02", "2024-07-07", "2024-08-04", "2024-09-01", "2024-10-06" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Granet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV078613"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

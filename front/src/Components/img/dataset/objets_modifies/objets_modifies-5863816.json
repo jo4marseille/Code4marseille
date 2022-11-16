@@ -1,0 +1,346 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863816,
+  "nom" : {
+    "libelleFr" : "Marseille et Cassis M10",
+    "libelleEn" : "Marseille and Cassis M10"
+  },
+  "identifier" : "SITRA2_EVE_5863816",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-07T10:36:37.433+0000",
+    "dateModification" : "2022-11-08T09:24:11.122+0000",
+    "dateExportModification" : "2022-11-08T23:13:34.264+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816656,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+3304 90 14 70 00"
+      }
+    }, {
+      "identifiant" : 97816657,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bonjour.provence@alafrancaise.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découvrez Marseille et la ville de pêcheurs de Cassis",
+      "libelleEn" : "Discover the city of Marseille and the fishermen village of Cassis."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Profitez d’un tour panoramique de Marseille !\n\nDémarrez la visite de la ville par un arrêt photo à l’Abbaye Saint-Victor, datant du 11ème siècle, gardienne de l’entrée du Vieux-Port. Continuez votre visite par un tour sur la Corniche Kennedy, symbole de la bourgeoisie du 19ème siècle, et découvrez ses magnifiques demeures. Terminez votre tour marseillais par la mythique Notre-Dame de la Garde et sa vue imprenable sur la Cité Phocéenne.\n\nAprès avoir emprunté la route de la Gineste, admirez le petit village de Cassis et son charmant port de pêche. Si vous le souhaitez, vous pouvez profiter d’une croisière en mer pour explorer 3 calanques à couper le souffle. (ticket non inclus, possibilité d’achat sur place).\n\nA la Francaise Provence décline toute responsabilité en cas d’annulation de la croisière pour cause de météo défavorable, ou en cas de fermeture de la Route des Crêtes ou de l’accès au Cap Canaille.",
+      "libelleEn" : "The Gineste and the Crests roads will lead you to the outstanding site of Cape Canaille from where you will appreciate the exceptional view on the bay of Cassis and the Gardiole mountain range.Cassis is a very ancient fishing port, walk on the harbour and stroll through the village. You will have the possibility to board on a 45-minute boat trip (ticket not included) to discover 3 Calanques, steep-walled coves with tiny harbours or beaches at the end.\n\nPanoramic tour of the city of Marseille on the way back, including a photo stop at Notre-Dame de la Garde basilica. From the panoramic point of view, see the whole Phocaean city, the Frioul islands and If Castle. Drive on the Corniche Road, a symbol of holiday and outward sign of wealth for merchants and bourgeois from the 19th century who built magnificent houses with many ostentatious splendid features. You will then reach Saint-Victor abbey that keeps the entry of the Vieux-Port (Old Port).\n\nWe cannot be held responsible in the event that the boat trip is cancelled due to bad weather, or if the Crest roads and the access to Cape Canaille are closed."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "38 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nMetro arrêt = Vieux Port- Bus N° 82 et 83 - arrêt Théâtre de la Criée",
+        "libelleEn" : "\nMetro station stop = Vieux Port- Bus N° 82 and 83 - stops Théâtre de la Criée"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367380, 43.292400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRendez-vous devant l'hôtel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).",
+      "libelleEn" : "\nImportant information:\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).\n\nPlease be ready 10 minutes before the departure of the tour."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716858,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716858
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Individual Ticket : 70,00 EUR",
+      "libelleEn" : "Individual Ticket : 70,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Transport en minibus climatisé avec chauffeur\nNon compris : Les tickets pour la croisière dans les Calanques",
+      "libelleEn" : "Included: Transportation in an 8 seater air-conditioned minivan with a driver/guide.\nNot included: Ticket for the Calanques cruise in Cassis"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915451,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5236755
+      },
+      "nom" : "Tylène Transport Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993232,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/marseille-and-cassis"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813227,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/233/15198492.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/233/15198492-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/233/15198492-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/233/15198492-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e597bf1bb5583551692-cropped600-400-dpl-5e6126c094900",
+      "taille" : 83551,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:14.967+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813228,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/233/15198493.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/233/15198493-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/233/15198493-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/233/15198493-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e5a1abfa4b055179679-cropped600-400-dpl-5e6126c0d02c3",
+      "taille" : 91521,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:15.407+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813229,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille et Cassis M10",
+      "libelleEn" : "Marseille and Cassis M10"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/233/15198494.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/233/15198494-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/233/15198494-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/233/15198494-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e5ab09f9d6786499202-cropped600-400-dpl-5e6126c115142",
+      "taille" : 95003,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:14.526+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144708",
+        "product_supplier_id" : "32302",
+        "sku" : "T-TY50-155513",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

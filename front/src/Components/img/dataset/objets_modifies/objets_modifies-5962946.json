@@ -1,0 +1,238 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5962946,
+  "nom" : {
+    "libelleFr" : "Commémoration du 11 Novembre"
+  },
+  "identifier" : "SITRA2_EVE_5962946",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-09T11:38:03.135+0000",
+    "dateModification" : "2022-11-02T10:55:48.993+0000",
+    "dateExportModification" : "2022-11-02T10:55:49.566+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70519668,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 74 06"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Maillane"
+      }
+    }, {
+      "identifiant" : 70519672,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairiemaillane.fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225399
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Commémoration du 11 Novembre à Maillane."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Monsieur Le Maire et le Conseil Municipal vous invitent à participer à la cérémonie commémorative de l’armistice de 1918.\r\n\r\nRendez-vous à 11h devant la Mairie - Place de l’Eglise - pour le départ du cortège vers le monument aux morts.\r\nLa cérémonie sera suivie d'un apéritif offert par la municipalité à 12h au Centre Frédéric Mistral."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Mairie de Maillane",
+      "adresse1" : "Place de l'église",
+      "codePostal" : "13910",
+      "commune" : {
+        "id" : 4463
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.782184, 43.832109 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4463
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 11h.",
+      "libelleEn" : "Friday 11 November 2022 at 11 am.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 11.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 11.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 11 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 11.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 11h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  11h.",
+      "libelleJa" : "金曜日 11 11月 2022 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24677018,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24677018
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18776232,
+    "referent" : true,
+    "titre" : {
+      "libelleFr" : "Mairie Maillane"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 93587548,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 74 06"
+      }
+    }, {
+      "identifiant" : 93587555,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@mairiemaillane.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14724589,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CC jackmac34 - Pixabay"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/103/15099828.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/103/15099828-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/103/15099828-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/103/15099828-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DrapeauFrançais©jackmac34",
+      "taille" : 227565,
+      "hauteur" : 835,
+      "largeur" : 1280,
+      "lastModifiedDate" : "2022-11-02T10:55:49.080+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Mairie de Maillane"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

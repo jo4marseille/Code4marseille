@@ -1,0 +1,311 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309988,
+  "nom" : {
+    "libelleFr" : "La sculpture de marbre"
+  },
+  "identifier" : "SITRA2_EVE_6309988",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T14:31:21.423+0000",
+    "dateModification" : "2022-10-27T09:00:43.428+0000",
+    "dateExportModification" : "2022-10-27T09:00:44.133+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104601884,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 03"
+      }
+    }, {
+      "identifiant" : 104601885,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104601886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      }
+    }, {
+      "identifiant" : 104601887,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visitez le musée autrement... Ce dimanche la thématique porte sur \"La sculpture de marbre : statues, autels et sarcophages\" et les œuvres ne manquent pas dans les collections à ce sujet !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "STATUES, AUTELS ET SARCOPHAGES\r\nD’où venait le marbre ? Comment était-il travaillé ? Est-ce que certaines œuvres étaient réalisées dans des ateliers officiels comme à Rome, ou localement ? Nous aborderons ces questions.\r\n\r\nAlice Vallat, guide-conférencière, vous propose un regard inattendu sur les collections permanentes du musée sous forme d’une visite approfondie.\r\n\r\nInformations pratiques\r\n> Durée : 1h15\r\n> Sans réservation, en vente le jour même, dans la limite des places disponibles."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée départemental Arles antique",
+      "adresse1" : "Avenue Jean Monnet",
+      "adresse2" : "Presqu'Ile du Cirque Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616866, 43.672526 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 11 décembre 2022 de 11h à 12h15.",
+      "libelleEn" : "Sunday 11 December 2022 between 11 am and 12.15 pm.",
+      "libelleEs" : "Domingo, 11 de diciembre de 2022 de 11 a 12:15.",
+      "libelleIt" : "Domenica 11 dicembre 2022 dalle 11 alle 12:15.",
+      "libelleDe" : "Sonntag, den 11. Dezember 2022 von 11 Uhr bis 12.15 Uhr.",
+      "libelleNl" : "Zondag 11 december 2022 van 11.00 tot en met 12.15 u.",
+      "libelleRu" : "Воскресенье 11 декабря 2022  с 11h до 12h15.",
+      "libelleZh" : "2022年12月11日, 星期日   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Domingo 11 Dezembro 2022 de 11h a  12h15.",
+      "libelleJa" : "日曜日 11 12月 2022 11 午前 と 12.15 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24603993,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "12:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24603993
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 3 € (En plus du billet d'entrée au musée).\n",
+      "libelleEn" : "Full price: 3 €.\n",
+      "libelleEs" : "Tarifa completa: 3 €.\n",
+      "libelleIt" : "Tarrifa intera: 3 €.\n",
+      "libelleDe" : "Voller Preis: 3 €.\n",
+      "libelleNl" : "Vol tarief: € 3.\n",
+      "libelleRu" : "Полную цену : 3 €.\n",
+      "libelleZh" : "全额 : 3 €.\n",
+      "libellePtBR" : "Tarifa inteira: 3 €.\n",
+      "libelleJa" : "通常料金: 3 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13802864,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "En plus du billet d'entrée au musée"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21497244,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104601888,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104601889,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14582638,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Autel d'Appolon, MDAA"
+    },
+    "copyright" : {
+      "libelleFr" : "© Lionel Roux"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/12/14945499.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/12/14945499-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/12/14945499-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/12/14945499-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Autel d'Appolon",
+      "taille" : 85131,
+      "hauteur" : 653,
+      "largeur" : 879,
+      "lastModifiedDate" : "2022-10-27T09:00:43.559+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

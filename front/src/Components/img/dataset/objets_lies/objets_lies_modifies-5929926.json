@@ -1,0 +1,347 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5929926,
+  "nom" : {
+    "libelleFr" : "Fondation Lee Ufan Arles",
+    "libelleEn" : "Fondation Lee Ufan Arles",
+    "libelleEs" : "Fondation Lee Ufan Arles",
+    "libelleIt" : "Fondation Lee Ufan Arles",
+    "libelleDe" : "Fondation Lee Ufan Arles",
+    "libelleNl" : "Fondation Lee Ufan Arles",
+    "libelleRu" : "Fondation Lee Ufan Arles",
+    "libelleZh" : "Fondation Lee Ufan Arles",
+    "libellePtBR" : "Fondation Lee Ufan Arles",
+    "libelleJa" : "Fondation Lee Ufan Arles"
+  },
+  "identifier" : "SITRA2_LOI_5929926",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-28T07:41:27.463+0000",
+    "dateModification" : "2022-10-13T12:35:34.471+0000",
+    "dateExportModification" : "2022-10-19T12:30:40.240+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 98542174,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 78 07 83 26"
+      }
+    }, {
+      "identifiant" : 98359837,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@leeufan.org"
+      }
+    }, {
+      "identifiant" : 98359796,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.leeufan-arles.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5929905
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Au cœur de l’Hôtel Vernon, 1 350 m2 dévoilent sur 3 étages les œuvres du peintre et sculpteur minimaliste et incluent également une librairie et une boutique.",
+      "libelleEn" : "At the heart of the Hôtel Vernon, 1,350 m2 showcase the works of the minimalist painter and sculptor over 3 floors and also include a boutique and a bookstore."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Aménagé avec l’aide amicale de l’architecte Tadao Ando, qui a déjà signé le premier musée Lee Ufan sur l’île japonaise de Naoshima en 2010, ce projet s’inscrit dans une dynamique forte du territoire et renforce l’offre culturelle Arlésienne déjà très riche. \r\n\r\nL’Hôtel Vernon, construit entre les XVIème et XVIIIème siècles, est un hôtel particulier composé d’un corps de logis structuré autour d’une cour intérieure. Lee Ufan Arles a pour ambition d’être un centre d’exposition visant à faire découvrir les œuvres de l’artiste, mais d’être un lieu de vie et afin de soutenir et de parrainer diverses activités artistiques et culturelles. \r\n\r\nLee Ufan Arles est le troisième lieu grand lieu de présentation de ses œuvres, après le Lee Ufan Museum de Naoshima ouvert en 2010 et l’Espace Lee Ufan du Busan Museum of Art ouvert en 2015.\r\n\r\nConditions d'accessibilité :\r\n\r\nLa Fondation Lee Ufan dispose d'un ascenseur",
+      "libelleEn" : "Arranged with the friendly help of the architect Tadao Ando, ​​who already signed the first Lee Ufan museum on the Japanese island of Naoshima in 2010, this project is part of a strong dynamic of the territory and strengthens the Arlésian cultural offer. already very rich.\r\n\r\nThe Hôtel Vernon, built between the 16th and 18th centuries, is a private mansion made up of a main building structured around an interior courtyard. Lee Ufan Arles aims to be an exhibition center aiming to showcase the artist’s works, but to be a place of life and to support and sponsor various artistic and cultural activities.\r\n\r\nLee Ufan Arles is the third major venue for exhibiting his works, after the Lee Ufan Museum in Naoshima, which opened in 2010, and the Lee Ufan Space at the Busan Museum of Art, which opened in 2015."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "5 rue Vernon",
+      "codePostal" : "13200",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.628160, 43.678028 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290328
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290327
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290322
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6295087
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 15/04 au 31/12/2022 de 10h à 18h.\nFermé le lundi.\nFermeture exceptionnelle le 25 décembre.",
+      "libelleEn" : "From 15/04 to 31/12/2022 between 10 am and 6 pm.\nClosed on Monday.\nClosed exceptionally on December 25th.",
+      "libelleEs" : "Del 15/04 al 31/12/2022 de 10 a 18.\nCerrado los lunes.\nSe cierra, excepcionalmente el 25 de diciembre.",
+      "libelleIt" : "Dal 15/04 al 31/12/2022 dalle 10 alle 18.\nChiuso il lunedì.\nChiusura eccezionale il 25 dicembre.",
+      "libelleDe" : "Vom 15/04 bis 31/12/2022 von 10 Uhr bis 18 Uhr.\nMontag geschlossen.\nAusnahmsweise geschlossen am 25. Dezember.",
+      "libelleNl" : "Van 15/04 tot en met 31/12/2022 van 10.00 tot en met 18.00 u.\nMaandag gesloten.\nBij uitzondering gesloten op 25 december.",
+      "libelleRu" : "С 15/04 до 31/12/2022 с 10h до 18h.\nНе работает понедельник.\nВ порядке исключения не работает 25 декабря.",
+      "libelleZh" : "从 4月15日 到 2022年12月31日 小时小时 和 小时小时 之间.\n星期一 关闭.\n在 12月25日 例外关闭.",
+      "libellePtBR" : "De 15/04 a 31/12/2022 de 10h a  18h.\nFechado em segunda-feira.\nFechamento excepcional em 25 de dezembro.",
+      "libelleJa" : "15/04 から 31/12/2022 まで 10 午前 と 6 午後 の間.\n月曜日 は休み.\n12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23075176,
+      "dateDebut" : "2022-04-15",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24491908
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : de 0 à 8 € (Tarif plein : 8 €\r\nTarif réduit* : 5 €\r\nTarif étudiants** : 3 €\r\nGratuit : moins de 18 ans, bénéficiaires des minimas sociaux, personnes handicapées, conservateurs\r\nde musées, détenteurs des cartes ICOM, guides-conférenciers et journalistes.\r\n* Bénéficiaires du tarif réduit : les seniors à partir de 65 ans, les demandeurs d’emploi, les titulaires de la carte famille\r\n nombreuse, les membres de la maison des artistes, les détenteurs des Pass de la ville d’Arles et des cartes Cezam.\r\n** Bénéficiaires du tarif étudiants : les étudiants de moins de 26 ans.\r\nLes réductions seront attribuées sur présentation d’un justificatif de moins de 3 mois).\n",
+      "libelleEn" : "Adult: 0 to 8 €.\n",
+      "libelleEs" : "Adulto: de 0 a 8 €.\n",
+      "libelleIt" : "Adulto: da 0 a 8 €.\n",
+      "libelleDe" : "Erwachsene: von 0 bis 8 €.\n",
+      "libelleNl" : "Volwassene: € 0 tot en met € 8.\n",
+      "libelleRu" : "Взрослый : с 0 до  8 €.\n",
+      "libelleZh" : "成人 : 从 0 到  8 €.\n",
+      "libellePtBR" : "Adulto: de 0 a 8 €.\n",
+      "libelleJa" : "大人: 0 から 8 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13115675,
+      "dateDebut" : "2022-04-15",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 0.00,
+        "maximum" : 8.00,
+        "precisionTarif" : {
+          "libelleFr" : "Tarif plein : 8 €\r\nTarif réduit* : 5 €\r\nTarif étudiants** : 3 €\r\nGratuit : moins de 18 ans, bénéficiaires des minimas sociaux, personnes handicapées, conservateurs\r\nde musées, détenteurs des cartes ICOM, guides-conférenciers et journalistes.\r\n* Bénéficiaires du tarif réduit : les seniors à partir de 65 ans, les demandeurs d’emploi, les titulaires de la carte famille\r\n nombreuse, les membres de la maison des artistes, les détenteurs des Pass de la ville d’Arles et des cartes Cezam.\r\n** Bénéficiaires du tarif étudiants : les étudiants de moins de 26 ans.\r\nLes réductions seront attribuées sur présentation d’un justificatif de moins de 3 mois"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1717
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16646
+  }, {
+    "id" : 16775
+  }, {
+    "id" : 23500
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14386227,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Lee Ufan"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/170/14723692.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/170/14723692-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/170/14723692-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/170/14723692-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/170/14723692-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Visuel Lee Ufan Arles",
+      "taille" : 673955,
+      "hauteur" : 2000,
+      "largeur" : 3000,
+      "lastModifiedDate" : "2022-10-13T12:35:34.602+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3207
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3345
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { }
+}

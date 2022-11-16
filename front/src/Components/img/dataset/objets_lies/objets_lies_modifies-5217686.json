@@ -1,0 +1,210 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5217686,
+  "nom" : {
+    "libelleFr" : "C2 Hôtel",
+    "libelleEn" : "C2 Hôtel",
+    "libelleIt" : "C2 Hôtel",
+    "libelleDe" : "C2 Hôtel",
+    "libelleNl" : "C2 Hôtel"
+  },
+  "identifier" : "SITRA2_STR_5217686",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-03-29T14:25:54.097+0000",
+    "dateModification" : "2022-08-23T11:15:15.197+0000",
+    "dateExportModification" : "2022-08-23T11:15:31.376+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70461968,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 95 05 13 13"
+      }
+    }, {
+      "identifiant" : 70461969,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 53 51 43 62"
+      }
+    }, {
+      "identifiant" : 70461970,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 95 05 13 32"
+      }
+    }, {
+      "identifiant" : 70461971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@c2-hotel.com"
+      }
+    }, {
+      "identifiant" : 70461972,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "delphine.clemente@c2-hotel.com"
+      }
+    }, {
+      "identifiant" : 70461973,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://c2-hotel.com"
+      }
+    }, {
+      "identifiant" : 70461974,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://hotels.marseille-tourisme.com/fr/hebergements/a785491/hotel-c2/details"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "791 413 065",
+      "codeApeNaf" : "5510Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "48 Rue Roux de Brignoles",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.373242, 43.289717 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21215819,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "JOULE",
+    "prenom" : "Fanny",
+    "titre" : {
+      "libelleFr" : "Responsable commerciale"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 463
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102514258,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sales@c2-hotel.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21215820,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "LEFEVRE",
+    "prenom" : "Christian",
+    "titre" : {
+      "libelleFr" : "Directeur général"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102514280,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ch.lefevre@club.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

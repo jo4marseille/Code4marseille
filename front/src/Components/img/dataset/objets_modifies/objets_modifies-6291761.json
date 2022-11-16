@@ -1,0 +1,306 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291761,
+  "nom" : {
+    "libelleFr" : "La recherche sur le fleuve au féminin : Speed-dating géant avec des chercheuses"
+  },
+  "identifier" : "SITRA2_EVE_6291761",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-11T07:44:46.938+0000",
+    "dateModification" : "2022-10-14T06:56:36.312+0000",
+    "dateExportModification" : "2022-10-14T06:56:36.826+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104028574,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 98 49 09"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation"
+      }
+    }, {
+      "identifiant" : 104028575,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@xn--dpartement13-beb.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation au téléphone"
+      }
+    }, {
+      "identifiant" : 104028576,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation au téléphone"
+      }
+    }, {
+      "identifiant" : 104028577,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://fr-fr.facebook.com/museedepartementalarlesantique/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation au téléphone"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Speed-dating géant avec des chercheuses !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Venez à la rencontre des chercheuses qui travaillent sur le fleuve. Vous aurez l'occasion de découvrir les différents enjeux sur lesquels travaillent ces scientifiques et vous pourrez leur poser toutes les questions que vous souhaitez sur leur métier lors d'un speed-dating géant! Cet évènement s'adresse à toute personne, à partir de 15 ans, désireuse d'en apprendre davantage sur les métiers scientifiques du fleuve et récolter aussi des idées d'orientation professionnelles. \r\n\r\nLe programme détaillé sera bientôt disponible sur le site : https://www.cpierpa.fr/"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée départemental Arles antique",
+      "adresse1" : "Avenue Jean Monnet",
+      "adresse2" : "Presqu'Ile du Cirque Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616866, 43.672526 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 de 17h à 20h15.",
+      "libelleEn" : "Thursday 10 November 2022 between 5 pm and 8.15 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 de 17 a 20:15.",
+      "libelleIt" : "Giovedì 10 novembre 2022 dalle 17 alle 20:15.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 von 17 Uhr bis 20.15 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 van 17.00 tot en met 20.15 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  с 17h до 20h15.",
+      "libelleZh" : "2022年11月10日, 星期四   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 de 17h a  20h15.",
+      "libelleJa" : "木曜日 10 11月 2022 5 午後 と 8.15 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24470293,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "20:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24470293
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21410814,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104028578,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104028579,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14362444,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Rhône"
+    },
+    "copyright" : {
+      "libelleFr" : "MDAA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/67/14697373.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/67/14697373-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/67/14697373-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/67/14697373-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "RhÃ´ne",
+      "taille" : 82072,
+      "hauteur" : 341,
+      "largeur" : 512,
+      "lastModifiedDate" : "2022-10-14T06:56:36.436+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,340 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539487,
+  "nom" : {
+    "libelleFr" : "Musée du Santon ( coll.privée M.Carbonel )",
+    "libelleEn" : "Musée du Santon ( coll.privée M.Carbonel )",
+    "libelleEs" : "Musée du Santon ( coll.privée M.Carbonel )",
+    "libelleIt" : "Musée du Santon ( coll.privée M.Carbonel )",
+    "libelleDe" : "Musée du Santon ( coll.privée M.Carbonel )",
+    "libelleNl" : "Musée du Santon ( coll.privée M.Carbonel )"
+  },
+  "identifier" : "SITRA2_PCU_5539487",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T15:14:35.968+0000",
+    "dateModification" : "2022-05-02T07:50:12.354+0000",
+    "dateExportModification" : "2022-09-19T09:33:08.511+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79675229,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 13 61 36"
+      }
+    }, {
+      "identifiant" : 79675230,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "infomc@santonsmarcelcarbonel.com"
+      }
+    }, {
+      "identifiant" : 96896119,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marcelcarbonel.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222838
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nos santons sont en argile cuite, ils sont estampés et décorés à la main. Chaque sujet est unique : il est le fruit d'une élaboration entièrement artisanale.",
+      "libelleEn" : "Our santons are  made of  fired clay, they  are  stamped and decorated  by  hands. Every  figure of  clay  is unique: it is the result  of an entirely traditional production process."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La totalité de notre production sort de notre atelier, sis à Marseille, en Provence. Nous accueillons groupes et particulier pour des visites de nos ateliers et de notre musée. Les visites ont lieu toute l'année le mardi et le jeudi à 14h30 et nous pouvons recevoir jusqu'à 30 personnes par groupe. Ces visites sont guidées, gratuites, durent environ 45 minutes. Elles comprennent : l'explication des étapes de fabrication dans les ateliers, la projection d'une vidéo dans le musée et un passage dans notre boutique.\r\nSurface de l'exposition permanente : 60\r\nSurface de l'exposition temporaire : 0",
+      "libelleEn" : "All of our  production comes from our workshop, in Marseille, in Provence. We  welcome  groups and individuals for  worshop and museum visits take place all year long, tuesday  and thursday at  2.30 PM. They  can  welcome a party of  30 people at  a time. This guided tour  are free and will last 45 minutes. Including  an explanation of manufacturing  steps and video  screening in the museum and ended up in our  shop.\r\nExhibition permanrent surface: 60\r\nTemporary   exhibition: 0"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "49 Rue Neuve Sainte-Catherine",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Vieux-Port : Station de métro à 1km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366980, 43.291550 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3976
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Abbaye St-Victor)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Fermé temporairement.",
+      "libelleEn" : "Closed temporarily.",
+      "libelleEs" : "Cerrado temporalmente.",
+      "libelleIt" : "Temporaneamente chiusa.",
+      "libelleDe" : "Vorübergehend geschlossen.",
+      "libelleNl" : "Tijdelijk gesloten.",
+      "libelleRu" : "Учреждение временно не работает.",
+      "libelleZh" : "机构暂时关闭.",
+      "libellePtBR" : "Fechado temporariamente.",
+      "libelleJa" : "一時閉鎖中."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "fermeTemporairement" : "FERME_TEMPORAIREMENT"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16636
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17644281,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "VITALI",
+    "prenom" : "Baptiste",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90334301,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 18 46 58 82"
+      }
+    }, {
+      "identifiant" : 90334302,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bvitali@marcelcarbonel.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10468495,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Crèche diorama de M. Carbonel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/133/10257665.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/133/10257665-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/133/10257665-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/133/10257665-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 22190,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2021-07-12T13:13:01.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10468493,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/132/10257663.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/132/10257663-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/132/10257663-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/132/10257663-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 13834,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2021-07-12T13:13:01.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 1,
+    "capaciteMaxAccueil" : 30
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3453
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3225
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000699"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

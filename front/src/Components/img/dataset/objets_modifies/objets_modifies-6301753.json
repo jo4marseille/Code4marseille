@@ -1,0 +1,459 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6301753,
+  "nom" : {
+    "libelleFr" : "Exposition Hommage"
+  },
+  "identifier" : "SITRA2_EVE_6301753",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-18T12:08:40.812+0000",
+    "dateModification" : "2022-10-18T12:25:57.434+0000",
+    "dateExportModification" : "2022-10-18T12:26:17.948+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Trets",
+      "dateCreation" : "2020-10-19T07:00:50.696+0000",
+      "dateModification" : "2022-10-24T08:49:45.505+0000",
+      "id" : 2110,
+      "siteWeb" : "http://trets.fr"
+    },
+    "signalerUnProblemeMails" : [ "regie.tourisme@ville-de-trets.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77077429,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 23 78"
+      }
+    }, {
+      "identifiant" : 77077430,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-de-trets.fr"
+      }
+    }, {
+      "identifiant" : 77077431,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://trets.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468255
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition hommage:\r\n- Hélène ALOYAN \r\n- Jacques PELLEGRIN \r\n- Alain CEZARD\r\nVenez nombreux rendre hommage aux artistes tretsois et soutenir l'association \"Sauver Jade, Veyrier, Un espoir pour tous\"."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Certaines œuvres seront mises en vente au profit de l'association \"Sauver Jade Veyrier, Un espoir pour tous\"."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Château des Remparts",
+      "adresse1" : "Boulevard Etienne Boyer",
+      "codePostal" : "13530",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4521
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.685447, 43.445551 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4521
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 08/11 au 17/11/2022, tous les mardis, mercredis, jeudis, vendredis et samedis.\nDu mardi au vendredi de 9h30 à 12h et de 14h30 à 17h.\r\nOuverture exceptionnelle les samedis 5 et 12 novembre.\r\nFermée les lundis et le vendredi 11 novembre.\r\nVernissage le vendredi 04 novembre à 18h30.",
+      "libelleEn" : "From 08/11 to 17/11/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 08/11 al 17/11/2022, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 08/11 al 17/11/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 08/11 bis 17/11/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 08/11 tot en met 17/11/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 08/11 до 17/11/2022, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 11月8日 到 2022年11月17日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 08/11 a 17/11/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "08/11 から 17/11/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24525464,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-17",
+      "complementHoraire" : {
+        "libelleFr" : "Du mardi au vendredi de 9h30 à 12h et de 14h30 à 17h.\r\nOuverture exceptionnelle les samedis 5 et 12 novembre.\r\nFermée les lundis et le vendredi 11 novembre.\r\nVernissage le vendredi 04 novembre à 18h30."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24525464
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14443926,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Mairie de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/180/14791903.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/180/14791903-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/180/14791903-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/180/14791903-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "EXPOSITION HOMMAGE CEZARD PELLEGRIN ALOYAN TRETS 2022(2)",
+      "taille" : 491509,
+      "hauteur" : 2245,
+      "largeur" : 1587,
+      "lastModifiedDate" : "2022-10-18T12:26:00.063+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443949,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jacques Pellegrin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/180/14791922.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/180/14791922-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/180/14791922-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/180/14791922-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/180/14791922-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Pellegrin 2020 - AST Ferry Boat 60x60cm 3",
+      "taille" : 1830889,
+      "hauteur" : 2696,
+      "largeur" : 2696,
+      "lastModifiedDate" : "2022-10-18T12:26:09.318+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443940,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Hélène Aloyan"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/180/14791917.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/180/14791917-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/180/14791917-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/180/14791917-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Visuel Hélène Aloyan",
+      "taille" : 652618,
+      "hauteur" : 1080,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2022-10-18T12:25:59.534+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443991,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jacques Pellegrin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/181/14791963.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/181/14791963-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/181/14791963-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/181/14791963-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/181/14791963-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "2005-L'espagnole",
+      "taille" : 2266992,
+      "hauteur" : 2598,
+      "largeur" : 1987,
+      "lastModifiedDate" : "2022-10-18T12:26:14.221+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443961,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Alain Cézard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/180/14791934.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/180/14791934-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/180/14791934-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/180/14791934-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/180/14791934-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Cézard IMG_20221007_152016",
+      "taille" : 3447086,
+      "hauteur" : 4160,
+      "largeur" : 3120,
+      "lastModifiedDate" : "2022-10-18T12:26:15.558+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443938,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Hélène Aloyan"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/180/14791915.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/180/14791915-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/180/14791915-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/180/14791915-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Visuel 2 Hélène Aloyan",
+      "taille" : 526263,
+      "hauteur" : 1080,
+      "largeur" : 1629,
+      "lastModifiedDate" : "2022-10-18T12:26:05.670+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443971,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Alain Cézard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/8/181/14791944.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/8/181/14791944-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/8/181/14791944-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/8/181/14791944-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/8/181/14791944-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Cézard IMG_20221007_152422",
+      "taille" : 3679400,
+      "hauteur" : 4160,
+      "largeur" : 3120,
+      "lastModifiedDate" : "2022-10-18T12:25:57.592+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443995,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jacques Pellegrin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/181/14791967.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/181/14791967-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/181/14791967-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/181/14791967-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/181/14791967-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "2017 AST Parisienne 60x60cm",
+      "taille" : 4822160,
+      "hauteur" : 2635,
+      "largeur" : 2624,
+      "lastModifiedDate" : "2022-10-18T12:26:06.279+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443974,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Alain Cézard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/181/14791947.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/181/14791947-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/181/14791947-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/181/14791947-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/181/14791947-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Cézard IMG_20221007_152617",
+      "taille" : 4579787,
+      "hauteur" : 3120,
+      "largeur" : 4160,
+      "lastModifiedDate" : "2022-10-18T12:26:01.039+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443998,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jacques Pellegrin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/181/14791970.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/181/14791970-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/181/14791970-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/181/14791970-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/181/14791970-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Entre 2000 et 2016 ASC 40x60cm Chats sur les toits",
+      "taille" : 2595242,
+      "hauteur" : 3072,
+      "largeur" : 2064,
+      "lastModifiedDate" : "2022-10-18T12:26:11.470+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14443999,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jacques Pellegrin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/181/14791971.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/181/14791971-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/181/14791971-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/181/14791971-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Entre 2009 et 2017 -  33x41cm AST",
+      "taille" : 2646214,
+      "hauteur" : 2176,
+      "largeur" : 1824,
+      "lastModifiedDate" : "2022-10-18T12:26:03.706+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5754
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2156
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Château des Remparts"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-17T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

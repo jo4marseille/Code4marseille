@@ -1,0 +1,266 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6138567,
+  "nom" : {
+    "libelleFr" : "Visite des Jardins de la Bastide Marin"
+  },
+  "identifier" : "SITRA2_EVE_6138567",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-17T13:08:11.887+0000",
+    "dateModification" : "2022-11-04T15:27:15.096+0000",
+    "dateExportModification" : "2022-11-04T15:27:15.300+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70514248,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 65 27 84 39"
+      }
+    }, {
+      "identifiant" : 70514249,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bastide.marin13600@gmail.com"
+      }
+    }, {
+      "identifiant" : 70514250,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.bastide-marin.eu"
+      }
+    }, {
+      "identifiant" : 99484502,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/bastide.marin"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223609
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les jardins de la Bastide Marin surprennent chaque visiteur de par leur étendue et leur diversité. Ambiance bucolique et évasion garantie au cœur de La Ciotat."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L'écrin naturel de la Bastide Marin, monument historique, révèle quatre siècles d'histoire. Des arbres séculaires et des jardins gardiens de secrets anciens : une vigne pédagogique de 14 cépages, une oliveraie, un jardin des saveurs, un potager médiéval Hortus du Matrimoine, un jardin magique et médicinal, des terres en jachères pour la biodiversité. Au cœur des jardins, des espaces sont dédiés au repos et à la méditation et sont en harmonie avec la majestueuse bastide si longtemps hospitalière."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Bastide Marin",
+      "adresse1" : "1943 Avenue Guillaume Dulac",
+      "codePostal" : "13600",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.619064, 43.199911 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    } ],
+    "nombrePersonnesMinimum" : 10
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les mercredis et samedis.\nLe mercredi de 13h30 à 17h\r\nLe samedi de 9h30 à 12h.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Wednesday and Saturday.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los miércoles y sábados.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i mercoledì e sabati.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Mittwoch und Samstag.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke woensdag en zaterdag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый среды и субботы.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期三 和 星期六.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as quartas-feiras e sábados.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎水曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24226805,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Le mercredi de 13h30 à 17h\r\nLe samedi de 9h30 à 12h"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24700107
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit pour les moins de 3 ans.\n\nAdultes et enfants (à partir de 3 ans) : \r\nEntrée : 2€\r\nVisite guidée : 5€\r\n\r\nGroupes (à partir de 10 personnes) : 4€ / personne.",
+      "libelleEn" : "Free entry for children < 3 years.",
+      "libelleEs" : "Gratuito para los niños menores de 3 años.",
+      "libelleIt" : "Gratuito per i bambini di età inferiore a 3 anni.",
+      "libelleDe" : "Kostenlos für Kinder unter 3 Jahren.",
+      "libelleNl" : "Gratis voor kinderen onder de 3 jaar.",
+      "libelleRu" : "Бесплатно для лицам младше 3 лет.",
+      "libelleZh" : "儿童 < 3 岁自由进入.",
+      "libellePtBR" : "Gratuito para menores de 3 anos.",
+      "libelleJa" : "子供 < 3 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adultes et enfants (à partir de 3 ans) : \r\nEntrée : 2€\r\nVisite guidée : 5€\r\n\r\nGroupes (à partir de 10 personnes) : 4€ / personne"
+    },
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 3
+    }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13055973,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Les Jardins de la Bastide Marin"
+    },
+    "legende" : {
+      "libelleFr" : "Les Jardins de la Bastide Marin"
+    },
+    "copyright" : {
+      "libelleFr" : "officedetourismedelaciotat"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/3/13239093.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/3/13239093-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/3/13239093-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/3/13239093-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Bastide Marin",
+      "taille" : 4521530,
+      "hauteur" : 1934,
+      "largeur" : 2502,
+      "lastModifiedDate" : "2022-05-17T13:50:32.975+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "datesOuverture" : [ "2022-11-05", "2022-11-09", "2022-11-12", "2022-11-16", "2022-11-19", "2022-11-23", "2022-11-26", "2022-11-30", "2022-12-03", "2022-12-07", "2022-12-10", "2022-12-14", "2022-12-17", "2022-12-21", "2022-12-24", "2022-12-28", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1966
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2188
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Bastide Marin"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

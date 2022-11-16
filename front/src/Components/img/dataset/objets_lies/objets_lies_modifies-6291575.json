@@ -1,0 +1,254 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291575,
+  "nom" : {
+    "libelleFr" : "Carrousel de moutons"
+  },
+  "identifier" : "SITRA2_EVE_6291575",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T15:29:22.107+0000",
+    "dateModification" : "2022-10-11T10:32:27.336+0000",
+    "dateExportModification" : "2022-10-17T14:27:16.539+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 95631561,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 98 88"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6009224
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cirque de l’instant présent : un balai pour trapèze, un piano-acrobate, d’innombrables moutons, étrange frégate… Un corps-chapiteau, pensée tissée d’étoiles. La piste se dévoile… Un spectacle jeune public à partir de 5 ans"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Des milliers de moutons la dévalent. Le Carrousel des Moutons, c’est voir les yeux grand fermés, s’enrouler dans la nuit noire pour ne plus veiller. Dirque et Fien aux pays des merveilles et l’impossible devient réel. C’est un spectacle qui noue le temps d’un drap soyeux, avec le rebondissement d’une balle. C’est la spontanéité du théâtre de rue, c’est la puissance du cirque, revenu à son essence… Le Carrousel des moutons, c’est l’évidente nécessité d’une simple boîte à musique. Un spectacle sans mots … qui laisse sans voix."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Manufacture - Amphithéâtre",
+      "adresse1" : "Cité du Livre",
+      "adresse2" : "8-10 Rue Des Allumettes",
+      "codePostal" : "13090",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439215, 43.524311 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 6009203
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 60,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 23 novembre 2022 à 15h.",
+      "libelleEn" : "Wednesday 23 November 2022 at 3 pm.",
+      "libelleEs" : "Miércoles, 23 de noviembre de 2022 a 15.",
+      "libelleIt" : "Mercoledì 23 novembre 2022 alle 15.",
+      "libelleDe" : "Mittwoch, den 23. November 2022 um 15 Uhr.",
+      "libelleNl" : "Woensdag 23 november 2022 om 15.00 u.",
+      "libelleRu" : "Среда 23 ноября 2022  до 15h.",
+      "libelleZh" : "2022年11月23日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 23 Novembro 2022 para  15h.",
+      "libelleJa" : "水曜日 23 11月 2022 3 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24467888,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "15:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24473127
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Dans la limite des places disponibles.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "dans la limite des places disponibles"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14357361,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Manufacture"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/45/14691671.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/45/14691671-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/45/14691671-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/45/14691671-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "caroussel",
+      "taille" : 238273,
+      "hauteur" : 599,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-10T15:39:42.917+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2147
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "La Manufacture - Amphithéâtre"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,123 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5464863,
+  "nom" : {
+    "libelleFr" : "L'Embobineuse",
+    "libelleEn" : "L'Embobineuse",
+    "libelleIt" : "L'Embobineuse",
+    "libelleDe" : "L'Embobineuse",
+    "libelleNl" : "L'Embobineuse"
+  },
+  "identifier" : "SITRA2_STR_5464863",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-03T20:06:52.603+0000",
+    "dateModification" : "2021-08-10T10:11:30.557+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77040102,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 50 66 09"
+      }
+    }, {
+      "identifiant" : 77040103,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lembobineuse.biz"
+      }
+    }, {
+      "identifiant" : 77040105,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lembobineuse.biz"
+      }
+    }, {
+      "identifiant" : 87524593,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/lembobineuse.biz"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "11 Boulevard Bouès",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383130, 43.311220 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

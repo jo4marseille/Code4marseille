@@ -1,0 +1,400 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863142,
+  "nom" : {
+    "libelleFr" : "Malmousque, et petits ports de la Corniche",
+    "libelleEn" : "Malmousque, charming harbour of the centre"
+  },
+  "identifier" : "SITRA2_EVE_5863142",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-06T15:25:04.480+0000",
+    "dateModification" : "2022-11-08T09:23:45.958+0000",
+    "dateExportModification" : "2022-11-08T23:14:06.785+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816732,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 97816733,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Randonnée urbaine entre terre et mer le long de la Corniche.\n\nPartez à la découverte de ce magnifique « balcon sur la mer ».\n\nRetrouverez l’histoire de sa création, sa construction au XIX siècle: belles villas, décors de rocailles, petits ports...",
+      "libelleEn" : "Discover the typical Marseille way of life in this former fishing district and wander aimlessly through the little streets always leading to the sea..."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "visites guidées sont destinées à la clientèle individuelle (réservation possible jusqu'à 9 personnes max).Pour les GROUPES (à partir de 10 personnes) : la réservation est OBLIGATOIRE auprès de notre Service Groupes : groupes@marseille-tourisme.com",
+      "libelleEn" : "From the Art Déco monument the visit follows the sea front to get to the many litlle coves bordering the city.\n\nDiscovery of the very traditional atmosphere of marseille"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Malmousque et petits ports de la Corniche \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "271 Corniche Président John Fitzgerald Kennedy",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nArrêt bus 83,arrêt Valmer. Rdv devant l'entrée du Parc",
+        "libelleEn" : "\nBus N°83 Mucem St Jean - Métro Rond Point du Prado Arrêt Vallon des Auffes"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.353950, 43.279000 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nÀ prendre avec soi :\nChaussures de marche\n\nPetite bouteille d'eau\nPrérequis :\nMarche douce de 2h30 environ\nInformations importantes :\nCette randonnée urbaine guidée sur un mode dynamique est une autre façon d'explorer la ville en longeant la Corniche entre terre et mer.Parcours de la Villa Valmer jusqu’au Monument aux Héros des Armées d’Orient.\n\nPoussettes et chiens (excepté chien d'assistance) non autorisés.\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant la visite parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui).\n\nPour pouvoir vous accueillir en toute sécurité, nos guides mettent tout en oeuvre pour le respect des règles sanitaires liées au Covid19: port du masque et visière, respect des distances et gel hydroalcoolique.",
+      "libelleEn" : "\nTo take with you:\nwalking shoes\nRequirements:\n2 hours walking tour \n\nGentle walk into the little harbours\n\nUps and downs with steps along the way\nImportant information:\nStrollers and buggies not authorised\n\nDogs not allowed (except guide dog)\n\nYour safety is our priority:\n\nWe have taken all the necessary measures to ensure your health and safetywearing of face masks is compulsory, restricted visitor numbers (in accordancewith local restrictions currently in force), and social distancing.Please note that any group activity in a public spacemay involve an increased risk of exposure to COVID-19 and theMarseille Metropolitan Convention and Visitors’ Bureau cannot be heldresponsible for the transmission of the virus. We would like to remind you that youmust comply with all local health regulations."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716878,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716878
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Prix individuel : 10,00 EUR",
+      "libelleEn" : "Prix individuel : 10,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Entrées sites/ musées",
+      "libelleEn" : "Included: Included in the 72h Pass\nNot included: Entrance fees to sites and museums not included"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915471,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993292,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/malmousque-petit-port-de-la-corniche"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16637
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813292,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "legende" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "copyright" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/233/15198557.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/233/15198557-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/233/15198557-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/233/15198557-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c2304e457051228957-cropped600-400",
+      "taille" : 109802,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:49.628+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813293,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "legende" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "copyright" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/233/15198558.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/233/15198558-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/233/15198558-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/233/15198558-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c25fcd5b8160333894-cropped600-400",
+      "taille" : 57081,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:49.111+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813294,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "legende" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "copyright" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/233/15198559.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/233/15198559-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/233/15198559-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/233/15198559-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c3ea12eff713787403-cropped600-400",
+      "taille" : 61620,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:49.363+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813295,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "legende" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "copyright" : {
+      "libelleFr" : "Malmousque, et petits ports de la Corniche",
+      "libelleEn" : "Malmousque, charming harbour of the centre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/233/15198560.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/233/15198560-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/233/15198560-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/233/15198560-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c4254f9c3802877031-cropped600-400",
+      "taille" : 83883,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:50.094+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.3,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 28,
+        "dateMaj" : 1660640536927
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "146102",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-157001",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

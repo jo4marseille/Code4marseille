@@ -1,0 +1,346 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6152419,
+  "nom" : {
+    "libelleFr" : "Fortunes/Nicolas Havette"
+  },
+  "identifier" : "SITRA2_EVE_6152419",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-30T14:48:36.069+0000",
+    "dateModification" : "2022-06-21T12:33:57.536+0000",
+    "dateExportModification" : "2022-06-21T12:33:58.432+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Communauté d'agglomération Arles Crau Camargue Montagnette (ACCM)",
+      "dateCreation" : "2020-10-27T15:36:13.685+0000",
+      "dateModification" : "2022-10-24T08:49:31.113+0000",
+      "id" : 2118
+    },
+    "signalerUnProblemeMails" : [ "e.dejean@agglo-accm.fr", "i.bindoni@agglo-accm.fr", "i.filaseta@agglo-accm.fr", "m.graziani@agglo-accm.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 99797458,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 03 52"
+      }
+    }, {
+      "identifiant" : 99797459,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 38 71"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225960
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nicolas Havette a parcouru les collections du musée, les archives municipales et des archives privées, en compagnie d'habitants de Tarascon. De ces rencontres sont nées 4 fresques, où les images se superposent, dialoguent\r\nentre elles ..."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée d’art et d’histoire de Tarascon accueille Nicolas Havette, artiste plasticien, pour la réalisation d’un projet artistique hybride, à la croisée de la performance, de la photographie et du dessin. FORTUNES est un projet participatif, qui nous offre une représentation collective, documentée et\r\nfantasmée de la ville de Tarascon, ses figures héroïques et symboliques, telles que Tartarin et la Tarasque, ou anonymes.\r\n\r\nNicolas Havette réalise en quelque sorte un travail d’anthropologue à travers\r\nla création d’une œuvre plastique collective et participative. Il amène à créer\r\ndes représentations complexes de territoires, vus et dessinés par ses propres\r\nhabitants, la perspective participative. \r\n\r\nLe temps de la réalisation d’une fresque, les participants apportent leurs images, faites pour l’occasion ou bien collectées dans leurs archives : albums de famille, téléphones portables, ou encore dans les archives municipales et autres collections officielles locales... \r\n\r\nLes images sont ensuite projetées à l’aide d’un vidéo projecteur sur les murs de l’espace préalablement peint en noir. Là, tout en dessinant les images projetées, à l’aide de craie, de pastel ou de Posca, les participants partagent leurs points de vue, leurs expériences, leurs paroles, leurs parcours...\r\n\r\nTout au long du processus, l’artiste et les participants prennent en photo ce qui\r\nest en train de se dérouler sous leurs yeux. Les fresques sont éphémères et mouvantes : seuls restent les souvenirs des moments passés ensemble et les photographies prises pendant leur réalisation !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée d'Art et d'Histoire",
+      "adresse1" : "Place Frédéric Mistral",
+      "codePostal" : "13150",
+      "bureauDistribution" : "TARASCON",
+      "commune" : {
+        "id" : 4519
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "A la descente du pont de Beaucaire, en face l'Eglise Sainte Marthe."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.657387, 43.804522 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4519
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Place du Général de Gaulle (à côté du Château))\r\nParking autocar(Boulevard Joseph Desanat (à côté du jardin public))",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 23/06 au 10/11/2022, tous les mardis, mercredis, jeudis, vendredis et samedis de 10h à 12h.\nDe 14h à 17h.",
+      "libelleEn" : "From 23/06 to 10/11/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 12 pm.",
+      "libelleEs" : "Del 23/06 al 10/11/2022, todos los martes, miércoles, jueves, viernes y sábados de 10 a 12.",
+      "libelleIt" : "Dal 23/06 al 10/11/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati dalle 10 alle 12.",
+      "libelleDe" : "Vom 23/06 bis 10/11/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 12 Uhr.",
+      "libelleNl" : "Van 23/06 tot en met 10/11/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 12.00 u.",
+      "libelleRu" : "С 23/06 до 10/11/2022, каждый вторники, среды, четверги, пятницы и субботы с 10h до 12h.",
+      "libelleZh" : "从 6月23日 到 2022年11月10日, 每星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 23/06 a 10/11/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 10h a  12h.",
+      "libelleJa" : "23/06 から 10/11/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 10 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23448042,
+      "dateDebut" : "2022-06-23",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : {
+        "libelleFr" : "de 14h à 17h"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23666002
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Entrée libre.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Entrée libre"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20823397,
+    "referent" : false,
+    "nom" : "CHATEAU CENTRE D'ART RENÉ D'ANJOU",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99797453,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 01 93"
+      }
+    }, {
+      "identifiant" : 99797454,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediation-dacpf@mairie-tarascon13.fr"
+      }
+    }, {
+      "identifiant" : 99797455,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact-chateau@mairie-tarascon13.fr"
+      }
+    }, {
+      "identifiant" : 99797456,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://chateau.tarascon.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20823398,
+    "referent" : true,
+    "nom" : "Musée d'Art et d'Histoire",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99797457,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 38 71"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13302394,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Exposition Nicolas Havette"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Tarascon"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/157/13475157.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/157/13475157-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/157/13475157-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/157/13475157-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "Exposition Fortunes ",
+      "taille" : 413432,
+      "hauteur" : 1773,
+      "largeur" : 1182,
+      "lastModifiedDate" : "2022-06-21T12:33:57.643+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6142170
+  } ],
+  "datesOuverture" : [ "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Musée d'Art et d'Histoire"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT085735"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Tarascon"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tarascon.fr"
+    }
+  } ]
+}

@@ -1,0 +1,172 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222998,
+  "nom" : {
+    "libelleFr" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+    "libelleEn" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+    "libelleEs" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+    "libelleIt" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+    "libelleDe" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+    "libelleNl" : "Syndicat Mixte Parc Marin de la Côte Bleue"
+  },
+  "identifier" : "SITRA2_STR_5222998",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:46:35.133+0000",
+    "dateModification" : "2021-10-07T13:14:02.901+0000",
+    "dateExportModification" : "2022-06-10T06:07:31.114+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Carry-le-Rouet",
+      "dateCreation" : "2020-10-01T12:13:22.314+0000",
+      "dateModification" : "2022-10-24T08:49:36.330+0000",
+      "id" : 2094,
+      "siteWeb" : "http://www.otcarrylerouet.fr"
+    },
+    "signalerUnProblemeMails" : [ "asmarangon@mairie-carrylerouet.fr", "mdominguezloza@mairie-carrylerouet.fr", "oolivierdallard@mairie-carrylerouet.fr", "scoutsouras@mairie-carrylerouet.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512605,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 45 07"
+      }
+    }, {
+      "identifiant" : 70512607,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "syndicatmixte@parcmarincotebleue.fr"
+      }
+    }, {
+      "identifiant" : 70512608,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parcmarincotebleue.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "25130220400010",
+      "codeApeNaf" : "751E"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Observatoire du Parc Marin",
+      "adresse2" : "31 Avenue Jean Bart",
+      "adresse3" : "Plage du Rouet",
+      "codePostal" : "13620",
+      "commune" : {
+        "id" : 4432
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.172687, 43.334447 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4432
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 200
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4320
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18883627,
+    "referent" : true,
+    "nom" : "Parc Marin de la Côte Bleue",
+    "moyensCommunication" : [ {
+      "identifiant" : 86835100,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 45 07"
+      }
+    }, {
+      "identifiant" : 86835101,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "syndicatmixte@parcmarincotebleue.fr"
+      }
+    }, {
+      "identifiant" : 86835102,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parcmarincotebleue.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

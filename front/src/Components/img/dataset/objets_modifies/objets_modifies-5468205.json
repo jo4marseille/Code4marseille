@@ -1,0 +1,409 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5468205,
+  "nom" : {
+    "libelleFr" : "Marché de Ferrières",
+    "libelleEn" : "Ferrières Market",
+    "libelleEs" : "Mercado de Ferrières",
+    "libelleIt" : "Marché de l'Ile",
+    "libelleDe" : "Ferrières Markt",
+    "libelleNl" : "Marché de l'Ile"
+  },
+  "identifier" : "SITRA2_EVE_5468205",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:38:48.046+0000",
+    "dateModification" : "2022-09-01T13:35:33.704+0000",
+    "dateExportModification" : "2022-10-18T12:49:22.939+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 83681512,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reglementation-administrative@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réglementation Administrative Secteur marchés d'approvisionnement"
+      }
+    }, {
+      "identifiant" : 83681511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 33 38"
+      },
+      "observation" : {
+        "libelleFr" : "Réglementation Administrative Secteur marchés d'approvisionnement"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Marché spécialisé sur les métiers de bouche et maraîchers. Retrouvez une dizaine de stands proposant des fruits et légumes de saison, fromagers et charcutiers. Idéale pour consommer local.",
+      "libelleEn" : "Market specialized in food and market gardening trades. Find around ten stands offering seasonal fruits and vegetables, cheeses and pork butchers. Ideal for eating locally.",
+      "libelleEs" : "Mercado especializado en alimentación y horticultura. Encuentre alrededor de diez puestos que ofrecen frutas y verduras de temporada, quesos y carnicerías de cerdo. Ideal para comer localmente.",
+      "libelleDe" : "Markt spezialisiert auf Lebensmittel- und Gärtnereigewerbe. Hier finden Sie rund zehn Stände mit saisonalem Obst und Gemüse, Käse und Metzgern. Ideal zum Essen vor Ort."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce marché est situé sur le quartier de Ferrières. Il a lieu les mêmes jours que le marché de Jonquières. Les deux marchés se complètent et permettent à chacun de profiter de produits de qualité.",
+      "libelleEn" : "This market is located in the Ferrières district. It takes place on the same days as the Jonquières market. The two markets complement each other and allow everyone to benefit from quality products.",
+      "libelleEs" : "Este mercado se encuentra en el distrito de Ferrières. Tiene lugar los mismos días que el mercado de Jonquières. Los dos mercados se complementan y permiten que todos se beneficien de productos de calidad.",
+      "libelleDe" : "Dieser Markt befindet sich im Stadtteil Ferrières. Es findet an den gleichen Tagen statt wie der Jonquières-Markt. Die beiden Märkte ergänzen sich und ermöglichen es jedem, von Qualitätsprodukten zu profitieren."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1599
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place des Aires",
+      "adresse1" : "Rue Colonel Fabien",
+      "codePostal" : "13500",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.057383, 43.406784 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4317
+    } ],
+    "lieu" : {
+      "id" : 15152
+    },
+    "lieuObjetTouristique" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5551689
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5472271
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : { }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les jeudis et dimanches de 8h à 13h.\n\nAnnulé en cas de mauvais temps.",
+      "libelleEn" : "All year round, every Thursday and Sunday between 8 am and 1 pm.\n\nCancelled in case of bad weather.",
+      "libelleEs" : "Todo el año, todos los jueves y domingos de 8 a 13.\n\nCancelado en caso de mal tiempo.",
+      "libelleIt" : "Tutto l'anno, tutti i giovedì e domeniche dalle 8 alle 13.\n\nAnnulato in caso di maltempo.",
+      "libelleDe" : "Ganzjährig, jeden Donnerstag und Sonntag von 8 Uhr bis 13 Uhr.\n\nStorniert bei Schlechtwetter.",
+      "libelleNl" : "Het hele jaar, elke donderdag en zondag van 8.00 tot en met 13.00 u.\n\nAfgelast in geval van slechte weeromstandigheden.",
+      "libelleRu" : "В течение всего года, каждый четверги и воскресенья с 8h до 13h.\n\nАннулируется при плохой погоде.",
+      "libelleZh" : "全年, 每星期四 和 星期日 小时小时 和 小时小时 之间.\n\n恶劣天气时取消.",
+      "libellePtBR" : "Todo o ano, todas as quintas-feiras e domingos de 8h a  13h.\n\nCancelado em caso de mau tempo.",
+      "libelleJa" : "オールシーズン, 毎木曜日 と 日曜日 8 午前 と 1 午後 の間.\n\n悪天候の場合は中止."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19977559,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24205415
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4190
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18311162,
+    "referent" : true,
+    "nom" : "Secteur marchés d'approvisionnement",
+    "prenom" : "Réglementation Administrative",
+    "titre" : {
+      "libelleFr" : "Hôtel de ville"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83661287,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 33 38"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil Réglementation administrative"
+      }
+    }, {
+      "identifiant" : 83661288,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reglementation-administrative@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil Réglementation administrative"
+      }
+    }, {
+      "identifiant" : 83661325,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 33 87"
+      },
+      "observation" : {
+        "libelleFr" : "Marc HABASTIDA (responsable Réglementation administrative)"
+      }
+    }, {
+      "identifiant" : 83661326,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marc.habastida@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Marc HABASTIDA (responsable Réglementation administrative)"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13919230,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché Ferrières"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/107/14183331.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/107/14183331-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/107/14183331-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/107/14183331-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_20220828_101617",
+      "taille" : 2685537,
+      "hauteur" : 2448,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2022-09-01T13:35:34.395+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13919231,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché Ferrières"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/107/14183332.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/107/14183332-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/107/14183332-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/107/14183332-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_20220828_101659",
+      "taille" : 3148834,
+      "hauteur" : 2448,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2022-09-01T13:35:37.344+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-10-20", "2022-10-23", "2022-10-27", "2022-10-30", "2022-11-03", "2022-11-06", "2022-11-10", "2022-11-13", "2022-11-17", "2022-11-20", "2022-11-24", "2022-11-27", "2022-12-01", "2022-12-04", "2022-12-08", "2022-12-11", "2022-12-15", "2022-12-18", "2022-12-22", "2022-12-25", "2022-12-29", "2023-01-01", "2023-01-05", "2023-01-08", "2023-01-12", "2023-01-15", "2023-01-19", "2023-01-22", "2023-01-26", "2023-01-29", "2023-02-02", "2023-02-05", "2023-02-09", "2023-02-12", "2023-02-16", "2023-02-19", "2023-02-23", "2023-02-26", "2023-03-02", "2023-03-05", "2023-03-09", "2023-03-12", "2023-03-16", "2023-03-19", "2023-03-23", "2023-03-26", "2023-03-30", "2023-04-02", "2023-04-06", "2023-04-09", "2023-04-13", "2023-04-16", "2023-04-20", "2023-04-23", "2023-04-27", "2023-04-30", "2023-05-04", "2023-05-07", "2023-05-11", "2023-05-14", "2023-05-18", "2023-05-21", "2023-05-25", "2023-05-28", "2023-06-01", "2023-06-04", "2023-06-08", "2023-06-11", "2023-06-15", "2023-06-18", "2023-06-22", "2023-06-25", "2023-06-29", "2023-07-02", "2023-07-06", "2023-07-09", "2023-07-13", "2023-07-16", "2023-07-20", "2023-07-23", "2023-07-27", "2023-07-30", "2023-08-03", "2023-08-06", "2023-08-10", "2023-08-13", "2023-08-17", "2023-08-20", "2023-08-24", "2023-08-27", "2023-08-31", "2023-09-03", "2023-09-07", "2023-09-10", "2023-09-14", "2023-09-17", "2023-09-21", "2023-09-24", "2023-09-28", "2023-10-01", "2023-10-05", "2023-10-08", "2023-10-12", "2023-10-15", "2023-10-19", "2023-10-22", "2023-10-26", "2023-10-29", "2023-11-02", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-16", "2023-11-19", "2023-11-23", "2023-11-26", "2023-11-30", "2023-12-03", "2023-12-07", "2023-12-10", "2023-12-14", "2023-12-17", "2023-12-21", "2023-12-24", "2023-12-28", "2023-12-31", "2024-01-04", "2024-01-07", "2024-01-11", "2024-01-14", "2024-01-18", "2024-01-21", "2024-01-25", "2024-01-28", "2024-02-01", "2024-02-04", "2024-02-08", "2024-02-11", "2024-02-15", "2024-02-18", "2024-02-22", "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-07", "2024-03-10", "2024-03-14", "2024-03-17", "2024-03-21", "2024-03-24", "2024-03-28", "2024-03-31", "2024-04-04", "2024-04-07", "2024-04-11", "2024-04-14", "2024-04-18", "2024-04-21", "2024-04-25", "2024-04-28", "2024-05-02", "2024-05-05", "2024-05-09", "2024-05-12", "2024-05-16", "2024-05-19", "2024-05-23", "2024-05-26", "2024-05-30", "2024-06-02", "2024-06-06", "2024-06-09", "2024-06-13", "2024-06-16", "2024-06-20", "2024-06-23", "2024-06-27", "2024-06-30", "2024-07-04", "2024-07-07", "2024-07-11", "2024-07-14", "2024-07-18", "2024-07-21", "2024-07-25", "2024-07-28", "2024-08-01", "2024-08-04", "2024-08-08", "2024-08-11", "2024-08-15", "2024-08-18", "2024-08-22", "2024-08-25", "2024-08-29", "2024-09-01", "2024-09-05", "2024-09-08", "2024-09-12", "2024-09-15", "2024-09-19", "2024-09-22", "2024-09-26", "2024-09-29", "2024-10-03", "2024-10-06", "2024-10-10", "2024-10-13", "2024-10-17" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nbParticipantsAttendu" : 10,
+    "nomLieu" : "Place des Aires"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT014804"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Martigues"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.martigues-tourisme.com"
+    }
+  } ]
+}

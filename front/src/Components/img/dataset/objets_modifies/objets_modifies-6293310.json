@@ -1,0 +1,237 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293310,
+  "nom" : {
+    "libelleFr" : "Autour de Trésors d'étoffes provençales : rencontre avec Victoire Barbot et Milène Cuvillier"
+  },
+  "identifier" : "SITRA2_EVE_6293310",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T09:03:43.401+0000",
+    "dateModification" : "2022-10-17T09:07:01.630+0000",
+    "dateExportModification" : "2022-10-17T09:07:02.324+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77077603,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ecole-art-aix.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468306
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La conférence \"Trésors d’étoffes provençales\" est l’opportunité d’un dialogue entre création contemporaine, patrimonialisation d’un savoir-faire vivant et conservation muséale."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Présentée au Musée du Vieil Aix jusqu’au 26 février 2023, l’exposition Trésors d’étoffes provençales propose une approche croisée entre le travail de l’artiste Victoire Barbot et les Indiennes, ces tissus traditionnels débarqués à Marseille au XVIe siècle et devenus des étoffes iconiques de la culture provençale. \r\nEn 2022, Victoire Barbot, artiste plasticienne qui a réinvesti les motifs de son geste artistique, en résidence chez les Olivades à Saint-Etienne-du-Grès, s’approprie la technique pour en proposer une lecture personnelle à travers l’Arbre de vie, œuvre majeure de l’exposition.\r\nIntervention conjointe de Victoire Barbot et Milène Cuvillier, conservatrice du patrimoine au musée du Vieil Aix et commissaire de l’exposition."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "ESAAix - Ecole Supérieure d'Art d'Aix-en-Provence / Amphithéâtre",
+      "adresse1" : "Rue Emile Tavan",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.441070, 43.530607 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5568779
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5959345
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 18h30.",
+      "libelleEn" : "Thursday 10 November 2022 at 6.30 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 18:30.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 18:30.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 18.30 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 18.30 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 18h30.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  18h30.",
+      "libelleJa" : "木曜日 10 11月 2022 6.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24480755,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "18:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24512120
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14429762,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Philippe Biolatto"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/118/14776044.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/118/14776044-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/118/14776044-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/118/14776044-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "etoffe",
+      "taille" : 529730,
+      "hauteur" : 1048,
+      "largeur" : 1232,
+      "lastModifiedDate" : "2022-10-17T09:07:01.735+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2069
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "ESAAix - Ecole Supérieure d'Art d'Aix-en-Provence / Amphithéâtre"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

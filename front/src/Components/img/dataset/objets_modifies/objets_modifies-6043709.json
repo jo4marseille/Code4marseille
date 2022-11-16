@@ -1,0 +1,290 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6043709,
+  "nom" : {
+    "libelleFr" : "Le cœur de la gitane"
+  },
+  "identifier" : "SITRA2_EVE_6043709",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-25T10:53:55.519+0000",
+    "dateModification" : "2022-07-18T15:23:55.283+0000",
+    "dateExportModification" : "2022-10-21T10:15:13.314+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70562950,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaflibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 70562949,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230835
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La compagnie les Wagons Libres vous propose un spectacle pour toute la famille au Flibustier"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Jusqu’où iriez-vous pour devenir riche ? La Gitane, elle, ne se pose pas la question ! Prête à tout, elle se plonge dans la magie noire avec obsession mais sans beaucoup de succès, jusqu’au jour où elle convoque par accident le Génie de la guitare.\r\n\r\nCelui-ci lui a un marché bien étrange à lui proposer : il ne lui apportera ce qu’elle désire qu’à condition que celle-ci se livre au public. Le gitane se prêtera au jeu en se dissimulant derrière les contes de la rue Broca. Sous le nom de la sorcière de la rue Mouffetard, elle ira jusqu’à faire vivre l’histoire d’amour d’une paire de chaussure en passant par un placard aux balais. Le Génie parviendra-t-il à percer le secret du cœur de la gitane ? Et celle-ci finira-t-elle par obtenir ce qu’elle désire ?"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Café théâtre Le Flibustier",
+      "adresse1" : "7 Rue Des Bretons",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453409, 43.529059 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729788
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 05/10 au 19/10/2022, tous les mercredis à 14h30.\n\nDu 09/11 au 23/11/2022, tous les mercredis à 14h30.",
+      "libelleEn" : "From 05/10 to 19/10/2022, every Wednesday at 2.30 pm.\n\nFrom 09/11 to 23/11/2022, every Wednesday at 2.30 pm.",
+      "libelleEs" : "Del 05/10 al 19/10/2022, todos los miércoles a 14:30.\n\nDel 09/11 al 23/11/2022, todos los miércoles a 14:30.",
+      "libelleIt" : "Dal 05/10 al 19/10/2022, tutti i mercoledì alle 14:30.\n\nDal 09/11 al 23/11/2022, tutti i mercoledì alle 14:30.",
+      "libelleDe" : "Vom 05/10 bis 19/10/2022, jeden Mittwoch um 14.30 Uhr.\n\nVom 09/11 bis 23/11/2022, jeden Mittwoch um 14.30 Uhr.",
+      "libelleNl" : "Van 05/10 tot en met 19/10/2022, elke woensdag om 14.30 u.\n\nVan 09/11 tot en met 23/11/2022, elke woensdag om 14.30 u.",
+      "libelleRu" : "С 05/10 до 19/10/2022, каждый среды до 14h30.\n\nС 09/11 до 23/11/2022, каждый среды до 14h30.",
+      "libelleZh" : "从 10月5日 到 2022年10月19日, 每星期三 在 小时小时分钟.\n\n从 11月9日 到 2022年11月23日, 每星期三 在 小时小时分钟.",
+      "libellePtBR" : "De 05/10 a 19/10/2022, todas as quartas-feiras para  14h30.\n\nDe 09/11 a 23/11/2022, todas as quartas-feiras para  14h30.",
+      "libelleJa" : "05/10 から 19/10/2022 まで, 毎水曜日 2.30 午後 に.\n\n09/11 から 23/11/2022 まで, 毎水曜日 2.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22779554,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-10-19",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 23901907
+    }, {
+      "identifiant" : 23901933,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 23901933
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 11 €, Enfant : 10 €.\n",
+      "libelleEn" : "Adult: 11 €, Child: 10 €.\n",
+      "libelleEs" : "Adulto: 11 €, Niño: 10 €.\n",
+      "libelleIt" : "Adulto: 11 €, Bambino: 10 €.\n",
+      "libelleDe" : "Erwachsene: 11 €, Kinder: 10 €.\n",
+      "libelleNl" : "Volwassene: € 11, Kind: € 10.\n",
+      "libelleRu" : "Взрослый : 11 €, Ребенок : 10 €.\n",
+      "libelleZh" : "成人 : 11 €, 儿童 : 10 €.\n",
+      "libellePtBR" : "Adulto: 11 €, Criança: 10 €.\n",
+      "libelleJa" : "大人: 11 €, 子供: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12981783,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-11-23",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 11.00,
+        "maximum" : 11.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6320710,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230835
+      },
+      "nom" : "Café théâtre Le Flibustier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 97179682,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.leflibustier.net/spectacles/jeune-public/coeur-gitane/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 12572836,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Le Flibustier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/160/12755120.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/160/12755120-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/160/12755120-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/160/12755120-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "gitane",
+      "taille" : 286408,
+      "hauteur" : 1692,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-02-25T11:07:00.140+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-16", "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Café théâtre Le Flibustier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

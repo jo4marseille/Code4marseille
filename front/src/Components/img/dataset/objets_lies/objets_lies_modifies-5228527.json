@@ -1,0 +1,133 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228527,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme de Saint Chamas",
+    "libelleEn" : "Office de Tourisme de Saint Chamas",
+    "libelleEs" : "Office de Tourisme de Saint Chamas",
+    "libelleIt" : "Office de Tourisme de Saint Chamas",
+    "libelleDe" : "Office de Tourisme de Saint Chamas",
+    "libelleNl" : "Office de Tourisme de Saint Chamas"
+  },
+  "identifier" : "SITRA2_STR_5228527",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:24:33.838+0000",
+    "dateModification" : "2020-12-12T14:07:07.269+0000",
+    "dateExportModification" : "2021-11-07T17:10:11.581+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Saint Chamas",
+      "dateCreation" : "2020-09-28T07:02:16.554+0000",
+      "dateModification" : "2022-10-24T08:49:43.484+0000",
+      "id" : 2089,
+      "siteWeb" : "http://www.tourismesaintchamas.fr"
+    },
+    "signalerUnProblemeMails" : [ "tourisme-saintchamas@orange.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537544,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 90 54"
+      }
+    }, {
+      "identifiant" : 70537546,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@tourismesaintchamas.fr"
+      }
+    }, {
+      "identifiant" : 70537547,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tourismesaintchamas.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "33229035200027",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "17 rue du 4 septembre",
+      "adresse2" : "Place Saint Pierre",
+      "codePostal" : "13250",
+      "commune" : {
+        "id" : 4503
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.031538, 43.549690 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4503
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18572603,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "ALBERT",
+    "prenom" : "Gerard",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,224 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293923,
+  "nom" : {
+    "libelleFr" : "Concert des Lauréats de l'IESM"
+  },
+  "identifier" : "SITRA2_EVE_6293923",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T13:50:18.064+0000",
+    "dateModification" : "2022-10-12T14:09:58.614+0000",
+    "dateExportModification" : "2022-10-12T14:09:59.348+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77078603,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovence.fr/Conservatoire"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468583
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Concert des lauréats de l’IESM à l'auditorium Campra du Conservatoire Darius Milhaud"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : ".L’IESM est un établissement d’enseignement supérieur de la musique accrédité par le Ministère de la Culture. Il dispense des formations supérieures articulées avec Aix-Marseille Université, menant à des carrières artistiques et de professorat dans les conservatoires. L’IESM vous invite à découvrir le talent des jeunes artistes récemment diplômés, dans un programme éclectique parcourant les musiques du XVIIIe siècle à aujourd’hui."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Auditorium Campra / Conservatoire Darius Milhaud - musique, danse et art dramatique",
+      "adresse1" : "380 Avenue Mozart",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439436, 43.525700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5519540
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 20h30.",
+      "libelleEn" : "Friday 11 November 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 11 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24484867,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24484867
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Dans la limite des places disponibles.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "dans la limite des places disponibles"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14379598,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Conservatoire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/142/14716466.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/142/14716466-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/142/14716466-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/142/14716466-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "laureats",
+      "taille" : 211325,
+      "hauteur" : 753,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-12T14:09:58.715+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Auditorium Campra / Conservatoire Darius Milhaud - musique, danse et art dramatique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

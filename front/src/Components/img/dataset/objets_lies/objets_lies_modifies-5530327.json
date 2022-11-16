@@ -1,0 +1,182 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5530327,
+  "nom" : {
+    "libelleFr" : "Château des Baux",
+    "libelleEn" : "Château des Baux",
+    "libelleEs" : "Château des Baux",
+    "libelleIt" : "Château des Baux",
+    "libelleDe" : "Château des Baux",
+    "libelleNl" : "Château des Baux"
+  },
+  "identifier" : "SITRA2_STR_5530327",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-13T12:29:52.055+0000",
+    "dateModification" : "2021-12-09T14:45:18.133+0000",
+    "dateExportModification" : "2021-12-09T14:45:18.358+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79258032,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 20 02"
+      }
+    }, {
+      "identifiant" : 79258035,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "message@chateau-baux-provence.com"
+      }
+    }, {
+      "identifiant" : 79258036,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "etienne.devic@carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 79258037,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.chateau-baux-provence.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "37895511600011",
+      "codeApeNaf" : "9102Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Esplanade du château",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.796760, 43.744339 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19059829,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Devic",
+    "prenom" : "Etienne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 88553872,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "etienne.devic@chateau-baux-provence.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 19187484,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Hardouin",
+    "prenom" : "Elise",
+    "moyensCommunication" : [ {
+      "identifiant" : 88553904,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 40 16 58 52"
+      }
+    }, {
+      "identifiant" : 88553906,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "elise.hardouin@carrieres-lumieres.com"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

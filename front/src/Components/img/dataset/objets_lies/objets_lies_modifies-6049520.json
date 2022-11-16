@@ -1,0 +1,226 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 6049520,
+  "nom" : {
+    "libelleFr" : "Cinémathèque Gnidzaz Martigues"
+  },
+  "identifier" : "SITRA2_STR_6049520",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-03T16:16:17.324+0000",
+    "dateModification" : "2022-03-04T10:17:23.977+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97414694,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 91 30"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 97415056,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sylvie.morata@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Responsable, chargée de développement"
+      }
+    }, {
+      "identifiant" : 97415221,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 44 67"
+      },
+      "observation" : {
+        "libelleFr" : "Administration"
+      }
+    }, {
+      "identifiant" : 97415381,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magali.antona@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservations Scolaires"
+      }
+    }, {
+      "identifiant" : 97415538,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "amel.hemmara@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation tout public et groupes"
+      }
+    }, {
+      "identifiant" : 97415710,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Cin%C3%A9math%C3%A8que-Gnidzaz-Martigues-343669908993628/"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "4 rue Colonel Denfert",
+      "adresse3" : "Ferrières",
+      "codePostal" : "13500",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.054774, 43.408198 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 156
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 191
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 200
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 20414908,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MORATA",
+    "prenom" : "Sylvie",
+    "titre" : {
+      "libelleFr" : "Responsable, chargée de developpement"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 97416117,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 44 67"
+      }
+    }, {
+      "identifiant" : 97416142,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sylvie.morata@ville-martigues.fr"
+      }
+    }, {
+      "identifiant" : 97430941,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 50 02 13 55"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

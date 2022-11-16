@@ -1,0 +1,228 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5236676,
+  "nom" : {
+    "libelleFr" : "Savonnerie du Midi",
+    "libelleEn" : "Savonnerie du Midi",
+    "libelleIt" : "Savonnerie du Midi",
+    "libelleDe" : "Savonnerie du Midi",
+    "libelleNl" : "Savonnerie du Midi"
+  },
+  "identifier" : "SITRA2_STR_5236676",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-05T08:59:13.208+0000",
+    "dateModification" : "2022-09-09T14:06:36.188+0000",
+    "dateExportModification" : "2022-09-09T14:06:36.324+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70644425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 60 54 04"
+      }
+    }, {
+      "identifiant" : 70644426,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "park94@hotmail.fr"
+      }
+    }, {
+      "identifiant" : 70644427,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marketing@savonneriedumidi.fr"
+      }
+    }, {
+      "identifiant" : 70644428,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://savonneriedumidi.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "72 Rue Augustin Roux",
+      "codePostal" : "13015",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4545
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4545
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20960757,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BROUSSARD",
+    "prenom" : "Fanny",
+    "titre" : {
+      "libelleFr" : "Boutique et musée"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 472
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100603004,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 60 54 04"
+      }
+    } ]
+  }, {
+    "identifiant" : 20960597,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MASMOUDI",
+    "prenom" : "Aya",
+    "titre" : {
+      "libelleFr" : "Service Marketing"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 471
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100602116,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06.35.54.74.17"
+      }
+    }, {
+      "identifiant" : 100602144,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marketing@lacompagniedumidi.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20960818,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GUILLARD",
+    "prenom" : "Amandine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100603119,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 60 54 04"
+      }
+    } ]
+  }, {
+    "identifiant" : 21285148,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GIRAUD",
+    "prenom" : "Annabelle",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103074463,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "a.giraud@savonneriedumidi.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

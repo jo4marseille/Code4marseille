@@ -1,0 +1,140 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223831,
+  "nom" : {
+    "libelleFr" : "Eglise Saint Baudile",
+    "libelleEn" : "Eglise Saint Baudile",
+    "libelleEs" : "Eglise Saint Baudile",
+    "libelleIt" : "Eglise Saint Baudile",
+    "libelleDe" : "Eglise Saint Baudile",
+    "libelleNl" : "Eglise Saint Baudile"
+  },
+  "identifier" : "SITRA2_STR_5223831",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:16:21.664+0000",
+    "dateModification" : "2022-04-13T14:00:52.568+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70514969,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 90 43"
+      }
+    }, {
+      "identifiant" : 70514972,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@noves.fr"
+      }
+    }, {
+      "identifiant" : 70514973,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.noves.fr/l-eglise-saint-baudile/"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place de l'Eglise",
+      "codePostal" : "13550",
+      "commune" : {
+        "id" : 4477
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.901989, 43.878088 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4477
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20617093,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "GUIGUE",
+    "prenom" : "Clovis",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98519409,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 94 24 28"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,219 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305930,
+  "nom" : {
+    "libelleFr" : "Terrains fantômes"
+  },
+  "identifier" : "SITRA2_EVE_6305930",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T13:35:32.473+0000",
+    "dateModification" : "2022-10-21T14:23:42.026+0000",
+    "dateExportModification" : "2022-10-21T15:35:52.554+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104412650,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/galerie-de-la-scep/terrains-fantomes"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464843
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Differentes versions de la scultpure contemporaine."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Pour sa seixième exposition, la galerie de la Scep invite Chloé Cheronnet Laurane Gourdon Fahrni et Émilie Rossi, à investir l’espace de la galerie avec differentes versions de la scultpure contemporaine. «Terrains fantômes» exposition visible du 5 novembre 2022 au 14 janvier 2023, vernissage le samedi 5 novembre 2022 entre 14 h et 20h30"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie de la SCEP",
+      "adresse1" : "100 rue Perrin Solliers",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.385711, 43.289005 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 05/11/2022 au 14/01/2023.\nFermé lundi et dimanche.\nDu mardi au samedi de 14h à 18h et sur rendez-vous.",
+      "libelleEn" : "From 05/11/2022 to 14/01/2023.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 05/11/2022 al 14/01/2023.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 05/11/2022 al 14/01/2023.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 05/11/2022 bis 14/01/2023.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 05/11/2022 tot en met 14/01/2023.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 05/11/2022 до 14/01/2023.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 2022年11月5日 到 2023年1月14日.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 05/11/2022 a 14/01/2023.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "05/11/2022 から 14/01/2023 まで.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24558328,
+      "dateDebut" : "2022-11-05",
+      "dateFin" : "2023-01-14",
+      "complementHoraire" : {
+        "libelleFr" : "du mardi au samedi de 14h à 18h et sur rendez-vous"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24558328
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14486231,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Terrains fantômes Émilie Rossi Chloé Chéronnet"
+    },
+    "copyright" : {
+      "libelleFr" : "Terrains fantômes Émilie Rossi Chloé Chéronnet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/112/14839826.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/112/14839826-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/112/14839826-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/112/14839826-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "terrains",
+      "taille" : 113749,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-21T14:23:42.111+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2252
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Galerie de la SCEP"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-14T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

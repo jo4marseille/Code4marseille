@@ -1,0 +1,150 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222922,
+  "nom" : {
+    "libelleFr" : "Musée Gardanne Autrefois",
+    "libelleEn" : "Musée Gardanne Autrefois",
+    "libelleEs" : "Musée Gardanne Autrefois",
+    "libelleIt" : "Musée Gardanne Autrefois",
+    "libelleDe" : "Musée Gardanne Autrefois",
+    "libelleNl" : "Musée Gardanne Autrefois"
+  },
+  "identifier" : "SITRA2_STR_5222922",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:43:33.644+0000",
+    "dateModification" : "2022-05-10T09:07:23.616+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Gardanne",
+      "dateCreation" : "2020-12-01T15:29:57.532+0000",
+      "dateModification" : "2022-10-24T08:49:37.974+0000",
+      "id" : 2144,
+      "siteWeb" : "http://www.tourisme-gardanne.fr"
+    },
+    "signalerUnProblemeMails" : [ "melissa.eliet@gmail.com", "mvisseaux@tourisme-gardanne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512344,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 51 02 73"
+      }
+    }, {
+      "identifiant" : 70512345,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04.42.51 02 73"
+      }
+    }, {
+      "identifiant" : 70512346,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 65 97 27"
+      }
+    }, {
+      "identifiant" : 70512347,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mireille.arnoux@laposte.net"
+      }
+    }, {
+      "identifiant" : 70512348,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.ville-gardanne.fr/Musee-Gardanne-Autrefois"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "21 rue Courbet",
+      "adresse2" : "Rue Courbet",
+      "codePostal" : "13120",
+      "commune" : {
+        "id" : 4452
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.469471, 43.454697 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4452
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20732298,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ARNOUX",
+    "prenom" : "Mireille",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

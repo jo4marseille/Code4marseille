@@ -1,0 +1,467 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5933017,
+  "nom" : {
+    "libelleFr" : "Le Petit train de Méjanes",
+    "libelleEn" : "Petit train de Méjanes",
+    "libelleEs" : "Petit train de Méjanes",
+    "libelleIt" : "Petit train de Méjanes",
+    "libelleDe" : "Petit train de Méjanes",
+    "libelleNl" : "Petit train de Méjanes"
+  },
+  "identifier" : "SITRA2_EVE_5933017",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-30T14:24:51.890+0000",
+    "dateModification" : "2022-10-05T09:45:58.550+0000",
+    "dateExportModification" : "2022-10-13T09:37:33.789+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70552338,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 10 10"
+      }
+    }, {
+      "identifiant" : 99337402,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://arlestourisme.tickeasy.com/fr-FR/produits"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5229722
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le petit train du Domaine de Méjanes vous fera découvrir toute la diversité des paysages de Camargue grâce à un circuit pittoresque sur les bords de l'étang du Vaccarès.",
+      "libelleEn" : "The Domaine de Méjanes little train will make you discover all the diversity of the Camargue landscapes thanks to a picturesque circuit on the banks of the Vaccarès pond.",
+      "libelleEs" : "El trenecito del Domaine de Méjanes le hará descubrir toda la diversidad de los paisajes de la Camarga gracias a un pintoresco circuito a orillas del lago de Vaccarès."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le petit train du Domaine de Méjanes vous fera découvrir toute la diversité des paysages de Camargue grâce à un circuit pittoresque sur les bords de l'étang du Vaccarès. Le petit train sillonne le domaine et effectue une boucle de 3.5 km durant 25 minutes environ. A bord du train, vous observerez la faune et la flore = sauvages locales : taureaux, chevaux, canards, hérons, passereaux, busards, flamants roses...",
+      "libelleEn" : "The Domaine de Méjanes little train will make you discover all the diversity of the Camargue landscapes thanks to a picturesque circuit on the banks of the Vaccarès pond. The little train crisscrosses the area and makes a 3.5 km loop lasting about 25 minutes. On board the train, you will observe the fauna and flora = local wild animals: bulls, horses, ducks, herons, passerines, harriers, flamingos ...",
+      "libelleEs" : "El trenecito del Domaine de Méjanes le hará descubrir toda la diversidad de los paisajes de la Camarga gracias a un pintoresco circuito a orillas del lago de Vaccarès. El trenecito atraviesa el dominio y hace un bucle de 3,5 km durante unos 25 minutos. A bordo del tren, observará la fauna local: toros, caballos, patos, garzas, gorriones, aguiluchos, flamencos rosas...",
+      "libelleIt" : "La Camargue in un corso... nel cuore della zona e lungo la riserva di Vaccarès: il trenino di Méjanes vi farà scoprire la varietà dei paesaggi della Camargue. Osservare la bellezza della natura selvaggia: tori e cavalli, anatre, aironi, uccelli canori, albanelle, rosa fenicotteri.I cavalli e i tori non sono visibili l'inverno.",
+      "libelleDe" : "Die Camargue in einem Kurs... das Herzstück der Region und entlang der Vaccarès-Reserve: der kleine Zug des Méjanes machen Sie sich die Vielfalt der Landschaften der Camargue entdecken. Die Schönheit der wilden Natur zu beobachten: Stiere und Pferde, Enten, Reiher, Singvögel, Harriers, Rosa Flamingos.Die Pferde und Stiere sind nicht sichtbar im Winter.",
+      "libelleNl" : "De Camargue in één cursus... in het hart van het gebied en langs de Vaccarès reserve: de kleine trein van Méjanes zal u Ontdek de verscheidenheid van de landschappen van Camargue. De schoonheid van de wilde natuur te observeren: stieren- en paardenleed, eenden, reigers, zangvogels, Harriers, roze flamingo's.De paarden en stieren niet zichtbaar zijn de winter."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Domaine de Méjanes - Manade Méjanes",
+      "adresse1" : "Domaine de Méjanes",
+      "adresse2" : "Mas de Méjanes",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.505403, 43.569726 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5787265
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6269585
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10 au 23/10/2022.\nFermé le lundi.\nA 11h et 14h30.\n\nDu 24/10 au 06/11/2022, tous les jours.\nA 11h et 14h30.\n\nDu mardi 8 au dimanche 13 novembre 2022.\nFermé le lundi.\nA 11h et 14h30.\n\nDu samedi 3 au dimanche 4 décembre 2022.\nA 11h et 14h30.\n\nDu mardi 20 au vendredi 23 décembre 2022.\nA 11h et 14h30.\n\nDu lundi 26 au vendredi 30 décembre 2022.\nA 11h et 14h30.",
+      "libelleEn" : "From 01/10 to 23/10/2022.\nClosed on Monday.\nAt 11am and 2.30pm.\n\nFrom 24/10 to 06/11/2022, daily.\nAt 11am and 2.30pm.\n\nFrom Tuesday 8 to Sunday 13 November 2022.\nClosed on Monday.\nAt 11am and 2.30pm.\n\nFrom Saturday 3 to Sunday 4 December 2022.\nAt 11am and 2.30pm.\n\nFrom Tuesday 20 to Friday 23 December 2022.\nAt 11am and 2.30pm.\n\nFrom Monday 26 to Friday 30 December 2022.\nAt 11am and 2.30pm.",
+      "libelleEs" : "Del 01/10 al 23/10/2022.\nCerrado los lunes.\nA las 11h y a las 14h30.\n\nDel 24/10 al 06/11/2022, todos los dias.\nA las 11h y a las 14h30.\n\nDel martes, 8 al domingo, 13 de noviembre de 2022.\nCerrado los lunes.\nA las 11h y a las 14h30.\n\nDel sábado, 3 al domingo, 4 de diciembre de 2022.\nA las 11h y a las 14h30.\n\nDel martes, 20 al viernes, 23 de diciembre de 2022.\nA las 11h y a las 14h30.\n\nDel lunes, 26 al viernes, 30 de diciembre de 2022.\nA las 11h y a las 14h30.",
+      "libelleIt" : "Dal 01/10 al 23/10/2022.\nChiuso il lunedì.\nAlle 11 e alle 14.30.\n\nDal 24/10 al 06/11/2022, ogni giorno.\nAlle 11 e alle 14.30.\n\nDal martedì 8 a domenica 13 novembre 2022.\nChiuso il lunedì.\nAlle 11 e alle 14.30.\n\nDal sabato 3 a domenica 4 dicembre 2022.\nAlle 11 e alle 14.30.\n\nDal martedì 20 a venerdì 23 dicembre 2022.\nAlle 11 e alle 14.30.\n\nDal lunedì 26 a venerdì 30 dicembre 2022.\nAlle 11 e alle 14.30.",
+      "libelleDe" : "Vom 01/10 bis 23/10/2022.\nMontag geschlossen.\n\nVom 24/10 bis 06/11/2022, täglich.\n\nVon Dienstag, den 8. bis Sonntag, den 13. November 2022.\nMontag geschlossen.\n\nVon Samstag, den 3. bis Sonntag, den 4. Dezember 2022.\n\nVon Dienstag, den 20. bis Freitag, den 23. Dezember 2022.\n\nVon Montag, den 26. bis Freitag, den 30. Dezember 2022.",
+      "libelleNl" : "Van 01/10 tot en met 23/10/2022.\nMaandag gesloten.\n\nVan 24/10 tot en met 06/11/2022, iedere dag.\n\nDinsdag 8 tot en met zondag 13 november 2022.\nMaandag gesloten.\n\nZaterdag 3 tot en met zondag 4 december 2022.\n\nDinsdag 20 tot en met vrijdag 23 december 2022.\n\nMaandag 26 tot en met vrijdag 30 december 2022.",
+      "libelleRu" : "С 01/10 до 23/10/2022.\nНе работает понедельник.\n\nС 24/10 до 06/11/2022, ежедневно.\n\nС вторник 8 до воскресенье 13 ноября 2022.\nНе работает понедельник.\n\nС суббота 3 до воскресенье 4 декабря 2022.\n\nС вторник 20 до пятница 23 декабря 2022.\n\nС понедельник 26 до пятница 30 декабря 2022.",
+      "libelleZh" : "从 10月1日 到 2022年10月23日.\n星期一 关闭.\n\n从 10月24日 到 2022年11月6日, 日常.\n\n从 星期二 到 2022年11月13日, 星期日.\n星期一 关闭.\n\n从 星期六 到 2022年12月4日, 星期日.\n\n从 星期二 到 2022年12月23日, 星期五.\n\n从 星期一 到 2022年12月30日, 星期五.",
+      "libellePtBR" : "De 01/10 a 23/10/2022.\nFechado em segunda-feira.\n\nDe 24/10 a 06/11/2022, todos os dias.\n\nDe Terça-feira 8 a Domingo 13 Novembro 2022.\nFechado em segunda-feira.\n\nDe Sábado 3 a Domingo 4 Dezembro 2022.\n\nDe Terça-feira 20 a Sexta-feira 23 Dezembro 2022.\n\nDe Segunda-feira 26 a Sexta-feira 30 Dezembro 2022.",
+      "libelleJa" : "01/10 から 23/10/2022 まで.\n月曜日 は休み.\n\n24/10 から 06/11/2022 まで, 毎日.\n\n火曜日 8 から 日曜日 13 11月 2022 まで.\n月曜日 は休み.\n\n土曜日 3 から 日曜日 4 12月 2022 まで.\n\n火曜日 20 から 金曜日 23 12月 2022 まで.\n\n月曜日 26 から 金曜日 30 12月 2022 まで."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22164089,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-10-23",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24435950
+    }, {
+      "identifiant" : 24435616,
+      "dateDebut" : "2022-10-24",
+      "dateFin" : "2022-11-06",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435951
+    }, {
+      "identifiant" : 24435620,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-13",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24435952
+    }, {
+      "identifiant" : 24435569,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-04",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435953
+    }, {
+      "identifiant" : 24435577,
+      "dateDebut" : "2022-12-20",
+      "dateFin" : "2022-12-23",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435954
+    }, {
+      "identifiant" : 24435581,
+      "dateDebut" : "2022-12-26",
+      "dateFin" : "2022-12-30",
+      "complementHoraire" : {
+        "libelleFr" : "A 11h et 14h30",
+        "libelleEn" : "At 11am and 2.30pm",
+        "libelleEs" : "A las 11h y a las 14h30",
+        "libelleIt" : "Alle 11 e alle 14.30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435955
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Du 01/10 au 30/12/2022\nPlein tarif : 7 €, Enfant : 5 € (De 5 à 10 ans).\n\nDu 01/01 au 31/12/2023\nPlein tarif : 8 €, Enfant : 6 €.\n\n\nPrestation : de 5€ à 7€.",
+      "libelleEn" : "From 01/10 to 30/12/2022\nFull price: 7 €, Child: 5 € (From 5 to 10 years old).\n\nFrom 01/01 to 31/12/2023\nFull price: 8 €, Child: 6 €.\n",
+      "libelleEs" : "Del 01/10 al 30/12/2022\nTarifa completa: 7 €, Niño: 5 €.\n\nDel 01/01 al 31/12/2023\nTarifa completa: 8 €, Niño: 6 €.\n",
+      "libelleIt" : "Dal 01/10 al 30/12/2022\nTarrifa intera: 7 €, Bambino: 5 €.\n\nDal 01/01 al 31/12/2023\nTarrifa intera: 8 €, Bambino: 6 €.\n",
+      "libelleDe" : "Vom 01/10 bis 30/12/2022\nVoller Preis: 7 €, Kinder: 5 €.\n\nVom 01/01 bis 31/12/2023\nVoller Preis: 8 €, Kinder: 6 €.\n",
+      "libelleNl" : "Van 01/10 tot en met 30/12/2022\nVol tarief: € 7, Kind: € 5.\n\nVan 01/01 tot en met 31/12/2023\nVol tarief: € 8, Kind: € 6.\n",
+      "libelleRu" : "С 01/10 до 30/12/2022\nполную цену : 7 €, Ребенок : 5 €.\n\nС 01/01 до 31/12/2023\nполную цену : 8 €, Ребенок : 6 €.\n",
+      "libelleZh" : "从 10月1日 到 2022年12月30日\n全额 : 7 €, 儿童 : 5 €.\n\n从 1月1日 到 2023年12月31日\n全额 : 8 €, 儿童 : 6 €.\n",
+      "libellePtBR" : "De 01/10 a 30/12/2022\nTarifa inteira: 7 €, Criança: 5 €.\n\nDe 01/01 a 31/12/2023\nTarifa inteira: 8 €, Criança: 6 €.\n",
+      "libelleJa" : "01/10 から 30/12/2022 まで\n通常料金: 7 €, 子供: 5 €.\n\n01/01 から 31/12/2023 まで\n通常料金: 8 €, 子供: 6 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Prestation : de 5€ à 7€"
+    },
+    "periodes" : [ {
+      "identifiant" : 12471543,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 7.00,
+        "maximum" : 7.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "De 5 à 10 ans",
+          "libelleEn" : "From 5 to 10 years old"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    }, {
+      "identifiant" : 13713117,
+      "dateDebut" : "2023-01-01",
+      "dateFin" : "2023-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 6.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6642220,
+      "nom" : "Réservation",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 101253750,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://arlestourisme.tickeasy.com/fr-FR/produits"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 18002
+  }, {
+    "id" : 19073
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17869610,
+    "referent" : true,
+    "nom" : "BOUVINE ET TRADITIONS",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84430438,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 10 62"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9110755,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VI002268_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Domaine de Méjanes"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/69/8865168.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/69/8865168-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/69/8865168-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/69/8865168-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 813994,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-20T05:11:40.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9110754,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VI002268_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Domaine de Méjanes"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/69/8865167.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/69/8865167-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/69/8865167-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/69/8865167-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 8654,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2020-11-20T05:11:40.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-13", "2022-10-14", "2022-10-15", "2022-10-16", "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-12-03", "2022-12-04", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1966
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Domaine de Méjanes - Manade Méjanes"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

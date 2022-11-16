@@ -1,0 +1,164 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5693622,
+  "nom" : {
+    "libelleFr" : "Mairie de Velaux"
+  },
+  "identifier" : "SITRA2_STR_5693622",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-12-18T09:43:46.682+0000",
+    "dateModification" : "2020-12-18T09:46:49.554+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85237499,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 73 73"
+      }
+    }, {
+      "identifiant" : 85237608,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.velaux.fr/"
+      }
+    }, {
+      "identifiant" : 85237676,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "scecom@mairie-de-velaux.fr"
+      }
+    }, {
+      "identifiant" : 85237593,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/villedevelaux/"
+      }
+    }, {
+      "identifiant" : 85237694,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 73 74"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de Ville",
+      "adresse2" : "997 Avenue Jean Moulin",
+      "codePostal" : "13880",
+      "bureauDistribution" : "Velaux",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4523
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.254415, 43.531043 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4523
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18606011,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "HERTOUX",
+    "prenom" : "Alice",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85237789,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 75 05"
+      }
+    }, {
+      "identifiant" : 85237794,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "a.hertoux@mairie-de-velaux.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

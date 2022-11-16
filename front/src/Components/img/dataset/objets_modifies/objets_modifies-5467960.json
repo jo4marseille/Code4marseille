@@ -1,0 +1,314 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5467960,
+  "nom" : {
+    "libelleFr" : "Marché de Fuveau",
+    "libelleEn" : "Marché forain",
+    "libelleIt" : "Marché forain",
+    "libelleDe" : "Marché forain",
+    "libelleNl" : "Marché forain"
+  },
+  "identifier" : "SITRA2_EVE_5467960",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:30:45.188+0000",
+    "dateModification" : "2022-07-04T13:58:24.097+0000",
+    "dateExportModification" : "2022-07-04T13:58:24.276+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 86671799,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 65 65 00"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Fuveau"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5467959
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un petit marché de producteurs locaux et au coeur du village!"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Des producteurs et artisans de la région au coeur du village à l'ombre des platanes. \r\nVous y trouverez des fruits et légumes, du miel, du poisson, des vêtements, des plantes, des plats à emporter..."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cours Victor Leydet",
+      "adresse1" : "cours Victor Leydet",
+      "codePostal" : "13710",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.562797, 43.453810 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ],
+    "lieu" : {
+      "id" : 16389
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "descriptifAnimauxAcceptes" : {
+      "libelleFr" : "En laisse"
+    },
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/01 au 29/12, tous les lundis et jeudis de 8h30 à 12h30.",
+      "libelleEn" : "From 03/01 to 29/12, every Monday and Thursday between 8.30 am and 12.30 pm.",
+      "libelleEs" : "Del 03/01 al 29/12, todos los lunes y jueves de 8:30 a 12:30.",
+      "libelleIt" : "Dal 03/01 al 29/12, tutti i lunedì e giovedì dalle 8:30 alle 12:30.",
+      "libelleDe" : "Vom 03/01 bis 29/12, jeden Montag und Donnerstag von 8.30 Uhr bis 12.30 Uhr.",
+      "libelleNl" : "Van 03/01 tot en met 29/12, elke maandag en donderdag van 8.30 tot en met 12.30 u.",
+      "libelleRu" : "С 03/01 до 29/12, каждый понедельники и четверги с 8h30 до 12h30.",
+      "libelleZh" : "从 1月3日 到 12月29日, 每星期一 和 星期四 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 03/01 a 29/12, todas as segundas-feiras e quintas-feiras de 8h30 a  12h30.",
+      "libelleJa" : "03/01 から 29/12 まで, 毎月曜日 と 木曜日 8.30 午前 と 12.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19482096,
+      "dateDebut" : "2022-01-03",
+      "dateFin" : "2022-12-29",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "12:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 23790774
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 9563129,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché"
+    },
+    "legende" : {
+      "libelleFr" : "Marché"
+    },
+    "copyright" : {
+      "libelleFr" : "C Dusserre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/61/9321780.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/61/9321780-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/61/9321780-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/61/9321780-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marché Fuveau",
+      "taille" : 244439,
+      "hauteur" : 1452,
+      "largeur" : 1234,
+      "lastModifiedDate" : "2021-02-23T11:03:22.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 13275034,
+    "link" : false,
+    "type" : "VIDEO",
+    "nom" : {
+      "libelleFr" : "marché de Fuveau"
+    },
+    "copyright" : {
+      "libelleFr" : "Clélia GROMAS"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/videos/19/51/13447955/Video+march+fuveau.eml",
+      "extension" : "eml",
+      "fileName" : "Video marché fuveau",
+      "taille" : 19621,
+      "lastModifiedDate" : "2022-06-17T15:46:23.293+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-10", "2022-11-14", "2022-11-17", "2022-11-21", "2022-11-24", "2022-11-28", "2022-12-01", "2022-12-05", "2022-12-08", "2022-12-12", "2022-12-15", "2022-12-19", "2022-12-22", "2022-12-26", "2022-12-29", "2023-01-05", "2023-01-09", "2023-01-12", "2023-01-16", "2023-01-19", "2023-01-23", "2023-01-26", "2023-01-30", "2023-02-02", "2023-02-06", "2023-02-09", "2023-02-13", "2023-02-16", "2023-02-20", "2023-02-23", "2023-02-27", "2023-03-02", "2023-03-06", "2023-03-09", "2023-03-13", "2023-03-16", "2023-03-20", "2023-03-23", "2023-03-27", "2023-03-30", "2023-04-03", "2023-04-06", "2023-04-10", "2023-04-13", "2023-04-17", "2023-04-20", "2023-04-24", "2023-04-27", "2023-05-01", "2023-05-04", "2023-05-08", "2023-05-11", "2023-05-15", "2023-05-18", "2023-05-22", "2023-05-25", "2023-05-29", "2023-06-01", "2023-06-05", "2023-06-08", "2023-06-12", "2023-06-15", "2023-06-19", "2023-06-22", "2023-06-26", "2023-06-29", "2023-07-03", "2023-07-06", "2023-07-10", "2023-07-13", "2023-07-17", "2023-07-20", "2023-07-24", "2023-07-27", "2023-07-31", "2023-08-03", "2023-08-07", "2023-08-10", "2023-08-14", "2023-08-17", "2023-08-21", "2023-08-24", "2023-08-28", "2023-08-31", "2023-09-04", "2023-09-07", "2023-09-11", "2023-09-14", "2023-09-18", "2023-09-21", "2023-09-25", "2023-09-28", "2023-10-02", "2023-10-05", "2023-10-09", "2023-10-12", "2023-10-16", "2023-10-19", "2023-10-23", "2023-10-26", "2023-10-30", "2023-11-02", "2023-11-06", "2023-11-09", "2023-11-13", "2023-11-16", "2023-11-20", "2023-11-23", "2023-11-27", "2023-11-30", "2023-12-04", "2023-12-07", "2023-12-11", "2023-12-14", "2023-12-18", "2023-12-21", "2023-12-25", "2023-12-28", "2024-01-04", "2024-01-08", "2024-01-11", "2024-01-15", "2024-01-18", "2024-01-22", "2024-01-25", "2024-01-29", "2024-02-01", "2024-02-05", "2024-02-08", "2024-02-12", "2024-02-15", "2024-02-19", "2024-02-22", "2024-02-26", "2024-02-29", "2024-03-04", "2024-03-07", "2024-03-11", "2024-03-14", "2024-03-18", "2024-03-21", "2024-03-25", "2024-03-28", "2024-04-01", "2024-04-04", "2024-04-08", "2024-04-11", "2024-04-15", "2024-04-18", "2024-04-22", "2024-04-25", "2024-04-29", "2024-05-02", "2024-05-06", "2024-05-09", "2024-05-13", "2024-05-16", "2024-05-20", "2024-05-23", "2024-05-27", "2024-05-30", "2024-06-03", "2024-06-06", "2024-06-10", "2024-06-13", "2024-06-17", "2024-06-20", "2024-06-24", "2024-06-27", "2024-07-01", "2024-07-04", "2024-07-08", "2024-07-11", "2024-07-15", "2024-07-18", "2024-07-22", "2024-07-25", "2024-07-29", "2024-08-01", "2024-08-05", "2024-08-08", "2024-08-12", "2024-08-15", "2024-08-19", "2024-08-22", "2024-08-26", "2024-08-29", "2024-09-02", "2024-09-05", "2024-09-09", "2024-09-12", "2024-09-16", "2024-09-19", "2024-09-23", "2024-09-26", "2024-09-30", "2024-10-03", "2024-10-07", "2024-10-10", "2024-10-14", "2024-10-17", "2024-10-21", "2024-10-24", "2024-10-28", "2024-10-31", "2024-11-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2124
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2188
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nbParticipantsAttendu" : 15,
+    "nomLieu" : "Cours Victor Leydet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT083348"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Fuveau"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.fuveau-tourisme.com"
+    }
+  } ]
+}

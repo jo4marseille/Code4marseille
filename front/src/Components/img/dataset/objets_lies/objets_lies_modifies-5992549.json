@@ -1,0 +1,299 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5992549,
+  "nom" : {
+    "libelleFr" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleEn" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleEs" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleIt" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleDe" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleNl" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleRu" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleZh" : "Le Milieu Artistique Français des Années 50-60",
+    "libellePtBR" : "Le Milieu Artistique Français des Années 50-60",
+    "libelleJa" : "Le Milieu Artistique Français des Années 50-60"
+  },
+  "identifier" : "SITRA2_EVE_5992549",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-12-10T15:43:37.009+0000",
+    "dateModification" : "2022-10-19T08:38:32.973+0000",
+    "dateExportModification" : "2022-10-19T08:38:33.832+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 82796786,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 20 70 01"
+      }
+    }, {
+      "identifiant" : 82796799,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.caumont-centredart.com/"
+      }
+    }, {
+      "identifiant" : 82796800,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/HoteldeCaumont"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5635851
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférences autour de l’exposition Yves Klein proposée par Laurent Genest dans l’Auditorium de l’Hôtel de Caumont"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Après la Deuxième Guerre mondiale, le centre de la création artistique se déplace de l’Europe vers les États-Unis. La peinture et le dessin dominent alors dans un contexte de bouleversement des valeurs culturelles. Une place centrale est faite à la subjectivité et à l’inconscient de l’artiste. La peinture abstraite, dans sa version américaine de l’Expressionnisme abstrait, domine alors toute la création artistique, à tel point qu’il est même difficile à nombre d’artistes français de trouver des galeries parisiennes qui acceptent d’exposer autre chose que de l’art abstrait. Dans ce contexte, divers mouvements émergent en France et Europe, comme l’Abstraction lyrique, l’Art brut, ou Cobra et des personnalités de premier plan comme Francis Bacon"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de Caumont - Centre d'Art",
+      "adresse1" : "3 Rue Joseph Cabassol",
+      "codePostal" : "13100",
+      "bureauDistribution" : "Aix-en-Provence",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.449180, 43.526017 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538427
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 26 novembre 2022 à 9h30.",
+      "libelleEn" : "Saturday 26 November 2022 at 9.30 am.",
+      "libelleEs" : "Sábado, 26 de noviembre de 2022 a 9:30.",
+      "libelleIt" : "Sabato 26 novembre 2022 alle 9:30.",
+      "libelleDe" : "Samstag, den 26. November 2022 um 9.30 Uhr.",
+      "libelleNl" : "Zaterdag 26 november 2022 om 9.30 u.",
+      "libelleRu" : "Суббота 26 ноября 2022  до 9h30.",
+      "libelleZh" : "2022年11月26日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "Sábado 26 Novembro 2022 para  9h30.",
+      "libelleJa" : "土曜日 26 11月 2022 9.30 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22269365,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "complementHoraire" : { },
+      "horaireOuverture" : "09:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24531364
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 12 €.\n",
+      "libelleEn" : "Full price: 12 €.\n",
+      "libelleEs" : "Tarifa completa: 12 €.\n",
+      "libelleIt" : "Tarrifa intera: 12 €.\n",
+      "libelleDe" : "Voller Preis: 12 €.\n",
+      "libelleNl" : "Vol tarief: € 12.\n",
+      "libelleRu" : "Полную цену : 12 €.\n",
+      "libelleZh" : "全额 : 12 €.\n",
+      "libellePtBR" : "Tarifa inteira: 12 €.\n",
+      "libelleJa" : "通常料金: 12 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13765239,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6868312,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5635851
+      },
+      "nom" : "Hôtel de Caumont - Centre d'Art",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104313108,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://caumont.tickeasy.com/fr-FR/produits"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14454665,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Hôtel de Caumont – Centre d’Art"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/229/14804355.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/229/14804355-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/229/14804355-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/229/14804355-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "klein",
+      "taille" : 159079,
+      "hauteur" : 680,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-19T08:38:33.068+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Hôtel de Caumont - Centre d'Art"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

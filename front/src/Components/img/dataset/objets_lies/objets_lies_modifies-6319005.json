@@ -1,0 +1,227 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6319005,
+  "nom" : {
+    "libelleFr" : "Fluide"
+  },
+  "identifier" : "SITRA2_EVE_6319005",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T15:40:17.604+0000",
+    "dateModification" : "2022-11-07T15:45:50.074+0000",
+    "dateExportModification" : "2022-11-07T15:45:50.782+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104987386,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.caumont-centredart.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5523934
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Fluide explore le jardin à la française et sa relation entre nature et culture. A l'Hôtel de Caumont – centre d’art"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’installation in situ prend pour point de départ le texte Végétation de Francis Ponge, comme élément significatif du lien terre / ciel. L’œuvre évoque un milieu matériel parfaitement déformable. Constituée de milliers de modules segmentaires, elle dessine des structures et crée des connexions entre la végétation et l’espace vacant, tel des liens invisibles révélés.\r\n\r\nVisite le 12 novembre à 17h avec l’artiste Étienne Rey autour de son installation In Situ, Fluide, dans le jardin de l’Hôtel de Caumont suivie à 18h d’une rencontre Vue sur jardin, avec Alain Chareyre-Méjan, philosophe, Eugénie Denarnaud, artiste, enseignante-chercheuse à l’École nationale supérieure de paysage, et Étienne Rey, artiste"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de Caumont - Centre d'Art",
+      "adresse1" : "3 Rue Joseph Cabassol",
+      "codePostal" : "13100",
+      "bureauDistribution" : "Aix-en-Provence",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.449178, 43.526029 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6277116
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 12/11 au 16/12/2022, tous les jours de 10h à 18h.\nOuverture exceptionnelle le 12 novembre de 14h à 22h en accès libre.",
+      "libelleEn" : "From 12/11 to 16/12/2022, daily between 10 am and 6 pm.",
+      "libelleEs" : "Del 12/11 al 16/12/2022, todos los dias de 10 a 18.",
+      "libelleIt" : "Dal 12/11 al 16/12/2022, ogni giorno dalle 10 alle 18.",
+      "libelleDe" : "Vom 12/11 bis 16/12/2022, täglich von 10 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 12/11 tot en met 16/12/2022, iedere dag van 10.00 tot en met 18.00 u.",
+      "libelleRu" : "С 12/11 до 16/12/2022, ежедневно с 10h до 18h.",
+      "libelleZh" : "从 11月12日 到 2022年12月16日, 日常 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 12/11 a 16/12/2022, todos os dias de 10h a  18h.",
+      "libelleJa" : "12/11 から 16/12/2022 まで, 毎日 10 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24715474,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-12-16",
+      "complementHoraire" : {
+        "libelleFr" : "Ouverture exceptionnelle le 12 novembre de 14h à 22h en accès libre"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715560
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14810216,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Etienne Rey"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/221/15195488.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/221/15195488-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/221/15195488-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/221/15195488-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "fluide",
+      "taille" : 343933,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T15:45:50.172+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5651
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Hôtel de Caumont - Centre d'Art"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-16T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

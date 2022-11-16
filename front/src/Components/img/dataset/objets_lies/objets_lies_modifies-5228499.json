@@ -1,0 +1,178 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228499,
+  "nom" : {
+    "libelleFr" : "Bureau municipal de tourisme Roquefort la Bédoule",
+    "libelleEn" : "Bureau municipal de tourisme Roquefort la Bédoule",
+    "libelleEs" : "Bureau municipal de tourisme Roquefort la Bédoule",
+    "libelleIt" : "Bureau municipal de tourisme Roquefort la Bédoule",
+    "libelleDe" : "Bureau municipal de tourisme Roquefort la Bédoule",
+    "libelleNl" : "Bureau municipal de tourisme Roquefort la Bédoule"
+  },
+  "identifier" : "SITRA2_STR_5228499",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:23:15.634+0000",
+    "dateModification" : "2020-12-18T08:57:33.229+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537283,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 73 21 12"
+      }
+    }, {
+      "identifiant" : 70537284,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 73 21 82"
+      }
+    }, {
+      "identifiant" : 70537285,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@roquefort-labedoule.fr"
+      }
+    }, {
+      "identifiant" : 85154124,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.roquefort-labedoule.fr/fr/"
+      }
+    }, {
+      "identifiant" : 85155094,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservations@roquefort-labedoule.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de Ville",
+      "adresse2" : "Place De la Libération",
+      "codePostal" : "13830",
+      "commune" : {
+        "id" : 4496
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.591803, 43.247855 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4496
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18591321,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "FOURNIER",
+    "titre" : {
+      "libelleFr" : "Déléguée au Tourisme"
+    }
+  }, {
+    "identifiant" : 18591324,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "IMPAGNATIELLO",
+    "prenom" : "Emilie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 462
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85154212,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 73 21 12"
+      }
+    }, {
+      "identifiant" : 85154219,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservations@roquefort-labedoule.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

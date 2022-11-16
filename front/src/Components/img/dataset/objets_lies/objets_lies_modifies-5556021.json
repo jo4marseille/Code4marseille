@@ -1,0 +1,364 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5556021,
+  "nom" : {
+    "libelleFr" : "Association archéologique Entremont",
+    "libelleEn" : "Association archéologique Entremont",
+    "libelleEs" : "Association archéologique Entremont",
+    "libelleIt" : "Association archéologique Entremont",
+    "libelleDe" : "Association archéologique Entremont",
+    "libelleNl" : "Association archéologique Entremont"
+  },
+  "identifier" : "SITRA2_COS_5556021",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T19:27:55.448+0000",
+    "dateModification" : "2022-03-09T08:08:56.090+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77076826,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 63 13 20"
+      }
+    }, {
+      "identifiant" : 77076827,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 75 63 44 72"
+      }
+    }, {
+      "identifiant" : 77076828,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@asso-archeo-entremont.com"
+      }
+    }, {
+      "identifiant" : 77076829,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.asso-archeo-entremont.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468085
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Créée en 1967 pour protéger et mettre en valeur les vestiges de l'oppidum gaulois d'Entremont à Aix-en-Provence (un oppidum est une ville antique fortifiée)."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les principales activités proposées aux adhérents sont :\r\n- des sorties dans la région (3 ou 4 par an) et des voyages plus lointains en France et à l'étranger, avec pour principaux objectifs des sites ou musées archéologiques bien sûr, mais aussi bien d'autres lieux qui, sur le chemin, méritent une visite, quelle qu'en soit l'époque \r\n- des conférences illustrées de projections \r\n- une bibliothèque \r\n- des messages e-mail sur l'actualité archéologique.\r\n\r\nL'association Entremont organise des visites guidées ouvertes sans inscription à dates fixes pour tout public. Le calendrier annuel de ces visites est indiqué à l'Oppidum, à l'Office de Tourisme, au Musée Granet, sur le site internet de l'Association Archéologique Entremont et chaque visite est annoncée peu avant dans le journal \" La Provence \" en page d'Aix. \r\nLes visites guidées durent environ 2 heures et permettent, dans un agréable cadre champêtre, de découvrir des vestiges de remparts, de maisons, d’ateliers, des traces matérielles de la coutume celte des têtes coupées (ennemis vaincus), etc.\r\nLe tarif de ces visites est variable (l'entrée sur le site est gratuite, le paiement du guidage soutient le budget de l'association constituée uniquement de bénévoles).\r\nLangues du guidage : français\r\nConcernant les visites guidées sur demande pour les groupes, consultez le site internet de l'Association Archéologique Entremont ou les contacter par téléphone ou par mail.\r\n\r\nPique-nique et chiens interdits sur le site. Pas de point d’eau potable ni de toilettes sur le site.\r\n\r\nAvant de vous rendre à Entremont, il vous est possible d'acheter en librairie, à l’Office de Tourisme ou au musée Granet le livret-guide que l'association a publié en 2019, qui est le seul guide existant : « L’oppidum gaulois d’Entremont à Aix-en-Provence, avec un circuit de visite commenté ».\r\n\r\nPermanence le 2e et 4e mercredi du mois (sauf en juillet et août)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "24 Place Des Martyrs de la Résistance",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447449, 43.531142 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539331
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Visite de l'Oppidum : 4€"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20358695,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Charrière",
+    "prenom" : "Jean-Louis",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 97004606,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 75 63 44 72"
+      }
+    }, {
+      "identifiant" : 97004610,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 63 13 20"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8531802,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013659_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Charrière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/167/8300527.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/167/8300527-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/167/8300527-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/167/8300527-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 801879,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-25T14:17:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8531803,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013659_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Charrière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/167/8300528.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/167/8300528-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/167/8300528-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/167/8300528-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1649481,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-25T14:17:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8531804,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013659_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Charrière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/167/8300529.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/167/8300529-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/167/8300529-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/167/8300529-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1186947,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-25T14:17:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8531805,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013659_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Charrière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/167/8300530.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/167/8300530-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/167/8300530-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/167/8300530-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1532726,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-25T14:17:53.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12663783,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Calendrier 2022 des visites guidées"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/188/44/12856508/Calendrier+2022+visites+guidees+Entrem+dates+fixes.pdf",
+      "extension" : "pdf",
+      "fileName" : "Calendrier 2022 visites guidées Entrem. dates fixes",
+      "taille" : 48811,
+      "lastModifiedDate" : "2022-03-09T08:08:56.244+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-12-31T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4012
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4017
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1909435,
+      "annee" : 2022,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4013659"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

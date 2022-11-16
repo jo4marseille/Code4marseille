@@ -1,0 +1,208 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6296497,
+  "nom" : {
+    "libelleFr" : "Conférence Baudelaire critique d’art"
+  },
+  "identifier" : "SITRA2_EVE_6296497",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T08:51:06.379+0000",
+    "dateModification" : "2022-10-18T07:42:31.467+0000",
+    "dateExportModification" : "2022-10-18T07:42:31.638+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77090997,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 22 81 33"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5469887
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférence présentée par Romain Mathieu, Historien et Docteur en Histoire de l’Art, critique pour Art Press et enseignant à l’école Supérieure d’Art et de Design de Saint-Etienne"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Charles Baudelaire n’était pas seulement poète, il fut également critique d’art et ses écrits dans ce domaine reste un sommet du genre. À la force de ses écrits s’ajoute une réflexion sur l’art qui s’associe à sa démarche poétique.\r\nÀ travers les artistes sur lesquels il a écrit et ceux dont il fut proche (Ingres, Delacroix, Courbet, Manet..) nous aborderons la pensée de Baudelaire sur l’art."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de ville d'Istres",
+      "adresse1" : "1 Esplanade Bernardin Laugier",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.988392, 43.516336 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15427
+    },
+    "lieuObjetTouristique" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5555838
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 18h.",
+      "libelleEn" : "Thursday 10 November 2022 at 6 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 18.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 18.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 18 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 18.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 18h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  18h.",
+      "libelleJa" : "木曜日 10 11月 2022 6 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24498348,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24521582
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués. Adhésions obligatoire.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adhésions obligatoire."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14400076,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/235/14740409.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/235/14740409-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/235/14740409-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/235/14740409-diaporama.png",
+      "extension" : "png",
+      "fileName" : "index",
+      "taille" : 4554,
+      "hauteur" : 225,
+      "largeur" : 225,
+      "lastModifiedDate" : "2022-10-14T08:53:21.978+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Hôtel de ville d'Istres"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

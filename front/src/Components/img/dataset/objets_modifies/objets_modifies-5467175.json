@@ -1,0 +1,224 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5467175,
+  "nom" : {
+    "libelleFr" : "Festival d'Abrivado",
+    "libelleEn" : "Abrivado Festival",
+    "libelleEs" : "Festival d'Abrivado",
+    "libelleIt" : "Festival dell'Abrivado",
+    "libelleDe" : "Abrivado-Festival",
+    "libelleNl" : "Festival d'Abrivado"
+  },
+  "identifier" : "SITRA2_EVE_5467175",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:08:54.825+0000",
+    "dateModification" : "2022-10-31T13:59:51.445+0000",
+    "dateExportModification" : "2022-10-31T13:59:51.822+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77002033,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 80 05"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463075
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Journées traditionnelles du monde de la bouvine durant lesquelles les manadiers ( éleveurs de taureaux et chevaux Camargue"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Jeudi 10 : Festival de 10 abrivado -\r\n Départ à 11h00 de la plage Est (lieu-dit Rousty), draille de la Barrachine, Bouvaù d’Aubanel, route de Cacharel RD85a, rue Joanin Audibert, rue de la République, avenue Van Gogh, Arrivée aux arènes.t Rousty)\r\n\r\nVendredi 11 : Festival de 11 abrivado \r\nA 08h30 : Petit déjeuner offert par le Comité des Fêtes sur la plage Est au lieu-dit Rousty,\r\nA 11h00 : Départ des 11 abrivado de la plage Est (lieu-dit Rousty), draille de la Barrachine, Bouvaù d’Aubanel, route de Cacharel RD85a, rue Joanin Audibert, rue de la République, avenue Van Gogh, Arrivée aux arènes."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "La plage Est et les rues du village",
+      "codePostal" : "13460",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.429159, 43.452133 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du jeudi 10 au vendredi 11 novembre.",
+      "libelleEn" : "From Thursday 10 to Friday 11 November.",
+      "libelleEs" : "Del jueves, 10 al viernes, 11 de noviembre.",
+      "libelleIt" : "Dal giovedì 10 a venerdì 11 novembre.",
+      "libelleDe" : "Von Donnerstag, den 10. bis Freitag, den 11. November.",
+      "libelleNl" : "Donderdag 10 tot en met vrijdag 11 november.",
+      "libelleRu" : "С четверг 10 до пятница 11 ноября.",
+      "libelleZh" : "从 星期四 到 11月11日, 星期五.",
+      "libellePtBR" : "De Quinta-feira 10 a Sexta-feira 11 Novembro.",
+      "libelleJa" : "木曜日 10 から 金曜日 11 11月 まで."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19482125,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-11",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 24660627
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16775
+  }, {
+    "id" : 19073
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14693137,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/222/15064589.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/222/15064589-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/222/15064589-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/222/15064589-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Festival d'abrivado 2022",
+      "taille" : 32447,
+      "hauteur" : 280,
+      "largeur" : 179,
+      "lastModifiedDate" : "2022-10-31T13:59:51.522+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-11", "2023-11-10", "2023-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2120
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV021584"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Saintes Maries de la Mer"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintesmaries.com"
+    }
+  } ]
+}

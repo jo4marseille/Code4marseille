@@ -1,0 +1,297 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318730,
+  "nom" : {
+    "libelleFr" : "« Femmes au bain : une histoire de regards » - Conférence et Visite"
+  },
+  "identifier" : "SITRA2_EVE_6318730",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T13:58:11.860+0000",
+    "dateModification" : "2022-11-07T14:15:55.208+0000",
+    "dateExportModification" : "2022-11-07T14:15:57.245+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104976855,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    }, {
+      "identifiant" : 104976856,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reattu.reservation@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 104976857,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museereattu.arles.fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223116
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "« Femmes au bain : une histoire de regards », une conférence-visite avec Martine Brun, guide-conférencière."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "« Femmes au bain : une histoire de regards », une conférence-visite avec Martine Brun, guide-conférencière.\r\nDes fresques de Pompéï à la photographie du XXe siècle, en passant par la peinture orientaliste du XIXe siècle, la femme au bain ou à sa toilette est un sujet de prédilection pour les artistes. Si certains d'entre eux témoignent des pratiques d'hygiène et de soins du corps de leur époque avec une certaine forme réalisme et de neutralité, d'autres utilisent le thème comme prétexte à la représentation d'un nu féminin et développent un imaginaire teinté d'érotisme et d'exotisme. S'appuyant sur des exemples illustres de l'Histoire de l'art, Martine Brun vous mènera aussi à la rencontre des œuvres du musée qui convoquent l'univers du bain et de la toilette, de la Vénus de Jacques Réattu à la Bethsabée de Joseph-Léon de Lestang-Parade\r\n.\r\nDurée : 2h. Billet d'entrée + 3 € par personne (comprend l'entrée, la visite et la conférence)\r\nSur réservation avant le vendredi 25 novembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Réattu",
+      "adresse1" : "10 Rue Du Grand Prieuré",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "MISE EN PLACE DE MESURES SANITAIRES :\r\n\r\nDistance de 1m50 entre les personnes \r\nPort du masque pour nos salariés \r\nPort du masque pour nos clients \r\nVitre de protection \r\nMise à disposition de gel hydroalcoolique\r\nNettoyage renforcé\r\nEffectif limité"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627937, 43.679141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "lieu" : {
+      "id" : 15613
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5539256
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539256
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 27 novembre 2022 de 14h30 à 16h30.",
+      "libelleEn" : "Sunday 27 November 2022 between 2.30 pm and 4.30 pm.",
+      "libelleEs" : "Domingo, 27 de noviembre de 2022 de 14:30 a 16:30.",
+      "libelleIt" : "Domenica 27 novembre 2022 dalle 14:30 alle 16:30.",
+      "libelleDe" : "Sonntag, den 27. November 2022 von 14.30 Uhr bis 16.30 Uhr.",
+      "libelleNl" : "Zondag 27 november 2022 van 14.30 tot en met 16.30 u.",
+      "libelleRu" : "Воскресенье 27 ноября 2022  с 14h30 до 16h30.",
+      "libelleZh" : "2022年11月27日, 星期日   小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "Domingo 27 Novembro 2022 de 14h30 a  16h30.",
+      "libelleJa" : "日曜日 27 11月 2022 2.30 午後 と 4.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24713556,
+      "dateDebut" : "2022-11-27",
+      "dateFin" : "2022-11-27",
+      "horaireOuverture" : "14:30:00",
+      "horaireFermeture" : "16:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24713556
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Sur réservation avant le vendredi 25 novembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Sur réservation avant le vendredi 25 novembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr"
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21551369,
+    "referent" : true,
+    "nom" : "SERRES",
+    "prenom" : "Patricia",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104976858,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "p.serres@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 104976859,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14805868,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Joseph-Léon de Lestang-Parade, Bethsabée à sa toilette (détail)"
+    },
+    "copyright" : {
+      "libelleFr" : "© Musée Réattu"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/201/15190334.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/201/15190334-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/201/15190334-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/201/15190334-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/201/15190334-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "P.6_BethsabÃ©e",
+      "taille" : 3226829,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-11-07T14:15:55.427+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-27" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Réattu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-27T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

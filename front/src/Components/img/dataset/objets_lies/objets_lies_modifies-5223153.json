@@ -1,0 +1,187 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223153,
+  "nom" : {
+    "libelleFr" : "Musée Jean Moulin de Saint Andiol",
+    "libelleEn" : "Musée Jean Moulin de Saint Andiol",
+    "libelleIt" : "Musée Jean Moulin de Saint Andiol",
+    "libelleDe" : "Musée Jean Moulin de Saint Andiol",
+    "libelleNl" : "Musée Jean Moulin de Saint Andiol"
+  },
+  "identifier" : "SITRA2_STR_5223153",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:52:43.483+0000",
+    "dateModification" : "2021-06-24T14:54:54.754+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512923,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 48 95"
+      }
+    }, {
+      "identifiant" : 70512924,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "office.tourisme@st-andiol.fr"
+      }
+    }, {
+      "identifiant" : 70512925,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.saint-andiol.fr"
+      }
+    }, {
+      "identifiant" : 88905986,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Mus%C3%A9e-Jean-Moulin-de-Saint-Andiol-Souvenir-de-mon-pays-468117066953372"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place du Maréchal de Lattre de Tassigny",
+      "codePostal" : "13670",
+      "commune" : {
+        "id" : 4500
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "A7 : Sortie N°24 Avignon Sud à 7,3km par D7N\r\nA7 : Sortie N°25 Cavaillon à 8,2km par D7N\r\nEn provenance d'Avignon (20km) : N750 / N7 / D907 / D7N / D24\r\nEn provenance d'Arles (38km): D570N / D32 / D99 / D30 / D30A / D24\r\nEn provenance de Nîmes (56km) : D999 / D90 / D99B / D99 / D30 / D30A / D24\r\nEn provenance de Marseille (80km) : A55 / A7 (sortie N°25) / D99 / D26 / D29 / D24",
+        "libelleEn" : "A7 : Exit N°24 Avignon Sud 7,3km by D7N\r\nA7 : Exit N°25 Cavaillon 8,2km by D7N\r\nFrom Avignon (84) (20km) : N750 / N7 / D907 / D7N / D24\r\nFrom Arles (13) (38km): D570N / D32 / D99 / D30 / D30A / D24\r\nFrom Nîmes (30) (56km) : D999 / D90 / D99B / D99 / D30 / D30A / D24\r\nFrom Marseille (13) (80km) : A55 / A7 (sortie N°25) / D99 / D26 / D29 / D24"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.944568, 43.835462 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4500
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18765076,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BEYLIER--FORCE",
+    "prenom" : "Jade",
+    "titre" : {
+      "libelleFr" : "04 90 95 48 95"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 462
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 89120452,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 48 95"
+      }
+    }, {
+      "identifiant" : 89120473,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "office.tourisme@st-andiol.fr"
+      }
+    }, {
+      "identifiant" : 89120579,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Mus%C3%A9e-Jean-Moulin-de-Saint-Andiol-Souvenir-de-mon-pays-468117066953372"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

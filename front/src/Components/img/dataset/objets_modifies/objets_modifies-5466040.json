@@ -1,0 +1,713 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466040,
+  "nom" : {
+    "libelleFr" : "Mômaix",
+    "libelleEn" : "Mômaix",
+    "libelleIt" : "Mômaix",
+    "libelleDe" : "Mômaix",
+    "libelleNl" : "Mômaix"
+  },
+  "identifier" : "SITRA2_EVE_5466040",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:30:56.289+0000",
+    "dateModification" : "2022-08-19T13:22:43.353+0000",
+    "dateExportModification" : "2022-11-07T09:49:08.516+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 91718168,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 99 19"
+      }
+    }, {
+      "identifiant" : 91718236,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bic@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 77071415,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-aixenprovence.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463105
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Mômaix, est devenu au fil des années un rendez-vous automnal attendu par les familles aixoises, dont le succès se confirme puisqu’il rassemble 10 000 spectateurs en moyenne depuis sa création en 2009."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La ville d'Aix-en-Provence propose la nouvelle édition de Mômaix, festival à destination des familles. Mômaix, ce sont des spectacles et des  représentations qui se déroulent dans divers lieux culturels à Aix-en-Provence, entre le mois d'octobre et le mois de décembre.\r\n\r\nAu cœur des missions de service public dans l'accès à la culture pour tous, Mômaix à la fois dispositif de médiation culturelle et festival \" jeune public \" a été imaginé comme un champ de partage, une opportunité de rencontre avec l'expression artistique, un lieu d'expression du meilleur de l'écriture et de la création pour la jeunesse.\r\n\r\nTextes classiques revisités ou écritures contemporaines, le rire et les émotions vont se mélanger dans les arts du cirque, le conte, la danse, la musique et le théâtre.",
+      "libelleEn" : "Mômaix is the autumn highlight for live performance for children in Aix-en-Provence. \r\n\r\nMômaix, the children's festival, to be enjoyed by all the family, is an original concept built around an ambitious programme, with dance, theatre, storytelling, music, circus - and accessible to all with adapted discounts. The festival takes place from 16 October to 23 December in differents cultural venues in Aix.\r\n\r\nMômaix, which is coordinated by the City of Aix Culture Department, this year features a total of 58 performances."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Divers lieux à Aix-en-Provence",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444209, 43.525953 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 17136
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6162811
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6247279
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6286500
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6168046
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6287966
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6288282
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6288297
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290995
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6291575
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6291584
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6291593
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6291056
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6300618
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6305486
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6305526
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6162806
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6305629
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6305669
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6305795
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306034
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306075
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306164
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306187
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6308954
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6308963
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6308980
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6308989
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 16/10 au 23/12",
+      "libelleEn" : "From 16/10 to 23/12, daily.",
+      "libelleEs" : "Del 16/10 al 23/12, todos los dias.",
+      "libelleIt" : "Dal 16/10 al 23/12, ogni giorno.",
+      "libelleDe" : "Vom 16/10 bis 23/12, täglich.",
+      "libelleNl" : "Van 16/10 tot en met 23/12, iedere dag.",
+      "libelleRu" : "С 16/10 до 23/12, ежедневно.",
+      "libelleZh" : "从 10月16日 到 12月23日, 日常.",
+      "libellePtBR" : "De 16/10 a 23/12, todos os dias.",
+      "libelleJa" : "16/10 から 23/12 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19942712,
+      "dateDebut" : "2022-10-16",
+      "dateFin" : "2022-12-23",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 24121317
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5546485,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5463105
+      },
+      "nom" : "Mairie d'Aix-en-Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77002296,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 91 90 00"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16541
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13798797,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/42/14035481.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/42/14035481-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/42/14035481-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/42/14035481-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "momaix bis2022",
+      "taille" : 87757,
+      "hauteur" : 655,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-08-19T13:22:43.388+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-29", "2023-10-30", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-12", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-27", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02", "2024-11-03", "2024-11-04", "2024-11-05", "2024-11-06" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2141
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Divers lieux à Aix-en-Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-23T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT002308"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

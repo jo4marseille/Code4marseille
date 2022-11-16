@@ -1,0 +1,215 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222976,
+  "nom" : {
+    "libelleFr" : "Musée des Beaux-Arts",
+    "libelleEn" : "Musée des Beaux Arts",
+    "libelleEs" : "Musée des Beaux Arts",
+    "libelleIt" : "Musée des Beaux Arts",
+    "libelleDe" : "Musée des Beaux Arts",
+    "libelleNl" : "Musée des Beaux Arts"
+  },
+  "identifier" : "SITRA2_STR_5222976",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:45:36.138+0000",
+    "dateModification" : "2022-08-30T11:30:52.948+0000",
+    "dateExportModification" : "2022-10-20T05:21:15.350+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512525,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 30"
+      }
+    }, {
+      "identifiant" : 70512526,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 58 21"
+      }
+    }, {
+      "identifiant" : 70512527,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 24"
+      }
+    }, {
+      "identifiant" : 70512528,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 31"
+      }
+    }, {
+      "identifiant" : 70512529,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee-beauxarts@marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512530,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "dgac-musee-beauxarts@marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512531,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ffrank@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512532,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "dgac-musée-beauxarts@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512533,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://culture.marseille.fr/node/639"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Palais Longchamp",
+      "adresse2" : "7 Rue Edouard Stephan",
+      "codePostal" : "13004",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4534
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.394116, 43.305137 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4534
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21241044,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "GEORGET",
+    "prenom" : "Luc",
+    "titre" : {
+      "libelleFr" : "Conservateur"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102732279,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 30"
+      }
+    }, {
+      "identifiant" : 102732292,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lgeorget@marseille.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

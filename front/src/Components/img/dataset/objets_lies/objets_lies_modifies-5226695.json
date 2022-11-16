@@ -1,0 +1,112 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5226695,
+  "nom" : {
+    "libelleFr" : "Observatoire Astronomique de Marseille",
+    "libelleEn" : "Observatoire Astronomique de Marseille",
+    "libelleEs" : "Observatoire Astronomique de Marseille",
+    "libelleIt" : "Observatoire Astronomique de Marseille",
+    "libelleDe" : "Observatoire Astronomique de Marseille",
+    "libelleNl" : "Observatoire Astronomique de Marseille"
+  },
+  "identifier" : "SITRA2_STR_5226695",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T14:03:52.958+0000",
+    "dateModification" : "2021-04-13T07:23:57.635+0000",
+    "dateExportModification" : "2022-07-01T09:09:25.932+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70525501,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 55 21 55"
+      }
+    }, {
+      "identifiant" : 70525502,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "andromede.13@live.fr"
+      }
+    }, {
+      "identifiant" : 70525503,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://andromede.id.st"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Rafer entrée bd Cassini",
+      "codePostal" : "13004",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4534
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4534
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

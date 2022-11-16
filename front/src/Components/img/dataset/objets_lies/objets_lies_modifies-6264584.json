@@ -1,0 +1,150 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 6264584,
+  "nom" : {
+    "libelleFr" : "Good Design Store"
+  },
+  "identifier" : "SITRA2_STR_6264584",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-16T15:03:28.611+0000",
+    "dateModification" : "2022-09-16T15:06:49.575+0000",
+    "dateExportModification" : "2022-09-16T15:06:49.680+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103296915,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://good-designstore.com"
+      }
+    }, {
+      "identifiant" : 103296957,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marseille@good-designstore.com"
+      }
+    }, {
+      "identifiant" : 103296967,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "hello@good-designstore.com"
+      }
+    }, {
+      "identifiant" : 103296968,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "01 82 83 11 64"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "19 Rue Venture",
+      "codePostal" : "13001",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : { },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21313546,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "HUYGHE",
+    "prenom" : "Julie",
+    "titre" : {
+      "libelleFr" : "Responsable commerciale"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 463
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103297010,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "julie@modernliving.fr"
+      }
+    }, {
+      "identifiant" : 103297015,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 30 26 21 00"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

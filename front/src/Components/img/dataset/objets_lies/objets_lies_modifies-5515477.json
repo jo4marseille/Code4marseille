@@ -1,0 +1,155 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5515477,
+  "nom" : {
+    "libelleFr" : "E-Bike Tour",
+    "libelleEn" : "E-Bike Tours",
+    "libelleIt" : "E-Bike Tours",
+    "libelleDe" : "E-Bike Tours",
+    "libelleNl" : "E-Bike Tours"
+  },
+  "identifier" : "SITRA2_STR_5515477",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-04-25T04:35:20.929+0000",
+    "dateModification" : "2022-09-15T08:39:47.518+0000",
+    "dateExportModification" : "2022-09-15T08:39:47.632+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78141751,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 82 00 73 47"
+      }
+    }, {
+      "identifiant" : 78141752,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 02 18 07"
+      }
+    }, {
+      "identifiant" : 78141753,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "velomarseille@gmail.com"
+      }
+    }, {
+      "identifiant" : 78141754,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ebiketours.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "790889596",
+      "codeApeNaf" : "7721Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "91 Rue D'Endoume",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21284687,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DARLEY",
+    "prenom" : "Emmanuel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103068843,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 82 00 73 47"
+      }
+    }, {
+      "identifiant" : 103068845,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "velomarseille@gmail.com"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

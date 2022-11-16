@@ -1,0 +1,287 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6306034,
+  "nom" : {
+    "libelleFr" : "Le magicien d'Oz"
+  },
+  "identifier" : "SITRA2_EVE_6306034",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T14:06:37.932+0000",
+    "dateModification" : "2022-10-21T14:18:18.570+0000",
+    "dateExportModification" : "2022-10-24T13:52:09.490+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540131,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.ainsidesuite.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228767
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Du rôle de la fée, interprétée par une chanteuse, au bûcheron de fer, incarné par un danseur hip hop en passant par des Grignotins sortis tout droit des tréteaux de la commedia dell’arte, la Cie Ainsi de Suite revisite ce classique du cinéma américain."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Jeune orpheline élevée par sa tante dans le Kansas, Dorothy ne rêve que de voyages. Un matin, un cyclone s’abat sur la ferme et l’emporte dans un univers inconnu. Commence alors son incroyable aventure au Pays d’Oz où\r\nelle rencontre un épouvantail qui rêve d’avoir un cerveau, un homme en fer blanc qui voudrait un cœur et un lion à la limite de la dépression parce qu’il manque de courage…\r\nPetits et grands sont alors invités à accompagner Dorothy Ems dans un voyage fantastique, drôle, émouvant, rythmé et souligné par les compositions originales de trois musiciens… D’après l’œuvre de L. Frank Baum.\r\n\r\n● Mise en scène Claude Pelopidas\r\n● Interprétation Émilie Roudil, Cécile Becquerelle, Cécile Cesaro, Olivier Cesaro, Richard Pop, Claude Pelopidas, Mathieu Philippon \r\n● Musiciens : Clavier Martial; Paoli Guitare, Stéphane Albertini, Violon Zaïd Shawket"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre Compagnie Ainsi de Suite",
+      "adresse1" : "Chapelle du Lycée St Eloi",
+      "adresse2" : "9 Avenue Jules Isaac",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.450590, 43.534124 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228768
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 60,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 10 décembre 2022 \nOuverture  de 15h à 16h et de 18h30 à 19h30.",
+      "libelleEn" : "Saturday 10 December 2022 \nOpening hours  between 3 pm and 4 pm and between 6.30 pm and 7.30 pm.",
+      "libelleEs" : "Sábado, 10 de diciembre de 2022 \nHorarios de apertura  de 15 a 16 y de 18:30 a 19:30.",
+      "libelleIt" : "Sabato 10 dicembre 2022 \nOrari di apertura  dalle 15 alle 16 e dalle 18:30 alle 19:30.",
+      "libelleDe" : "Samstag, den 10. Dezember 2022 \nÖffnungszeiten  von 15 Uhr bis 16 Uhr und von 18.30 Uhr bis 19.30 Uhr.",
+      "libelleNl" : "Zaterdag 10 december 2022 \nOpeningstijden  van 15.00 tot en met 16.00 u en van 18.30 tot en met 19.30 u.",
+      "libelleRu" : "Суббота 10 декабря 2022  \nЧасы открытия  с 15h до 16h и с 18h30 до 19h30.",
+      "libelleZh" : "2022年12月10日, 星期六   \n开放时间  小时小时 和 小时小时 之间 和 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "Sábado 10 Dezembro 2022 \nOuverture  de 15h a  16h e de 18h30 a  19h30.",
+      "libelleJa" : "土曜日 10 12月 2022 \n開館時間  3 午後 と 4 午後 の間 と 6.30 午後 と 7.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24558073,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24558073
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 5 €.\n",
+      "libelleEn" : "One price: 5 €.\n",
+      "libelleEs" : "Tarifa única: 5 €.\n",
+      "libelleIt" : "Tariffa unica: 5 €.\n",
+      "libelleDe" : "Einheitspreis: 5 €.\n",
+      "libelleNl" : "Vast tarief: € 5.\n",
+      "libelleRu" : "Единый тариф : 5 €.\n",
+      "libelleZh" : "定价 : 5 €.\n",
+      "libellePtBR" : "Tarifa única: 5 €.\n",
+      "libelleJa" : "シングルレート: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13779983,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6875963,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228767
+      },
+      "nom" : "Théâtre Compagnie Ainsi de Suite",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70540131,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.ainsidesuite.com/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14486172,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/111/14839767.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/111/14839767-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/111/14839767-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/111/14839767-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "oz",
+      "taille" : 439243,
+      "hauteur" : 1800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T14:18:18.731+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Théâtre Compagnie Ainsi de Suite"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

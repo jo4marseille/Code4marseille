@@ -1,0 +1,527 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5874563,
+  "nom" : {
+    "libelleFr" : "Marché aux poissons de Marignane : La Marée d'An-To"
+  },
+  "identifier" : "SITRA2_EVE_5874563",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-20T12:24:31.527+0000",
+    "dateModification" : "2022-10-19T13:17:40.818+0000",
+    "dateExportModification" : "2022-10-19T13:17:40.968+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Marignane",
+      "dateCreation" : "2020-02-11T08:56:27.494+0000",
+      "dateModification" : "2022-10-24T08:49:40.006+0000",
+      "id" : 1985,
+      "siteWeb" : "http://www.tourisme-marignane.com/"
+    },
+    "signalerUnProblemeMails" : [ "officedetourisme@ville-marignane.fr", "ot-direction@ville-marignane.fr", "ot-promotion@ville-marignane.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88588760,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 60 31 64 02"
+      }
+    }, {
+      "identifiant" : 88588801,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/valpep.valpep"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5798683
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venez découvrir l'arrivage local journalier de poissons et de coquillages de \"La Marée d'An-To\" du pécheur aux consommateurs."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "\"Ils sont 7 à 8 pécheurs à avoir pris part au projet et à mettre en commun leur pêche à la vente sur les étals.\r\nDu poisson de mer, ainsi que du poisson de l'étang... Les variétés sont diverses suivant ce que ramèneront les filets, mais l'on peut déjà trouver des sardines, des loups, des daurades et même parfois du thon et du poulpe. Pour les amateurs de coquillages, les moules, huîtres et autres palourdes sont également de la partie.\"\r\nLa Marée d'An-To vous propose également la livraison de vos plateaux plancha et vos plateaux de coquillages sur commande à partir de 18h."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Port de Marignane",
+      "adresse1" : "Route de la Plage",
+      "codePostal" : "13700",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4465
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.205959, 43.431785 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4465
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les vendredis, samedis et dimanches de 9h à 12h30.",
+      "libelleEn" : "All year round, every Friday, Saturday and Sunday between 9 am and 12.30 pm.",
+      "libelleEs" : "Todo el año, todos los viernes, sábados y domingos de 9 a 12:30.",
+      "libelleIt" : "Tutto l'anno, tutti i venerdì, sabati e domeniche dalle 9 alle 12:30.",
+      "libelleDe" : "Ganzjährig, jeden Freitag, Samstag und Sonntag von 9 Uhr bis 12.30 Uhr.",
+      "libelleNl" : "Het hele jaar, elke vrijdag, zaterdag en zondag van 9.00 tot en met 12.30 u.",
+      "libelleRu" : "В течение всего года, каждый пятницы, субботы и воскресенья с 9h до 12h30.",
+      "libelleZh" : "全年, 每星期五, 星期六 和 星期日 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Todo o ano, todas as sextas-feiras, sábados e domingos de 9h a  12h30.",
+      "libelleJa" : "オールシーズン, 毎金曜日, 土曜日 と 日曜日 9 午前 と 12.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21455499,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "12:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24536176
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19477415,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Erleman",
+    "prenom" : "Antony",
+    "titre" : {
+      "libelleFr" : "Un des deux responsables"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100455649,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 26 87 21"
+      }
+    }, {
+      "identifiant" : 100455980,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tonyherlemann@outlook.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10538499,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "étalage de poissons"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/193/10338693.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/193/10338693-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/193/10338693-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/193/10338693-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Etalage poissons 2021-05-12 Apidae",
+      "taille" : 3270636,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538482,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Poissons et crustacés"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/193/10338676.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/193/10338676-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/193/10338676-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/193/10338676-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Crustacées et poissons 2021-05-12 Apidae",
+      "taille" : 3181817,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538477,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Poissons"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/193/10338671.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/193/10338671-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/193/10338671-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/193/10338671-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Autres poissons 2021-05-12 Apidae",
+      "taille" : 2652166,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:24.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538495,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Devanture"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/193/10338689.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/193/10338689-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/193/10338689-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/193/10338689-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Devanture 2021-05-12 Apidae",
+      "taille" : 2302942,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:28.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538498,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Devanture"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/193/10338692.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/193/10338692-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/193/10338692-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/193/10338692-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Etal 2021-05-12 Apidae",
+      "taille" : 2717650,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538519,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Huîtres"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/193/10338713.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/193/10338713-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/193/10338713-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/193/10338713-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Huitres 2021-05-12 Apidae",
+      "taille" : 2954234,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:18.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538535,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Plateaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/193/10338729.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/193/10338729-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/193/10338729-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/193/10338729-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Plateaux 2021-05-12 Apidae",
+      "taille" : 2304630,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:20.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538542,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Plateaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/193/10338736.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/193/10338736-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/193/10338736-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/193/10338736-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Poissons 2021-05-12 Apidae",
+      "taille" : 2315279,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:26.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538537,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "Plateaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/193/10338731.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/193/10338731-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/193/10338731-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/193/10338731-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Plateaux de fruits de mer 2021-05-12 Apidae",
+      "taille" : 1770922,
+      "hauteur" : 4128,
+      "largeur" : 1908,
+      "lastModifiedDate" : "2021-07-20T12:43:22.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538516,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "bacs"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/193/10338710.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/193/10338710-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/193/10338710-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/193/10338710-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Extérieur 2021-05-12 Apidae",
+      "taille" : 1804245,
+      "hauteur" : 4128,
+      "largeur" : 1908,
+      "lastModifiedDate" : "2021-07-20T12:43:38.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10538479,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Marée d'An-to"
+    },
+    "legende" : {
+      "libelleFr" : "bacs"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/193/10338673.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/193/10338673-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/193/10338673-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/193/10338673-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Bacs 2021-05-12 Apidae",
+      "taille" : 1986587,
+      "hauteur" : 1908,
+      "largeur" : 4128,
+      "lastModifiedDate" : "2021-07-20T12:43:30.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-28", "2022-10-29", "2022-10-30", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-25", "2022-11-26", "2022-11-27", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-27", "2023-01-28", "2023-01-29", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-24", "2023-02-25", "2023-02-26", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-28", "2023-04-29", "2023-04-30", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-26", "2023-05-27", "2023-05-28", "2023-06-02", "2023-06-03", "2023-06-04", "2023-06-09", "2023-06-10", "2023-06-11", "2023-06-16", "2023-06-17", "2023-06-18", "2023-06-23", "2023-06-24", "2023-06-25", "2023-06-30", "2023-07-01", "2023-07-02", "2023-07-07", "2023-07-08", "2023-07-09", "2023-07-14", "2023-07-15", "2023-07-16", "2023-07-21", "2023-07-22", "2023-07-23", "2023-07-28", "2023-07-29", "2023-07-30", "2023-08-04", "2023-08-05", "2023-08-06", "2023-08-11", "2023-08-12", "2023-08-13", "2023-08-18", "2023-08-19", "2023-08-20", "2023-08-25", "2023-08-26", "2023-08-27", "2023-09-01", "2023-09-02", "2023-09-03", "2023-09-08", "2023-09-09", "2023-09-10", "2023-09-15", "2023-09-16", "2023-09-17", "2023-09-22", "2023-09-23", "2023-09-24", "2023-09-29", "2023-09-30", "2023-10-01", "2023-10-06", "2023-10-07", "2023-10-08", "2023-10-13", "2023-10-14", "2023-10-15", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-27", "2023-10-28", "2023-10-29", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-10", "2023-11-11", "2023-11-12", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-24", "2023-11-25", "2023-11-26", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-22", "2023-12-23", "2023-12-24", "2023-12-29", "2023-12-30", "2023-12-31", "2024-01-05", "2024-01-06", "2024-01-07", "2024-01-12", "2024-01-13", "2024-01-14", "2024-01-19", "2024-01-20", "2024-01-21", "2024-01-26", "2024-01-27", "2024-01-28", "2024-02-02", "2024-02-03", "2024-02-04", "2024-02-09", "2024-02-10", "2024-02-11", "2024-02-16", "2024-02-17", "2024-02-18", "2024-02-23", "2024-02-24", "2024-02-25", "2024-03-01", "2024-03-02", "2024-03-03", "2024-03-08", "2024-03-09", "2024-03-10", "2024-03-15", "2024-03-16", "2024-03-17", "2024-03-22", "2024-03-23", "2024-03-24", "2024-03-29", "2024-03-30", "2024-03-31", "2024-04-05", "2024-04-06", "2024-04-07", "2024-04-12", "2024-04-13", "2024-04-14", "2024-04-19", "2024-04-20", "2024-04-21", "2024-04-26", "2024-04-27", "2024-04-28", "2024-05-03", "2024-05-04", "2024-05-05", "2024-05-10", "2024-05-11", "2024-05-12", "2024-05-17", "2024-05-18", "2024-05-19", "2024-05-24", "2024-05-25", "2024-05-26", "2024-05-31", "2024-06-01", "2024-06-02", "2024-06-07", "2024-06-08", "2024-06-09", "2024-06-14", "2024-06-15", "2024-06-16", "2024-06-21", "2024-06-22", "2024-06-23", "2024-06-28", "2024-06-29", "2024-06-30", "2024-07-05", "2024-07-06", "2024-07-07", "2024-07-12", "2024-07-13", "2024-07-14", "2024-07-19", "2024-07-20", "2024-07-21", "2024-07-26", "2024-07-27", "2024-07-28", "2024-08-02", "2024-08-03", "2024-08-04", "2024-08-09", "2024-08-10", "2024-08-11", "2024-08-16", "2024-08-17", "2024-08-18", "2024-08-23", "2024-08-24", "2024-08-25", "2024-08-30", "2024-08-31", "2024-09-01", "2024-09-06", "2024-09-07", "2024-09-08", "2024-09-13", "2024-09-14", "2024-09-15", "2024-09-20", "2024-09-21", "2024-09-22", "2024-09-27", "2024-09-28", "2024-09-29", "2024-10-04", "2024-10-05", "2024-10-06", "2024-10-11", "2024-10-12", "2024-10-13", "2024-10-18" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 6607
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Port de Marignane"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { }
+}

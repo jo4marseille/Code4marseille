@@ -1,0 +1,315 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313569,
+  "nom" : {
+    "libelleFr" : "Effacements",
+    "libelleEn" : "Effacements",
+    "libelleEs" : "Effacements",
+    "libelleIt" : "Effacements",
+    "libelleDe" : "Effacements",
+    "libelleNl" : "Effacements",
+    "libelleRu" : "Effacements",
+    "libelleZh" : "Effacements",
+    "libellePtBR" : "Effacements",
+    "libelleJa" : "Effacements"
+  },
+  "identifier" : "SITRA2_EVE_6313569",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-31T16:23:07.273+0000",
+    "dateModification" : "2022-11-02T10:03:51.169+0000",
+    "dateExportModification" : "2022-11-02T10:03:51.317+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104780582,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 39 17 11"
+      }
+    }, {
+      "identifiant" : 104780583,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@campdesmilles.org"
+      }
+    }, {
+      "identifiant" : 104780584,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.campdesmilles.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223305
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nathalie Rothkoff présente un travail sur la mémoire tout en couleur et en vibrations de lumière. Ces œuvres à mi-chemin entre la sculpture et la peinture construisent des liens entre l’histoire de la Shoah et notre présent."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Elle y rappelle le parcours chaotique et terrifiant à travers l‘Europe de ses grands-parents, internés puis déportés et assassinés à Auschwitz, de sa mère et de sa tante, sauvées par l’œuvre de Secours aux Enfants (OSE) et leur reconstruction.\r\n\r\nCette exposition est un moment de recul et de respect du passé dans le vacarme du temps présent, un repère éducatif pour préparer demain. Nathalie Rothkoff trace ainsi en trois temps le parcours de sa famille qui est aussi celui de tous les déportés survivants : la vie d’avant, l’innommable, l’après.\r\nCette démarche, fait écho à deux missions de la Fondation du Camp des Milles – Mémoire et Education célébrer une mémoire révérence au passé et œuvrer à une mémoire référence pour aujourd’hui et demain : se souvenir pour se construire ou reconstruire mais aussi transmettre pour que le passé éclaire le présent de chacun d’entre nous.\r\n\r\nVernissage ouvert au public le 9 novembre de 19h à 21h30."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Site - Mémorial du Camp des Milles",
+      "adresse1" : "40 Chemin De la Badesse",
+      "codePostal" : "13547",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.382291, 43.503547 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539366
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 10/11/2022 au 28/02/2023, tous les jours de 10h à 19h.\nFermeture de la billetterie à 17h30.",
+      "libelleEn" : "From 10/11/2022 to 28/02/2023, daily between 10 am and 7 pm.",
+      "libelleEs" : "Del 10/11/2022 al 28/02/2023, todos los dias de 10 a 19.",
+      "libelleIt" : "Dal 10/11/2022 al 28/02/2023, ogni giorno dalle 10 alle 19.",
+      "libelleDe" : "Vom 10/11/2022 bis 28/02/2023, täglich von 10 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 10/11/2022 tot en met 28/02/2023, iedere dag van 10.00 tot en met 19.00 u.",
+      "libelleRu" : "С 10/11/2022 до 28/02/2023, ежедневно с 10h до 19h.",
+      "libelleZh" : "从 2022年11月10日 到 2023年2月28日, 日常 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 10/11/2022 a 28/02/2023, todos os dias de 10h a  19h.",
+      "libelleJa" : "10/11/2022 から 28/02/2023 まで, 毎日 10 午前 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24662366,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2023-02-28",
+      "complementHoraire" : {
+        "libelleFr" : "Fermeture de la billetterie à 17h30"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24676026
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Vernissage sur inscription.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Vernissage sur inscription"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6903452,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5223305
+      },
+      "nom" : "Site - Mémorial du Camp des Milles",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104817632,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.helloasso.com/associations/fondation-du-camp-des-milles-memoire-et-education/evenements/vernissage-de-l-exposition-effacements-de-nathalie-rothkoff"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21522280,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Gamichon",
+    "prenom" : "Louise",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104780585,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "louise.gamichon@campdesmilles.org"
+      }
+    }, {
+      "identifiant" : 104780586,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 77 48 06 79"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14723883,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Fondation du Camp des Milles - Mémoire et Education"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/100/15099126.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/100/15099126-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/100/15099126-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/100/15099126-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "effeacements",
+      "taille" : 528781,
+      "hauteur" : 1697,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-02T10:01:23.750+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-27", "2023-02-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nomLieu" : "Site - Mémorial du Camp des Milles"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-02-28T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

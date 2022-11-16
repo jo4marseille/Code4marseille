@@ -1,0 +1,116 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5463056,
+  "nom" : {
+    "libelleFr" : "Mairie de Mallemort",
+    "libelleEn" : "Mairie de Mallemort",
+    "libelleEs" : "Mairie de Mallemort",
+    "libelleIt" : "Mairie de Mallemort",
+    "libelleDe" : "Mairie de Mallemort",
+    "libelleNl" : "Mairie de Mallemort"
+  },
+  "identifier" : "SITRA2_STR_5463056",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-03T14:29:57.326+0000",
+    "dateModification" : "2022-10-12T07:53:46.522+0000",
+    "dateExportModification" : "2022-10-18T08:12:55.269+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77001943,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 59 11 05"
+      }
+    }, {
+      "identifiant" : 77001944,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 59 15 62"
+      }
+    }, {
+      "identifiant" : 77001945,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@mallemort13.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Cours Victor Hugo",
+      "codePostal" : "13370",
+      "commune" : {
+        "id" : 4464
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.180257, 43.728442 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4464
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18602118,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

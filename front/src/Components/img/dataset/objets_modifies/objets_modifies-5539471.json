@@ -1,0 +1,399 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539471,
+  "nom" : {
+    "libelleFr" : "Observatoire de Vauvenargues",
+    "libelleEn" : "Vauvenargues Observatory",
+    "libelleEs" : "Observatoire de Vauvenargues",
+    "libelleIt" : "Observatoire de Vauvenargues",
+    "libelleDe" : "Observatoire de Vauvenargues",
+    "libelleNl" : "Observatoire de Vauvenargues"
+  },
+  "identifier" : "SITRA2_PCU_5539471",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T15:12:38.108+0000",
+    "dateModification" : "2021-03-25T09:21:46.698+0000",
+    "dateExportModification" : "2022-10-17T12:22:52.181+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79675002,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 66 00 96"
+      }
+    }, {
+      "identifiant" : 79675003,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "a3ov@free.fr"
+      }
+    }, {
+      "identifiant" : 79675004,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.astrosurf.com/aaaov/"
+      }
+    }, {
+      "identifiant" : 79675005,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/AAAOV-astronomes-amateurs-aixois-de-lobservatoire-de-vauvenargues-402864456584920/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "44877517100011",
+      "codeApeNaf" : "913E"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226693
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Derrière la montagne Sainte Victoire, à une altitude de 600m, l'observatoire de la Sinne bénéficie d'un cadre exceptionnel, propice à la pratique astronomique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous y découvrirez la coupole et son grand télescope de type Schmidt-Cassegrain de 355 mm de diamètre ainsi que d'autres instruments pour l'observation visuelle.\r\nSoirées publiques mensuelles à partir de 20h : diaporama, repérage des étoiles et des constellations par laser, mythologie céleste. Observation du ciel profond (galaxies, nébuleuses, amas d'étoiles, des planètes du moment et de la Lune) aux instruments et sous coupole.\r\nConférences mensuelles gratuites à l'ENSAM d'Aix-en-Provence (voir Agenda des AAAOV). Manifestations extérieures, partenariat avec d'autres associations. \r\nPratique de l'astronomie pour les adhérents sur toute l'année. \r\n\r\nManifestations extérieures, partenariat avec d'autres associations. Possibilité de soirées animées pour des groupes privés, contacter l'observatoire.",
+      "libelleEn" : "Behind Sainte Victoire mountain, at an altitude of 600m, La Sinne observatory enjoys an exceptional setting, ideal for astronomy.\r\n\r\n\r\nDiscover our cupola and the large Schmidt-Cassegrain 355-mm telescope as well as other instruments for visual observation.\r\n\r\n\r\nPractical astronomy for members. Monthly public evenings: slide show, identification of stars and constellations by laser, celestial mythology. Observation of deep sky (galaxies, nebulae, star clusters, planets of the moment and planets of the Moon) with instruments and in the cupola. \r\n\r\n\r\nFree monthly lectures in Aix-en-Provence. School and corporate groups welcome. Outside events, partnerships with other associations. \r\n\r\nPossibility of private evening functions: contact us for details."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "La Sinne",
+      "adresse2" : "1185 Chemin Du Puits d'Auzon",
+      "codePostal" : "13126",
+      "bureauDistribution" : "VAUVENARGUES",
+      "commune" : {
+        "id" : 4522
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.680609, 43.552434 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4522
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "accès pour autocar par  la ville de Pourrières et parking sur D10",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Ouvert au public d'octobre à mai"
+    },
+    "periodeEnClairGenerationMode" : "MANUEL"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "✘ 5 euros pour les enfants de moins de 16 ans et les étudiants de moins de 25 ans\r\n✘ 10 euros pour les adultes non adhérents à l'association."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "✘ 5 euros pour les enfants de moins de 16 ans et les étudiants de moins de 25 ans\r\n✘ 10 euros pour les adultes non adhérents à l'association."
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16801
+  } ],
+  "contacts" : [ {
+    "identifiant" : 19022085,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Ferratfiat",
+    "prenom" : "Stéphane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 87608000,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "stephane.ferratfiat@laposte.net"
+      }
+    } ]
+  }, {
+    "identifiant" : 19022086,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Delauzin",
+    "prenom" : "Grégoire",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 87608039,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 70 62 39"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8490072,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4011898_5_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Photo donnée par l'observatoire de Vauvenargues."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/6/8259116.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/6/8259116-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/6/8259116-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/6/8259116-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 32808,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:35:23.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8490073,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4011898_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/6/8259117.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/6/8259117-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/6/8259117-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/6/8259117-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 467843,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:35:25.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8490074,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4011898_7_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/6/8259118.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/6/8259118-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/6/8259118-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/6/8259118-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1073957,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:35:24.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8490075,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4011898_8_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/6/8259119.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/6/8259119-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/6/8259119-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/6/8259119-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 796381,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:35:25.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3200
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3559
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3560
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4011898"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

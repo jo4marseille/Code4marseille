@@ -1,0 +1,245 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6286246,
+  "nom" : {
+    "libelleFr" : "Exposition de collages"
+  },
+  "identifier" : "SITRA2_EVE_6286246",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-04T16:43:03.601+0000",
+    "dateModification" : "2022-10-05T06:24:16.825+0000",
+    "dateExportModification" : "2022-10-05T06:24:17.630+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103861873,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 76 04 27 69"
+      }
+    }, {
+      "identifiant" : 103861874,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "p.prophete@orange.fr"
+      }
+    } ]
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Plusieurs thèmes sont abordés, collages très colorés"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "BIOCOOP ARELATE",
+      "adresse2" : "24, avenue Victor Hugo",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.634980, 43.674975 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 06/10 au 30/11/2022 de 10h à 19h.\nFermé lundi et dimanche.",
+      "libelleEn" : "From 06/10 to 30/11/2022 between 10 am and 7 pm.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 06/10 al 30/11/2022 de 10 a 19.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 06/10 al 30/11/2022 dalle 10 alle 19.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 06/10 bis 30/11/2022 von 10 Uhr bis 19 Uhr.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 06/10 tot en met 30/11/2022 van 10.00 tot en met 19.00 u.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 06/10 до 30/11/2022 с 10h до 19h.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 10月6日 到 2022年11月30日 小时小时 和 小时小时 之间.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 06/10 a 30/11/2022 de 10h a  19h.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "06/10 から 30/11/2022 まで 10 午前 と 7 午後 の間.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24431980,
+      "dateDebut" : "2022-10-06",
+      "dateFin" : "2022-11-30",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24431980
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21386797,
+    "referent" : true,
+    "nom" : "PROPHETE",
+    "prenom" : "PIERRETTE",
+    "moyensCommunication" : [ {
+      "identifiant" : 103861875,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "p.prophete@orange.fr"
+      }
+    }, {
+      "identifiant" : 103861876,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 76 04 27 69"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14303688,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "affiche de l'exposition"
+    },
+    "copyright" : {
+      "libelleFr" : "pp"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/58/14629402.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/58/14629402-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/58/14629402-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/58/14629402-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "affiche expo biocoop 2",
+      "taille" : 515138,
+      "hauteur" : 1406,
+      "largeur" : 1090,
+      "lastModifiedDate" : "2022-10-05T06:24:16.966+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,481 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538002,
+  "nom" : {
+    "libelleFr" : "Musée d'Art et d'Histoire",
+    "libelleEn" : "Museum of Art and History",
+    "libelleEs" : "Museo de Arte e Historia",
+    "libelleIt" : "Musée d'Art et d'Histoire",
+    "libelleDe" : "Museum für Kunst und Geschichte",
+    "libelleNl" : "Musée d'Art et d'Histoire"
+  },
+  "identifier" : "SITRA2_PCU_5538002",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:03:52.111+0000",
+    "dateModification" : "2022-08-11T12:51:29.921+0000",
+    "dateExportModification" : "2022-08-11T12:51:30.157+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Communauté d'agglomération Arles Crau Camargue Montagnette (ACCM)",
+      "dateCreation" : "2020-10-27T15:36:13.685+0000",
+      "dateModification" : "2022-10-24T08:49:31.113+0000",
+      "id" : 2118
+    },
+    "signalerUnProblemeMails" : [ "e.dejean@agglo-accm.fr", "i.bindoni@agglo-accm.fr", "i.filaseta@agglo-accm.fr", "m.graziani@agglo-accm.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627409,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 38 71"
+      }
+    }, {
+      "identifiant" : 79627410,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tarascon-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464037
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Musée d'Art et d'Histoire est installé dans l'Ancien Cloître des Cordeliers. Il subsiste de nos jours un cloître et l'ancien parloir.",
+      "libelleEn" : "The Museum of Art and History is housed in the former Cloister of the Cordeliers. Nowadays, a cloister and the old parlor remain.",
+      "libelleEs" : "El Museo de Arte e Historia se encuentra en el antiguo Claustro de los Cordeliers. Hoy en día, quedan un claustro y el antiguo salón.",
+      "libelleDe" : "Das Museum für Kunst und Geschichte ist im Ancien Cloître des Cordeliers untergebracht. Heutzutage sind noch ein Kreuzgang und das ehemalige Besuchszimmer erhalten."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce musée abrite une exposition semi-permanente de la légendaire Tarasque et le cabinet de curiosité de Tartarin. Des expositions ponctuelles viennent enrichir ce lieu riche d'histoire.",
+      "libelleEn" : "This museum houses a semi-permanent exhibition of the legendary Tarasque and the cabinet of curiosity of Tartarin. Occasional exhibitions enrich this place rich in history.",
+      "libelleEs" : "Este museo alberga una exposición semipermanente del legendario gabinete de curiosidades de Tarasque y Tartarin. Las exposiciones ocasionales enriquecen este lugar rico en historia.",
+      "libelleDe" : "Das Museum beherbergt eine halbpermanente Ausstellung des legendären Tarasque und das Kuriositätenkabinett von Tartarin. Punktuelle Ausstellungen bereichern diesen geschichtsträchtigen Ort."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "!!! PENSONS À NOTRE SÉCURITÉ !!!\n\nAfin d'assurer la sécurité de tous et de respecter les consignes gouvernementales, de nouvelles conditions de visite sont mises en place :\n\n- Port du masque obligatoire pour les visiteurs \n- Limitation du nombre de visiteurs accueillis en même temps dans le musée : 10 personnes avec le respect des gestes barrière et des règles de distanciation."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Frédéric Mistral",
+      "codePostal" : "13150",
+      "bureauDistribution" : "TARASCON",
+      "commune" : {
+        "id" : 4519
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "!!! PENSONS À NOTRE SÉCURITÉ !!!\r\n\r\nAfin d'assurer la sécurité de tous et de respecter les consignes gouvernementales, de nouvelles conditions de visite sont mises en place :\r\n\r\n- Port du masque obligatoire pour les visiteurs \r\n- Limitation du nombre de visiteurs accueillis en même temps dans le musée : 10 personnes avec le respect des gestes barrière et des règles de distanciation."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.657514, 43.804670 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4519
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Parking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/02 au 31/05, tous les lundis, mardis, mercredis, jeudis et vendredis.\n\nDu 01/06 au 30/09, tous les mardis, mercredis, jeudis, vendredis et samedis.\n\nDu 01/10 au 31/10, tous les lundis, mardis, mercredis, jeudis et vendredis.\n\nDu 01/11 au 31/01, tous les mardis, mercredis, jeudis, vendredis et samedis.",
+      "libelleEn" : "From 01/02 to 31/05, every Monday, Tuesday, Wednesday, Thursday and Friday.\n\nFrom 01/06 to 30/09, every Tuesday, Wednesday, Thursday, Friday and Saturday.\n\nFrom 01/10 to 31/10, every Monday, Tuesday, Wednesday, Thursday and Friday.\n\nFrom 01/11 to 31/01, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 01/02 al 31/05, todos los lunes, martes, miércoles, jueves y viernes.\n\nDel 01/06 al 30/09, todos los martes, miércoles, jueves, viernes y sábados.\n\nDel 01/10 al 31/10, todos los lunes, martes, miércoles, jueves y viernes.\n\nDel 01/11 al 31/01, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 01/02 al 31/05, tutti i lunedì, martedì, mercoledì, giovedì e venerdì.\n\nDal 01/06 al 30/09, tutti i martedì, mercoledì, giovedì, venerdì e sabati.\n\nDal 01/10 al 31/10, tutti i lunedì, martedì, mercoledì, giovedì e venerdì.\n\nDal 01/11 al 31/01, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 01/02 bis 31/05, jeden Montag, Dienstag, Mittwoch, Donnerstag und Freitag.\n\nVom 01/06 bis 30/09, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.\n\nVom 01/10 bis 31/10, jeden Montag, Dienstag, Mittwoch, Donnerstag und Freitag.\n\nVom 01/11 bis 31/01, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 01/02 tot en met 31/05, elke maandag, dinsdag, woensdag, donderdag en vrijdag.\n\nVan 01/06 tot en met 30/09, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.\n\nVan 01/10 tot en met 31/10, elke maandag, dinsdag, woensdag, donderdag en vrijdag.\n\nVan 01/11 tot en met 31/01, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 01/02 до 31/05, каждый понедельники, вторники, среды, четверги и пятницы.\n\nС 01/06 до 30/09, каждый вторники, среды, четверги, пятницы и субботы.\n\nС 01/10 до 31/10, каждый понедельники, вторники, среды, четверги и пятницы.\n\nС 01/11 до 31/01, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 2月1日 到 5月31日, 每星期一, 星期二, 星期三, 星期四 和 星期五.\n\n从 6月1日 到 9月30日, 每星期二, 星期三, 星期四, 星期五 和 星期六.\n\n从 10月1日 到 10月31日, 每星期一, 星期二, 星期三, 星期四 和 星期五.\n\n从 11月1日 到 1月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 01/02 a 31/05, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras e sextas-feiras.\n\nDe 01/06 a 30/09, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.\n\nDe 01/10 a 31/10, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras e sextas-feiras.\n\nDe 01/11 a 31/01, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "01/02 から 31/05 まで, 毎月曜日, 火曜日, 水曜日, 木曜日 と 金曜日.\n\n01/06 から 30/09 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日.\n\n01/10 から 31/10 まで, 毎月曜日, 火曜日, 水曜日, 木曜日 と 金曜日.\n\n01/11 から 31/01 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19916972,
+      "dateDebut" : "2021-02-01",
+      "dateFin" : "2021-05-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 24073638
+    }, {
+      "identifiant" : 19916973,
+      "dateDebut" : "2021-06-01",
+      "dateFin" : "2021-09-30",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24073639
+    }, {
+      "identifiant" : 19916974,
+      "dateDebut" : "2021-10-01",
+      "dateFin" : "2021-10-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 24073640
+    }, {
+      "identifiant" : 19916975,
+      "dateDebut" : "2020-11-01",
+      "dateFin" : "2021-01-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24073641
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  }, {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636391,
+    "referent" : true,
+    "nom" : "MUSEE D'ART ET D'HISTOIRE",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83924647,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 38 71"
+      }
+    }, {
+      "identifiant" : 83924648,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tarascon.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8992689,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000053_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "M. FAUBET"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/168/8759448.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/168/8759448-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/168/8759448-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/168/8759448-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 650641,
+      "hauteur" : 1920,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2020-11-01T05:11:21.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8992690,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000053_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "M. FAUBET"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/168/8759449.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/168/8759449-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/168/8759449-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/168/8759449-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1232898,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-01T05:11:20.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8992691,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000053_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "M. FAUBET"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/168/8759450.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/168/8759450-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/168/8759450-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/168/8759450-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 859991,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-01T05:11:24.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8992692,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000053_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "M. FAUBET"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/168/8759451.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/168/8759451-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/168/8759451-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/168/8759451-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1332291,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-01T05:11:23.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8992693,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000053_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "M. FAUBET"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/168/8759452.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/168/8759452-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/168/8759452-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/168/8759452-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 838451,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-01T05:11:25.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6142170
+  } ],
+  "datesOuverture" : [ "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-29", "2023-05-30", "2023-05-31", "2024-02-01", "2024-02-02", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2024-04-01", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-29", "2024-04-30", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-06", "2024-05-07", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-13", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-20", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-27", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2024-06-01", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2022-10-12", "2022-10-13", "2022-10-14", "2022-10-17", "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-31", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-30", "2023-10-31", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-07", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-30", "2024-01-31" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000053"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Tarascon"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tarascon.fr"
+    }
+  } ]
+}

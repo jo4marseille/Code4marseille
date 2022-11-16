@@ -1,0 +1,626 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538561,
+  "nom" : {
+    "libelleFr" : "Musée Regards de Provence",
+    "libelleEn" : "Fondation Regards de Provence",
+    "libelleEs" : "Fondation Regards de Provence",
+    "libelleIt" : "Fondation Regards de Provence",
+    "libelleDe" : "Fondation Regards de Provence",
+    "libelleNl" : "Fondation Regards de Provence"
+  },
+  "identifier" : "SITRA2_PCU_5538561",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:53:27.074+0000",
+    "dateModification" : "2022-11-03T11:03:39.833+0000",
+    "dateExportModification" : "2022-11-05T12:39:40.629+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79630455,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 40 40"
+      }
+    }, {
+      "identifiant" : 79630456,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museeregardsdeprovence.com/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "42020008100016",
+      "codeApeNaf" : "913E"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223237
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le musée Regards de Provence est abrité dans l'ancienne station sanitaire maritime construite par F. Pouillon en 1948, labéllisée Patrimoine du XXe s.",
+      "libelleEn" : "Regards de Provence is housed in a former maritime  health station buit by F.Pouillon in 1948 which is 20 th century label."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée met à l'honneur ses collections de peintures, sculptures, photographies et dessins liés à Marseille, la Provence, la Méditerranée, du XVIIIe s. à nos jours. \r\n\r\nIl révèle également tout au long de l'année des expositions temporaires d'art moderne et contemporain.\r\nLe musée offre une vue panoramique sur le port de la Joliette, le fort Saint Jean, le Mucem et la Villa Méditerranée. Il abrite également la librairie Regards de Provence et le restaurant Regards Café.\r\n\r\nVisite commentée gratuite, hors groupes sur réservation : le premier samedi du mois à 10h30 (de 6 à 25 personnes maximum).\r\n\r\nVisites commentées hors groupes sur réservation : samedi à 15h (6 à 25 personnes maximum).\r\n\r\nVisites commentées pour les groupes sur réservation : du mardi au samedi(6 à 25 pers. maximum).\r\n\r\nClôture des inscriptions la veille avant 18h.\r\nSurface de l'exposition temporaire : 420",
+      "libelleEn" : "Museum honours its collections of paintings, sculptures, photographies and drawings dedicated to Marseille, \"la Provence\", \"la Méditerranée\" from XVIII to nowadays.\r\n\r\nIt also offers temporary modern  and contemporary exhibitions all year long.\r\nThe museum offers  a panoramic view on the Joliette port. Saint Jean fort, Mucem and villa mediterranée Café.\r\n\r\nFree guided tours on reservation (  except for groups): saturday at 10.30 (  from 6  to 25 people maximum).\r\n\r\nGuided tours( except groups) on reservation  :  from monday to saturday  entrance fee + 6  euros per person (6 to 25 people)\r\n\r\nGuided tours on reservation except groups : tuesday  and saturday at  3 pm, entrance fee + 6 euros (6 to  25 people maximum)\r\n\r\nSubscriptions closed the day  before at  6 pm.\r\nTemporary  exhibition surface : 420."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Allées Regards de Provence",
+      "adresse2" : "Avenue Vaudoyer",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Joliette ligne 2, Vieux Port ligne 1 : Station de métro à 0.4km\r\nLigne 2 République/Dames ou Joliette : Arrêt de tramway à 0.4km\r\nLignes 82, 60 : Arrêt de bus à 0.3km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.363523, 43.297476 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3975
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3976
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5233942
+      }
+    }, {
+      "type" : "OBJET_PACKAGE",
+      "libelleFr" : "Est proposé par l'offre \"tout compris\"...",
+      "libelleEn" : "Features in the “all-inclusive” offer...",
+      "libelleEs" : "La propone la oferta «todo incluido»...",
+      "libelleIt" : "È proposto dall’offerta “tutto incluso”...",
+      "libelleDe" : "Wird vom „All-inclusive“-Angebot ... angeboten.",
+      "libelleNl" : "Wordt aangeboden door de \"all-inclusive\"-aanbieding ...",
+      "libelleRu" : "Предлагается по тарифу «всё включено»...",
+      "libelleZh" : "由“全包”优惠提供",
+      "libellePtBR" : "Está proposto pela oferta “all inclusive” ...",
+      "libelleJa" : "は「全込み」オファーで提供されています",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5857728
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6055273
+      }
+    }, {
+      "type" : "OBJET_PACKAGE",
+      "libelleFr" : "Est proposé par l'offre \"tout compris\"...",
+      "libelleEn" : "Features in the “all-inclusive” offer...",
+      "libelleEs" : "La propone la oferta «todo incluido»...",
+      "libelleIt" : "È proposto dall’offerta “tutto incluso”...",
+      "libelleDe" : "Wird vom „All-inclusive“-Angebot ... angeboten.",
+      "libelleNl" : "Wordt aangeboden door de \"all-inclusive\"-aanbieding ...",
+      "libelleRu" : "Предлагается по тарифу «всё включено»...",
+      "libelleZh" : "由“全包”优惠提供",
+      "libellePtBR" : "Está proposto pela oferta “all inclusive” ...",
+      "libelleJa" : "は「全込み」オファーで提供されています",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5849954
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parkings publics  Vieux-Port, Mucem Panier.",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "labelsTourismeHandicap" : [ {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1224
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1225
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1226
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1227
+    } ],
+    "descriptifHandicapMoteur" : {
+      "libelleFr" : "Pas de parking privé, mais places de stationnement réservées au parking payant Vieux-Port Fort Saint-Jean. Privilégier le plan incliné d'accès de gauche. Espaces d'exposition, avec espaces de repos. WC 1er niveau, côté salle Vieux-Port : Femme - transfert sur la gauche, et homme : transfert vers la droite. Restaurant et terrasse couverte accessible."
+    },
+    "descriptifHandicapAuditif" : {
+      "libelleFr" : "Aide à l'audition à la demande (Ensemble audiophonie compatible avec la fonction T du système de boucle à induction magnétique). Possibilité de visite guidée adaptée sur réservation. Personnel sensibilisé."
+    },
+    "descriptifHandicapVisuel" : {
+      "libelleFr" : "Documents de visite en gros caractère à la demande. Possibilité de visite guidée adaptée sur réservation."
+    },
+    "descriptifHandicapMental" : {
+      "libelleFr" : "Possibilité de visite guidée adaptée sur réservation. Personnel sensibilisé."
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/01/2022 au 31/12/2023, tous les jours de 10h à 18h.",
+      "libelleEn" : "From 04/01/2022 to 31/12/2023, daily between 10 am and 6 pm.",
+      "libelleEs" : "Del 04/01/2022 al 31/12/2023, todos los dias de 10 a 18.",
+      "libelleIt" : "Dal 04/01/2022 al 31/12/2023, ogni giorno dalle 10 alle 18.",
+      "libelleDe" : "Vom 04/01/2022 bis 31/12/2023, täglich von 10 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 04/01/2022 tot en met 31/12/2023, iedere dag van 10.00 tot en met 18.00 u.",
+      "libelleRu" : "С 04/01/2022 до 31/12/2023, ежедневно с 10h до 18h.",
+      "libelleZh" : "从 2022年1月4日 到 2023年12月31日, 日常 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 04/01/2022 a 31/12/2023, todos os dias de 10h a  18h.",
+      "libelleJa" : "04/01/2022 から 31/12/2023 まで, 毎日 10 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21861609,
+      "dateDebut" : "2022-01-04",
+      "dateFin" : "2023-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24686890
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Visites commentées pour les groupes sur réservation : du mardi au samedi : tarif d'entrée + 7 EUR par personne (6 à 25 pers. maximum).\r\n\r\nVisites commentées hors groupes sur réservation : samedi à 15h, tarif d'entrée + 7 EUR par personne (6 à 25 personnes maximum)."
+    },
+    "periodes" : [ {
+      "identifiant" : 12471303,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2023-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 2.00,
+        "maximum" : 5.50,
+        "precisionTarif" : {
+          "libelleFr" : "Détenteurs Carte Seniors, groupes d'au moins 10 personnes"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.70,
+        "maximum" : 4.70,
+        "precisionTarif" : {
+          "libelleFr" : "Même tarif pour l'accompagnant"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4131
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1281
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 10234
+  }, {
+    "id" : 12888
+  }, {
+    "id" : 12889
+  }, {
+    "id" : 12890
+  }, {
+    "id" : 12891
+  }, {
+    "id" : 13198
+  }, {
+    "id" : 13246
+  }, {
+    "id" : 13248
+  }, {
+    "id" : 15590
+  }, {
+    "id" : 16646
+  }, {
+    "id" : 16775
+  }, {
+    "id" : 23500
+  }, {
+    "id" : 23526
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21140779,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DUMON",
+    "prenom" : "Adeline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101889572,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "adeline.dumon@museeregardsdeprovence.com"
+      }
+    }, {
+      "identifiant" : 101889585,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 40 40"
+      }
+    } ]
+  }, {
+    "identifiant" : 21140766,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DAUDIN",
+    "prenom" : "Marie-France",
+    "titre" : {
+      "libelleFr" : "Responsable commerciale et événementiel"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 463
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101889493,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 40 41"
+      }
+    }, {
+      "identifiant" : 101889494,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@museeregardsdeprovence.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21140773,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DUMON",
+    "prenom" : "Pierre",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101889544,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 04 68 15"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14454129,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Regards de Provence Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Façade"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Regards de Provence Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/227/14803827.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/227/14803827-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/227/14803827-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/227/14803827-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "REgards",
+      "taille" : 206491,
+      "hauteur" : 900,
+      "largeur" : 1261,
+      "lastModifiedDate" : "2022-10-19T08:05:13.241+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1230
+    } ],
+    "nombreSallesReunionEquipees" : 2,
+    "capaciteMaxAccueil" : 200
+  },
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 488
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-04-30", "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-28", "2023-05-29", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-04", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-11", "2023-06-12", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-18", "2023-06-19", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-25", "2023-06-26", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-02", "2023-07-03", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-09", "2023-07-10", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-16", "2023-07-17", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-23", "2023-07-24", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-30", "2023-07-31", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-06", "2023-08-07", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-13", "2023-08-14", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-20", "2023-08-21", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-27", "2023-08-28", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-03", "2023-09-04", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-10", "2023-09-11", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-17", "2023-09-18", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-24", "2023-09-25", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2023-10-01", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-08", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-15", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-29", "2023-10-30", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-12", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-24", "2023-12-25", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2023-12-31" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3393
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3422
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3423
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1834
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1791
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1817
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1818
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001634"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ],
+  "prestationsList" : [ {
+    "type" : "ACTIVITE",
+    "id" : 6187887
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6292359
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6295475
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.0,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 300,
+        "dateMaj" : 1667644279400
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,248 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6253295,
+  "nom" : {
+    "libelleFr" : "\"Le Canigou s'invite en Provence\""
+  },
+  "identifier" : "SITRA2_EVE_6253295",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-06T07:54:42.638+0000",
+    "dateModification" : "2022-09-20T09:33:40.967+0000",
+    "dateExportModification" : "2022-09-20T09:33:41.123+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Maison du Tourisme d'Allauch",
+      "dateCreation" : "2020-10-14T08:22:33.130+0000",
+      "dateModification" : "2022-10-24T08:49:33.880+0000",
+      "id" : 2104,
+      "siteWeb" : "https://tourisme.allauch.com"
+    },
+    "signalerUnProblemeMails" : [ "c.blin@allauch.com", "f.garzino@allauch.com", "g.geffroy@allauch.com", "s.liffaud@allauch.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515322,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 10 49 20"
+      }
+    }, {
+      "identifiant" : 70515323,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@allauch.com"
+      }
+    }, {
+      "identifiant" : 84328981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://tourisme.allauch.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466111
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223971
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférence dans le cadre des \"Sentiers de la Connaissance\" Par Alain Origné, Ingénieur au Laboratoire d’Astrophysique de Marseille (LAM)."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Deux fois par an, un spectacle incroyable se déroule lors du coucher du soleil : le Mont Canigou, situé à plus de 260 km se retrouve en alignement du soleil, et le massif des Pyrénées se découpe alors en ombre chinoise et se fait visible d’Allauch. Cette observation offre toujours un spectacle exceptionnel. C'est au soleil couchant que la « magie » opère et ceci à deux moments de l'année, autour du 8 Février et du 1er Novembre ; à ces dates, le soleil se couche exactement derrière les hauts sommets, cela produit un intense contre-jour permettant d'apercevoir le massif qui jusque-là était masqué par la diffusion atmosphérique.\r\nUn astrophysicien passionné nous invite pour nous expliquer ce phénomène, l'illustrer de vidéo et d'images, et vous inviter à son observation."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Espace François Mitterrand",
+      "adresse1" : "Espace François Mitterrand, traverse Chapelle des filles",
+      "adresse2" : "Vieux village",
+      "codePostal" : "13190",
+      "commune" : {
+        "id" : 4413
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.482639, 43.334688 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4413
+    } ],
+    "lieu" : {
+      "id" : 18471
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540501
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6266616
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 2 février 2023 à 19h.",
+      "libelleEn" : "Thursday 2 February 2023 at 7 pm.",
+      "libelleEs" : "Jueves, 2 de febrero de 2023 a 19.",
+      "libelleIt" : "Giovedì 2 febbraio 2023 alle 19.",
+      "libelleDe" : "Donnerstag, den 2. Februar 2023 um 19 Uhr.",
+      "libelleNl" : "Donderdag 2 februari 2023 om 19.00 u.",
+      "libelleRu" : "Четверг 2 февраля 2023  до 19h.",
+      "libelleZh" : "2023年2月2日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 2 Fevereiro 2023 para  19h.",
+      "libelleJa" : "木曜日 2 2月 2023 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24232706,
+      "dateDebut" : "2023-02-02",
+      "dateFin" : "2023-02-02",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24325416
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13972811,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Canigou s'invite en Provence"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/109/14249288.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/109/14249288-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/109/14249288-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/109/14249288-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "canigou",
+      "taille" : 35990,
+      "hauteur" : 600,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-09-07T10:05:40.652+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2023-02-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2290
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Espace François Mitterrand"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-02-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,155 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222961,
+  "nom" : {
+    "libelleFr" : "Musée Urgonia",
+    "libelleEn" : "Geological and Archaeological Museum",
+    "libelleEs" : "Museo geológico y arqueológico",
+    "libelleIt" : "Museo geologico e archeologico",
+    "libelleDe" : "Geologische und archäologische Museum",
+    "libelleNl" : "Geologische en archeologische Museum"
+  },
+  "identifier" : "SITRA2_STR_5222961",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:45:18.954+0000",
+    "dateModification" : "2022-01-24T13:21:24.497+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512479,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 73 09 54"
+      }
+    }, {
+      "identifiant" : 91181656,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "urgonia.mediation@orgon.fr"
+      }
+    }, {
+      "identifiant" : 91181732,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee.urgonia@gmail.com"
+      }
+    }, {
+      "identifiant" : 70512480,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.musee-urgonia.fr"
+      }
+    }, {
+      "identifiant" : 96025178,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/MuseeUrgonia/"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin des Aires",
+      "codePostal" : "13660",
+      "commune" : {
+        "id" : 4478
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.037560, 43.790725 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4478
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19295677,
+    "referent" : true,
+    "titre" : {
+      "libelleFr" : "Musée Urgonia"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 89264396,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 73 09 54"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

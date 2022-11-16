@@ -1,0 +1,552 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5233942,
+  "nom" : {
+    "libelleFr" : "Regards Café",
+    "libelleEn" : "Regards Café",
+    "libelleIt" : "Regards Café",
+    "libelleDe" : "Regards Café",
+    "libelleNl" : "Regards Café"
+  },
+  "identifier" : "SITRA2_RES_5233942",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-04T13:10:34.837+0000",
+    "dateModification" : "2022-09-06T14:56:36.578+0000",
+    "dateExportModification" : "2022-11-06T12:47:03.361+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70609339,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 40 45"
+      }
+    }, {
+      "identifiant" : 70609340,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@museeregardsdeprovence.com"
+      }
+    }, {
+      "identifiant" : 70609341,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museeregardsdeprovence.com/le-restaurant-regards-cafe-ouvre-ses-portes-vers-lhorizon/911"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5233941
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Regards Café, restaurant et salon de thé au style méditerranéen et contemporain, abrité dans l'enceinte du Musée Regards de Provence, se veut résolument moderne et convivial, avec une offre large et à la portée de tous."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Son style nous plonge dans l'esprit des années 50 pour rappeler l'influence du bâtiment, ancienne station sanitaire, initialement bâti par l'architecte Fernand Pouillon. Sa mise en scène mélange les créations de plusieurs artisans et des tableaux de la collection Regards de Provence, symbole de la volonté de la Fondation de donner à ce lieu une connotation artistique et élégante.\r\n \r\nUne implantation exceptionnelle. Il en ressort une atmosphère méditerranéenne et d'évasion, évoquée par la vue panoramique magnifique, depuis la terrasse de 100 m2 couverte tempérée, allant du fort Saint Jean à la cathédrale de La Major, grâce au Bow Window. La lumière naturelle filtrée par les baies vitrées, l'animation portuaire en première ligne, l'élégance des architectures de la Villa Méditerranée et du Mucem participent à l'ambiance du lieu et permettent de se sentir transportés dans un univers architectural, artistique et de voyage.\r\n \r\nUne carte créative. Au quotidien, plusieurs recettes différentes : brochettes de sot-l'y-laisse au saté, tartare de boeuf, espadon rôti aux agrumes, Risotto de Saint-Jacques au parmesan... - sont cuisinées dans les grandes tendances provençales et avec des influences exotiques de main de maitre par le chef Thierry Lennon au parcours culinaire aussi varié qu'étoilé."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Musée Regards de Provence",
+      "adresse2" : "Avenue Vaudoyer",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Joliette et Vieux Port : Station de métro à 0.3km\r\nLignes 82 et 60 : Arrêt de bus à 0.3km\r\nArrêt République/Dames ou Joliette : Arrêt de tramway à 0.3km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.362771, 43.296263 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3975
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3976
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4320
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6087
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538561
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 715
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 5557
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6062
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 5994
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public (Vinci fort Saint-Jean)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "labelsTourismeHandicap" : [ {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1224
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1225
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1226
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1227
+    } ],
+    "descriptifHandicapMoteur" : {
+      "libelleFr" : "Pas de parking privé, mais places de stationnement réservées au parking payant Vieux-Port Fort Saint-Jean. Privilégier le plan incliné d'accès de gauche. Restaurant accessible via un ascenseur. Terrasse couverte accessible via un élévateur. WC collectif accessible par transfert vers la gauche."
+    },
+    "descriptifHandicapAuditif" : {
+      "libelleFr" : "WC collectif équipé d'une alarme visuelle. Accès wifi."
+    },
+    "descriptifHandicapVisuel" : {
+      "libelleFr" : "Pas de parking privé, mais places de stationnement réservées au parking payant Vieux-Port Fort Saint-Jean. Restaurant accessible via un ascenseur. Personnel sensibilisé et à la demande carte en caractères agrandis."
+    },
+    "descriptifHandicapMental" : {
+      "libelleFr" : "Personnel sensibilisé."
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022 de 10h à 18h.\nFermé le lundi.\nFermetures exceptionnelles les 1er janvier, 1er mai, 15 août et 25 décembre.\nDîner uniquement pour privatisation groupes.",
+      "libelleEn" : "From 01/01 to 31/12/2022 between 10 am and 6 pm.\nClosed on Monday.\nClosed exceptionally on January 1st, May 1st, August 15th and December 25th.",
+      "libelleEs" : "Del 01/01 al 31/12/2022 de 10 a 18.\nCerrado los lunes.\nSe cierra, excepcionalmente los días 1er de enero, 1er de mayo, 15 de agosto y 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022 dalle 10 alle 18.\nChiuso il lunedì.\nChiusura eccezionale 1° gennaio, 1° maggio, 15 agosto e 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022 von 10 Uhr bis 18 Uhr.\nMontag geschlossen.\nAusnahmsweise geschlossen am 1. Januar, 1. Mai, 15. August und 25. Dezember.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022 van 10.00 tot en met 18.00 u.\nMaandag gesloten.\nBij uitzondering gesloten op 1 januari, 1 mei, 15 augustus en 25 december.",
+      "libelleRu" : "С 01/01 до 31/12/2022 с 10h до 18h.\nНе работает понедельник.\nВ порядке исключения не работает 1 января, 1 мая, 15 августа и 25 декабря.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日 小时小时 和 小时小时 之间.\n星期一 关闭.\n在 1月1日, 5月1日, 8月15日 和 12月25日 例外关闭.",
+      "libellePtBR" : "De 01/01 a 31/12/2022 de 10h a  18h.\nFechado em segunda-feira.\nFechamentos excepcionais em 1º de janeiro, 1º de maio, 15 de agosto e 25 de dezembro.",
+      "libelleJa" : "01/01 から 31/12/2022 まで 10 午前 と 6 午後 の間.\n月曜日 は休み.\n1月1日, 5月1日, 8月15日 と 12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19390564,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Dîner uniquement pour privatisation groupes"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24238441
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "QUINZE_AOUT"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12675934,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 23.00,
+        "maximum" : 30.00,
+        "precisionTarif" : {
+          "libelleFr" : "Offre couplée visite de l'exposition et déjeuner"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1502
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5839427,
+      "nom" : "TheFork La Fourchette",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89467214,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://module.thefork.com/fr_FR/module/210939-f69ee"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16901
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21271478,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102979408,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 40 45"
+      }
+    }, {
+      "identifiant" : 102979414,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@museeregardsdeprovence.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11923149,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "©Regard café Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/76/12012556.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/76/12012556-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/76/12012556-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/76/12012556-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "43020087_1163888267092133_256176287897354240_n",
+      "taille" : 420815,
+      "hauteur" : 1376,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2021-12-28T11:25:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11923150,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "©Regard café Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/76/12012557.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/76/12012557-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/76/12012557-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/76/12012557-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "117181718_1703393943141560_1589438193167259786_n",
+      "taille" : 662568,
+      "hauteur" : 1374,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2021-12-28T11:25:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11923148,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Regard café Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "©Regard café Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/76/12012555.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/76/12012555-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/76/12012555-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/76/12012555-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "28516751_1009583289189299_5975738051098073623_o",
+      "taille" : 32784,
+      "hauteur" : 1388,
+      "largeur" : 1388,
+      "lastModifiedDate" : "2021-12-28T11:25:08.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1253
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1259
+    } ],
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1228
+    } ],
+    "nombreSallesReunionEquipees" : 2
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2985
+    }, {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2989
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    } ],
+    "capacite" : {
+      "descriptionSalles" : {
+        "libelleFr" : "Salle: 125 personnes pour 1 cocktail /110 pour un dîner assis/100 pour une réunion\r\nTerrasse couverte: 80 pour 1 cocktail/ 50 dîner assis et 70 en réunion\r\nToit -terrasse: 220: cocktail"
+      },
+      "nombreSalles" : 1,
+      "nombreMaximumCouverts" : 125,
+      "nombreCouvertsTerrasse" : 50
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST001567"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.3,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 336,
+        "dateMaj" : 1667730548513
+      }
+    } ]
+  } ]
+}

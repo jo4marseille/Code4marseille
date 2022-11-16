@@ -1,0 +1,194 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538262,
+  "nom" : {
+    "libelleFr" : "Port Vieux de La Ciotat",
+    "libelleEn" : "Port Vieux de La Ciotat",
+    "libelleEs" : "Port Vieux de La Ciotat",
+    "libelleIt" : "Port Vieux de La Ciotat",
+    "libelleDe" : "Port Vieux de La Ciotat",
+    "libelleNl" : "Port Vieux de La Ciotat"
+  },
+  "identifier" : "SITRA2_PCU_5538262",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:21:38.632+0000",
+    "dateModification" : "2020-11-26T12:25:55.912+0000",
+    "dateExportModification" : "2021-09-05T16:20:11.301+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628332,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 08 61 32"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464891
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "On rejoint La Ciotat par la route des crêtes. La Ciotat est choisie pendant deux ans pour servir d'entrepôt du commerce de Marseille. Le marseillais L. Benet réalisa les premiers ateliers de construction navale en 1835. La Ciotat possède de belles maisons du XVIIe s. autour du port. \r\nL'ancien Hôtel de Ville, édifié en 1863 de style Renaissance, domine le port de son haut clocher. Il abrite le musée ciotaden. La chapelle des pénitents bleus date du XVIIe siècle.",
+      "libelleEn" : "We join La Ciotat by the road of crests.La Ciotat is chosen during two years to serve as warehouse of the business of Marseille. The inhabitant of Marseille L. Simpleton realized first workshops of naval construction in 1835. Ciotat possesses beautiful houses of XVIIth s around the port. \nThe former City hall, built in 1863 of Renaissance style, dominates the port(bearing) of its high bell tower. It shelters the ciotaden museum. The chapel of penitent blue dates the XVIIth century."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Port Vieux",
+      "codePostal" : "13600",
+      "bureauDistribution" : "LA CIOTAT",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.608391, 43.174091 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8487305,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001215_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/251/8256349.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/251/8256349-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/251/8256349-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/251/8256349-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 35977,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T16:46:59.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 6097
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001215"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT La Ciotat"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-laciotat.com"
+    }
+  } ]
+}

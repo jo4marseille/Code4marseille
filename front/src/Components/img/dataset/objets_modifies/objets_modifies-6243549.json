@@ -1,0 +1,316 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6243549,
+  "nom" : {
+    "libelleFr" : "L'hypnose à travers le temps",
+    "libelleEn" : "L'hypnose à travers le temps",
+    "libelleEs" : "L'hypnose à travers le temps",
+    "libelleIt" : "L'hypnose à travers le temps",
+    "libelleDe" : "L'hypnose à travers le temps",
+    "libelleNl" : "L'hypnose à travers le temps",
+    "libelleRu" : "L'hypnose à travers le temps",
+    "libelleZh" : "L'hypnose à travers le temps",
+    "libellePtBR" : "L'hypnose à travers le temps",
+    "libelleJa" : "L'hypnose à travers le temps"
+  },
+  "identifier" : "SITRA2_EVE_6243549",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-27T18:05:12.680+0000",
+    "dateModification" : "2022-08-29T10:19:55.457+0000",
+    "dateExportModification" : "2022-08-29T10:19:56.112+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102657773,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    }, {
+      "identifiant" : 102657774,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaflibustier@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230835
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Après le succès d’Hypnosis, plus de 640 représentations en 4 ans, Hervé Barbereau nous propose de venir découvrir son nouveau spectacle ’’L’Hypnose A Travers Le Temps’’ au théâtre Le Flibustier."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Une fois hypnotisé par Hervé, vous lui confierez les clés de votre volonté, pour voyager des origines de l’hypnose (4000 ans avant J.C.) à nos jours.\r\nVous traverserez les siècles en état hypnotique sous l’œil bienveillant d’Hervé, qui mène d’une main de maître ce spectacle, où l’humour et les anecdotes s’entremêlent. Cela pour le plus grand plaisir de tous.\r\n\r\nHervé Barbereau, un des rares hypnotiseurs à savoir hypnotiser en quelques secondes."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Café théâtre Le Flibustier",
+      "adresse1" : "7 Rue Des Bretons",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453385, 43.528997 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729788
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 20h.",
+      "libelleEn" : "Thursday 10 November 2022 at 8 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 20.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 20.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 20 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 20.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  20h.",
+      "libelleJa" : "木曜日 10 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24171415,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24171415
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 20 €.\n",
+      "libelleEn" : "Full price: from 20 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 20 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 20 €.\n",
+      "libelleDe" : "Voller Preis: ab 20 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 20 €.\n",
+      "libelleRu" : "Полную цену : с 20 €.\n",
+      "libelleZh" : "全额 : 从 20 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 20 €.\n",
+      "libelleJa" : "通常料金: 20 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13591533,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6746468,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230835
+      },
+      "nom" : "Café théâtre Le Flibustier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 102696839,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.leflibustier.net/spectacles/tout-public-adultes/herve-barbereau/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21231929,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102657775,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.flibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 102657776,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13878568,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "le flibustier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/169/14133619.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/169/14133619-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/169/14133619-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/169/14133619-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "HerveÌ-Barbereau-hypnose-dans-le-temps-430x640",
+      "taille" : 49258,
+      "hauteur" : 640,
+      "largeur" : 430,
+      "lastModifiedDate" : "2022-08-29T10:19:55.729+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Café théâtre Le Flibustier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

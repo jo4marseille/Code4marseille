@@ -1,0 +1,343 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539354,
+  "nom" : {
+    "libelleFr" : "La place d'Albertas",
+    "libelleEn" : "The place of albertas",
+    "libelleIt" : "Place d'Albertas",
+    "libelleDe" : "Place d'Albertas",
+    "libelleNl" : "Place d'Albertas"
+  },
+  "identifier" : "SITRA2_PCU_5539354",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:54:07.947+0000",
+    "dateModification" : "2022-09-29T10:33:29.728+0000",
+    "dateExportModification" : "2022-10-17T12:22:43.096+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225411
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La place d'Albertas est située en plein centre-ville d'Aix-en-Provence, à deux pas du cours Mirabeau, en bordure de la rue Espariat.",
+      "libelleEn" : "The Place d'Albertas is located in the heart of downtown Aix-en-Provence, a stone's throw from the Cours Mirabeau, on the edge of Rue Espariat."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au XVIIIe, la famille d'Albertas est l'une des plus grandes familles de la ville. En 1724, Henri Rainaud d'Albertas commande à Laurent Vallon les dessins de la façade et de l'entrée de son hôtel. Pour dégager une belle perspective, il rachète, entre 1735 et 1741, les maisons situées en face et les fait démolir. Il souhaite la construction d'une place sur le modèle parisien des places royales.\r\nCe sera Jean-Baptiste d' Albertas, son fils, qui continuera son oeuvre entre 1742 et 1746, en confiant ce projet à Georges Vallon, fils de Laurent.\r\nLa fontaine au centre fut érigée en 1862.\r\n\r\nAujourd'hui la place d'Albertas, est un lieu de rencontre où amoureux, peintres, touristes, étudiants ou aixois se croisent, s'assoient ou profitent d'un concert quand le temps le permet, \r\n\r\n⚠ La ville lance une opération de restauration sur la place d’Albertas à partir du mois d'octobre 2022. Les travaux s’échelonneront sur une période de neuf mois. Ils porteront sur la rénovation de la fontaine ainsi que sur la remise en état et l’extension de la calade (pavée de galets) jusqu’à la rue Espariat. Des travaux sont également prévus afin de rendre le lieu accessible pour les personnes à mobilité réduite ⚠",
+      "libelleEn" : "In the 18th century the Albertas were one of the city's leading families.\r\n\r\nIn 1724, Henri Rainaud d'Albertas instructed Laurent Vallon to design the frontage and entrance of his private mansion. \r\n\r\nTo create an open outlook, between 1735 and 1741 he bought the houses opposite and had them demolished. He wanted a square to be built on the Parisian model of the royal palaces. It was Jean-Baptiste d'Albertas, his son, who continued his work from 1742 to 1746, assigning the project to Laurent Vallon's son Georges. \r\n\r\nThe fountain in the centre was built in 1862."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place D' Albertas",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.448743, 43.527771 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539482
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538013
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8489457,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/3/8258501.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/3/8258501-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/3/8258501-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/3/8258501-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1191787,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:13.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489458,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/3/8258502.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/3/8258502-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/3/8258502-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/3/8258502-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1137141,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:12.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489459,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/3/8258503.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/3/8258503-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/3/8258503-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/3/8258503-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 612508,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:15.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489460,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/3/8258504.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/3/8258504-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/3/8258504-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/3/8258504-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 777812,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:14.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489461,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/3/8258505.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/3/8258505-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/3/8258505-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/3/8258505-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 575283,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:17.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489462,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000036_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/3/8258506.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/3/8258506-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/3/8258506-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/3/8258506-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 947778,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:24:16.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 4857
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3317
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000036"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

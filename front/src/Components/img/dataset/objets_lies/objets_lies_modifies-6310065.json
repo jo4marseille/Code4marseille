@@ -1,0 +1,246 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6310065,
+  "nom" : {
+    "libelleFr" : "Duo Rachelle Plas & Philippe Hervouët"
+  },
+  "identifier" : "SITRA2_EVE_6310065",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T15:06:40.313+0000",
+    "dateModification" : "2022-10-27T13:05:39.051+0000",
+    "dateExportModification" : "2022-10-27T13:05:39.180+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70526973,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.le-non-lieu.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227177
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez le duo Rachelle Plas & Philippe Hervouët au Non-Lieu le 19 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’astre Rachelle Plas brille au firmament de l’harmonica en compagnie de Philippe Hervouêt ; un ciel d’une belle couleur blues, on l’avait deviné. Si l’on associe presque inévitablement l’instrument au blues, il est aisé de constater que la punkette de choc repousse les frontières de l’instrument.\r\n\r\nRachelle Plas, harmonica\r\nPhilippe Hervouët, guitare\r\n\r\n+ Première partie : Duo Yan Yalego - Claude Dasse\r\n[blues harmonica]\r\n\r\nFestival Accordéon\r\nPour cette 7e édition le Festival d’accordéon du Non-Lieu ouvre ses portes aux \"anches\" car l’accordéon, l’harmonica sont des instruments jumeaux qui fonctionnent sur le même principe : des anches qui vibrent au souffle. Nous accueillons donc cette année, une harmoniciste et un saxophoniste qui rejoindront le \"piano du pauvre\"."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Non-Lieu",
+      "adresse1" : "67 Rue De la Palud",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.380375, 43.292633 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 19 novembre 2022 à 20h30.",
+      "libelleEn" : "Saturday 19 November 2022 at 8.30 pm.",
+      "libelleEs" : "Sábado, 19 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Sabato 19 novembre 2022 alle 20:30.",
+      "libelleDe" : "Samstag, den 19. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Zaterdag 19 november 2022 om 20.30 u.",
+      "libelleRu" : "Суббота 19 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月19日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "Sábado 19 Novembro 2022 para  20h30.",
+      "libelleJa" : "土曜日 19 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24604729,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-19",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24617475
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 10 €.\n\n\n+ adhésion obligatoire.",
+      "libelleEn" : "Full price: 10 €.\n",
+      "libelleEs" : "Tarifa completa: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: 10 €.\n",
+      "libelleDe" : "Voller Preis: 10 €.\n",
+      "libelleNl" : "Vol tarief: € 10.\n",
+      "libelleRu" : "Полную цену : 10 €.\n",
+      "libelleZh" : "全额 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: 10 €.\n",
+      "libelleJa" : "通常料金: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "+ adhésion obligatoire"
+    },
+    "periodes" : [ {
+      "identifiant" : 13803315,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-19",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14583654,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Duo Rachelle Plas & Philippe Hervouët"
+    },
+    "legende" : {
+      "libelleFr" : "Duo Rachelle Plas & Philippe Hervouët"
+    },
+    "copyright" : {
+      "libelleFr" : "Duo Rachelle Plas & Philippe Hervouët - Le Non-Lieu"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/16/14946511.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/16/14946511-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/16/14946511-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/16/14946511-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "plas",
+      "taille" : 127871,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-26T15:18:34.989+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Non-Lieu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

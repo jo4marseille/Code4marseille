@@ -1,0 +1,257 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6228696,
+  "nom" : {
+    "libelleFr" : "La P'tite Fumée"
+  },
+  "identifier" : "SITRA2_EVE_6228696",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-10T07:44:02.366+0000",
+    "dateModification" : "2022-08-10T08:29:46.404+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77078363,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 27 79"
+      }
+    }, {
+      "identifiant" : 77078364,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@passagersduzinc.com"
+      }
+    }, {
+      "identifiant" : 77078365,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://lespassagers.net/"
+      }
+    }, {
+      "identifiant" : 99259848,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/passagersduzinc/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468517
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Concert de La P'tite Fumée à à la Rotonde."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Grâce à un savant mélange festif de techno, trance et musique tribale, La P'tite Fumée est devenu en quelques années l'un des groupes incontournables de la scène live française et répand désormais son énergie à travers toute l'Europe et au-delà. Sur scène les 4 musiciens se déchaînent et embarquent le public dans une transe ultra festive où la vibration du didgeridoo, les harmonies de la guitare classique et la flûte traversière accompagnent un puissant trio percu/basse/batterie pour créer une atmosphère bouillante qui ne laisse personne indifférent. Gros Pogo en prévision !\r\n\r\nConfiguration debout."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Rotonde",
+      "adresse1" : "Chemin du Mas de Lafont",
+      "codePostal" : "13160",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4438
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.851305, 43.886114 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4438
+    } ],
+    "lieu" : {
+      "id" : 18107
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5994074
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 20h.\nDébut des concerts : 20h30.",
+      "libelleEn" : "Thursday 10 November 2022 at 8 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 20.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 20.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 20 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 20.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  20h.",
+      "libelleJa" : "木曜日 10 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24064236,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : {
+        "libelleFr" : "Début des concerts : 20h30."
+      },
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24064590
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6703336,
+      "nom" : "Billet Web",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 102111113,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.billetweb.fr/la-p-tite-fumee"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 13711602,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "© La P'tite Fumée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/140/13929651.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/140/13929651-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/140/13929651-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/140/13929651-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "294145000_5204268466293750_5127676224874016481_n",
+      "taille" : 90750,
+      "hauteur" : 494,
+      "largeur" : 960,
+      "lastModifiedDate" : "2022-08-10T07:55:45.965+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2137
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "La Rotonde"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

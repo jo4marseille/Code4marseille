@@ -1,0 +1,418 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538503,
+  "nom" : {
+    "libelleFr" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleEn" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleEs" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleIt" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleDe" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleNl" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleRu" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleZh" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libellePtBR" : "Observatoire du Parc Marin de la Côte Bleue",
+    "libelleJa" : "Observatoire du Parc Marin de la Côte Bleue"
+  },
+  "identifier" : "SITRA2_PCU_5538503",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:43:54.109+0000",
+    "dateModification" : "2021-10-07T13:14:53.847+0000",
+    "dateExportModification" : "2022-06-10T06:07:31.114+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Carry-le-Rouet",
+      "dateCreation" : "2020-10-01T12:13:22.314+0000",
+      "dateModification" : "2022-10-24T08:49:36.330+0000",
+      "id" : 2094,
+      "siteWeb" : "http://www.otcarrylerouet.fr"
+    },
+    "signalerUnProblemeMails" : [ "asmarangon@mairie-carrylerouet.fr", "mdominguezloza@mairie-carrylerouet.fr", "oolivierdallard@mairie-carrylerouet.fr", "scoutsouras@mairie-carrylerouet.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79629824,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 45 07"
+      }
+    }, {
+      "identifiant" : 79629825,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 98 06"
+      }
+    }, {
+      "identifiant" : 79629826,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "syndicatmixte@parcmarincotebleue.fr"
+      }
+    }, {
+      "identifiant" : 79629827,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parcmarincotebleue.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "25130220400010",
+      "codeApeNaf" : "751E"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222998
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'Observatoire du Parc Marin ouvre ses portes les jeudis après-midi de juillet et d'aout. Les réservations se font à l'Office de Tourisme de Carry-le-Rouet. Destiné aux enfants (minimum 6 ans)."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le syndicat mixte Parc Marin de la Côte Bleue (qui regroupe le Conseil Général, le Conseil Régional, les 5 communes) a pour vocation de reprendre et prolonger l'action conduite par l'association Parc Régional Marin de la Côte Bleue. Ses objectifs sont les suivants : la gestion, la protection et la revalorisation des milieux naturels marins et littoraux, la contribution au développement économique et social des activités liées à la mer et en particulier de la pêche professionnelle artisanale, l'accueil, l'information et l'éducation du public, la réalisation d'actions expérimentales ou exemplaires dans les domaines ci-dessus et la contribution à des programmes de recherche scientifique. Le domaine d'action d'intervention du syndicat mixte s'étend sur l'ensemble du littoral de la Côte Bleue, de l'Anse des laurons à l'ouest à la pointe de Corbières à l'est et sur le milieu marin adjacent jusqu'à 2 milles au large. Il intervient devant les communes de Martigues, Sausset les Pins, Carry le Rouet, Ensuès la Redonne et le Rove. Depuis 1983, le parc marin a réalisé un certain nombres d'actions, d'information et de sensibilisation du public."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Observatoire",
+      "adresse2" : "31 Avenue Jean Bart",
+      "adresse3" : "Plage du Rouet",
+      "codePostal" : "13620",
+      "bureauDistribution" : "CARRY LE ROUET",
+      "commune" : {
+        "id" : 4432
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.172412, 43.333967 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4432
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 200
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4320
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 741
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 766
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 995
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1024
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1188
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 596
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 4547
+    } ],
+    "ageMin" : 72,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Découverte du milieu marin et atelier de juin à septembre. Toute l'année pour les scolaires sur réservation."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20537460,
+      "dateDebut" : "2021-06-01",
+      "dateFin" : "2021-09-30",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 21899759
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5627443,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5222998
+      },
+      "nom" : "Syndicat Mixte Parc Marin de la Côte Bleue",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70512605,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 45 45 07"
+        }
+      }, {
+        "identifiant" : 70512608,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.parcmarincotebleue.fr"
+        }
+      }, {
+        "identifiant" : 70512607,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "syndicatmixte@parcmarincotebleue.fr"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 18883627,
+    "referent" : true,
+    "nom" : "Parc Marin de la Côte Bleue",
+    "moyensCommunication" : [ {
+      "identifiant" : 86835100,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 45 07"
+      }
+    }, {
+      "identifiant" : 86835101,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "syndicatmixte@parcmarincotebleue.fr"
+      }
+    }, {
+      "identifiant" : 86835102,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parcmarincotebleue.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8491826,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001592_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/13/8260870.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/13/8260870-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/13/8260870-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/13/8260870-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 378229,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:54:41.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesAudioGuide" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3235
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-09-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5147
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001592"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "BMT Carry le Rouet"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.otcarrylerouet.fr"
+    }
+  } ]
+}

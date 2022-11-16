@@ -1,0 +1,184 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223277,
+  "nom" : {
+    "libelleFr" : "Tour-musée",
+    "libelleEn" : "Tour-musée",
+    "libelleEs" : "Tour-musée",
+    "libelleIt" : "Tour-musée",
+    "libelleDe" : "Tour-musée",
+    "libelleNl" : "Tour-musée"
+  },
+  "identifier" : "SITRA2_STR_5223277",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:59:17.954+0000",
+    "dateModification" : "2021-06-14T09:42:23.696+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513228,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 73 66"
+      }
+    }, {
+      "identifiant" : 70513230,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 73 74"
+      }
+    }, {
+      "identifiant" : 70513231,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "m.calvier@mairie-de-velaux.fr"
+      }
+    }, {
+      "identifiant" : 70513232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.velaux.fr"
+      }
+    }, {
+      "identifiant" : 85037931,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 87 73 73"
+      }
+    }, {
+      "identifiant" : 85037932,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 32 87 96 10"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130112200019",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue De la Tour",
+      "codePostal" : "13880",
+      "commune" : {
+        "id" : 4523
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.252820, 43.522191 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4523
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18571030,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "CALVIER",
+    "prenom" : "Muriel",
+    "titre" : {
+      "libelleFr" : "Service Patrimoine"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85037934,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 32 87 96 10"
+      }
+    }, {
+      "identifiant" : 85037935,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "m.calvier@mairie-de-velaux.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

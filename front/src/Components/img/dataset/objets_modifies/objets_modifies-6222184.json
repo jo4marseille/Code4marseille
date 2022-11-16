@@ -1,0 +1,214 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6222184,
+  "nom" : {
+    "libelleFr" : "La commune et l'Algérie"
+  },
+  "identifier" : "SITRA2_EVE_6222184",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-01T08:00:19.902+0000",
+    "dateModification" : "2022-08-01T08:42:38.204+0000",
+    "dateExportModification" : "2022-08-01T08:42:38.638+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101819237,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.toursky.fr/evenement/up-la-commune-et-lalgerie/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227376
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L’histoire est écrite par les vainqueurs, comme l’atteste toujours les manuels scolaires, mais comme en témoigne également la mémoire des luttes populaires.o"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Commune de Paris n’est encore que très rarement mise en perspective de l’histoire coloniale. Cet éclairage est pourtant indispensable pour comprendre les actuels enjeux mémoriels. L’insurrection parisienne de 1871 fut précédée de quelques jours par celle des Mokrani en Kabylie, soit deux peuples combattant un même ennemi impérialiste. Une histoire franco-algérienne où le rôle des femmes reste primordial des deux côtés de la méditerranée…\r\n\r\nÀ partir d’extraits de journaux télévisés, de documents d’archives, de témoignages, Manifeste Rien vous invite à découvrir les sources bibliographiques inédites qui ont nourri leur pièce « Fadhma & Louise – 1871 le cri des peuples ».\r\n\r\nCette forme originale qui conjugue le théâtre et les sciences sociales, est une des spécificités du collectif qui accompagne ses pièces d’ateliers de médiation. Ces séances de partage et d’échange sont données depuis plusieurs années dans les centres sociaux, les écoles, les prisons. Un travail qui n’est pas sans soulever de nombreuses questions : mépris de classe et stigmatisation des quartiers populaires ; invisibilité et neutralisation des luttes dans la culture… Venez découvrir ces ateliers de médiations dont la recette vous sera dévoilée. Quels sont les outils, la méthodologie et les pratiques qui permettent de toucher différents publics."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre Axel Toursky",
+      "adresse1" : "16 Passage Léo Ferré",
+      "codePostal" : "13003",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.377710, 43.315895 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "complement" : {
+      "libelleFr" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mPnuNEMq6EM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 19h.",
+      "libelleEn" : "Thursday 10 November 2022 at 7 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 19.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 19.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 19 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 19.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 19h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  19h.",
+      "libelleJa" : "木曜日 10 11月 2022 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24002583,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24002865
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13622944,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Théâtre du Toursky"
+    },
+    "legende" : {
+      "libelleFr" : "Théâtre du Toursky"
+    },
+    "copyright" : {
+      "libelleFr" : "Théâtre du Toursky"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/228/13821172.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/228/13821172-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/228/13821172-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/228/13821172-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "6767",
+      "taille" : 46189,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-01T08:42:38.277+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Théâtre Axel Toursky"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

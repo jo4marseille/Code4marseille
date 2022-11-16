@@ -1,0 +1,230 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6184204,
+  "nom" : {
+    "libelleFr" : "On choisit ses amis... pas sa famille !"
+  },
+  "identifier" : "SITRA2_EVE_6184204",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-24T13:30:24.166+0000",
+    "dateModification" : "2022-06-24T13:33:35.179+0000",
+    "dateExportModification" : "2022-06-24T13:33:35.710+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100712708,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.16-19.fr/comediemarseille"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5973062
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "On ne choisit pas toujours sa famille, qu'on se le dise !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Toc toc toc ! Qui est la ? C'est ta soeur ! J'en ai pas... Que tu crois !\r\n\r\nComment Luc, architecte de renom, hautain, classieux, aimant garder le contrôle sur tout, va-t-il gérer le débarquement de Victoire, une soeurette envahissante et exubérante que même la génétique hésite à définir comme telle !\r\n\r\nEcriture : Bruno Gallisa\r\nAvec Bruno Gallisa, Delphine Pradeilles"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le 16/19 Comédie Marseille",
+      "adresse1" : "Le 16/19 Comédie Marseille",
+      "adresse2" : "16 Quai de rive neuve",
+      "codePostal" : "13007",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.370685, 43.292971 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/11 au 26/11/2022, tous les vendredis et samedis à 19h30.",
+      "libelleEn" : "From 04/11 to 26/11/2022, every Friday and Saturday at 7.30 pm.",
+      "libelleEs" : "Del 04/11 al 26/11/2022, todos los viernes y sábados a 19:30.",
+      "libelleIt" : "Dal 04/11 al 26/11/2022, tutti i venerdì e sabati alle 19:30.",
+      "libelleDe" : "Vom 04/11 bis 26/11/2022, jeden Freitag und Samstag um 19.30 Uhr.",
+      "libelleNl" : "Van 04/11 tot en met 26/11/2022, elke vrijdag en zaterdag om 19.30 u.",
+      "libelleRu" : "С 04/11 до 26/11/2022, каждый пятницы и субботы до 19h30.",
+      "libelleZh" : "从 11月4日 到 2022年11月26日, 每星期五 和 星期六 在 小时小时分钟.",
+      "libellePtBR" : "De 04/11 a 26/11/2022, todas as sextas-feiras e sábados para  19h30.",
+      "libelleJa" : "04/11 から 26/11/2022 まで, 毎金曜日 と 土曜日 7.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23705638,
+      "dateDebut" : "2022-11-04",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "19:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23705638
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : de 14 à 22 €.\n",
+      "libelleEn" : "One price: 14 to 22 €.\n",
+      "libelleEs" : "Tarifa única: de 14 a 22 €.\n",
+      "libelleIt" : "Tariffa unica: da 14 a 22 €.\n",
+      "libelleDe" : "Einheitspreis: von 14 bis 22 €.\n",
+      "libelleNl" : "Vast tarief: € 14 tot en met € 22.\n",
+      "libelleRu" : "Единый тариф : с 14 до  22 €.\n",
+      "libelleZh" : "定价 : 从 14 到  22 €.\n",
+      "libellePtBR" : "Tarifa única: de 14 a 22 €.\n",
+      "libelleJa" : "シングルレート: 14 から 22 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13393882,
+      "dateDebut" : "2022-11-04",
+      "dateFin" : "2022-11-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 14.00,
+        "maximum" : 22.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13327462,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "On choisit ses amis... pas sa famille !"
+    },
+    "legende" : {
+      "libelleFr" : "On choisit ses amis... pas sa famille !"
+    },
+    "copyright" : {
+      "libelleFr" : "On choisit ses amis... pas sa famille ! - Le 16/19 Comédie Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/246/13497908.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/246/13497908-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/246/13497908-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/246/13497908-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "famille",
+      "taille" : 104248,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-06-24T13:33:35.268+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-05", "2022-11-11", "2022-11-12", "2022-11-18", "2022-11-19", "2022-11-25", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le 16/19 Comédie Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

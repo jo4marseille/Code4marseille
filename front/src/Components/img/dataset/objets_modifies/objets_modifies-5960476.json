@@ -1,0 +1,248 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5960476,
+  "nom" : {
+    "libelleFr" : "Exposition de Julien Hachémi"
+  },
+  "identifier" : "SITRA2_EVE_5960476",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-04T13:22:15.213+0000",
+    "dateModification" : "2022-11-07T09:55:58.291+0000",
+    "dateExportModification" : "2022-11-07T09:55:59.162+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78241014,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 99 57"
+      }
+    }, {
+      "identifiant" : 78241015,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediatheque.verquieres@orange.fr"
+      }
+    }, {
+      "identifiant" : 90407823,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/M%C3%A9diath%C3%A8que-du-Clocher-561653657320130/?ref=page_internal"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5518337
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition de Julien Hachémi à la Médiathèque du Clocher."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La médiathèque a le plaisir d’accueillir une exposition de Julien Hachémi. Venez découvrir dessin, peinture, et poterie de l'artiste.\r\nEn partenariat avec HandiVers Horizon."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Médiathèque du Clocher",
+      "adresse1" : "3 Place de l'Ecole",
+      "codePostal" : "13670",
+      "commune" : {
+        "id" : 4527
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.919143, 43.839636 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4527
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/11 au 28/11/2022, tous les mardis, mercredis, jeudis et samedis.\nMardi de 14h à 18h.\r\nMercredi de 14h à 19h.\r\nJeudi de 14h à 18h.\r\nSamedi de 9h à 12h.",
+      "libelleEn" : "From 07/11 to 28/11/2022, every Tuesday, Wednesday, Thursday and Saturday.",
+      "libelleEs" : "Del 07/11 al 28/11/2022, todos los martes, miércoles, jueves y sábados.",
+      "libelleIt" : "Dal 07/11 al 28/11/2022, tutti i martedì, mercoledì, giovedì e sabati.",
+      "libelleDe" : "Vom 07/11 bis 28/11/2022, jeden Dienstag, Mittwoch, Donnerstag und Samstag.",
+      "libelleNl" : "Van 07/11 tot en met 28/11/2022, elke dinsdag, woensdag, donderdag en zaterdag.",
+      "libelleRu" : "С 07/11 до 28/11/2022, каждый вторники, среды, четверги и субботы.",
+      "libelleZh" : "从 11月7日 到 2022年11月28日, 每星期二, 星期三, 星期四 和 星期六.",
+      "libellePtBR" : "De 07/11 a 28/11/2022, todas as terças-feiras, quartas-feiras, quintas-feiras e sábados.",
+      "libelleJa" : "07/11 から 28/11/2022 まで, 毎火曜日, 水曜日, 木曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24220358,
+      "dateDebut" : "2022-11-07",
+      "dateFin" : "2022-11-28",
+      "complementHoraire" : {
+        "libelleFr" : "Mardi de 14h à 18h.\r\nMercredi de 14h à 19h.\r\nJeudi de 14h à 18h.\r\nSamedi de 9h à 12h."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24710005
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19275198,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MIRALLES",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 89115573,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 99 57"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14803257,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "© Médiathèque du Clocher"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/191/15187727.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/191/15187727-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/191/15187727-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/191/15187727-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Verquières Exposition",
+      "taille" : 136410,
+      "hauteur" : 1080,
+      "largeur" : 1080,
+      "lastModifiedDate" : "2022-11-07T09:55:58.393+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Médiathèque du Clocher"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-28T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

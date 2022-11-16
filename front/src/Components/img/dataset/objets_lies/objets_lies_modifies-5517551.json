@@ -1,0 +1,553 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5517551,
+  "nom" : {
+    "libelleFr" : "Les Méjanes - Bibliothèque patrimoniale Méjanes et archives municipales Michel Vovelle",
+    "libelleEn" : "Les Méjanes - Bibliothèque patrimoniale Méjanes et archives municipales Michel Vovelle",
+    "libelleEs" : "Archives Municipales",
+    "libelleIt" : "Archives Municipales",
+    "libelleDe" : "Archives Municipales",
+    "libelleNl" : "Archives Municipales"
+  },
+  "identifier" : "SITRA2_LOI_5517551",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-04-29T18:50:18.794+0000",
+    "dateModification" : "2022-07-13T09:26:07.856+0000",
+    "dateExportModification" : "2022-10-14T13:17:12.247+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78237236,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 71 74 20"
+      }
+    }, {
+      "identifiant" : 78237237,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "archiv@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 78237238,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "citedulivre-patrimoine@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 78237239,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.citedulivre-aix.com/"
+      }
+    }, {
+      "identifiant" : 78237240,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://aix.arkotheque.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463105
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les fonds patrimoniaux de la bibliothèque Méjanes et les archives municipales d'Aix-en-Provence ont investi depuis février 2020 un nouveau lieu au sein du forum culturel."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Réalisé en 2004 par l'architecte marseillais Jean-Michel Battesti, le bâtiment de 3200 m2 – destiné lors de sa conception aux Archives départementales – offre aujourd'hui, des conditions idéales tant pour la conservation des collections que pour l'accueil du public.\r\n\r\nL'équipement abrite 8 kms de collections patrimoniales dans ses réserves. Les fonds des archives municipales retracent 800 ans d'histoire d'Aix, sous la forme de parchemins, de dossiers papier, de photographies ou encore de cartes postales et de plans. Autant de documents uniques qui constituent la mémoire de la ville.\r\nLes fonds de la bibliothèque Méjanes, dont l'origine remonte au précieux legs fondateur du Marquis de Méjanes en 1786 se distingue pas son encyclopédisme et sa rareté : manuscrits médiévaux, livres imprimés, périodiques, partitions, estampes, cartes et livres d'artistes : un patrimoine remarquable qui ne cesse de s'enrichir.\r\n\r\nUn aperçu des documents les plus emblématiques est proposé au visiteur dès l'entrée et des expositions en écho avec les collections sont régulièrement programmées.\r\n\r\nL'accès est libre et gratuit.\r\n\r\nPour la communication des documents, administrés, chercheurs ou simples curieux sont accueillis dans une salle de lecture confortable et lumineuse de 30 places assises. Espace dédié à l'accueil de groupes (conférences, ateliers...) et espace détente.",
+      "libelleEn" : "Memory of our city, the Archives service retains many documents tracing the communal activity since the 12th century.\r\n\r\nThe Archives have as essential missions to collect, classify, preserve and communicate the documents."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "25 Allée De Philadelphie",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.438793, 43.526882 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5540834
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6296995
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 02/01 au 31/12, tous les mardis, mercredis, jeudis, vendredis et samedis de 13h à 18h.\nSamedi la consultation des documents provenant des archives municipales sur demande préalable (la veille avant 16h)\r\n\r\nExpositions : du mardi au samedi de13h à 18h.",
+      "libelleEn" : "From 02/01 to 31/12, every Tuesday, Wednesday, Thursday, Friday and Saturday between 1 pm and 6 pm.",
+      "libelleEs" : "Del 02/01 al 31/12, todos los martes, miércoles, jueves, viernes y sábados de 13 a 18.",
+      "libelleIt" : "Dal 02/01 al 31/12, tutti i martedì, mercoledì, giovedì, venerdì e sabati dalle 13 alle 18.",
+      "libelleDe" : "Vom 02/01 bis 31/12, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 13 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 02/01 tot en met 31/12, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag van 13.00 tot en met 18.00 u.",
+      "libelleRu" : "С 02/01 до 31/12, каждый вторники, среды, четверги, пятницы и субботы с 13h до 18h.",
+      "libelleZh" : "从 1月2日 到 12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 02/01 a 31/12, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 13h a  18h.",
+      "libelleJa" : "02/01 から 31/12 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 1 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19480134,
+      "dateDebut" : "2021-01-02",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Samedi la consultation des documents provenant des archives municipales sur demande préalable (la veille avant 16h)\r\n\r\nExpositions : du mardi au samedi de13h à 18h"
+      },
+      "horaireOuverture" : "13:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23869426
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 17407446,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BOSC",
+    "prenom" : "Aurélie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    }
+  }, {
+    "identifiant" : 17407447,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MEIRIEU",
+    "prenom" : "Coline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82138749,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "meirieuc@mairie-aixenprovence.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8589309,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/114/8352364.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/114/8352364-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/114/8352364-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/114/8352364-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 118635,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:19.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589310,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/114/8352365.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/114/8352365-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/114/8352365-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/114/8352365-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 142430,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:19.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589311,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/114/8352366.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/114/8352366-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/114/8352366-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/114/8352366-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 79141,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:21.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589312,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/114/8352367.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/114/8352367-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/114/8352367-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/114/8352367-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 107398,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:20.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589313,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/114/8352368.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/114/8352368-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/114/8352368-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/114/8352368-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 161883,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:20.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589314,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/114/8352369.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/114/8352369-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/114/8352369-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/114/8352369-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 160140,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:20.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589315,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_7_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/114/8352370.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/114/8352370-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/114/8352370-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/114/8352370-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 163875,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T15:33:23.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589316,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1022968_8_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/114/8352371.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/114/8352371-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/114/8352371-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/114/8352371-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 826141,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T15:33:21.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1253
+    } ]
+  },
+  "visites" : {
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-14", "2022-10-15", "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-30", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-07", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3207
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3344
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1022968"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

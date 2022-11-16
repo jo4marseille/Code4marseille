@@ -1,0 +1,337 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5518894,
+  "nom" : {
+    "libelleFr" : "Plage des Catalans",
+    "libelleEn" : "Plage des Catalans",
+    "libelleEs" : "Plage des Catalans",
+    "libelleIt" : "Plage des Catalans",
+    "libelleDe" : "Plage des Catalans",
+    "libelleNl" : "Plage des Catalans"
+  },
+  "identifier" : "SITRA2_LOI_5518894",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-04-29T19:36:39.430+0000",
+    "dateModification" : "2022-06-03T13:24:14.848+0000",
+    "dateExportModification" : "2022-07-01T09:31:34.574+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 95901409,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marseille.fr/mer/saison-balneaire/les-plages"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5518893
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La plage des Catalans est une plage de sable, la plus proche du Vieux Port, en contrebas du club sportif Le Cercle des Nageurs. Elle est équipée d'un poste de secours, douches, sanitaires, poubelles, d'une buvette."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le  terrain de volley accueille des compétitions de haut niveau, et les entraînements du club de beach volley des Catalans.\r\nC'est le lieu d'accueil aussi du musée sous-marin. \r\n\r\nLa surveillance des plages  sera du 1er juin au 31 août 2022 7 jours sur 7 de 10h à 19h30.\r\n\r\nAfin de permettre aux baigneurs de profiter du site dans les meilleures conditions d'hygiène et de confort, la plage a été reprofilée et tamisée à 30 cm de profondeur. \r\nElle fait désormais l'objet d'un nettoyage quotidien. De même, un module sanitaire a été installé. Les douches sont opérationnelles tous les jours, tandis que les sanitaires sont ouverts.\r\nDepuis le Vieux Port, bus 83."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6199
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue des Catalans",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "N°83 arrêt Catalans : Arrêt de bus à 0.2km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.355420, 43.290700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5004339
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5861122
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5556202
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 761
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 823
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1100
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 5394
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 6061
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1114
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16637
+  }, {
+    "id" : 16782
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12368760,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Plage des Catalans Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Plage des Catalans Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "SB Office de Tourisme Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/22/12523219.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/22/12523219-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/22/12523219-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/22/12523219-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC_1528",
+      "taille" : 1069645,
+      "hauteur" : 1971,
+      "largeur" : 3504,
+      "lastModifiedDate" : "2022-02-06T16:06:19.472+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12368931,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Plage des Catalans Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Plage des Catalans Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "SB Office de Tourisme Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/23/12523486.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/23/12523486-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/23/12523486-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/23/12523486-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC_1531 (002)",
+      "taille" : 664745,
+      "hauteur" : 1802,
+      "largeur" : 3204,
+      "lastModifiedDate" : "2022-02-06T16:06:18.109+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13128750,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Plage et quartier des Catalans Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Plage et quartier des Catalans Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "SB Office de Tourisme Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/21/13309414.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/21/13309414-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/21/13309414-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/21/13309414-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Plage et quartiers Catalans SB",
+      "taille" : 3311297,
+      "hauteur" : 3096,
+      "largeur" : 5504,
+      "lastModifiedDate" : "2022-05-31T13:45:27.716+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2993
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3149
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3298
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SN000192"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

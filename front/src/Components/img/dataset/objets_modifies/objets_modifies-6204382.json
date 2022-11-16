@@ -1,0 +1,305 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6204382,
+  "nom" : {
+    "libelleFr" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleEn" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleEs" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleIt" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleDe" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleNl" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleRu" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleZh" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libellePtBR" : "Exposition : ADA par Karina Smigla-Bobinski",
+    "libelleJa" : "Exposition : ADA par Karina Smigla-Bobinski"
+  },
+  "identifier" : "SITRA2_EVE_6204382",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-13T13:04:02.477+0000",
+    "dateModification" : "2022-10-14T15:26:49.698+0000",
+    "dateExportModification" : "2022-10-14T15:26:49.958+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101265176,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 21 29 12"
+      }
+    }, {
+      "identifiant" : 101265177,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@cfaprovence.com"
+      }
+    }, {
+      "identifiant" : 101265178,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.cfaprovence.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468173
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nommée en l’honneur de la mathématicienne anglaise du XIXe siècle, Ada Lovelace, ADA est une œuvre d’art autoformée, une sculpture animée par les visiteurs, en cours de destruction, une \"créature\" post-industrielle",
+      "libelleEn" : "ADA is a work of art that forms itself, a sculpture animated by visitors, in the process of destruction, a post-industrial \"creature\"..."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Rempli d’hélium et hérissé de fusains, le globe en forme de membrane flotte librement dans chaque pièce où il se trouve et laisse des traces sur les murs, les plafonds et les sols. Le visiteur a beau essayer de contrôler \"ADA\", de la conduire, il s’aperçoit très vite que \"ADA\" est une artiste indépendante. C’est un mouvement qui s’exprime visuellement et qui, comme un ordinateur, produit un résultat imprévisible après avoir entré une commande.",
+      "libelleEn" : "Named after 19th century English mathematician, Ada Lovelace, ADA is a self-forming artwork, visitors animated, under destruction sculpture, a post-industrial „creature“, resembling a molecular hybrid from nano biotechnology. Filled up with helium and spiked with charcoals, the membrane-like globe floats freely in each room it is located and leave marks on the walls, ceilings and floors. However hard the visitor tries to control «ADA», to drive her, he would notice very soon, that «ADA» is an independent performer."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Chapelle de la Visitation Sainte-Catherine de Sienne",
+      "adresse1" : "Rue Mignet",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.450887, 43.530530 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5571273
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11 au 16/12/2022, tous les mercredis, jeudis, vendredis, samedis et dimanches de 14h à 18h.\nNocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+      "libelleEn" : "From 11/11 to 16/12/2022, every Wednesday, Thursday, Friday, Saturday and Sunday between 2 pm and 6 pm.\nNocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm.",
+      "libelleEs" : "Del 11/11 al 16/12/2022, todos los miércoles, jueves, viernes, sábados y domingos de 14 a 18.",
+      "libelleIt" : "Dal 11/11 al 16/12/2022, tutti i mercoledì, giovedì, venerdì, sabati e domeniche dalle 14 alle 18.",
+      "libelleDe" : "Vom 11/11 bis 16/12/2022, jeden Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 11/11 tot en met 16/12/2022, elke woensdag, donderdag, vrijdag, zaterdag en zondag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 11/11 до 16/12/2022, каждый среды, четверги, пятницы, субботы и воскресенья с 14h до 18h.",
+      "libelleZh" : "从 11月11日 到 2022年12月16日, 每星期三, 星期四, 星期五, 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 11/11 a 16/12/2022, todas as quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos de 14h a  18h.",
+      "libelleJa" : "11/11 から 16/12/2022 まで, 毎水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23872016,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-12-16",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+        "libelleEn" : "Nocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm"
+      },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24503557
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21061311,
+    "referent" : true,
+    "moyensCommunication" : [ {
+      "identifiant" : 101265179,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@cfaprovence.com"
+      }
+    }, {
+      "identifiant" : 101265180,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 21 29 12"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13458028,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "droits réservés"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/248/13629680.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/248/13629680-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/248/13629680-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/248/13629680-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Sans titre (17)",
+      "taille" : 1832922,
+      "hauteur" : 2245,
+      "largeur" : 1587,
+      "lastModifiedDate" : "2022-08-04T08:39:27.682+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-14", "2022-12-15", "2022-12-16" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Chapelle de la Visitation Sainte-Catherine de Sienne"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-16T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,631 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5577036,
+  "nom" : {
+    "libelleFr" : "Domaine d’Aix",
+    "libelleEn" : "Domaine d’Aix",
+    "libelleEs" : "Domaine d’Aix",
+    "libelleIt" : "Domaine d’Aix",
+    "libelleDe" : "Domaine d’Aix",
+    "libelleNl" : "Domaine d’Aix",
+    "libelleRu" : "Domaine d’Aix",
+    "libelleZh" : "Domaine d’Aix",
+    "libellePtBR" : "Domaine d’Aix",
+    "libelleJa" : "Domaine d’Aix"
+  },
+  "identifier" : "SITRA2_RES_5577036",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-17T07:25:44.744+0000",
+    "dateModification" : "2021-08-23T07:59:32.619+0000",
+    "dateExportModification" : "2022-09-22T08:29:37.172+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70500676,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 87 89 92 29"
+      }
+    }, {
+      "identifiant" : 70500678,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "commercial.domainedaix@gmail.com"
+      }
+    }, {
+      "identifiant" : 91421017,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.domaine-aix.com/"
+      }
+    }, {
+      "identifiant" : 70500679,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/domainedaix13100"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5220826
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le domaine d’Aix, c'est un restaurant ambiancé, avec une piscine privée dans un cadre idyllique, à 5 minutes du centre-ville d'Aix-en-Provence !",
+      "libelleEn" : "The Domaine d’Aix is a restaurant with a fabulous ambiance and a private swimming pool in an idyllic setting, 5 minutes from Aix-en-Provence city centre!"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Idéal pour vos événements privés et/ou professionnels. Le Domaine d’Aix vous aide à organiser vos manifestations, afin qu’elles soient mémorables. \r\nRestaurant, piscine privée, espace bien être, possibilité de privatiser le lieu pour vos événements, déjeuners business, afterworks et bientôt séminaires ! \r\n\r\nLe domaine d’Aix vous reçoit du lundi au dimanche au sein de son espace piscine. Et du mardi au dimanche midi à son espace restauration. Venez vous détendre, déjeuner ou dîner et vous ambiancer dans un cadre splendide au cœur de la campagne aixoise.\r\n\r\nLe Domaine d’Aix est ouvert toute l’année, avec des événements festifs chaque semaine !",
+      "libelleEn" : "Ideal for your private and/or business events. The Domaine d'Aix will help you organise your events and make them truly memorable. \r\nWith its restaurant, private pool and wellness area, the venue can be privatised for your events, business lunches, after-work drinks and soon seminars!\r\n\r\nThe Domaine d'Aix pool area is open to guests from Monday to Sunday. And its restaurant is open from Tuesday to Sunday lunchtime. Come and unwind, have lunch or dinner and soak up the atmosphere in a fabulous setting in the heart of the Aix countryside.\r\n\r\nThe Domaine d'Aix is open all year round, with festive events every week!"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2530 Chemin D'Eguilles",
+      "codePostal" : "13090",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.391943, 43.561718 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 176
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6059629
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 672
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 741
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 860
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1093
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1106
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1300
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1508
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 4996
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 6118
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 597
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 09/06 au 30/12/2021 de 11h à 2h.\nFermé le lundi.\nPiscine en période estivale du lundi au dimanche. Restaurant du mardi midi au dimanche midi.",
+      "libelleEn" : "From 09/06 to 30/12/2021 between 11 am and 2 am.\nClosed on Monday.\nSwimming pool during summertime every day.\r\nRestaurant from Tuesday for lunch to Sunday for lunch.",
+      "libelleEs" : "Del 09/06 al 30/12/2021 de 11 a 2.\nCerrado los lunes.",
+      "libelleIt" : "Dal 09/06 al 30/12/2021 dalle 11 alle 2.\nChiuso il lunedì.",
+      "libelleDe" : "Vom 09/06 bis 30/12/2021 von 11 Uhr bis 2 Uhr.\nMontag geschlossen.",
+      "libelleNl" : "Van 09/06 tot en met 30/12/2021 van 11.00 tot en met 2.00 u.\nMaandag gesloten.",
+      "libelleRu" : "С 09/06 до 30/12/2021 с 11h до 2h.\nНе работает понедельник.",
+      "libelleZh" : "从 6月9日 到 2021年12月30日 小时小时 和 小时小时 之间.\n星期一 关闭.",
+      "libellePtBR" : "De 09/06 a 30/12/2021 de 11h a  2h.\nFechado em segunda-feira.",
+      "libelleJa" : "09/06 から 30/12/2021 まで 11 午前 と 2 午前 の間.\n月曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19384496,
+      "dateDebut" : "2021-06-09",
+      "dateFin" : "2021-12-30",
+      "complementHoraire" : {
+        "libelleFr" : "Piscine en période estivale du lundi au dimanche. Restaurant du mardi midi au dimanche midi.",
+        "libelleEn" : "Swimming pool during summertime every day.\r\nRestaurant from Tuesday for lunch to Sunday for lunch."
+      },
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "02:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 21637171
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "A la carte : de 20 à 40 €\nMenu groupe : 35 € (Entrée, plat, dessert).\n\n\nTransats : 20€ par jour, par personne.\r\nLits beds : 50€ par jour, par personne\r\n60€ par jour pour 3 personnes.",
+      "libelleEn" : "A la carte: 20 to 40 €\nGroup menu: 35 €.\n",
+      "libelleEs" : "A la carta: de 20 a 40 €\nMenú grupo: 35 €.\n",
+      "libelleIt" : "A scelta: da 20 a 40 €\nMenu gruppo: 35 €.\n",
+      "libelleDe" : "Nach der Karte: von 20 bis 40 €\nGruppenmenü: 35 €.\n",
+      "libelleNl" : "A la carte: € 20 tot en met € 40\nGroepsmenu: € 35.\n",
+      "libelleRu" : "По карте : с 20 до  40 €\nОбъединенное меню : 35 €.\n",
+      "libelleZh" : "菜单 : 从 20 到  40 €\n团体菜单 : 35 €.\n",
+      "libellePtBR" : "A la carte: de 20 a 40 €\nMenu grupo: 35 €.\n",
+      "libelleJa" : "アラカルト: 20 から 40 €\nグループ向けメニュー: 35 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Transats : 20€ par jour, par personne.\r\nLits beds : 50€ par jour, par personne\r\n60€ par jour pour 3 personnes"
+    },
+    "periodes" : [ {
+      "identifiant" : 12286010,
+      "dateDebut" : "2021-06-09",
+      "dateFin" : "2021-12-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "maximum" : 40.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1501
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 35.00,
+        "maximum" : 35.00,
+        "precisionTarif" : {
+          "libelleFr" : "Entrée, plat, dessert"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1516
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19443022,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Mezadorian",
+    "prenom" : "Jeremy",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90280550,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "Jeremy.mezadorian@gmail.com"
+      }
+    }, {
+      "identifiant" : 90280551,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 87 89 92 29"
+      }
+    } ]
+  }, {
+    "identifiant" : 19502599,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Marine",
+    "prenom" : "Boscq",
+    "titre" : {
+      "libelleFr" : "commercial"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90757209,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "commercial.domainedaix@gmail.com"
+      }
+    }, {
+      "identifiant" : 90757214,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 58 36 76 58"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10452909,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/53/10237199.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/53/10237199-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/53/10237199-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/53/10237199-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "38842113-37D1-4278-8312-94FAE045089C",
+      "taille" : 233804,
+      "hauteur" : 1200,
+      "largeur" : 1600,
+      "lastModifiedDate" : "2021-07-09T15:04:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10452910,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/53/10237200.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/53/10237200-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/53/10237200-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/53/10237200-diaporama.png",
+      "extension" : "png",
+      "fileName" : "140A3C4C-58F9-4769-950E-5137503C4CEF",
+      "taille" : 1521929,
+      "hauteur" : 801,
+      "largeur" : 801,
+      "lastModifiedDate" : "2021-07-09T15:04:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605514,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/3/10421148.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/3/10421148-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/3/10421148-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/3/10421148-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "1",
+      "taille" : 3141131,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2021-07-27T10:05:40.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605516,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/3/10421150.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/3/10421150-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/3/10421150-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/3/10421150-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "3",
+      "taille" : 3459706,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2021-07-27T10:05:43.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605517,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/3/10421151.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/3/10421151-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/3/10421151-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/3/10421151-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "4",
+      "taille" : 3931608,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2021-07-27T10:05:48.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605518,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/3/10421152.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/3/10421152-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/3/10421152-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/3/10421152-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "5",
+      "taille" : 2164532,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2021-07-27T10:05:45.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605519,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/3/10421153.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/3/10421153-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/3/10421153-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/3/10421153-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "6",
+      "taille" : 3316711,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2021-07-27T10:05:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10605515,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/3/10421149.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/3/10421149-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/3/10421149-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/157/3/10421149-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "2",
+      "taille" : 175294,
+      "hauteur" : 1500,
+      "largeur" : 1500,
+      "lastModifiedDate" : "2021-07-27T10:05:45.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 10605430,
+    "link" : true,
+    "type" : "INSTAGRAM",
+    "nom" : {
+      "libelleFr" : "Instagram",
+      "libelleEn" : "Instagram"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.instagram.com/domaine_daix/?hl=fr"
+    }, {
+      "locale" : "en",
+      "url" : "https://www.instagram.com/domaine_daix/?hl=fr"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 4463
+    }, {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2989
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    } ],
+    "capacite" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1616813,
+      "annee" : 2021,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST003606"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

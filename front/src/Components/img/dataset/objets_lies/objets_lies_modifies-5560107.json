@@ -1,0 +1,276 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5560107,
+  "nom" : {
+    "libelleFr" : "Hippodrome Borély",
+    "libelleEn" : "Hippodrome Borély",
+    "libelleEs" : "Hippodrome Borély",
+    "libelleIt" : "Hippodrome Borély",
+    "libelleDe" : "Hippodrome Borély",
+    "libelleNl" : "Hippodrome Borély"
+  },
+  "identifier" : "SITRA2_COS_5560107",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T21:02:28.764+0000",
+    "dateModification" : "2022-01-14T14:56:22.747+0000",
+    "dateExportModification" : "2022-09-19T09:35:04.604+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80123112,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 90 04 97"
+      }
+    }, {
+      "identifiant" : 80123113,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "08 10 26 30 00"
+      }
+    }, {
+      "identifiant" : 80123114,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parkindigo.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5560106
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Parking à l'air libre de 320 places, dont 4 réservées aux personnes à mobilité réduite. Hauteur limite à 1,90 m."
+    },
+    "descriptifDetaille" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue Pierre Mendès France",
+      "codePostal" : "13008",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.376327, 43.255198 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539334
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les lundis, mardis, mercredis, jeudis, vendredis, samedis et dimanches.\nOuvert 7 jours sur 7 24 heures sur 24.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los lunes, martes, miércoles, jueves, viernes, sábados y domingos.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i lunedì, martedì, mercoledì, giovedì, venerdì, sabati e domeniche.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый понедельники, вторники, среды, четверги, пятницы, субботы и воскресенья.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期一, 星期二, 星期三, 星期四, 星期五, 星期六 和 星期日.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19197529,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert 7 jours sur 7 24 heures sur 24"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22483652
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16637
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12139036,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parking Indigo Hippodome Borely Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Visuel logo"
+    },
+    "copyright" : {
+      "libelleFr" : "Parking Indigo Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/2/12255801.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/2/12255801-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/2/12255801-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/2/12255801-diaporama.png",
+      "extension" : "png",
+      "fileName" : "images",
+      "taille" : 4553,
+      "hauteur" : 125,
+      "largeur" : 402,
+      "lastModifiedDate" : "2022-01-14T14:56:22.937+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1875
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2323
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2453
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4B01481"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

@@ -1,0 +1,416 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6060120,
+  "nom" : {
+    "libelleFr" : "La Cité radieuse - Le Corbusier",
+    "libelleEn" : "Cité Radieuse - Le Corbusier"
+  },
+  "identifier" : "SITRA2_EVE_6060120",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-16T00:01:03.383+0000",
+    "dateModification" : "2022-09-22T09:27:03.519+0000",
+    "dateExportModification" : "2022-11-08T15:19:58.907+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97741463,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 97741464,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Chef d'oeuvre architectural du XXe siècle, Monument historique inscrit au Patrimoine mondial de l'UNESCO, visitez l'Unité d'Habitation créée en 1952 par Le Corbusier, avec la rue commerçante, le toit-terrasse et, en exclusivité, l'appartement classé.",
+      "libelleEn" : "Guided tour of the \"Cité Radieuse\", built by Le Corbusier, one of the main architects of the 20th century. \nThe Cité Radieuse is registered since July 2016 on the WORL HERITAGE OF THE UNESCO with 16 other sites in conformance with the contribution…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites guidées sont destinées à la clientèle individuelle (réservation possible jusqu'à 9 personnes max). Pour les GROUPES (à partir de 10 personnes) : la réservation est OBLIGATOIRE auprès de notre Service Groupes : groupes@marseille-tourisme.com\n\n \n\n",
+      "libelleEn" : "You will visit the different public areas such as the entrance hall, the streets and the roof terrace as well as the private apartment classified as a Historical Monument."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Marseille",
+      "codePostal" : "13008",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "RDV : 280 boulevard Michelet, 13008 Marseille.\nSe présenter 10 mn avant le départ \nMerci de venir à l’heure de visite que vous avez sélectionnée. En cas de retard, l’accès peut vous être refusé.\nMétro ligne 2 direction \"Sainte Marguerite Dromel\" jusqu'à la station \"Rond Point du Prado\" - bus B1/22/22S (direction Luminy) - arrêt le Corbusier. \nCompter 40 mn",
+        "libelleEn" : "Cité Radieuse (hall), 280 boulevard Michelet, 13008 Marseille.\nMétro 2 direction \"Dromel\" stop at \"Rond Point du Prado\"+ bus 21/21S/22/22S stop \"Le Corbusier\"."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.395010, 43.261700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRéservation obligatoire; nombre de places limité\n\nPoussettes et chiens (excepté chien d''assistance) non autorisés.\n\nVisite non comprise dans le Marseille Pass.\n\nVisite supplémentaire en français et en anglais les samedis (vacances scolaires et week-ends fériés) à 10h.\n\nPour pouvoir vous accueillir en toute sécurité, nos guides mettent tout en oeuvre pour le respect des règles sanitaires liées au Covid19: port du masque et visière, respect des distances et gel hydroalcoolique.",
+      "libelleEn" : "\nRequirements:\nLift and steps during the visit\n\nTrollers not allowed\n\nPets and dogs not allowed (except guide dogs)\nImportant information:\nA guided tour is available in dual language (French / English) saturday of holidays at 10am.\n\nBooking is mandatory (limited places are available)\n\nPets are forbidden (except assistant dog)\n\nSpecific GTO during COVID: if the participants must cancel their visit less than 48 hours before the visit because of a positive test to Covid (not just contact case), we propose a report of the visit in the next 6 months (with proof of a positive test)"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24342606,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24342606
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "\nNon compris : Non compris dans le City Pass Marseille.",
+      "libelleEn" : "\nNot included: Not included in the 72h City Pass."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Non compris dans le City Pass Marseille",
+      "libelleEn" : "\nNot included: Not included in the 72h City Pass"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6803959,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 103445278,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/la-cite-radieuse-le-corbusier-119812"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16642
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14128135,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "legende" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "copyright" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/37/14427622.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/37/14427622-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/37/14427622-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/37/14427622-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ddba1122d51c899462906-cropped600-400",
+      "taille" : 125794,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-22T09:27:07.171+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14128136,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "legende" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "copyright" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/37/14427623.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/37/14427623-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/37/14427623-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/37/14427623-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ddba15d11698401053829-cropped600-400",
+      "taille" : 101763,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-22T09:27:06.804+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14128137,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "legende" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "copyright" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/37/14427624.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/37/14427624-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/37/14427624-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/37/14427624-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ddba1a7cc8f6817530710-cropped600-400",
+      "taille" : 40188,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-22T09:27:06.489+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14128138,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "legende" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "copyright" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/37/14427625.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/37/14427625-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/37/14427625-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/37/14427625-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ddba20ce2822886998686-cropped600-400",
+      "taille" : 62191,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-22T09:27:06.124+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14128139,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "legende" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "copyright" : {
+      "libelleFr" : "La Cité radieuse - Le Corbusier",
+      "libelleEn" : "Cité Radieuse - Le Corbusier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/37/14427626.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/37/14427626-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/37/14427626-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/37/14427626-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ddba25ed6cce768785425-cropped600-400",
+      "taille" : 116695,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-22T09:27:05.809+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.8,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 1088,
+        "dateMaj" : 1667918959523
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "119812",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-128192",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

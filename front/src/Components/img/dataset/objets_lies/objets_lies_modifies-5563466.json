@@ -1,0 +1,274 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5563466,
+  "nom" : {
+    "libelleFr" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleEn" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleEs" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleIt" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleDe" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleNl" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleRu" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleZh" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libellePtBR" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence",
+    "libelleJa" : "Association des Jumelages et des Relations Internationales d'Aix-en-Provence"
+  },
+  "identifier" : "SITRA2_COS_5563466",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T22:21:25.060+0000",
+    "dateModification" : "2022-02-10T14:35:38.896+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77074497,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 11 75"
+      }
+    }, {
+      "identifiant" : 77074498,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 11 62"
+      }
+    }, {
+      "identifiant" : 77074499,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "jumelages.aix@wanadoo.fr"
+      }
+    }, {
+      "identifiant" : 77074501,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.aix-jumelages.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5467265
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le rôle de l'Association des Jumelages et des Relations Internationales d'Aix-en-Provence est de mettre en place des projets d'échanges entre les aixois et les citoyens des villes jumelles."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cela permet à chacun de découvrir de nouvelles cultures et de s'ouvrir aux autres, dans un esprit d'échange et de réciprocité.\r\n\r\nTübingen (Allemagne), Pérouse (Italie), Grenade (Espagne) et Coimbra (Portugal) furent les premières à rejoindre l'association. Puis, le jumelage s'est étendu aux voisins méditerranéens dans une optique d'ouverture culturelle avec Carthage (Tunisie), Ashkelon (Israël), puis Oujda (Maroc). Aujourd'hui, Aix-en-Provence est liée avec les villes américaines de Coral Gables, Philadelphie et Baton Rouge et développe des échanges avec le lointain Japon à Kumamoto.\r\n\r\nEnfin, des pactes de coopération décentralisée lient Aix-en-Provence à Baalbeck au Liban et à la commune V de Bamako au Mali et dernièrement à la ville de Pécs en Hongrie."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Office de Tourisme",
+      "adresse2" : "300 Avenue Giuseppe Verdi",
+      "adresse3" : "Les Allées",
+      "codePostal" : "13605",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444252, 43.525971 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539546
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18899521,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Giacomino",
+    "prenom" : "Claire",
+    "titre" : {
+      "libelleFr" : "Assistante"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    }
+  }, {
+    "identifiant" : 20313087,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Chabert",
+    "prenom" : "Alain",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8811096,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013016_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/214/8574506.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/214/8574506-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/214/8574506-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/214/8574506-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 21330,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-09-24T04:07:23.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4012
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4017
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1895589,
+      "annee" : 2022,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4013016"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

@@ -1,0 +1,438 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6287966,
+  "nom" : {
+    "libelleFr" : "La septième fille - conte de Nubie",
+    "libelleEn" : "La septième fille - conte de Nubie",
+    "libelleEs" : "La septième fille - conte de Nubie",
+    "libelleIt" : "La septième fille - conte de Nubie",
+    "libelleDe" : "La septième fille - conte de Nubie",
+    "libelleNl" : "La septième fille - conte de Nubie",
+    "libelleRu" : "La septième fille - conte de Nubie",
+    "libelleZh" : "La septième fille - conte de Nubie",
+    "libellePtBR" : "La septième fille - conte de Nubie",
+    "libelleJa" : "La septième fille - conte de Nubie"
+  },
+  "identifier" : "SITRA2_EVE_6287966",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-06T09:36:48.809+0000",
+    "dateModification" : "2022-10-06T14:31:05.368+0000",
+    "dateExportModification" : "2022-10-06T14:31:05.638+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103909470,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 10 45"
+      }
+    }, {
+      "identifiant" : 103909471,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredesateliers@yahoo.com"
+      },
+      "observation" : {
+        "libelleFr" : "theatredesateliers.diff@yahoo.com"
+      }
+    }, {
+      "identifiant" : 103909472,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.theatre-des-ateliers-aix.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228724
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Spectacle Lecture plus jeune public dans le cadre de Mômaix, sous la direction artistique d'Alain Simon, avec Bénédicte Menissier et Nina Sikora."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Backta, voyant son père vieillir et peiner à subvenir aux besoins de ses sept\r\nfilles, décide de faire comme ses sept cousins, elle s’habille en homme et part\r\nfaire du commerce. Que de surprises sur sa route ! Entre coups de théâtre,\r\nstratagèmes, et rencontres imprévues, Backta va-t-elle réussir à mener à bien\r\nsa mission et retourner auprès des siens ?\r\n\r\nLes deux comédiennes passent de la narration à l'interprétation des divers personnages et à un moment du spectacle, elles demandent à des enfants de venir sur scène interpréter de nombreux personnages.\r\n\r\nA la fin du spectacle, les comédiennes restent sur scène pour répondre aux questions des enfants sur comment elles ont adapté le conte, fabriqué les accessoires... Les enfants peuvent descendre sur le plateau pour les essayer, et partager un goûter."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre des Ateliers",
+      "adresse1" : "29 Place Miollis",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.454890, 43.527695 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228726
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 25 octobre 2022 de 15h à 16h.\n\nMercredi 26 octobre 2022 de 15h à 16h.\n\nJeudi 27 octobre 2022 de 15h à 16h.\n\nMercredi 2 novembre 2022 de 15h à 16h.\n\nJeudi 3 novembre 2022 de 15h à 16h.\n\nMercredi 16 novembre 2022 de 15h à 16h.\n\nMercredi 23 novembre 2022 de 15h à 16h.",
+      "libelleEn" : "Tuesday 25 October 2022 between 3 pm and 4 pm.\n\nWednesday 26 October 2022 between 3 pm and 4 pm.\n\nThursday 27 October 2022 between 3 pm and 4 pm.\n\nWednesday 2 November 2022 between 3 pm and 4 pm.\n\nThursday 3 November 2022 between 3 pm and 4 pm.\n\nWednesday 16 November 2022 between 3 pm and 4 pm.\n\nWednesday 23 November 2022 between 3 pm and 4 pm.",
+      "libelleEs" : "Martes, 25 de octubre de 2022 de 15 a 16.\n\nMiércoles, 26 de octubre de 2022 de 15 a 16.\n\nJueves, 27 de octubre de 2022 de 15 a 16.\n\nMiércoles, 2 de noviembre de 2022 de 15 a 16.\n\nJueves, 3 de noviembre de 2022 de 15 a 16.\n\nMiércoles, 16 de noviembre de 2022 de 15 a 16.\n\nMiércoles, 23 de noviembre de 2022 de 15 a 16.",
+      "libelleIt" : "Martedì 25 ottobre 2022 dalle 15 alle 16.\n\nMercoledì 26 ottobre 2022 dalle 15 alle 16.\n\nGiovedì 27 ottobre 2022 dalle 15 alle 16.\n\nMercoledì 2 novembre 2022 dalle 15 alle 16.\n\nGiovedì 3 novembre 2022 dalle 15 alle 16.\n\nMercoledì 16 novembre 2022 dalle 15 alle 16.\n\nMercoledì 23 novembre 2022 dalle 15 alle 16.",
+      "libelleDe" : "Dienstag, den 25. Oktober 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 26. Oktober 2022 von 15 Uhr bis 16 Uhr.\n\nDonnerstag, den 27. Oktober 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 2. November 2022 von 15 Uhr bis 16 Uhr.\n\nDonnerstag, den 3. November 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 16. November 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 23. November 2022 von 15 Uhr bis 16 Uhr.",
+      "libelleNl" : "Dinsdag 25 oktober 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 26 oktober 2022 van 15.00 tot en met 16.00 u.\n\nDonderdag 27 oktober 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 2 november 2022 van 15.00 tot en met 16.00 u.\n\nDonderdag 3 november 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 16 november 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 23 november 2022 van 15.00 tot en met 16.00 u.",
+      "libelleRu" : "Вторник 25 октября 2022  с 15h до 16h.\n\nСреда 26 октября 2022  с 15h до 16h.\n\nЧетверг 27 октября 2022  с 15h до 16h.\n\nСреда 2 ноября 2022  с 15h до 16h.\n\nЧетверг 3 ноября 2022  с 15h до 16h.\n\nСреда 16 ноября 2022  с 15h до 16h.\n\nСреда 23 ноября 2022  с 15h до 16h.",
+      "libelleZh" : "2022年10月25日, 星期二   小时小时 和 小时小时 之间.\n\n2022年10月26日, 星期三   小时小时 和 小时小时 之间.\n\n2022年10月27日, 星期四   小时小时 和 小时小时 之间.\n\n2022年11月2日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月3日, 星期四   小时小时 和 小时小时 之间.\n\n2022年11月16日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月23日, 星期三   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Terça-feira 25 Outubro 2022 de 15h a  16h.\n\nQuarta-feira 26 Outubro 2022 de 15h a  16h.\n\nQuinta-feira 27 Outubro 2022 de 15h a  16h.\n\nQuarta-feira 2 Novembro 2022 de 15h a  16h.\n\nQuinta-feira 3 Novembro 2022 de 15h a  16h.\n\nQuarta-feira 16 Novembro 2022 de 15h a  16h.\n\nQuarta-feira 23 Novembro 2022 de 15h a  16h.",
+      "libelleJa" : "火曜日 25 10月 2022 3 午後 と 4 午後 の間.\n\n水曜日 26 10月 2022 3 午後 と 4 午後 の間.\n\n木曜日 27 10月 2022 3 午後 と 4 午後 の間.\n\n水曜日 2 11月 2022 3 午後 と 4 午後 の間.\n\n木曜日 3 11月 2022 3 午後 と 4 午後 の間.\n\n水曜日 16 11月 2022 3 午後 と 4 午後 の間.\n\n水曜日 23 11月 2022 3 午後 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24443407,
+      "dateDebut" : "2022-10-25",
+      "dateFin" : "2022-10-25",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447457
+    }, {
+      "identifiant" : 24443408,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-10-26",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447458
+    }, {
+      "identifiant" : 24443409,
+      "dateDebut" : "2022-10-27",
+      "dateFin" : "2022-10-27",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447459
+    }, {
+      "identifiant" : 24443410,
+      "dateDebut" : "2022-11-02",
+      "dateFin" : "2022-11-02",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447460
+    }, {
+      "identifiant" : 24443411,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-11-03",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447461
+    }, {
+      "identifiant" : 24447465,
+      "dateDebut" : "2022-11-16",
+      "dateFin" : "2022-11-16",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447465
+    }, {
+      "identifiant" : 24447469,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24447469
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 8 €.\n\n\nGoûter compris pour les enfants.",
+      "libelleEn" : "One price: 8 €.\n",
+      "libelleEs" : "Tarifa única: 8 €.\n",
+      "libelleIt" : "Tariffa unica: 8 €.\n",
+      "libelleDe" : "Einheitspreis: 8 €.\n",
+      "libelleNl" : "Vast tarief: € 8.\n",
+      "libelleRu" : "Единый тариф : 8 €.\n",
+      "libelleZh" : "定价 : 8 €.\n",
+      "libellePtBR" : "Tarifa única: 8 €.\n",
+      "libelleJa" : "シングルレート: 8 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "goûter compris pour les enfants"
+    },
+    "periodes" : [ {
+      "identifiant" : 13716830,
+      "dateDebut" : "2022-10-25",
+      "dateFin" : "2022-11-23",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6510
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6840960,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228724
+      },
+      "nom" : "Théâtre des Ateliers",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70539929,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 38 10 45"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21393753,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Esquieu",
+    "prenom" : "Nicole",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103909473,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredesateliers@yahoo.fr"
+      }
+    }, {
+      "identifiant" : 103909474,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 10 45"
+      }
+    } ]
+  }, {
+    "identifiant" : 21393754,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Rattet",
+    "prenom" : "Cécile",
+    "moyensCommunication" : [ {
+      "identifiant" : 103909475,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredesateliers.diff@yahoo.com"
+      }
+    }, {
+      "identifiant" : 103909476,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 13 05 67 75"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14324412,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Théâtre des Ateliers"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/149/14652860.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/149/14652860-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/149/14652860-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/149/14652860-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7e",
+      "taille" : 260129,
+      "hauteur" : 1698,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-06T14:28:03.187+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-16", "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 80,
+    "nomLieu" : "Théâtre des Ateliers"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

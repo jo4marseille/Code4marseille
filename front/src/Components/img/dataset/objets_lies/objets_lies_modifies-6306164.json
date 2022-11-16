@@ -1,0 +1,303 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6306164,
+  "nom" : {
+    "libelleFr" : "Un temps pour toi",
+    "libelleEn" : "Un temps pour toi",
+    "libelleEs" : "Un temps pour toi",
+    "libelleIt" : "Un temps pour toi",
+    "libelleDe" : "Un temps pour toi",
+    "libelleNl" : "Un temps pour toi",
+    "libelleRu" : "Un temps pour toi",
+    "libelleZh" : "Un temps pour toi",
+    "libellePtBR" : "Un temps pour toi",
+    "libelleJa" : "Un temps pour toi"
+  },
+  "identifier" : "SITRA2_EVE_6306164",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T15:01:08.394+0000",
+    "dateModification" : "2022-10-21T15:16:24.922+0000",
+    "dateExportModification" : "2022-10-24T13:52:10.719+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70649133,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lepetitduc.net"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5237306
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Spectacle très jeune public dans le cadre de Momaix, au Petit Duc."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Tip, tap, il tape, le temps, il frappe, le temps, il passe, le temps!\r\nC’est le temps qui passe ! On tape, on frappe, on chante, on danse, et\r\nensemble on grandit, en prenant le temps...\r\nUn temps pour tout, un temps pour toi, un temps pour nous...\r\nLes métronomes se répondent, les cloches sonnent et volent, et une petite fille devient plus grande, au fil des saisons... c’est le petit manège de la vie... nous voilà traversant ce temps qui passe, pour en explorer chaque seconde, chaque moment, et contempler.\r\nCe soir je serai grand, plus grand que ce matin ?\r\nAu son de la cloche qui tinte, le kiosque ambulant s’éclaire pour faire danser nos jours et nos nuits, car j’ai le sentiment que j’ai le temps de devenir grand..."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Petit Duc",
+      "adresse1" : "1 Rue Emile Tavan",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.441773, 43.530136 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5541048
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 6,
+    "uniteAgeMin" : "MOIS"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 4 décembre 2022 \nOuverture  de 14h30 à 15h et à 16h30.",
+      "libelleEn" : "Sunday 4 December 2022 \nOpening hours  between 2.30 pm and 3 pm and at 4.30 pm.",
+      "libelleEs" : "Domingo, 4 de diciembre de 2022 \nHorarios de apertura  de 14:30 a 15 y a 16:30.",
+      "libelleIt" : "Domenica 4 dicembre 2022 \nOrari di apertura  dalle 14:30 alle 15 e alle 16:30.",
+      "libelleDe" : "Sonntag, den 4. Dezember 2022 \nÖffnungszeiten  von 14.30 Uhr bis 15 Uhr und um 16.30 Uhr.",
+      "libelleNl" : "Zondag 4 december 2022 \nOpeningstijden  van 14.30 tot en met 15.00 u en om 16.30 u.",
+      "libelleRu" : "Воскресенье 4 декабря 2022  \nЧасы открытия  с 14h30 до 15h и до 16h30.",
+      "libelleZh" : "2022年12月4日, 星期日   \n开放时间  小时小时分钟  和 小时小时 之间 和 在 小时小时分钟 .",
+      "libellePtBR" : "Domingo 4 Dezembro 2022 \nOuverture  de 14h30 a  15h e para  16h30.",
+      "libelleJa" : "日曜日 4 12月 2022 \n開館時間  2.30 午後 と 3 午後 の間 と 4.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24559002,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24559002
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 10 €, Enfant : 6 €.\n",
+      "libelleEn" : "Adult: 10 €, Child: 6 €.\n",
+      "libelleEs" : "Adulto: 10 €, Niño: 6 €.\n",
+      "libelleIt" : "Adulto: 10 €, Bambino: 6 €.\n",
+      "libelleDe" : "Erwachsene: 10 €, Kinder: 6 €.\n",
+      "libelleNl" : "Volwassene: € 10, Kind: € 6.\n",
+      "libelleRu" : "Взрослый : 10 €, Ребенок : 6 €.\n",
+      "libelleZh" : "成人 : 10 €, 儿童 : 6 €.\n",
+      "libellePtBR" : "Adulto: 10 €, Criança: 6 €.\n",
+      "libelleJa" : "大人: 10 €, 子供: 6 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13780390,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 6.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6876155,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5237306
+      },
+      "nom" : "Le Petit Duc",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104422405,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lepetitduc.net/spectacle/la-compagnie-du-pestacle-un-temps-pour-toi-2/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14486621,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Le Pett Duc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/113/14840211.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/113/14840211-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/113/14840211-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/113/14840211-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "temps",
+      "taille" : 208498,
+      "hauteur" : 1197,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T15:16:25.147+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Le Petit Duc"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-04T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

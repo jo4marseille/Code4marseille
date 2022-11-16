@@ -1,0 +1,230 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6295158,
+  "nom" : {
+    "libelleFr" : "Les ruisseaux d’Athènes"
+  },
+  "identifier" : "SITRA2_EVE_6295158",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-13T13:39:26.242+0000",
+    "dateModification" : "2022-10-13T14:03:44.199+0000",
+    "dateExportModification" : "2022-10-24T08:58:53.034+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104119960,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/galerie-librairie-zoeme/les-ruisseaux-d-athenes"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558885
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Sylvain Maestraggi mène un travail artistique à la rencontre de la photographie et de l’écriture."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dans Les ruisseaux d’Athènes, Sylvain Maestraggi prolonge son exploration des paysages nées de l’urbanisme moderne.\r\n\r\n L’exposition restitue ces explorations photographiques qui mettent en jeu le regard que nous portons sur le contexte urbain et la place qu’y tient la nature, à la fois comme forme et force survivantes d’un paysage disparu, d’une géographie souterraine, et comme utopie d’un monde réconcilié où l’habitat ne serait plus destructeur du milieu naturel dont nous dépendons. Athènes possède de ce point de vue une double valeur symbolique : celle d’être une ville de fondation – à l’origine de « notre civilisation » ; et celle d’une capitale moderne, intégralement née de l’urbanisme des 19e et du 20e siècles et de ses suites.\r\n\r\n Sylvain Maestraggi mène un travail artistique à la rencontre de la photographie et de l’écriture, qui s’appuie sur la pratique de la marche et la recherche documentaire"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Zoème",
+      "adresse1" : "8 Rue Vian",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383665, 43.294681 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 20/10 au 03/12/2022 de 11h à 19h.\nFermé lundi et dimanche.",
+      "libelleEn" : "From 20/10 to 03/12/2022 between 11 am and 7 pm.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 20/10 al 03/12/2022 de 11 a 19.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 20/10 al 03/12/2022 dalle 11 alle 19.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 20/10 bis 03/12/2022 von 11 Uhr bis 19 Uhr.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 20/10 tot en met 03/12/2022 van 11.00 tot en met 19.00 u.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 20/10 до 03/12/2022 с 11h до 19h.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 10月20日 到 2022年12月3日 小时小时 和 小时小时 之间.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 20/10 a 03/12/2022 de 11h a  19h.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "20/10 から 03/12/2022 まで 11 午前 と 7 午後 の間.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24493256,
+      "dateDebut" : "2022-10-20",
+      "dateFin" : "2022-12-03",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24493256
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14389130,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Les ruisseaux d’Athènes - Sylvain Maestraggi"
+    },
+    "copyright" : {
+      "libelleFr" : "Les ruisseaux d’Athènes - Sylvain Maestraggi"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/183/14727031.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/183/14727031-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/183/14727031-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/183/14727031-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ruisseau",
+      "taille" : 212170,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-13T14:03:44.301+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Zoème"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-03T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,254 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6308838,
+  "nom" : {
+    "libelleFr" : "Avant-première \"La guerre des Lulus\""
+  },
+  "identifier" : "SITRA2_EVE_6308838",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-25T14:17:03.260+0000",
+    "dateModification" : "2022-10-25T14:20:37.807+0000",
+    "dateExportModification" : "2022-10-25T14:20:38.503+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104547016,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://labuzine.com/fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223308
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découvrez en avant-première le film \"La guerre des Lulus\" ! vendredi 11 novembre 2022 à 18h30."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "\"À l’aube de la Première Guerre mondiale, dans un village de Picardie, quatre amis inséparables, Lucas, Luigi, Lucien et Ludwig, forment la bande des Lulus. Ces orphelins sont toujours prêts à unir leurs forces pour affronter la bande rivale d’Octave ou pour échapper à la surveillance de l’Abbé Turpin… Lorsque l’orphelinat de l’Abbaye de Valencourt est évacué en urgence, les Lulus manquent à l’appel...\"\r\n\r\n\"La guerre des Lulus\", un film de Yann Samuell\r\n\r\nUne opération caritative \"Espoir en tête\" proposée par le Rotary international\r\nau profit de la recherche sur le cerveau."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Buzine Maison des Cinématographies de la Méditerranée",
+      "adresse1" : "Château de la Buzine",
+      "adresse2" : "56 Traverse De la Buzine",
+      "codePostal" : "13011",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.502249, 43.295542 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 18h30.",
+      "libelleEn" : "Friday 11 November 2022 at 6.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 18:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 18:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 18.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 18.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 18h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  18h30.",
+      "libelleJa" : "金曜日 11 11月 2022 6.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24586768,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : { },
+      "horaireOuverture" : "18:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24586768
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 15 €.\n\n Gratuit pour les moins de 6 ans.\n\nDon à l'opération Espoir En Tête\r\nUne opération caritative \"Espoir en tête\" proposée par le Rotary international\r\nau profit de la recherche sur le cerveau.",
+      "libelleEn" : "Full price: 15 €.\n\n Free entry for children < 6 years.",
+      "libelleEs" : "Tarifa completa: 15 €.\n\n Gratuito para los niños menores de 6 años.",
+      "libelleIt" : "Tarrifa intera: 15 €.\n\n Gratuito per i bambini di età inferiore a 6 anni.",
+      "libelleDe" : "Voller Preis: 15 €.\n\n Kostenlos für Kinder unter 6 Jahren.",
+      "libelleNl" : "Vol tarief: € 15.\n\n Gratis voor kinderen onder de 6 jaar.",
+      "libelleRu" : "Полную цену : 15 €.\n\n Бесплатно для лицам младше 6 лет.",
+      "libelleZh" : "全额 : 15 €.\n\n 儿童 < 6 岁自由进入.",
+      "libellePtBR" : "Tarifa inteira: 15 €.\n\n Gratuito para menores de 6 anos.",
+      "libelleJa" : "通常料金: 15 €.\n\n 子供 < 6 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Don à l'opération Espoir En Tête\r\nUne opération caritative \"Espoir en tête\" proposée par le Rotary international\r\nau profit de la recherche sur le cerveau."
+    },
+    "periodes" : [ {
+      "identifiant" : 13795581,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 15.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 6
+    }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14542438,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Avant-première \"La guerre des Lulus\""
+    },
+    "legende" : {
+      "libelleFr" : "Avant-première \"La guerre des Lulus\""
+    },
+    "copyright" : {
+      "libelleFr" : "Affiche \"La guerre des Lulus\" - Château de La Buzine - Maison des Cinématographies de la Méditerranée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/104/14903469.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/104/14903469-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/104/14903469-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/104/14903469-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "guerre lulus",
+      "taille" : 130374,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-25T14:20:37.902+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Buzine Maison des Cinématographies de la Méditerranée"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT025132"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

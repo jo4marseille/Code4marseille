@@ -1,0 +1,293 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5709171,
+  "nom" : {
+    "libelleFr" : "Musée des Arts décoratifs, de la Faïence et de la Mode"
+  },
+  "identifier" : "SITRA2_STR_5709171",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-01-26T16:38:13.562+0000",
+    "dateModification" : "2022-08-30T11:01:04.746+0000",
+    "dateExportModification" : "2022-08-30T11:12:53.722+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 86184690,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 33 60"
+      }
+    }, {
+      "identifiant" : 86184694,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chateau-borely-musee@marseille.fr"
+      }
+    }, {
+      "identifiant" : 86184698,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marseille.fr"
+      },
+      "observation" : {
+        "libelleFr" : "rseill"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Château Borély",
+      "adresse2" : "134 avenue Clot-Bey",
+      "codePostal" : "13008",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.382512, 43.257173 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16643
+  } ],
+  "contacts" : [ {
+    "identifiant" : 20569270,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "LINOU",
+    "prenom" : "Marie-Josée",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98258819,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 32 87 18 79"
+      }
+    }, {
+      "identifiant" : 98258852,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 33 40"
+      }
+    }, {
+      "identifiant" : 98258887,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mjlinou@marseille.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20569394,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "JACQUEMIN",
+    "prenom" : "Lisa",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98259489,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ljacquemin@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 98259532,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 62 21 82"
+      }
+    }, {
+      "identifiant" : 98259571,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 33 60"
+      }
+    } ]
+  }, {
+    "identifiant" : 20569443,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "LEROY",
+    "prenom" : "Fanny",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 472
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98259740,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fleroy@mairie-marseille.fr"
+      }
+    }, {
+      "identifiant" : 98259773,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 58 21"
+      }
+    } ]
+  }, {
+    "identifiant" : 20569493,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "ACCES AUX PMR",
+    "prenom" : "Renseignements",
+    "moyensCommunication" : [ {
+      "identifiant" : 98259902,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 33 42"
+      }
+    } ]
+  }, {
+    "identifiant" : 21240550,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GAUBRY",
+    "prenom" : "Chantal",
+    "titre" : {
+      "libelleFr" : "Coordinatrice"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102732034,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 55 33 60"
+      }
+    }, {
+      "identifiant" : 102732031,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "cgrauby@marseille.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 21240984,
+    "referent" : false
+  }, {
+    "identifiant" : 21240985,
+    "referent" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,561 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5868120,
+  "nom" : {
+    "libelleFr" : "La Canebière au fil du temps",
+    "libelleEn" : "The mythical avenue La Canebière"
+  },
+  "identifier" : "SITRA2_EVE_5868120",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-12T10:49:15.497+0000",
+    "dateModification" : "2022-11-02T08:45:43.056+0000",
+    "dateExportModification" : "2022-11-04T11:45:43.430+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816582,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33695755098"
+      }
+    }, {
+      "identifiant" : 97816583,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marseilleoriginal@gmail.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5862976
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5862976
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Canebière est à la fois un lieu de rencontre pour les marins du monde entier, artère vivante, construite au fil des époques mais aussi un fantasme pour beaucoup.\n\nBenjamin, guide-conférencier, vous fera découvrir l’avenue la plus connue du centre…",
+      "libelleEn" : "Urban, architectural, historical and sociological guided tour on the most famous street of the Marseille downtown.\n\nBenjamin, guide-lecturer, will make you discover the one that was sung on the 7 seas and the 5 continents through its facades,…"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"La Canebière au fil du temps \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. Une activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Quai de la Fraternité",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nBus 60, 82, 83, Métro 1 Vieux-Port\nCentre Bourse, Cours d'Estienne d'Orves"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374330, 43.295300 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 4306
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nÀ prendre avec soi :\nChaussures confortables, adaptées à la marche urbaine\n\nEau et chapeau en été, vêtements chauds en hiver (et jours de mistral)",
+      "libelleEn" : "\nTo take with you:\nComfortable shoes for urban walking\n\nWater and hat in summer, warm clothes in winter (and windy days)\nImportant information:\nFrom 8 years old\n\nLot of steps, complicated for person with reduced mobility\n\nNo pets (except guide dog)"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24638139,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24638139
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Liste tarif normal : 12,00 EUR",
+      "libelleEn" : "Liste tarif normal : 12,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Entrée dans les musées",
+      "libelleEn" : "\nNot included: Museum entrances"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6896953,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5862976
+      },
+      "nom" : "Benjamin Potet",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104708839,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/la-cane-cane-canebiere"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14646679,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/21/15013262.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/21/15013262-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/21/15013262-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/21/15013262-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e457f267eab108735745-cropped600-400",
+      "taille" : 110407,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:50.542+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646680,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/21/15013263.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/21/15013263-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/21/15013263-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/21/15013263-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e4579194710066421055-cropped600-400",
+      "taille" : 142349,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:50.047+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646681,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/21/15013264.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/21/15013264-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/21/15013264-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/21/15013264-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60be1455ba9c5324233023-cropped600-400",
+      "taille" : 106490,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:49.624+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646682,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/21/15013265.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/21/15013265-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/21/15013265-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/21/15013265-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e457a4598e5237591197-cropped600-400",
+      "taille" : 157846,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:49.259+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646683,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/21/15013266.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/21/15013266-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/21/15013266-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/21/15013266-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60be1538be234540538184-cropped600-400",
+      "taille" : 72853,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:48.923+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646684,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/21/15013267.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/21/15013267-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/21/15013267-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/21/15013267-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60be159ede621670630526-cropped600-400",
+      "taille" : 89439,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:48.580+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646685,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/21/15013268.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/21/15013268-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/21/15013268-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/21/15013268-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60be15c3a55d8612882877-cropped600-400",
+      "taille" : 84160,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:48.253+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646686,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/21/15013269.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/21/15013269-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/21/15013269-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/21/15013269-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e45786ec5d1669504248-cropped600-400",
+      "taille" : 126915,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:47.909+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14646687,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "legende" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "copyright" : {
+      "libelleFr" : "La Canebière au fil du temps",
+      "libelleEn" : "The mythical avenue La Canebière"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/21/15013270.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/21/15013270-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/21/15013270-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/21/15013270-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e457b8193be137175504-cropped600-400",
+      "taille" : 144892,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T08:45:47.300+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.8,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 12,
+        "dateMaj" : 1660728404128
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "180806",
+        "product_supplier_id" : "38143",
+        "sku" : "T-GU14-194547",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

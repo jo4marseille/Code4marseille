@@ -1,0 +1,246 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6165104,
+  "nom" : {
+    "libelleFr" : "(F)lux de Barbara Amar"
+  },
+  "identifier" : "SITRA2_EVE_6165104",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-10T09:04:19.806+0000",
+    "dateModification" : "2022-08-17T12:53:40.098+0000",
+    "dateExportModification" : "2022-08-17T12:53:40.254+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70528704,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 56 48 48"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227681
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Avec la marche pour point de départ, (F)Lux questionne la rencontre avec l’autre, dans sa singularité inaltérable, prenant appui sur une création musicale jouée en direct et deux magnifiques danseuses toute en précision et fluidité."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La nouvelle pièce de la chorégraphe istréenne poursuit un cycle interrogeant la relation de l’homme avec ses lieux de vies et leurs paysages, ceux du départ, de la lutte et de la fuite. Déplacer, se déplacer, le motif du déracinement s’incarne dans les corps des danseuses, dans des formes et des figures poétiques et abstraites. Barbara Amar s’appuie sur des récits d’exils, d’hier et d’aujourd’hui, qui tous relatent à quel point le départ est impératif, le déplacement périlleux et la destinée incertaine."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre de l'Olivier",
+      "adresse1" : "Place Jules Guesde",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Maresille Provence : Aéroport/Aérodrome à 40km\r\nSainte catherine : Arrêt de bus à 0.1km\r\nIstres : Gare ferroviaire à 2km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.988072, 43.515055 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15430
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5227659
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 20h.",
+      "libelleEn" : "Wednesday 9 November 2022 at 8 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 20.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 20.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 20 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 20.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  20h.",
+      "libelleJa" : "水曜日 9 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23572176,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24106935
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : de 4 à 15 €.\n",
+      "libelleEn" : "Adult: 4 to 15 €.\n",
+      "libelleEs" : "Adulto: de 4 a 15 €.\n",
+      "libelleIt" : "Adulto: da 4 a 15 €.\n",
+      "libelleDe" : "Erwachsene: von 4 bis 15 €.\n",
+      "libelleNl" : "Volwassene: € 4 tot en met € 15.\n",
+      "libelleRu" : "Взрослый : с 4 до  15 €.\n",
+      "libelleZh" : "成人 : 从 4 到  15 €.\n",
+      "libellePtBR" : "Adulto: de 4 a 15 €.\n",
+      "libelleJa" : "大人: 4 から 15 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13345692,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6565894,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5227681
+      },
+      "nom" : "Théâtre de l'Olivier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 100352613,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.scenesetcines.fr/spectacles/barbara-amar-flux/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13220271,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/98/13394481.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/98/13394481-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/98/13394481-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/98/13394481-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "FLUX_2936",
+      "taille" : 5473868,
+      "hauteur" : 3590,
+      "largeur" : 4487,
+      "lastModifiedDate" : "2022-06-10T09:08:21.510+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Théâtre de l'Olivier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

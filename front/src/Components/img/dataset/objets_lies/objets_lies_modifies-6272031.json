@@ -1,0 +1,252 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6272031,
+  "nom" : {
+    "libelleFr" : "Concours Photos"
+  },
+  "identifier" : "SITRA2_EVE_6272031",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-24T14:40:11.173+0000",
+    "dateModification" : "2022-09-24T14:59:31.879+0000",
+    "dateExportModification" : "2022-11-01T11:00:02.059+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Grand Site Concors Sainte-Victoire",
+      "dateCreation" : "2021-06-17T14:38:55.543+0000",
+      "dateModification" : "2022-10-24T08:49:32.179+0000",
+      "id" : 2244,
+      "siteWeb" : "http://www.grandsitesaintevictoire.com"
+    },
+    "signalerUnProblemeMails" : [ "audrey.bonzi@ampmetropole.fr", "caroline.bourgon@ampmetropole.fr", "daniel.rozec@ampmetropole.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103535281,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "artducontact@gmail.com"
+      }
+    }, {
+      "identifiant" : 103535332,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0643130018"
+      },
+      "observation" : {
+        "libelleFr" : "0442232114"
+      }
+    }, {
+      "identifiant" : 103535445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.dominique-bosq.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6271993
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5557938
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Avec l’exposition « SLOW MOTION » de l’artiste plasticien DOMINIQUE BOSQ,\r\nprésentée du 4 au 27 novembre à la salle Hippolyte Ferrat, l’artiste organise avec\r\nla commune du Tholonet un concours photo. (Voir Règlement)"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les Thèmes\r\n\r\nThème 1 - « Entre végétal et minéral » chorégraphie sur fond de ciel de Provence.\r\n\r\nThème 2 - « Nature discrète, Nature secrète » au détour d’un chemin, autour du\r\nsite de st Victoire, une vue cachée…\r\n\r\nCe concours est gratuit et s’adresse à tous les amoureux de la photographie et amis de la commune du Tholonet et du site de la Sainte-Victoire.\r\n\r\nLa date limite de dépôt des dossiers est fixée au 31 octobre 2022 minuit.\r\n\r\nDimanche 27 Novembre à 16h aura lieu le Finissage de l’expo « SLOW MOTION » de DOMINIQUE BOSQ et la remise des prix du concours photo à la salle\r\nHippolyte Ferrat."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Salle Ferrat",
+      "adresse1" : "985 Av. Paul Jullien",
+      "adresse2" : "Palette",
+      "codePostal" : "13100",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4520
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.490919, 43.509311 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4520
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6271992
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10 au 31/10/2022, tous les jours.",
+      "libelleEn" : "From 01/10 to 31/10/2022, daily.",
+      "libelleEs" : "Del 01/10 al 31/10/2022, todos los dias.",
+      "libelleIt" : "Dal 01/10 al 31/10/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/10 bis 31/10/2022, täglich.",
+      "libelleNl" : "Van 01/10 tot en met 31/10/2022, iedere dag.",
+      "libelleRu" : "С 01/10 до 31/10/2022, ежедневно.",
+      "libelleZh" : "从 10月1日 到 2022年10月31日, 日常.",
+      "libellePtBR" : "De 01/10 a 31/10/2022, todos os dias.",
+      "libelleJa" : "01/10 から 31/10/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24361659,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-10-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24361775
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21343635,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "BOSQ",
+    "prenom" : "Dominique",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 103536992,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0643130018"
+      },
+      "observation" : {
+        "libelleFr" : "0442232114"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2095
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Salle Ferrat"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-10-31T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,241 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6184165,
+  "nom" : {
+    "libelleFr" : "L'incruste... Il n'en restera qu'un !"
+  },
+  "identifier" : "SITRA2_EVE_6184165",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-24T13:22:57.200+0000",
+    "dateModification" : "2022-11-07T09:30:49.647+0000",
+    "dateExportModification" : "2022-11-07T09:30:49.792+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100712390,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.16-19.fr/comediemarseille"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5973062
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une comédie de Bruno Galissa."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Patricia, huissier de justice déterminé, est prête à tout pour déloger Léo, un locataire indélicat et rusé qui lui, est prêt à tout pour rester. \r\n\r\nMais quand 21h a sonné et que l'expulsion n'est légalement plus possible, ils vont devoir cohabiter jusqu'au lendemain matin 06h. \r\n\r\nLa guerre des nerfs a commencé et tous les coups sont permis ! \r\n\r\nUne comédie de Bruno Galissa avec Delphine Pradeilles et Bruno Galissa."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le 16/19 Comédie Marseille",
+      "adresse1" : "Le 16/19 Comédie Marseille",
+      "adresse2" : "16 Quai de rive neuve",
+      "codePostal" : "13007",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.370685, 43.292971 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 20h.\n\nDu mercredi 16 au jeudi 17 novembre 2022 à 20h.\n\nJeudi 24 novembre 2022 à 20h.",
+      "libelleEn" : "Thursday 10 November 2022 at 8 pm.\n\nFrom Wednesday 16 to Thursday 17 November 2022 at 8 pm.\n\nThursday 24 November 2022 at 8 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 20.\n\nDel miércoles, 16 al jueves, 17 de noviembre de 2022 a 20.\n\nJueves, 24 de noviembre de 2022 a 20.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 20.\n\nDal mercoledì 16 a giovedì 17 novembre 2022 alle 20.\n\nGiovedì 24 novembre 2022 alle 20.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 20 Uhr.\n\nVon Mittwoch, den 16. bis Donnerstag, den 17. November 2022 um 20 Uhr.\n\nDonnerstag, den 24. November 2022 um 20 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 20.00 u.\n\nWoensdag 16 tot en met donderdag 17 november 2022 om 20.00 u.\n\nDonderdag 24 november 2022 om 20.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 20h.\n\nС среда 16 до четверг 17 ноября 2022  до 20h.\n\nЧетверг 24 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.\n\n从 星期三 到 2022年11月17日, 星期四   在 小时小时.\n\n2022年11月24日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  20h.\n\nDe Quarta-feira 16 a Quinta-feira 17 Novembro 2022 para  20h.\n\nQuinta-feira 24 Novembro 2022 para  20h.",
+      "libelleJa" : "木曜日 10 11月 2022 8 午後 に.\n\n水曜日 16 から 木曜日 17 11月 2022 まで 8 午後 に.\n\n木曜日 24 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23705484,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24709743
+    }, {
+      "identifiant" : 24709738,
+      "dateDebut" : "2022-11-16",
+      "dateFin" : "2022-11-17",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24709744
+    }, {
+      "identifiant" : 24709740,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24709745
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : de 12 à 22 €.\n",
+      "libelleEn" : "One price: 12 to 22 €.\n",
+      "libelleEs" : "Tarifa única: de 12 a 22 €.\n",
+      "libelleIt" : "Tariffa unica: da 12 a 22 €.\n",
+      "libelleDe" : "Einheitspreis: von 12 bis 22 €.\n",
+      "libelleNl" : "Vast tarief: € 12 tot en met € 22.\n",
+      "libelleRu" : "Единый тариф : с 12 до  22 €.\n",
+      "libelleZh" : "定价 : 从 12 到  22 €.\n",
+      "libellePtBR" : "Tarifa única: de 12 a 22 €.\n",
+      "libelleJa" : "シングルレート: 12 から 22 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13841239,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-24",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 22.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13327421,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'incruste... Il n'en restera qu'un !"
+    },
+    "legende" : {
+      "libelleFr" : "L'incruste... Il n'en restera qu'un !"
+    },
+    "copyright" : {
+      "libelleFr" : "L'incruste... Il n'en restera qu'un ! - Le 16/19 Comédie Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/246/13497867.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/246/13497867-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/246/13497867-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/11/246/13497867-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "incruste",
+      "taille" : 135821,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-06-24T13:30:07.344+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-16", "2022-11-17", "2022-11-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le 16/19 Comédie Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-24T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

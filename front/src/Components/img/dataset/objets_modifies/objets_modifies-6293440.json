@@ -1,0 +1,209 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293440,
+  "nom" : {
+    "libelleFr" : "Lecture par Jean-Paul Lucet"
+  },
+  "identifier" : "SITRA2_EVE_6293440",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T09:43:06.411+0000",
+    "dateModification" : "2022-10-22T11:41:40.515+0000",
+    "dateExportModification" : "2022-10-22T11:41:43.068+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540605,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 34 39"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 89496305,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/salledeletoile/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228814
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Lecture par Jean-Paul Lucet au Théâtre Pécout."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Lecture par Jean-Paul Lucet.\r\nLe texte rend hommage aux 560 écrivains français morts pendant la Grande Guerre 1914/1918.\r\n\r\nDans le cadre de la cérémonie du 11 Novembre."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre Pécout",
+      "adresse1" : "10 Avenue Léo Lagrange",
+      "codePostal" : "13160",
+      "commune" : {
+        "id" : 4438
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.855852, 43.884254 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4438
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 18h30.",
+      "libelleEn" : "Thursday 10 November 2022 at 6.30 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 18:30.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 18:30.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 18.30 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 18.30 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 18h30.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  18h30.",
+      "libelleJa" : "木曜日 10 11月 2022 6.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24481613,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "18:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24562164
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14492661,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/141/14847321.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/141/14847321-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/141/14847321-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/141/14847321-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/141/14847321-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "doc03109720221022112745_001",
+      "taille" : 3170001,
+      "hauteur" : 4960,
+      "largeur" : 3507,
+      "lastModifiedDate" : "2022-10-22T11:41:40.707+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Théâtre Pécout"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

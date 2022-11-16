@@ -1,16 +1,97 @@
+#corp
+{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    padding-bottom: 200px;
+    font-family: 'Poppins';
+    justify-content: center;
+    
+}
+
 #timeline
 {
-    height: 70px;
-    width: 90%;
-    margin: auto;
-    background-color: black;
-    border-radius: 20px;
-    padding: 5px;
+    position: relative;
+    height: 20px;
+    width: 80%;
+    margin-top: 12%;
+    border-radius: 50px;
+    background-color: #FF5757;    
+    margin-left: 16%;
+    margin-right: 10%;
 }
 
 .activity
 {
-    background-color: red;
-    height: 100%;
+    position: absolute;
+
+    background-color: #00004D;
+    height: 20px;
+    bottom: -2px;
     border-radius: 50px;
+    border: 2.3px solid #FF5757;
+
+    overflow: hidden;
+}
+
+#hour
+{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin-top: 15%;
+}
+
+.hour
+{
+    margin-left: 20.1%;
+}
+.cube
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 11%;
+    overflow: auto;
+    position: absolute;
+    border-radius: 12px;
+    max-width: 100%;
+    z-index: 3;
+}
+.days
+{
+    display: flex;
+    flex-direction: row;
+width: 8.1%;
+}
+#selectDay
+{
+    height: 75%;
+    border: 3px solid #00004D;
+    color: #00004D;
+    border-radius: 12px;
+    width: 100%;
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 10%;
+    background-color: #FF5757;
+    z-index: 8;
+}
+
+.option
+{
+    border: solid 2px #FF5757;
+    background-color: #00004D;
+    padding-top: 8px;
+    color: #FF5757;
+    border-radius: 12px;
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+
+    width: 100%;
+    padding-left: 60%;
+    padding-right: 60%;
 }

@@ -1,0 +1,519 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5527607,
+  "nom" : {
+    "libelleFr" : "Musée des Civilisations d'Europe et Méditerranée Mucem",
+    "libelleEn" : "Musée des Civilisations d'Europe et Méditerranée",
+    "libelleEs" : "Musée des Civilisations d'Europe et Méditerranée",
+    "libelleIt" : "Musée des Civilisations d'Europe et Méditerranée",
+    "libelleDe" : "Musée des Civilisations d'Europe et Méditerranée",
+    "libelleNl" : "Musée des Civilisations d'Europe et Méditerranée"
+  },
+  "identifier" : "SITRA2_STR_5527607",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-06T08:24:29.288+0000",
+    "dateModification" : "2022-10-28T08:55:02.700+0000",
+    "dateExportModification" : "2022-10-28T08:55:02.915+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79137701,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 13 13"
+      }
+    }, {
+      "identifiant" : 79137702,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 13 45"
+      }
+    }, {
+      "identifiant" : 79137703,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 13 43"
+      }
+    }, {
+      "identifiant" : 79137704,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 13 36"
+      }
+    }, {
+      "identifiant" : 79137705,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 91 59 02 36"
+      }
+    }, {
+      "identifiant" : 79137706,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "celine.mechain@mucem.org"
+      }
+    }, {
+      "identifiant" : 79137707,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.fauche@mucem.org"
+      }
+    }, {
+      "identifiant" : 79137708,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservation@mucem.org"
+      }
+    }, {
+      "identifiant" : 79137709,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "joanne.journee@mucem.org"
+      }
+    }, {
+      "identifiant" : 79137710,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mucem.org"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "51744107700024",
+      "codeApeNaf" : "9499Z",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "7 Promenade Robert Laffont",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.361469, 43.296750 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20653786,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "COSTA",
+    "prenom" : "Pierre-Olivier",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98735176,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "pierre-olivier.costa@mucem.org"
+      }
+    }, {
+      "identifiant" : 98735182,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0484351482"
+      }
+    } ]
+  }, {
+    "identifiant" : 20653791,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "ZIMBOULAS",
+    "prenom" : "Julien",
+    "titre" : {
+      "libelleFr" : "Adjoint chargé du pôle Gestion des Publics"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 472
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98735238,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "julien.zimboulas@mucem.org"
+      }
+    }, {
+      "identifiant" : 98736619,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservation@mucem.or"
+      }
+    } ]
+  }, {
+    "identifiant" : 20653807,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MOLLE",
+    "prenom" : "Florent",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98735290,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "florent.molle@mucem.org"
+      }
+    }, {
+      "identifiant" : 98735297,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 14 51"
+      }
+    } ]
+  }, {
+    "identifiant" : 20654021,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BASQUIN",
+    "prenom" : "Julie",
+    "titre" : {
+      "libelleFr" : "Responsable communication"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98736369,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "julie.basquin@mucem.org"
+      }
+    }, {
+      "identifiant" : 98736374,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 10 63 15 27"
+      }
+    }, {
+      "identifiant" : 98736378,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 14 71"
+      }
+    } ]
+  }, {
+    "identifiant" : 20654041,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MANHES",
+    "prenom" : "Louise",
+    "titre" : {
+      "libelleFr" : "Coordinatrice des outils de communication et d'information"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98736489,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "louise.manhes@mucem.org"
+      }
+    }, {
+      "identifiant" : 98736502,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 42 10 27 38"
+      }
+    }, {
+      "identifiant" : 98736511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 14 75"
+      }
+    } ]
+  }, {
+    "identifiant" : 20654193,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BARBIER",
+    "prenom" : "Sandra",
+    "titre" : {
+      "libelleFr" : "Communication digitale"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98737283,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sandra.barbier@mucem.org"
+      }
+    }, {
+      "identifiant" : 98737289,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0484351483"
+      }
+    } ]
+  }, {
+    "identifiant" : 20654081,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "SAADA",
+    "prenom" : "Joanna",
+    "titre" : {
+      "libelleFr" : "Commerciale coordinatrice"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 474
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98736707,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "privatisation@mucem.org"
+      }
+    }, {
+      "identifiant" : 98736734,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 14 81"
+      }
+    } ]
+  }, {
+    "identifiant" : 20654091,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "LEPAN",
+    "prenom" : "Youna",
+    "titre" : {
+      "libelleFr" : "Commerciale privatisation"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 474
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98736757,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "privatisation@mucem.org"
+      }
+    }, {
+      "identifiant" : 98736758,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 14 85"
+      }
+    } ]
+  }, {
+    "identifiant" : 21097744,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "OGIEZ",
+    "prenom" : "Cindy",
+    "titre" : {
+      "libelleFr" : "Responsable Ventes et Marketing"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101546261,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 84 35 13 43"
+      }
+    }, {
+      "identifiant" : 101546281,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 45 65 89 86"
+      }
+    }, {
+      "identifiant" : 101546291,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "cindy.ogiez@mucem.org"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

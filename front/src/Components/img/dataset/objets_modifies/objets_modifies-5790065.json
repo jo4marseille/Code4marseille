@@ -1,0 +1,385 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5790065,
+  "nom" : {
+    "libelleFr" : "Visite guidée en français des ateliers viticoles & oléicoles suivie de dégustations",
+    "libelleEn" : "Guided tour in french of the Chai and olive oil production and tasting"
+  },
+  "identifier" : "SITRA2_EVE_5790065",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-04-27T10:42:48.358+0000",
+    "dateModification" : "2022-03-24T13:34:49.240+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463499
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Situé à 15 km d’Aix-en-Provence, face à la mythique montagne Sainte-Victoire se dressant tel un tableau, ce domaine est avant tout producteur de vin et d’huile d’olive.",
+      "libelleEn" : "Located 15 km from Aix-en-Provence, facing the mythical Mont Sainte-Victoire standing as an array, this field is foremost producer of wine and olive oil."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Terre de Mistral, inauguré en 2008, c’est l’histoire de la rencontre de deux familles qui partagent la même passion pour la Provence, et une forte volonté de transmettre et faire connaître leur savoir-faire. \r\n\r\nVisite commentée des ateliers viticoles et oléicoles, suivie d'une initiation à la dégustation (5 vins, 2 huiles d'olive )sous forme de jeux avec les vins et les huiles d'olive du domaine (reconnaissance d'arômes…). \r\n\r\n➜ Visite guidée en français / Durée : 1h30\r\n➜ Véhicule personnel obligatoire\r\n➜ Les animaux sont interdits.\r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix en Provence",
+      "libelleEn" : "Terre de Mistral, inaugurated in 2008, is the story of the meeting of two families who share the same passion for Provence, and a strong desire to communicate and disseminate their knowledge.\r\n\r\nGuided visit in french of the Chai and olive oil production and tasting (5 wines, 2 olive oils), every day from April to October, except sunday and bank holidays, and on request during low season.\r\n \r\n➜ French guided visit.\r\n➜ Wine & olive tasting included\r\n➜ Duration: 1h30\r\n➜ Personnel car required\r\n➜ Pets are forbidden.\r\n\r\nBooking at the information desk or on the website of the Tourist Office."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Port du masque obligatoire",
+        "libelleEn" : "Face mask required"
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Domaine Terre de Mistral",
+      "adresse1" : "Chemin du Pavillon",
+      "codePostal" : "13790",
+      "commune" : {
+        "id" : 4498
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.628810, 43.470690 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4498
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5547667
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3737
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 11/03/2022.\nFermé mardi, samedi et dimanche.\nLes lundis, jeudis et vendredis à 10h et 14h \r\nLes mercredis à 10h30 et 14h.\n\nDu 18/04 au 30/04/2022.\nFermé mardi, samedi et dimanche.\nLes lundis, mercredis et jeudis à 11h et 14h\r\nLes vendredi à 10h30 et 14h.\n\nDu 01/05 au 31/08/2022.\nFermé le dimanche.\nLes lundis à 11h et 14h \r\nDu mardi au vendredi à 10h30 et 14h\r\nLes samedis à 10het 14h.\n\nDu 01/09 au 31/12/2022.\nFermé mardi, samedi et dimanche.\nLes lundis, jeudis et vendredis à 10h et 14h\r\nLes mercredis à 10h30 et 14h.",
+      "libelleEn" : "From 01/01 to 11/03/2022.\nClosed Tuesday, Saturday and Sunday.\n\nFrom 18/04 to 30/04/2022.\nClosed Tuesday, Saturday and Sunday.\n\nFrom 01/05 to 31/08/2022.\nClosed on Sunday.\n\nFrom 01/09 to 31/12/2022.\nClosed Tuesday, Saturday and Sunday.",
+      "libelleEs" : "Del 01/01 al 11/03/2022.\nCerrado martes, sábado y domingo.\n\nDel 18/04 al 30/04/2022.\nCerrado martes, sábado y domingo.\n\nDel 01/05 al 31/08/2022.\nCerrado los domingo.\n\nDel 01/09 al 31/12/2022.\nCerrado martes, sábado y domingo.",
+      "libelleIt" : "Dal 01/01 al 11/03/2022.\nChiuso martedì, sabato e domenica.\n\nDal 18/04 al 30/04/2022.\nChiuso martedì, sabato e domenica.\n\nDal 01/05 al 31/08/2022.\nChiuso la domenica.\n\nDal 01/09 al 31/12/2022.\nChiuso martedì, sabato e domenica.",
+      "libelleDe" : "Vom 01/01 bis 11/03/2022.\nDienstag, Samstag und Sonntag geschlossen.\n\nVom 18/04 bis 30/04/2022.\nDienstag, Samstag und Sonntag geschlossen.\n\nVom 01/05 bis 31/08/2022.\nSonntag geschlossen.\n\nVom 01/09 bis 31/12/2022.\nDienstag, Samstag und Sonntag geschlossen.",
+      "libelleNl" : "Van 01/01 tot en met 11/03/2022.\nDinsdag, zaterdag en zondag gesloten.\n\nVan 18/04 tot en met 30/04/2022.\nDinsdag, zaterdag en zondag gesloten.\n\nVan 01/05 tot en met 31/08/2022.\nZondag gesloten.\n\nVan 01/09 tot en met 31/12/2022.\nDinsdag, zaterdag en zondag gesloten.",
+      "libelleRu" : "С 01/01 до 11/03/2022.\nНе работает вторник, суббота и воскресенье.\n\nС 18/04 до 30/04/2022.\nНе работает вторник, суббота и воскресенье.\n\nС 01/05 до 31/08/2022.\nНе работает воскресенье.\n\nС 01/09 до 31/12/2022.\nНе работает вторник, суббота и воскресенье.",
+      "libelleZh" : "从 1月1日 到 2022年3月11日.\n星期二, 星期六 和 星期日 关闭.\n\n从 4月18日 到 2022年4月30日.\n星期二, 星期六 和 星期日 关闭.\n\n从 5月1日 到 2022年8月31日.\n星期日 关闭.\n\n从 9月1日 到 2022年12月31日.\n星期二, 星期六 和 星期日 关闭.",
+      "libellePtBR" : "De 01/01 a 11/03/2022.\nFechado em terça-feira, sábado e domingo.\n\nDe 18/04 a 30/04/2022.\nFechado em terça-feira, sábado e domingo.\n\nDe 01/05 a 31/08/2022.\nFechado em domingo.\n\nDe 01/09 a 31/12/2022.\nFechado em terça-feira, sábado e domingo.",
+      "libelleJa" : "01/01 から 11/03/2022 まで.\n火曜日, 土曜日 と 日曜日 は休み.\n\n18/04 から 30/04/2022 まで.\n火曜日, 土曜日 と 日曜日 は休み.\n\n01/05 から 31/08/2022 まで.\n日曜日 は休み.\n\n01/09 から 31/12/2022 まで.\n火曜日, 土曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20877833,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-03-11",
+      "complementHoraire" : {
+        "libelleFr" : "Les lundis, jeudis et vendredis à 10h et 14h \r\nLes mercredis à 10h30 et 14h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22753780
+    }, {
+      "identifiant" : 22337131,
+      "dateDebut" : "2022-04-18",
+      "dateFin" : "2022-04-30",
+      "complementHoraire" : {
+        "libelleFr" : "Les lundis, mercredis et jeudis à 11h et 14h\r\nLes vendredi à 10h30 et 14h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22753781
+    }, {
+      "identifiant" : 22337172,
+      "dateDebut" : "2022-05-01",
+      "dateFin" : "2022-08-31",
+      "complementHoraire" : {
+        "libelleFr" : "Les lundis à 11h et 14h \r\nDu mardi au vendredi à 10h30 et 14h\r\nLes samedis à 10het 14h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22753782
+    }, {
+      "identifiant" : 22337177,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Les lundis, jeudis et vendredis à 10h et 14h\r\nLes mercredis à 10h30 et 14h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22753783
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 12 €, Enfant (2-12 ans) : 5 € (2 à 12 ans).\n",
+      "libelleEn" : "Adult: 12 €, Child (2-12 years): 5 € (2 to 12 years old).\n",
+      "libelleEs" : "Adulto: 12 €, Niño (2-12 años): 5 €.\n",
+      "libelleIt" : "Adulto: 12 €, Bambino (2-12 anni): 5 €.\n",
+      "libelleDe" : "Erwachsene: 12 €, Kinder (2-12 Jahren): 5 €.\n",
+      "libelleNl" : "Volwassene: € 12, Kind (2-12 jaar): € 5.\n",
+      "libelleRu" : "Взрослый : 12 €, Ребенок (2-12 лет) : 5 €.\n",
+      "libelleZh" : "成人 : 12 €, 儿童 (2-12 岁) : 5 €.\n",
+      "libellePtBR" : "Adulto: 12 €, Criança (2-12 anos): 5 €.\n",
+      "libelleJa" : "大人: 12 €, 子供 (2-12 歳): 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12754771,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "2 à 12 ans",
+          "libelleEn" : "2 to 12 years old"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionEnfantAgeMin" : 2,
+      "conditionEnfantAgeMax" : 12
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5752180,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228508
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 88361155,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/terre-de-mistral-visite-guidee-en-francais-des-ateliers-viticoles-oleicoles-suivie-de-degustations-1h30.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Rendez vous 10mn avant le départ de la visite au domaine viticole",
+      "libelleEn" : "Meeting 10mn before at the winery"
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 10280661,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/124/10058991.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/124/10058991-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/124/10058991-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/124/10058991-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-francais-des-ateliers-viticoles-oleicoles-suivie-de-degustations-166305",
+      "taille" : 195290,
+      "hauteur" : 533,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-15T13:38:31.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-24", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-31", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-07", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-14", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-21", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-28", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-05", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-12", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-19", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-26", "2022-12-28", "2022-12-29", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2271
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Domaine Terre de Mistral"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

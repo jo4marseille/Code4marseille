@@ -1,0 +1,289 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466367,
+  "nom" : {
+    "libelleFr" : "Festival Parallèle",
+    "libelleEn" : "Festival parallèle 04",
+    "libelleIt" : "Festival parallèle 04",
+    "libelleDe" : "Festival parallèle 04",
+    "libelleNl" : "Festival parallèle 04"
+  },
+  "identifier" : "SITRA2_EVE_5466367",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:44:06.632+0000",
+    "dateModification" : "2022-08-04T13:40:57.543+0000",
+    "dateExportModification" : "2022-10-24T06:27:41.544+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77072491,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.plateformeparallele.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6003743
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Festival international des pratiques artistiques émergentes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Basée à Marseille, Parallèle est un pôle de production et de diffusion de spectacle vivant (danse, théâtre, arts visuels, performance) dédiée à la nouvelle génération d’artistes locaux, nationaux et internationaux. Il travaille au développement de projets artistiques, à l’accompagnement de parcours d’artistes et au renouvellement des formes et langages.\r\n\r\nActif depuis la conception des projets jusqu’à leur diffusion, Parallèle fédère des partenaires emblématiques de la création contemporaine internationale autour des productions et leur donne une visibilité renforcée.\r\n \r\nLe Festival Parallèle, temps fort de visibilité du Pôle réalise en partenariat avec de nombreux lieux culturels de la ville, met ces formes en partage avec un public toujours plus nombreux et attentif.\r\n\r\nLes projets des artistes soutenus en production et diffusion sont au coeur du festival. Ils sont visibles au sein d’une programmation internationale, multi- et trans-disciplinaire (danse, théâtre, performance, arts visuels) révélant la richesse esthétique et la puissance de pensée des artistes de la nouvelle génération.\r\nLe Festival Parallèle attire tous les ans de nombreux programmateur.rice.s internationaux.\r\n \r\nIl agit comme un vivier, un espace de visibilité qualitative pour les artistes, dont l’impact peut se mesurer tous les ans, voyant ces artistes évoluer par la suite dans les plus importantes scènes de France, d’Europe et du monde."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Nombreuses structures culturelles à Marseille",
+      "codePostal" : "13055",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383221, 43.298344 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6059791
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/01 au 04/02/2023, tous les jours.",
+      "libelleEn" : "From 19/01 to 04/02/2023, daily.",
+      "libelleEs" : "Del 19/01 al 04/02/2023, todos los dias.",
+      "libelleIt" : "Dal 19/01 al 04/02/2023, ogni giorno.",
+      "libelleDe" : "Vom 19/01 bis 04/02/2023, täglich.",
+      "libelleNl" : "Van 19/01 tot en met 04/02/2023, iedere dag.",
+      "libelleRu" : "С 19/01 до 04/02/2023, ежедневно.",
+      "libelleZh" : "从 1月19日 到 2023年2月4日, 日常.",
+      "libellePtBR" : "De 19/01 a 04/02/2023, todos os dias.",
+      "libelleJa" : "19/01 から 04/02/2023 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19476284,
+      "dateDebut" : "2023-01-19",
+      "dateFin" : "2023-02-04",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24030838
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12816026,
+      "dateDebut" : "2023-01-19",
+      "dateFin" : "2023-02-04"
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5111271,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5499399
+      },
+      "nom" : "L'Officina",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 80564769,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 91 90 07 94"
+        }
+      }, {
+        "identifiant" : 80564770,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "info@minoterie.org"
+        }
+      }, {
+        "identifiant" : 80564771,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.minoterie.org"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 13655780,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Festival Parallèle - Productions Parallèle"
+    },
+    "copyright" : {
+      "libelleFr" : "Festival Parallèle - Productions Parallèle"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/127/13860828.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/127/13860828-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/127/13860828-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/127/13860828-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "parralèle",
+      "taille" : 73235,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-04T13:38:52.450+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3832
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-02-04T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT042400"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

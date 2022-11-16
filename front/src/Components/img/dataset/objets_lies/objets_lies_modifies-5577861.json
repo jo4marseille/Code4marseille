@@ -1,0 +1,123 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5577861,
+  "nom" : {
+    "libelleFr" : "Bureau d'Information Touristique",
+    "libelleEn" : "Office municipal de Tourisme de Sénas",
+    "libelleEs" : "Office municipal de Tourisme de Sénas",
+    "libelleIt" : "Office municipal de Tourisme de Sénas",
+    "libelleDe" : "Office municipal de Tourisme de Sénas",
+    "libelleNl" : "Office municipal de Tourisme de Sénas"
+  },
+  "identifier" : "SITRA2_STR_5577861",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-17T15:56:14.749+0000",
+    "dateModification" : "2021-06-16T14:50:23.787+0000",
+    "dateExportModification" : "2021-06-28T12:14:17.365+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Bureau d'Information Touristique de Sénas",
+      "dateCreation" : "2021-01-13T08:47:29.597+0000",
+      "dateModification" : "2022-05-16T15:33:09.522+0000",
+      "id" : 2174,
+      "siteWeb" : "https://senas.fr"
+    },
+    "signalerUnProblemeMails" : [ "bureauinfotourisme@senas.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80382115,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 78 41 27 57"
+      }
+    }, {
+      "identifiant" : 80382116,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bureauinfotourisme@senas.fr"
+      }
+    }, {
+      "identifiant" : 89634423,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://senas.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130105600019",
+      "codeApeNaf" : "751A"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Cours Jean Jaurès",
+      "codePostal" : "13560",
+      "bureauDistribution" : "SENAS",
+      "commune" : {
+        "id" : 4516
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.077546, 43.745093 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4516
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18938731,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

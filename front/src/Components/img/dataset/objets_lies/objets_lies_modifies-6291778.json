@@ -1,0 +1,310 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291778,
+  "nom" : {
+    "libelleFr" : "Les fêtes dédiées aux défunts"
+  },
+  "identifier" : "SITRA2_EVE_6291778",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-11T07:53:22.333+0000",
+    "dateModification" : "2022-10-13T10:17:14.228+0000",
+    "dateExportModification" : "2022-10-13T10:17:14.404+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104028882,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 03"
+      }
+    }, {
+      "identifiant" : 104028883,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104028884,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      }
+    }, {
+      "identifiant" : 104028885,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visitez le musée autrement... Ce dimanche la thématique porte sur \"Les fêtes dédiées aux défunts dans le calendrier romain\" et les œuvres ne manquent pas dans les collections à ce sujet !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Toute l’année était marquée, dans le calendrier romain, par les rites funéraires, tels que les fêtes des Parentalia, Feralia, Lemuria... découvrez ces pratiques.\r\n\r\nAlice Vallat, guides-conférencière, vous proposent un regard inattendu sur les collections permanentes du musée sous forme d’une visite approfondie.\r\n\r\n> Sans réservation, en vente le jour même, dans la limite des places disponibles"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Musée Départemental Arles antique",
+      "adresse2" : "Presqu'île du Cirque-Romain BP 205",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616092, 43.672046 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 13 novembre 2022 de 11h à 12h15.",
+      "libelleEn" : "Sunday 13 November 2022 between 11 am and 12.15 pm.",
+      "libelleEs" : "Domingo, 13 de noviembre de 2022 de 11 a 12:15.",
+      "libelleIt" : "Domenica 13 novembre 2022 dalle 11 alle 12:15.",
+      "libelleDe" : "Sonntag, den 13. November 2022 von 11 Uhr bis 12.15 Uhr.",
+      "libelleNl" : "Zondag 13 november 2022 van 11.00 tot en met 12.15 u.",
+      "libelleRu" : "Воскресенье 13 ноября 2022  с 11h до 12h15.",
+      "libelleZh" : "2022年11月13日, 星期日   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Domingo 13 Novembro 2022 de 11h a  12h15.",
+      "libelleJa" : "日曜日 13 11月 2022 11 午前 と 12.15 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24470411,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-11-13",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "12:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24490972
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 3 € (En plus du billet d’entrée\r\n\r\nGratuit pour les abonnés du musée.).\n",
+      "libelleEn" : "Full price: 3 €.\n",
+      "libelleEs" : "Tarifa completa: 3 €.\n",
+      "libelleIt" : "Tarrifa intera: 3 €.\n",
+      "libelleDe" : "Voller Preis: 3 €.\n",
+      "libelleNl" : "Vol tarief: € 3.\n",
+      "libelleRu" : "Полную цену : 3 €.\n",
+      "libelleZh" : "全额 : 3 €.\n",
+      "libellePtBR" : "Tarifa inteira: 3 €.\n",
+      "libelleJa" : "通常料金: 3 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13729788,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-11-13",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "En plus du billet d’entrée\r\n\r\nGratuit pour les abonnés du musée."
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21410872,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104028886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104028887,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14362464,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "guide OT"
+    },
+    "copyright" : {
+      "libelleFr" : "C.Falaschi MDAA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/67/14697393.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/67/14697393-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/67/14697393-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/67/14697393-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/67/14697393-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "guide OT C.falaschi  (66)",
+      "taille" : 2723696,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2022-10-13T10:10:16.937+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

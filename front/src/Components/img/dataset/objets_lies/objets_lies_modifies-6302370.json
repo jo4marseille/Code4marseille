@@ -1,0 +1,234 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6302370,
+  "nom" : {
+    "libelleFr" : "Rêver la ville"
+  },
+  "identifier" : "SITRA2_EVE_6302370",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-18T15:23:25.680+0000",
+    "dateModification" : "2022-10-18T15:30:28.792+0000",
+    "dateExportModification" : "2022-10-24T09:26:53.562+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104301641,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.laphotographie-marseille.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466378
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition collective"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Programme de Réussite Educative de Marseille s’associe une nouvelle fois à Photo Marseille et propose plusieurs expositions à l’issue d’ateliers photographiques menés avec les enfants suivis par le PRE et scolarisés\r\ndans les Réseaux d’Education Prioritaire renforcés de Marseille.\r\n\r\nCes ateliers mis en place par le GIP PRE Marseille sont conduits par quatre photographes :\r\n\r\nHélène Bossy, \r\nLéonor Lumineau, \r\nClothilde Grandguillot, \r\nCamille Szklorz.\r\n\r\nLes travaux issus de ces ateliers seront exposés du 13 novembre au 13 décembre 2022, chacun dans un lieu différent et dans des lieux ouverts et facilement accessibles.\r\n\r\nUne exposition hors les murs où les photographies seront exposées sur les grilles de parcs municipaux. (Parcs Longchamp, Font Obscure, François Billoux)\r\n\r\nUne proposition GIP PRE, Photo Marseille, Ville de Marseille"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Parcs Longchamp, Font Obscure, François Billoux",
+      "codePostal" : "13015",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4545
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.364604, 43.332344 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4545
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 13/11 au 13/12/2022, tous les jours.\nDu mardi au samedi de 16h à 19h.",
+      "libelleEn" : "From 13/11 to 13/12/2022, daily.",
+      "libelleEs" : "Del 13/11 al 13/12/2022, todos los dias.",
+      "libelleIt" : "Dal 13/11 al 13/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 13/11 bis 13/12/2022, täglich.",
+      "libelleNl" : "Van 13/11 tot en met 13/12/2022, iedere dag.",
+      "libelleRu" : "С 13/11 до 13/12/2022, ежедневно.",
+      "libelleZh" : "从 11月13日 到 2022年12月13日, 日常.",
+      "libellePtBR" : "De 13/11 a 13/12/2022, todos os dias.",
+      "libelleJa" : "13/11 から 13/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24528578,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-12-13",
+      "complementHoraire" : {
+        "libelleFr" : "du mardi au samedi de 16h à 19h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24528578
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  }, {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14449947,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "RÊVER LA VILLE - Hélène Bossy"
+    },
+    "copyright" : {
+      "libelleFr" : "RÊVER LA VILLE - Hélène Bossy"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/207/14798707.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/207/14798707-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/207/14798707-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/207/14798707-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-18-22 at 05.29 PM",
+      "taille" : 271810,
+      "hauteur" : 699,
+      "largeur" : 858,
+      "lastModifiedDate" : "2022-10-18T15:30:28.889+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Parcs Longchamp, Font Obscure, François Billoux"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-13T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

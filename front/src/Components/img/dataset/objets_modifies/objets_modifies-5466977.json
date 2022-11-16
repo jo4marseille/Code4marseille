@@ -1,0 +1,546 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466977,
+  "nom" : {
+    "libelleFr" : "Grand Marché Provençal hebdomadaire",
+    "libelleEn" : "Weekly Provencal market of Saint-Rémy-de-Provence",
+    "libelleIt" : "Mercato provenzale a Saint-Rémy-de-Provence",
+    "libelleDe" : "Provenzalischer Wochenmarkt in Saint-Rémy-de-Provence",
+    "libelleNl" : "Marché Heddomadaire"
+  },
+  "identifier" : "SITRA2_EVE_5466977",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:02:18.267+0000",
+    "dateModification" : "2022-09-16T15:08:16.336+0000",
+    "dateExportModification" : "2022-09-16T15:08:16.766+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071392,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 08 10"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466033
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Tous les mercredis matins, retrouvez le grand marché provençal à Saint-Rémy-de-Provence, un des plus beaux marchés de la région !",
+      "libelleEn" : "Every Wednesday morning, come and visit the large Provencal market in Saint-Rémy-de-Provence, one of the most beautiful markets in the region !",
+      "libelleDe" : "Jeden Mittwochmorgen finden Sie den großen provenzalischen Markt in Saint-Rémy-de-Provence, einen der schönsten Märkte der Region !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Venez découvrir ou redécouvrir le marché de Saint-Rémy-de-Provence, très animé et coloré : aromates, épices, olives, huiles, fruits, légumes, miels, fleurs...\r\nLe marché se situe sur la Place de la République et dans les rues de centre historique. \r\n\r\nEn période estivale, venir assez tôt si vous souhaitez vous garer à proximité.\r\nSinon d'autres parking sont accessibles à 5mn à pied. \r\n\r\nDurant les manifestations taurines (Fêtes votives, Féria…), le marché du mercredi peut être soit reporté soit annulé.",
+      "libelleEn" : "Come and discover or rediscover the market of Saint-Rémy-de-Provence, very lively and colourful: herbs, spices, olives, oils, fruits, vegetables, honeys, flowers...\r\nThe market is located on the Place de la République and in the streets of the historic centre. \r\n\r\nDuring the summer, come early enough if you want to park nearby.\r\nOtherwise, other car parks are accessible within 5 minutes' walk. \r\n\r\nDuring bullfighting events (Fêtes votives, Féria...), the Wednesday market may be postponed or cancelled.",
+      "libelleEs" : "El miércoles por la mañana en las viejas calles de Saint Remy, gran mercado animado y colorido: hierbas, especias, aceitunas, aceites, frutas, hortalizas, miel, flores, telas, antigüedades...El sábado por la mañana, place de la République: pequeño mercado de abastos (frutas, verduras, miel, turrones, embutidos...)",
+      "libelleIt" : "Mercoledì mattina nelle vecchie strade di Saint Remy, grande mercato vivace e colorato: erbe, spezie, olive, oli, frutta, verdura, miele, fiori, tessuti, antiquariato...Sabato mattina, luogo de la République: piccolo mercato (frutta, verdura, miele, torroni, salumi...)",
+      "libelleDe" : "Entdecken Sie den Markt in Saint-Rémy-de-Provence, der sehr lebhaft und farbenfroh ist, oder entdecken Sie ihn wieder: Aromaten, Gewürze, Oliven, Öle, Obst, Gemüse, Honig, Blumen...\r\nDer Markt befindet sich auf dem Place de la République und in den Straßen des historischen Zentrums. \r\n\r\nIn der Sommerzeit sollten Sie früh genug kommen, wenn Sie in der Nähe parken möchten.\r\nAnsonsten gibt es weitere Parkplätze, die in 5 Minuten zu Fuß erreichbar sind. \r\n\r\nWährend der Stierkampfveranstaltungen (Fêtes votives, Féria...) kann der Markt am Mittwoch verschoben oder abgesagt werden.",
+      "libelleNl" : "Woensdagochtend in de oude straten van Saint Remy, grote markt levendige en kleurrijke: kruiden, specerijen, olijven, oliën, fruit, groenten, honing, bloemen, stoffen, antiek...Zaterdag ochtend, place de la République: kleine voedselmarkt (fruit, groenten, honing, nougats, koude vleeswaren...)"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Mairie de Saint Rémy de Provence",
+      "adresse1" : "Place Jules Pellissier",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.829996, 43.788207 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public(Place Jean Jaurès\r\nPlace du Général de Gaulle)\r\nParking autocar(Parking des Antiques)\r\nParking public(Ecole de la Libération\r\nParking piscine municipale\r\nParking des Arènes\r\nParking Stade Sans Souci\r\nParking du Cimetière)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 21 septembre 2022 de 8h30 à 13h.\n\nMercredi 5 octobre 2022 de 8h30 à 13h.\n\nMercredi 12 octobre 2022 de 8h30 à 13h.\n\nMercredi 19 octobre 2022 de 8h30 à 13h.\n\nMercredi 26 octobre 2022 de 8h30 à 13h.\n\nMercredi 2 novembre 2022 de 8h30 à 13h.\n\nMercredi 9 novembre 2022 de 8h30 à 13h.\n\nMercredi 16 novembre 2022 de 8h30 à 13h.\n\nMercredi 23 novembre 2022 de 8h30 à 13h.\n\nMercredi 30 novembre 2022 de 8h30 à 13h.\n\nMercredi 7 décembre 2022 de 8h30 à 13h.\n\nMercredi 14 décembre 2022 de 8h30 à 13h.\n\nMercredi 21 décembre 2022 de 8h30 à 13h.\n\nMercredi 28 décembre 2022 de 8h30 à 13h.",
+      "libelleEn" : "Wednesday 21 September 2022 between 8.30 am and 1 pm.\n\nWednesday 5 October 2022 between 8.30 am and 1 pm.\n\nWednesday 12 October 2022 between 8.30 am and 1 pm.\n\nWednesday 19 October 2022 between 8.30 am and 1 pm.\n\nWednesday 26 October 2022 between 8.30 am and 1 pm.\n\nWednesday 2 November 2022 between 8.30 am and 1 pm.\n\nWednesday 9 November 2022 between 8.30 am and 1 pm.\n\nWednesday 16 November 2022 between 8.30 am and 1 pm.\n\nWednesday 23 November 2022 between 8.30 am and 1 pm.\n\nWednesday 30 November 2022 between 8.30 am and 1 pm.\n\nWednesday 7 December 2022 between 8.30 am and 1 pm.\n\nWednesday 14 December 2022 between 8.30 am and 1 pm.\n\nWednesday 21 December 2022 between 8.30 am and 1 pm.\n\nWednesday 28 December 2022 between 8.30 am and 1 pm.",
+      "libelleEs" : "Miércoles, 21 de septiembre de 2022 de 8:30 a 13.\n\nMiércoles, 5 de octubre de 2022 de 8:30 a 13.\n\nMiércoles, 12 de octubre de 2022 de 8:30 a 13.\n\nMiércoles, 19 de octubre de 2022 de 8:30 a 13.\n\nMiércoles, 26 de octubre de 2022 de 8:30 a 13.\n\nMiércoles, 2 de noviembre de 2022 de 8:30 a 13.\n\nMiércoles, 9 de noviembre de 2022 de 8:30 a 13.\n\nMiércoles, 16 de noviembre de 2022 de 8:30 a 13.\n\nMiércoles, 23 de noviembre de 2022 de 8:30 a 13.\n\nMiércoles, 30 de noviembre de 2022 de 8:30 a 13.\n\nMiércoles, 7 de diciembre de 2022 de 8:30 a 13.\n\nMiércoles, 14 de diciembre de 2022 de 8:30 a 13.\n\nMiércoles, 21 de diciembre de 2022 de 8:30 a 13.\n\nMiércoles, 28 de diciembre de 2022 de 8:30 a 13.",
+      "libelleIt" : "Mercoledì 21 settembre 2022 dalle 8:30 alle 13.\n\nMercoledì 5 ottobre 2022 dalle 8:30 alle 13.\n\nMercoledì 12 ottobre 2022 dalle 8:30 alle 13.\n\nMercoledì 19 ottobre 2022 dalle 8:30 alle 13.\n\nMercoledì 26 ottobre 2022 dalle 8:30 alle 13.\n\nMercoledì 2 novembre 2022 dalle 8:30 alle 13.\n\nMercoledì 9 novembre 2022 dalle 8:30 alle 13.\n\nMercoledì 16 novembre 2022 dalle 8:30 alle 13.\n\nMercoledì 23 novembre 2022 dalle 8:30 alle 13.\n\nMercoledì 30 novembre 2022 dalle 8:30 alle 13.\n\nMercoledì 7 dicembre 2022 dalle 8:30 alle 13.\n\nMercoledì 14 dicembre 2022 dalle 8:30 alle 13.\n\nMercoledì 21 dicembre 2022 dalle 8:30 alle 13.\n\nMercoledì 28 dicembre 2022 dalle 8:30 alle 13.",
+      "libelleDe" : "Mittwoch, den 21. September 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 5. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 12. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 19. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 26. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 2. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 9. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 16. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 23. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 30. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 7. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 14. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 21. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nMittwoch, den 28. Dezember 2022 von 8.30 Uhr bis 13 Uhr.",
+      "libelleNl" : "Woensdag 21 september 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 5 oktober 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 12 oktober 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 19 oktober 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 26 oktober 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 2 november 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 9 november 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 16 november 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 23 november 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 30 november 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 7 december 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 14 december 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 21 december 2022 van 8.30 tot en met 13.00 u.\n\nWoensdag 28 december 2022 van 8.30 tot en met 13.00 u.",
+      "libelleRu" : "Среда 21 сентября 2022  с 8h30 до 13h.\n\nСреда 5 октября 2022  с 8h30 до 13h.\n\nСреда 12 октября 2022  с 8h30 до 13h.\n\nСреда 19 октября 2022  с 8h30 до 13h.\n\nСреда 26 октября 2022  с 8h30 до 13h.\n\nСреда 2 ноября 2022  с 8h30 до 13h.\n\nСреда 9 ноября 2022  с 8h30 до 13h.\n\nСреда 16 ноября 2022  с 8h30 до 13h.\n\nСреда 23 ноября 2022  с 8h30 до 13h.\n\nСреда 30 ноября 2022  с 8h30 до 13h.\n\nСреда 7 декабря 2022  с 8h30 до 13h.\n\nСреда 14 декабря 2022  с 8h30 до 13h.\n\nСреда 21 декабря 2022  с 8h30 до 13h.\n\nСреда 28 декабря 2022  с 8h30 до 13h.",
+      "libelleZh" : "2022年9月21日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年10月5日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年10月12日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年10月19日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年10月26日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年11月2日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年11月9日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年11月16日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年11月23日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年11月30日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年12月7日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年12月14日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年12月21日, 星期三   小时小时分钟  和 小时小时 之间.\n\n2022年12月28日, 星期三   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 21 Setembro 2022 de 8h30 a  13h.\n\nQuarta-feira 5 Outubro 2022 de 8h30 a  13h.\n\nQuarta-feira 12 Outubro 2022 de 8h30 a  13h.\n\nQuarta-feira 19 Outubro 2022 de 8h30 a  13h.\n\nQuarta-feira 26 Outubro 2022 de 8h30 a  13h.\n\nQuarta-feira 2 Novembro 2022 de 8h30 a  13h.\n\nQuarta-feira 9 Novembro 2022 de 8h30 a  13h.\n\nQuarta-feira 16 Novembro 2022 de 8h30 a  13h.\n\nQuarta-feira 23 Novembro 2022 de 8h30 a  13h.\n\nQuarta-feira 30 Novembro 2022 de 8h30 a  13h.\n\nQuarta-feira 7 Dezembro 2022 de 8h30 a  13h.\n\nQuarta-feira 14 Dezembro 2022 de 8h30 a  13h.\n\nQuarta-feira 21 Dezembro 2022 de 8h30 a  13h.\n\nQuarta-feira 28 Dezembro 2022 de 8h30 a  13h.",
+      "libelleJa" : "水曜日 21 9月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 5 10月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 12 10月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 19 10月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 26 10月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 2 11月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 9 11月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 16 11月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 23 11月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 30 11月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 7 12月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 14 12月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 21 12月 2022 8.30 午前 と 1 午後 の間.\n\n水曜日 28 12月 2022 8.30 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23600908,
+      "dateDebut" : "2022-08-24",
+      "dateFin" : "2022-08-24",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309613
+    }, {
+      "identifiant" : 23600914,
+      "dateDebut" : "2022-08-31",
+      "dateFin" : "2022-08-31",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309614
+    }, {
+      "identifiant" : 24119344,
+      "dateDebut" : "2022-09-07",
+      "dateFin" : "2022-09-07",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309615
+    }, {
+      "identifiant" : 24119346,
+      "dateDebut" : "2022-09-14",
+      "dateFin" : "2022-09-14",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309616
+    }, {
+      "identifiant" : 24119347,
+      "dateDebut" : "2022-09-21",
+      "dateFin" : "2022-09-21",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309617
+    }, {
+      "identifiant" : 24119349,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-10-05",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309619
+    }, {
+      "identifiant" : 24119350,
+      "dateDebut" : "2022-10-12",
+      "dateFin" : "2022-10-12",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309620
+    }, {
+      "identifiant" : 24119352,
+      "dateDebut" : "2022-10-19",
+      "dateFin" : "2022-10-19",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309621
+    }, {
+      "identifiant" : 24119356,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-10-26",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309622
+    }, {
+      "identifiant" : 24119360,
+      "dateDebut" : "2022-11-02",
+      "dateFin" : "2022-11-02",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309623
+    }, {
+      "identifiant" : 24119362,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309624
+    }, {
+      "identifiant" : 24119363,
+      "dateDebut" : "2022-11-16",
+      "dateFin" : "2022-11-16",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309625
+    }, {
+      "identifiant" : 24119364,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309626
+    }, {
+      "identifiant" : 24119365,
+      "dateDebut" : "2022-11-30",
+      "dateFin" : "2022-11-30",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309627
+    }, {
+      "identifiant" : 24119369,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309628
+    }, {
+      "identifiant" : 24119370,
+      "dateDebut" : "2022-12-14",
+      "dateFin" : "2022-12-14",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309629
+    }, {
+      "identifiant" : 24119373,
+      "dateDebut" : "2022-12-21",
+      "dateFin" : "2022-12-21",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309630
+    }, {
+      "identifiant" : 24119374,
+      "dateDebut" : "2022-12-28",
+      "dateFin" : "2022-12-28",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24309631
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16801
+  }, {
+    "id" : 16902
+  }, {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9254968,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_fruits"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/125/9010445.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/125/9010445-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/125/9010445-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/125/9010445-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_fruits",
+      "taille" : 1081172,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9254969,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_olives"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/125/9010446.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/125/9010446-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/125/9010446-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/125/9010446-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_olives",
+      "taille" : 1138788,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:35.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9254972,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_tomates"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/125/9010449.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/125/9010449-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/125/9010449-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/17/125/9010449-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_tomates",
+      "taille" : 652646,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:30.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9254970,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_saucisson"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/125/9010447.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/125/9010447-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/125/9010447-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/125/9010447-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_saucissons",
+      "taille" : 1000265,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9254967,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_accessoires"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/125/9010444.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/125/9010444-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/125/9010444-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/125/9010444-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_accessoires",
+      "taille" : 961383,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9254971,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marche_saint_remy_savons_de_marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme Intercommunal Alpilles en Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/125/9010448.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/125/9010448-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/125/9010448-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/125/9010448-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_savons_de_marseille",
+      "taille" : 926033,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-21T11:37:31.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-26", "2022-11-02", "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Mairie de Saint Rémy de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-28T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT017404"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OTI Saint Rémy de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintremy-de-provence.com"
+    }
+  } ]
+}

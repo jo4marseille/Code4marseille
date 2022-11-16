@@ -1,0 +1,463 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5999494,
+  "nom" : {
+    "libelleFr" : "Espace Muséal"
+  },
+  "identifier" : "SITRA2_PCU_5999494",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-12-23T12:14:33.795+0000",
+    "dateModification" : "2022-11-08T14:15:38.168+0000",
+    "dateExportModification" : "2022-11-08T14:15:38.587+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 94977853,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 65 07 66 26"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 94977854,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil-museal@lessaintesmaries.fr"
+      }
+    }, {
+      "identifiant" : 101605915,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.museedessaintesmariesdelamer.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5469879
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Musée des Saintes Maries de la Mer, archéologie maritime et espace Baroncelli…une fenêtre sur le temps. Notre histoire de la plus haute antiquité jusqu’au XX siècle."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "« Visiteurs, songez que, du haut de ce clocher, trente siècles vous contemplent »\r\nPermettez-moi d’emprunter ici les mots célèbres de Napoléon Ier pour rappeler la richesse historique et ethnographique de ces terres sauvages et de ce littoral de Camargue, très tôt fréquentés par les navigateurs. Jusque-là, la Camargue dans son ensemble était surtout appréhendée comme un territoire rude et quasi désert, lié à une histoire provençale et languedocienne relativement récente. Mais depuis ces dernières décennies, grâce à de nombreuses campagnes de fouilles archéologiques sous-marines, son horizon historique et ancestral  s’est élargi à la plus haute Antiquité. On découvre ainsi les navires étrusques, grecs, massaliètes, normands, puis sarrasins et autres encore. La volonté de la municipalité de remettre en valeur ses riches collections ethnographiques, classées aujourd’hui Musée de France, ainsi que son patrimoine maritime le plus reculé, a entrainé l’édification d’une nouvelle structure qui va ouvrir au public à partir du 1er Juillet 2022. Le musée des Saintes-Maries-de-la-Mer présente au public, dans une scénographie innovante, un parcours chronologique consacré au passé maritime de ce littoral à partir du 7ème s. av. J-C., ponctué par les anciennes collections ethnographiques du Musée Baroncelli. Une nouvelle offre culturelle qui complète la déjà riche offre touristique du village."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue Théodore Aubanel",
+      "codePostal" : "13460",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.425618, 43.450307 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10 au 31/05 de 10h à 17h.\nFermé lundi et mardi.",
+      "libelleEn" : "From 01/10 to 31/05 between 10 am and 5 pm.\nClosed Monday and Tuesday.",
+      "libelleEs" : "Del 01/10 al 31/05 de 10 a 17.\nCerrado lunes y martes.",
+      "libelleIt" : "Dal 01/10 al 31/05 dalle 10 alle 17.\nChiuso lunedì e martedì.",
+      "libelleDe" : "Vom 01/10 bis 31/05 von 10 Uhr bis 17 Uhr.\nMontag und Dienstag geschlossen.",
+      "libelleNl" : "Van 01/10 tot en met 31/05 van 10.00 tot en met 17.00 u.\nMaandag en dinsdag gesloten.",
+      "libelleRu" : "С 01/10 до 31/05 с 10h до 17h.\nНе работает понедельник и вторник.",
+      "libelleZh" : "从 10月1日 到 5月31日 小时小时 和 小时小时 之间.\n星期一 和 星期二 关闭.",
+      "libellePtBR" : "De 01/10 a 31/05 de 10h a  17h.\nFechado em segunda-feira e terça-feira.",
+      "libelleJa" : "01/10 から 31/05 まで 10 午前 と 5 午後 の間.\n月曜日 と 火曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23164221,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2023-05-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      } ],
+      "identifiantTechnique" : 24723940
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 7 €\nEnfant : 4 € (De 7 à 17 ans)\nEtudiant : 4 €.\n\n Gratuit pour les demandeurs d'emploi, les habitants, les personnes handicapées.\n\nDernier billet vendu à 16h15.",
+      "libelleEn" : "Full price: 7 €\nChild: 4 €\nStudent: 4 €.\n\n Free entry for Job-seeker, residents, disabled people.",
+      "libelleEs" : "Tarifa completa: 7 €\nNiño: 4 €\nEstudiante: 4 €.\n\n Gratuito para Los demandantes de empleo, los habitantes, personas discapacitadas.",
+      "libelleIt" : "Tarrifa intera: 7 €\nBambino: 4 €\nStudente: 4 €.\n\n Gratuito per Disoccupati, gli abitanti, persone disabili.",
+      "libelleDe" : "Voller Preis: 7 €\nKinder: 4 €\nStudent: 4 €.\n\n Kostenlos für Arbeitssuchende, Einwohner, behinderte Menschen.",
+      "libelleNl" : "Vol tarief: € 7\nKind: € 4\nStudent: € 4.\n\n Gratis voor Werkzoekende, Inwoners, mensen met een handicap.",
+      "libelleRu" : "Полную цену : 7 €\nРебенок : 4 €\nСтудент : 4 €.\n\n Бесплатно для соискатели работы, Жители, инвалиды.",
+      "libelleZh" : "全额 : 7 €\n儿童 : 4 €\n学生 : 4 €.\n\n 求职者, 居民, 残疾人自由进入.",
+      "libellePtBR" : "Tarifa inteira: 7 €\nCriança: 4 €\nEstudante: 4 €.\n\n Gratuito para Procurando emprego, Os habitantes, os deficientes.",
+      "libelleJa" : "通常料金: 7 €\n子供: 4 €\n学生: 4 €.\n\n 求職者, 居住者, 障害者 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Dernier billet vendu à 16h15"
+    },
+    "periodes" : [ {
+      "identifiant" : 13435953,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2023-05-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 7.00,
+        "maximum" : 7.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "precisionTarif" : {
+          "libelleFr" : "De 7 à 17 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1751
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4126
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionsGratuite" : [ {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4255
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4772
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 6124
+      } ]
+    }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 19073
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13409843,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/53/13579749.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/53/13579749-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/53/13579749-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/53/13579749-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MUSEAL1",
+      "taille" : 2382496,
+      "hauteur" : 2585,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2022-07-06T12:29:45.405+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597845,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/106/13789774.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/106/13789774-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/106/13789774-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/106/13789774-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6785",
+      "taille" : 8646374,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:36.298+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597846,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/106/13789775.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/106/13789775-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/106/13789775-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/106/13789775-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6794",
+      "taille" : 8801248,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:31.808+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597847,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/106/13789776.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/106/13789776-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/106/13789776-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/106/13789776-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6847",
+      "taille" : 6598755,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:21:02.615+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597848,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/106/13789777.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/106/13789777-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/106/13789777-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/106/13789777-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6972",
+      "taille" : 8991261,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:58.604+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597849,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/82/106/13789778.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/82/106/13789778-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/82/106/13789778-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/82/106/13789778-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6985",
+      "taille" : 5069309,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:54.656+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597850,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/106/13789779.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/106/13789779-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/106/13789779-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/106/13789779-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_6986",
+      "taille" : 7173421,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:50.684+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597851,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/106/13789780.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/106/13789780-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/106/13789780-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/84/106/13789780-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_7045",
+      "taille" : 2544809,
+      "hauteur" : 4383,
+      "largeur" : 3747,
+      "lastModifiedDate" : "2022-07-29T10:20:48.161+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597852,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/106/13789781.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/106/13789781-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/106/13789781-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/106/13789781-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_7054",
+      "taille" : 8285891,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:44.261+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13597853,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/106/13789782.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/106/13789782-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/106/13789782-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/106/13789782-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_7106",
+      "taille" : 6849710,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2022-07-29T10:20:40.379+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-04-30", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-28", "2023-05-31", "2023-10-01", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-08", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-15", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-29", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-12", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-26", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-24", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2023-12-31", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-07", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-14", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-21", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-28", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-04", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-11", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-18", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-25", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-03", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-10", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-17", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-24", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-03-31", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-07", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-14", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-21", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-28", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-05", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-12", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-19", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-26", "2024-05-29", "2024-05-30", "2024-05-31", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-06", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-13", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-20", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-27", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02", "2024-11-03", "2024-11-06", "2024-11-07", "2024-11-08" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3398
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3418
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 5334
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3229
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,471 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062438,
+  "nom" : {
+    "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+  },
+  "identifier" : "SITRA2_EVE_6062438",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:11:44.751+0000",
+    "dateModification" : "2022-11-08T09:21:06.342+0000",
+    "dateExportModification" : "2022-11-08T23:13:10.830+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816592,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33627113259"
+      }
+    }, {
+      "identifiant" : 97816593,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@citerando.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6043120
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 6043120
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une visite guidée originale et ludique qui se transforme lors de cette activité en véritable chasse au trésor. Grâce à un livret de jeu et d'énigmes, reconstituez le parcours caché de cette randonnée à la découverte des anses et calanques situées en…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Jouez à découvrir Marseille et ses recoins cachés à pied !\n\nLa zone de jeu se situe le long de la Corniche marseillaise et à l'intérieur des quartiers qui la compose, en partant depuis la plage des Catalans. A quelques encablures du parc national des Calanques, d’autres anses toutes aussi captivantes et singulières s’offrent au marcheur citadin. Amateurs de petits trésors cachés, cette randonnée vous emmène à leur rencontre et à celle des quartiers qui les protègent, recelant eux-aussi leur lot de belles découvertes (dont Endoume et Bompard - ce dernier uniquement sur la version de 7 km). N’oubliez pas vos chaussures de rando… et votre serviette de plage !\n\nTels de vrais explorateurs urbains, avancez d'étapes en étapes grâce à un livret de jeu et d'énigmes et trouvez le parcours de visite à travers la ville. Des noms de rues ou de traverses à découvrir, des éléments à chercher sur des monuments, des objets du mobilier urbain, des détails sur des façades, il faut marcher les yeux grands ouverts.\n\nVotre guide est également présent pour vous remettre dans le droit chemin au besoin et vous raconter les Histoires voire les légendes des sites rencontrés, tout en gardant un esprit ludique.\n\nLa randonnée est accessible à tous, sans grande difficulté technique. Elle est réalisée à un rythme raisonnable et en petit groupe de participants.\n\nEn résumé : Marchez... Jouez... Découvrez."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Randonnée / jeu de piste \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. Une activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Plage des Catalans",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Le rendez-vous se situe à l'entrée de la plage des Catalans, en haut des escaliers.\nBus 82 - Station Plage des Catalans\nParking Q-Park Le Pharo, Bd Charles Livon."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.355440, 43.290700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nÀ prendre avec soi :\nUne bouteille d'eau et des chaussures de marche confortables\nPrérequis :\nAge minimum : 6 ans (8 ans pour la version 7km)\nInformations importantes :\nLe point d'arrivée de la visite que vous devrez chercher n'est pas le même que celui du départ. Ce dernier sera cependant facilement accessible en moins de 10 minutes de marche."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716835,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716835
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Le prêt d'un livret de jeu et d'énigmes\n\nUn cadeau pour le vainqueur de la chasse au trésor !."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Le prêt d'un livret de jeu et d'énigmes\n\nUn cadeau pour le vainqueur de la chasse au trésor !"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915429,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 6043120
+      },
+      "nom" : "Cité Rando",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993159,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/randonnee-jeu-de-pistes-anses-et-calanques-urbaines"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16637
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813155,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/232/15198420.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/232/15198420-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/232/15198420-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/232/15198420-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-617818ab124c1610124273-cropped600-400",
+      "taille" : 113355,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:10.893+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813156,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/232/15198421.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/232/15198421-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/232/15198421-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/232/15198421-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-617818c103946383046720-cropped600-400",
+      "taille" : 96733,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:11.272+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813157,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/232/15198422.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/232/15198422-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/232/15198422-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/232/15198422-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-617818e794520774063790-cropped600-400",
+      "taille" : 107808,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:10.195+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813158,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/232/15198423.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/232/15198423-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/232/15198423-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/232/15198423-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6178190d5118e570909210-cropped600-400",
+      "taille" : 112308,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:10.561+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813159,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/232/15198424.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/232/15198424-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/232/15198424-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/232/15198424-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-623af06c5b7ea886920070-cropped600-400",
+      "taille" : 88650,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:09.626+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813160,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/232/15198425.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/232/15198425-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/232/15198425-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/232/15198425-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6178192730134469826096-cropped600-400",
+      "taille" : 100282,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:09.903+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813161,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/232/15198426.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/232/15198426-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/232/15198426-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/232/15198426-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-623af01f83ea9025803913-cropped600-400",
+      "taille" : 107083,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:09.022+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813162,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "legende" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "copyright" : {
+      "libelleFr" : "Randonnée/jeu de pistes - Anses et calanques urbaines"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/232/15198427.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/232/15198427-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/232/15198427-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/232/15198427-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61781976c395b084677494-cropped600-400",
+      "taille" : 96585,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:09.319+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "192361",
+        "product_supplier_id" : "39150",
+        "sku" : "T-CI19-207065",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

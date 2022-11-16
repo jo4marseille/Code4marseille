@@ -1,0 +1,364 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6162806,
+  "nom" : {
+    "libelleFr" : "Ballet Preljocaj Junior - Personne n'épouse les méduses"
+  },
+  "identifier" : "SITRA2_EVE_6162806",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-08T15:25:04.553+0000",
+    "dateModification" : "2022-10-21T10:54:45.095+0000",
+    "dateExportModification" : "2022-10-21T10:54:45.306+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100206568,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 93 48 14"
+      },
+      "observation" : {
+        "libelleFr" : "Du mardi au vendredi de 12h à 18h et le samedi uniquement les jours de spectacles de 15h à 18h."
+      }
+    }, {
+      "identifiant" : 100206569,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@preljocaj.org"
+      }
+    }, {
+      "identifiant" : 100206570,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://preljocaj.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468154
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les jeunes danseurs du Ballet Preljocaj Junior reprennent la pièce la plus humoristique d’Angelin Preljocaj. Avec ses images loufoques et parfois délirantes, ce spectacle constitue une matière rêvée pour la transmission à la jeune génération."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce show fait grimper l’audimat ! En 1999, Angelin Preljocaj crée dans la Cour d’honneur du Palais des Papes un ovni chorégraphique dans lequel des pseudo-animateurs de télévision s’adressent à un public de danse, mais l’exubérance des personnages rappelle nos formats préférés du petit écran. Menée tambour battant, cette revue improbable est satirique dans le sens antique et dionysiaque du terme, signale que les vedettes de la télévision font partie de nos divinités les plus vénérées. Avec ses images loufoques et parfois délirantes, cette excursion non naturaliste nous entraîne dans la mythologie contemporaine du divertissement. Angelin Preljocaj réadapte cette pièce pour le Ballet Preljocaj Junior, une matière rêvée pour la transmission à la jeune génération, qui a peut-être encore plus besoin que la précédente, de se questionner sur son rapport aux médias."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre du Pavillon Noir",
+      "adresse1" : "530 Avenue Mozart",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.440093, 43.525301 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5490060
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "ageMin" : 108,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 2 décembre 2022 de 20h à 21h.\n\nSamedi 3 décembre 2022 \nOuverture  de 14h30 à 15h30 et de 19h à 20h.",
+      "libelleEn" : "Friday 2 December 2022 between 8 pm and 9 pm.\n\nSaturday 3 December 2022 \nOpening hours  between 2.30 pm and 3.30 pm and between 7 pm and 8 pm.",
+      "libelleEs" : "Viernes, 2 de diciembre de 2022 de 20 a 21.\n\nSábado, 3 de diciembre de 2022 \nHorarios de apertura  de 14:30 a 15:30 y de 19 a 20.",
+      "libelleIt" : "Venerdì 2 dicembre 2022 dalle 20 alle 21.\n\nSabato 3 dicembre 2022 \nOrari di apertura  dalle 14:30 alle 15:30 e dalle 19 alle 20.",
+      "libelleDe" : "Freitag, den 2. Dezember 2022 von 20 Uhr bis 21 Uhr.\n\nSamstag, den 3. Dezember 2022 \nÖffnungszeiten  von 14.30 Uhr bis 15.30 Uhr und von 19 Uhr bis 20 Uhr.",
+      "libelleNl" : "Vrijdag 2 december 2022 van 20.00 tot en met 21.00 u.\n\nZaterdag 3 december 2022 \nOpeningstijden  van 14.30 tot en met 15.30 u en van 19.00 tot en met 20.00 u.",
+      "libelleRu" : "Пятница 2 декабря 2022  с 20h до 21h.\n\nСуббота 3 декабря 2022  \nЧасы открытия  с 14h30 до 15h30 и с 19h до 20h.",
+      "libelleZh" : "2022年12月2日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月3日, 星期六   \n开放时间  小时小时分钟  和 小时小时分钟  之间 和 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sexta-feira 2 Dezembro 2022 de 20h a  21h.\n\nSábado 3 Dezembro 2022 \nOuverture  de 14h30 a  15h30 e de 19h a  20h.",
+      "libelleJa" : "金曜日 2 12月 2022 8 午後 と 9 午後 の間.\n\n土曜日 3 12月 2022 \n開館時間  2.30 午後 と 3.30 午後 の間 と 7 午後 と 8 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23554000,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555261
+    }, {
+      "identifiant" : 23554001,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "horaireOuverture" : "14:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555262
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 23 €, Etudiant : 10 € (et moins de 18 ans).\n\n\nPass 4 spectacles au Pavillon Noir : 72 €\r\nLes spectacles supplémentaires au Pavillon Noir sont à 18 €.\r\n\r\nPass Jeunes : 2 spectacles pour soi ou un spectacle à 2 : 20 €\r\nRéservé aux moins de 30 ans.",
+      "libelleEn" : "Full price: 23 €, Student: 10 €.\n",
+      "libelleEs" : "Tarifa completa: 23 €, Estudiante: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: 23 €, Studente: 10 €.\n",
+      "libelleDe" : "Voller Preis: 23 €, Student: 10 €.\n",
+      "libelleNl" : "Vol tarief: € 23, Student: € 10.\n",
+      "libelleRu" : "Полную цену : 23 €, Студент : 10 €.\n",
+      "libelleZh" : "全额 : 23 €, 学生 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: 23 €, Estudante: 10 €.\n",
+      "libelleJa" : "通常料金: 23 €, 学生: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Pass 4 spectacles au Pavillon Noir : 72 €\r\nLes spectacles supplémentaires au Pavillon Noir sont à 18 €.\r\n\r\nPass Jeunes : 2 spectacles pour soi ou un spectacle à 2 : 20 €\r\nRéservé aux moins de 30 ans."
+    },
+    "periodes" : [ {
+      "identifiant" : 13337219,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-03",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 23.00,
+        "maximum" : 23.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "precisionTarif" : {
+          "libelleFr" : "et moins de 18 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4134
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6660041,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5468154
+      },
+      "nom" : "Pavillon Noir",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 101501456,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://billetterie.preljocaj.org/spectacle?id_spectacle=754&lng=1"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 20898986,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Paul",
+    "prenom" : "Sophie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100206571,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@preljocaj.org"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13199145,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jean-Claude Carbonne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/36/13378633.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/36/13378633-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/36/13378633-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/36/13378633-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Personne_nepouse_les_meduses_credit_Jean_Claude_Carbonne",
+      "taille" : 2103325,
+      "hauteur" : 1794,
+      "largeur" : 2897,
+      "lastModifiedDate" : "2022-07-21T13:14:50.669+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-02", "2022-12-03" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 378,
+    "nbVisiteursAttendu" : 378,
+    "nomLieu" : "Théâtre du Pavillon Noir"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-03T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

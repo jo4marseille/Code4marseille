@@ -1,0 +1,264 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228529,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme de Port Saint Louis du Rhône",
+    "libelleEn" : "Office de Tourisme de Port Saint Louis du Rhône",
+    "libelleEs" : "Office de Tourisme de Port Saint Louis du Rhône",
+    "libelleIt" : "Office de Tourisme de Port Saint Louis du Rhône",
+    "libelleDe" : "Office de Tourisme de Port Saint Louis du Rhône",
+    "libelleNl" : "Office de Tourisme de Port Saint Louis du Rhône"
+  },
+  "identifier" : "SITRA2_STR_5228529",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:24:35.756+0000",
+    "dateModification" : "2021-02-10T08:31:14.227+0000",
+    "dateExportModification" : "2022-10-18T08:12:55.269+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Port Saint Louis du Rhône",
+      "dateCreation" : "2020-10-01T12:20:15.066+0000",
+      "dateModification" : "2022-10-24T08:49:43.009+0000",
+      "id" : 2095,
+      "siteWeb" : "http://www.portsaintlouis-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "communication@portsaintlouis-tourisme.fr", "direction@portsaintlouis-tourisme.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537552,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 86 01 21"
+      }
+    }, {
+      "identifiant" : 70537554,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@portsaintlouis-tourisme.fr"
+      }
+    }, {
+      "identifiant" : 70537555,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "direction@portsaintlouis-tourisme.fr"
+      }
+    }, {
+      "identifiant" : 70537556,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "administration@portsaintlouis-tourisme.fr"
+      }
+    }, {
+      "identifiant" : 70537557,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.portsaintlouis-tourisme.fr"
+      }
+    }, {
+      "identifiant" : 85624559,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://m.facebook.com/OfficedeTourismedePortSaintLouisduRhone/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "38382240000016",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Quai Bonnardel",
+      "adresse2" : "Tour Saint Louis",
+      "codePostal" : "13230",
+      "commune" : {
+        "id" : 4489
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.805247, 43.384448 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4489
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18673567,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Maldonado",
+    "prenom" : "Brigitte",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 85624123,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 86 01 21"
+      }
+    }, {
+      "identifiant" : 85624167,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "direction@portsaintlouis-tourisme.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18673617,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Mancion",
+    "prenom" : "Martine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 85624328,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 86 01 21"
+      }
+    }, {
+      "identifiant" : 85624336,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "administration@portsaintlouis-tourisme.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18673636,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Girard-Marin",
+    "prenom" : "Mandy",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    }, {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 85624467,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 86 01 21"
+      }
+    }, {
+      "identifiant" : 85624474,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@portsaintlouis-tourisme.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

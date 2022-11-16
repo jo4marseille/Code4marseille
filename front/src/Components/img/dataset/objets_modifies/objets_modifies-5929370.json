@@ -1,0 +1,457 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5929370,
+  "nom" : {
+    "libelleFr" : "Cinémioches",
+    "libelleEn" : "Cinémioches",
+    "libelleEs" : "Cinémioches",
+    "libelleDe" : "Cinémioches"
+  },
+  "identifier" : "SITRA2_EVE_5929370",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-27T13:47:44.746+0000",
+    "dateModification" : "2022-10-20T14:25:47.617+0000",
+    "dateExportModification" : "2022-10-21T06:33:01.687+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 83768830,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediatheque-com@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Médiathèque Louis Aragon"
+      }
+    }, {
+      "identifiant" : 83768829,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 80 27 97"
+      },
+      "observation" : {
+        "libelleFr" : "Médiathèque Louis Aragon"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La médiathèque Louis Aragon de Martigues célèbre le cinéma, hors des sentiers battus, pour tous les publics.",
+      "libelleEn" : "The Louis Aragon media library in Martigues celebrates cinema, off the beaten track, for all audiences.",
+      "libelleEs" : "La mediateca Louis Aragon en Martigues celebra el cine, fuera de los circuitos habituales, para todos los públicos.",
+      "libelleDe" : "Die Mediathek von Louis Aragon in Martigues zelebriert Kino abseits der ausgetretenen Pfade für alle Zuschauer."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cinémioches, c’est une projection d’un film ou de dessins animés pour la jeunesse le premier mercredi de chaque mois, une fois pour les petits, une fois pour les plus grands, de quoi s’en mettre plein les mirettes et rêver de nouvelles aventures...",
+      "libelleEn" : "Cinémioches is a screening of a film or cartoons for young people on the first Wednesday of each month, once for the little ones, once for the older ones, enough to put your eyes on and dream of new adventures ...",
+      "libelleEs" : "Cinémioches es la proyección de una película o dibujos animados para jóvenes el primer miércoles de cada mes, una vez para los más pequeños, otra para los mayores, suficiente para poner la mirada y soñar con nuevas aventuras ...",
+      "libelleDe" : "Cinémioches ist eine Vorführung eines Films oder Zeichentrickfilms für junge Leute jeden ersten Mittwoch im Monat, einmal für die Kleinen, einmal für die Großen, genug, um die Augen auf sich zu ziehen und von neuen Abenteuern zu träumen ..."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Pass sanitaire et port du masque obligatoire",
+        "libelleEn" : "Health pass and wearing a mask compulsory",
+        "libelleEs" : "Pase de salud y uso de máscara obligatorio.",
+        "libelleDe" : "Gesundheitspass und Maskenpflicht"
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1669
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1670
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Médiathèque Louis Aragon",
+      "adresse1" : "Quai des Anglais",
+      "codePostal" : "13500",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.051821, 43.404175 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "lieu" : {
+      "id" : 16948
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4219
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 72,
+    "ageMax" : 144,
+    "uniteAgeMin" : "ANNEE",
+    "uniteAgeMax" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 de 16h à 17h30.",
+      "libelleEn" : "Wednesday 9 November 2022 between 4 pm and 5.30 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 de 16 a 17:30.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 dalle 16 alle 17:30.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 von 16 Uhr bis 17.30 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 van 16.00 tot en met 17.30 u.",
+      "libelleRu" : "Среда 9 ноября 2022  с 16h до 17h30.",
+      "libelleZh" : "2022年11月9日, 星期三   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 de 16h a  17h30.",
+      "libelleJa" : "水曜日 9 11月 2022 4 午後 と 5.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21837970,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "16:00:00",
+      "horaireFermeture" : "17:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24548609
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18331022,
+    "referent" : true,
+    "nom" : "Aragon",
+    "prenom" : "Médiathèque Louis",
+    "titre" : {
+      "libelleFr" : "Quai Des Anglais"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83769600,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 80 27 97"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83769644,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediatheque-com@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83769645,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 01 93"
+      },
+      "observation" : {
+        "libelleFr" : "Thibaut Camupi  - direction"
+      }
+    }, {
+      "identifiant" : 83769652,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "thibaut.camupi@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Thibaut Camupi - direction"
+      }
+    }, {
+      "identifiant" : 83770759,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "valerie.lamy@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Secrétariat"
+      }
+    }, {
+      "identifiant" : 83769653,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 01 91"
+      },
+      "observation" : {
+        "libelleFr" : "Marie Christine BLANC - EXPOS"
+      }
+    }, {
+      "identifiant" : 83769654,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marie-christine.blanc@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Marie Christine BLANC - EXPOS"
+      }
+    }, {
+      "identifiant" : 83769655,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 02 60"
+      },
+      "observation" : {
+        "libelleFr" : "ESPACE JEUNESSE, SALLE DU CONTE"
+      }
+    }, {
+      "identifiant" : 83770797,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "valerie.lamy@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "ESPACE JEUNESSE, SALLE DU CONTE"
+      }
+    }, {
+      "identifiant" : 83769658,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 72 44 36 25"
+      },
+      "observation" : {
+        "libelleFr" : "Edith ANASTASIOU - adultes"
+      }
+    }, {
+      "identifiant" : 83769659,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "edith.anastasiou@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Edith ANASTASIOU - adultes"
+      }
+    }, {
+      "identifiant" : 83769660,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 01 43 73 69"
+      },
+      "observation" : {
+        "libelleFr" : "Thierry FABRON - esp musique"
+      }
+    }, {
+      "identifiant" : 83769664,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "thierry.fabron@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Thierry FABRON - esp musique"
+      }
+    }, {
+      "identifiant" : 83770723,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 24 46 67 83"
+      },
+      "observation" : {
+        "libelleFr" : "Léonard BASTONI - musique"
+      }
+    }, {
+      "identifiant" : 83770724,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "leonard.bastoni@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Léonard BASTONI - musique"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14137722,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Cinémioches"
+    },
+    "copyright" : {
+      "libelleFr" : "Anastasiou.E / Médiathèque Louis Aragon"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/80/14438534.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/80/14438534-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/80/14438534-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/80/14438534-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CINEMIOCHES",
+      "taille" : 371344,
+      "hauteur" : 1000,
+      "largeur" : 1500,
+      "lastModifiedDate" : "2022-09-22T15:34:51.260+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2354
+    },
+    "nomLieu" : "Médiathèque Louis Aragon"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

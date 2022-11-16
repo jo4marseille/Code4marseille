@@ -1,0 +1,205 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538342,
+  "nom" : {
+    "libelleFr" : "Pavillon de Travail du Poète Provençal Emile Ripert",
+    "libelleEn" : "Pavillon de Travail du Poète Provençal Emile Ripert",
+    "libelleIt" : "Pavillon de Travail du Poète Provençal Emile Ripert",
+    "libelleDe" : "Pavillon de Travail du Poète Provençal Emile Ripert",
+    "libelleNl" : "Pavillon de Travail du Poète Provençal Emile Ripert"
+  },
+  "identifier" : "SITRA2_PCU_5538342",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:27:57.695+0000",
+    "dateModification" : "2020-11-26T12:26:00.575+0000",
+    "dateExportModification" : "2021-09-05T16:20:12.543+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628609,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 84 96 21 60"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226529
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Emile Ripert a porté la gloire et le charme de la littérature provençale, il côtoie Frédéric Mistral, Alphonse Daudet et nombre de personnages célèbres de la littérature provençale.\r\nDans un environnement demeuré intact, la visite du lieu est accompagnée par Véronique Ripert, petite fille du poète. La visite est animée par des lectures poétiques. Le petit pavillon de travail au milieu de la nature n’a qu’une pièce mais c’est là qu’il passait ses journées à lire, à composer ses poèmes, à rédiger ses notes, ses conférences, ses articles de journaux, à préparer ses cours..\r\nVisite proposée de 14h à 18h sur rendez-vous auprès de Mme Ripert.",
+      "libelleEn" : "Emile Ripert carried the glory and the charm of the Provençal literature, he is next to Frédéric Mistral, to Alphonse Daudet and to number of famous characters of the Provençal literature. \nIn an intact half-witted environment, the visit of the place is accompanied by Véronique Ripert, grand daughter of the poet. The visit is livened up by poetic readings. The small working detached house in the middle of the nature has only a room but it is there that it spent its days to read, to make up its poems, to draft its notes, its conferences, its newspaper articles, to prepare its courts .. \nVisit proposed of from 2 pm to 6 pm by appointment with Mrs Ripert."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Impasse Du Sécadou",
+      "codePostal" : "13600",
+      "bureauDistribution" : "LA CIOTAT",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.612548, 43.184286 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636564,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "RIPERT",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81744816,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 84 96 21 60"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8490226,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MO000377_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/6/8259270.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/6/8259270-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/6/8259270-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/6/8259270-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 139029,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-23T17:37:54.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3500
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MO000377"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT La Ciotat"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-laciotat.com"
+    }
+  } ]
+}

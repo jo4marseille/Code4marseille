@@ -1,0 +1,211 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6253830,
+  "nom" : {
+    "libelleFr" : "Exposition de Pierre ANDRIEU"
+  },
+  "identifier" : "SITRA2_EVE_6253830",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-06T12:30:18.083+0000",
+    "dateModification" : "2022-09-06T12:44:13.384+0000",
+    "dateExportModification" : "2022-09-06T12:44:15.102+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Salon de Provence",
+      "dateCreation" : "2020-02-14T10:43:25.088+0000",
+      "dateModification" : "2022-10-24T08:49:43.996+0000",
+      "id" : 1989,
+      "siteWeb" : "http://www.visitsalondeprovence.com/"
+    },
+    "signalerUnProblemeMails" : [ "m.quaglia@visitsalondeprovence.com", "projet@visitsalondeprovence.com", "s.kheloufi@visitsalondeprovence.com", "v.bailly@visitsalondeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102965281,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 72 88 02 86"
+      }
+    }, {
+      "identifiant" : 102965298,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@latribudesgourmands.fr"
+      }
+    }, {
+      "identifiant" : 102965331,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://latribudesgourmands.fr/"
+      }
+    } ]
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition de peinture"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "EXPOSITION des oeuvres de Pierre ANDRIEU\r\n- Impressions plurielles -\r\nA La Tribu des Gourmands,\r\n\r\nDepuis l’ouverture de la Pâtisserie et du salon-de-thé en mars 2022, nous avons à cœur de partager cet ancien hôtel particulier avec tous les Gourmands,\r\namateurs des Pâtisseries artisanales aussi authentiques qu’innovantes\r\nd’Ivan Barès, mais aussi friands de rendez-vous artistiques et culturels\r\nqui font sens : expositions, concerts Jeudis Jazz, rendez-vous littéraire « Le\r\nMillefeuille », dégustations....\r\nPour cette première, nous sommes très heureux et fiers d’accueillir les œuvres de l’artiste aixois Pierre Andrieu et de faire découvrir son art aux Salonais (entre\r\nautres !).\r\nPour Pierre Andrieu, l’expression artistique a toujours eu une place fondamentale, en parallèle, et même inspirée, de ses activités professionnelles scientifiques et techniques. Les couleurs du Sud, les formes et références esthétiques de ses\r\n« impressions plurielles » vous feront voyager dans son univers sensible, fait de paysages connus et de réflexions sur l’Histoire et les sciences.\r\nUn chemin, une vie de recherche d’expression personnelle, qu’il sera heureux de partager avec le public lors de visites guidées (certains samedis après midis, sur inscription).\r\n« Né à Marseille, j’ai reçu une formation de dessinateur projeteur puis d’ingénieur. Le dessin et la peinture accompagnent toute ma vie. C’est pour moi le plaisir de la découverte des œuvres artistiques et de leurs auteurs et un merveilleux moyen d’expression.\r\nL’environnement technique et scientifique de mes activités comme les voyages et les expériences personnelles ont alimenté et enrichi le contenu de mes travaux. Je crois au caractère révélateur des démarches artistiques dans notre société et espère y participer.\r\nMes œuvres tentent de communiquer une émotion, ou une joie, un plaisir et je\r\nn’exclue aucun moyen matériel ou technique qui puisse contribuer à leur\r\nréalisation. »\r\nVernissage le Vendredi 23 septembre 2022 à 18h30.\r\n\r\n>> Nous contacter par téléphone pour l’inscription aux visites guidées\r\navec l’artiste, organisées certains samedis en octobre et novembre (dates\r\nà préciser)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Tribu des Gourmands",
+      "adresse1" : "138 bd Georges Clémenceau",
+      "codePostal" : "13300",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4514
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.092825, 43.641551 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4514
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 23/09 au 13/11/2022, tous les mercredis, jeudis, vendredis, samedis et dimanches.\nMercredi au Samedi 10h-12h30 / 15h30-18h30\r\nDimanche : 10h-12h30.",
+      "libelleEn" : "From 23/09 to 13/11/2022, every Wednesday, Thursday, Friday, Saturday and Sunday.",
+      "libelleEs" : "Del 23/09 al 13/11/2022, todos los miércoles, jueves, viernes, sábados y domingos.",
+      "libelleIt" : "Dal 23/09 al 13/11/2022, tutti i mercoledì, giovedì, venerdì, sabati e domeniche.",
+      "libelleDe" : "Vom 23/09 bis 13/11/2022, jeden Mittwoch, Donnerstag, Freitag, Samstag und Sonntag.",
+      "libelleNl" : "Van 23/09 tot en met 13/11/2022, elke woensdag, donderdag, vrijdag, zaterdag en zondag.",
+      "libelleRu" : "С 23/09 до 13/11/2022, каждый среды, четверги, пятницы, субботы и воскресенья.",
+      "libelleZh" : "从 9月23日 到 2022年11月13日, 每星期三, 星期四, 星期五, 星期六 和 星期日.",
+      "libellePtBR" : "De 23/09 a 13/11/2022, todas as quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos.",
+      "libelleJa" : "23/09 から 13/11/2022 まで, 毎水曜日, 木曜日, 金曜日, 土曜日 と 日曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24236040,
+      "dateDebut" : "2022-09-23",
+      "dateFin" : "2022-11-13",
+      "complementHoraire" : {
+        "libelleFr" : "Mercredi au Samedi 10h-12h30 / 15h30-18h30\r\nDimanche : 10h-12h30."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24236040
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13963649,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/65/14237994.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/65/14237994-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/65/14237994-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/65/14237994-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Vernissage Vendredi 23 Septembre",
+      "taille" : 321318,
+      "hauteur" : 2245,
+      "largeur" : 1587,
+      "lastModifiedDate" : "2022-09-06T12:44:13.494+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "La Tribu des Gourmands"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

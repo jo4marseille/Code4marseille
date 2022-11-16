@@ -1,0 +1,247 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5951638,
+  "nom" : {
+    "libelleFr" : "Amel Bent"
+  },
+  "identifier" : "SITRA2_EVE_5951638",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-22T09:39:56.977+0000",
+    "dateModification" : "2021-10-26T08:13:22.703+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 93075128,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.cepacsilo-marseille.fr/evenements/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577893
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Elle est enfin de retour sur scène !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Amel Bent sera en tournée dans toute la France en 2022, sans oublier son concert évènement au Palais des Sports de Paris samedi 24 septembre !\r\n\r\nDepuis son passage dans La Nouvelle Star qui l’a révélée au grand public en 2004, Amel Bent n’a de cesse de collectionner les succès. On se souvient tous du tube Ma Philosophie, 1er single de son 1er album, qui a fait d’elle une artiste incontournable de la scène musicale française.\r\n\r\nAprès avoir marqué 2020 avec le tube Jusqu’au bout, puis 2021 avec l’incontournable 1,2,3 en duo avec Hatik, Amel Bent a présenté le 1er octobre 2021 son tout nouvel album Vivante, où l’on retrouvera des titres avec Dadju, Vitaa et Imen Es entre autres."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Cepac Silo",
+      "adresse1" : "35 Quai Du Lazaret",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366542, 43.310498 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 20h30.",
+      "libelleEn" : "Thursday 10 November 2022 at 8.30 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 20:30.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 20.30 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  20h30.",
+      "libelleJa" : "木曜日 10 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21984146,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 21999661
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 36 à 45 €.\n",
+      "libelleEn" : "Full price: 36 to 45 €.\n",
+      "libelleEs" : "Tarifa completa: de 36 a 45 €.\n",
+      "libelleIt" : "Tarrifa intera: da 36 a 45 €.\n",
+      "libelleDe" : "Voller Preis: von 36 bis 45 €.\n",
+      "libelleNl" : "Vol tarief: € 36 tot en met € 45.\n",
+      "libelleRu" : "Полную цену : с 36 до  45 €.\n",
+      "libelleZh" : "全额 : 从 36 到  45 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 36 a 45 €.\n",
+      "libelleJa" : "通常料金: 36 から 45 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12564209,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 36.00,
+        "maximum" : 45.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11294923,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Amel Bent"
+    },
+    "copyright" : {
+      "libelleFr" : "Amel Bent - Le Cepac Silo"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/202/11258518.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/202/11258518-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/202/11258518-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/202/11258518-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "amel bent",
+      "taille" : 131642,
+      "hauteur" : 1200,
+      "largeur" : 900,
+      "lastModifiedDate" : "2021-10-22T09:47:53.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2139
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Cepac Silo"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT115164"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

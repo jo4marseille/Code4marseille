@@ -1,0 +1,257 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5468762,
+  "nom" : {
+    "libelleFr" : "Marché de la Joliette",
+    "libelleEn" : "Marché de la Joliette",
+    "libelleEs" : "Marché de la Joliette",
+    "libelleIt" : "Marché de la Joliette",
+    "libelleDe" : "Marché de la Joliette",
+    "libelleNl" : "Marché de la Joliette"
+  },
+  "identifier" : "SITRA2_EVE_5468762",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:58:40.236+0000",
+    "dateModification" : "2022-07-25T13:48:39.750+0000",
+    "dateExportModification" : "2022-07-25T13:48:39.949+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85972624,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marseille.fr/decouvrir-marseille/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5350442
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Ce marché marseillais concourt à une meilleure qualité de vie partagée des riverains et des très nombreux salariés travaillant dans le quartier de la Joliette."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Implanté au coeur d' Euroméditerranée, ce 23e marché marseillais concourt à une meilleure qualité de vie partagée des riverains et des très nombreux salariés travaillant dans le quartier de la Joliette.\r\n\r\nJoliette\r\nDu mardi au samedi de 8h à 13h30\r\n\r\nJoliette Producteurs\r\nProducteurs alimentaires\r\nMardi au samedi de 15h à 19h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place de la Joliette",
+      "adresse1" : "Place de la Joliette",
+      "codePostal" : "13002",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366189, 43.304918 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les mardis, mercredis, jeudis, vendredis et samedis de 8h à 13h30.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday between 8 am and 1.30 pm.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los martes, miércoles, jueves, viernes y sábados de 8 a 13:30.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati dalle 8 alle 13:30.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 8 Uhr bis 13.30 Uhr.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag van 8.00 tot en met 13.30 u.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый вторники, среды, четверги, пятницы и субботы с 8h до 13h30.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 8h a  13h30.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 8 午前 と 1.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22332421,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23954734
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 9436707,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché"
+    },
+    "copyright" : {
+      "libelleFr" : "Photo de Artem Beliaikin provenant de Pexels"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/74/9194114.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/74/9194114-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/74/9194114-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/74/9194114-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MARCHE",
+      "taille" : 296370,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-01-28T08:51:42.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2124
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2188
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Place de la Joliette"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV043169"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

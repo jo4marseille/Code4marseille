@@ -1,0 +1,531 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5945795,
+  "nom" : {
+    "libelleFr" : "Escape Game : La lettre de Marcel Pagnol"
+  },
+  "identifier" : "SITRA2_ACT_5945795",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-15T15:24:08.314+0000",
+    "dateModification" : "2022-09-30T12:02:17.695+0000",
+    "dateExportModification" : "2022-11-08T16:22:06.117+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537417,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 03 49 98"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 70537424,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@tourisme-paysdaubagne.fr"
+      }
+    }, {
+      "identifiant" : 70537425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tourisme-paysdaubagne.fr"
+      }
+    }, {
+      "identifiant" : 91710382,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/tourismepaysdaubagne/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228513
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nouveauté 2021 : un Escape Game s'invite à la maison natale de Marcel Pagnol !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Marcel Pagnol a laissé une lettre à un de ses proches amis de l'Académie Française. Ce dernier vous contacte pour l'aider à trouver ce qui se cache derrière cette lettre énigmatique et vous invite à le rejoindre dans la maison natale de Pagnol.\r\n\r\nCependant, vous ne pourrez pas vous éterniser : le propriétaire de la maison est peu coopérant et ne vous laisse qu'une heure avant de rouvrir la maison natale au public et de vous mettre à la porte !\r\n\r\nHoraires des sessions de jeu : 9h30, 11h30, 13h30, 15h30, 17h30, 19h \r\nDurée : 1h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Maison natale de Marcel Pagnol",
+      "adresse1" : "16 Cours Barthélemy",
+      "codePostal" : "13400",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.566366, 43.292779 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538098
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "En groupe, de 4 à 7 personnes.\r\nPublic : adultes et enfants à partir de 8 ans.\r\n(les enfants de moins de 8 ans pourront apporter leur aide pendant la session de jeu)"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "labelsTourismeHandicap" : [ {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1226
+    } ],
+    "nombrePersonnesMinimum" : 4,
+    "tailleGroupeMax" : 7,
+    "ageMin" : 96,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/09 au 26/12/2022, tous les dimanches de 9h30 à 19h.\nDates supplémentaires les 24/10, 31/10, 19/12 et 26/12.\nHoraires des sessions : 9h30/ 11h30/ 13h30/ 15h30/ 17h30/ 19h.",
+      "libelleEn" : "From 04/09 to 26/12/2022, every Sunday between 9.30 am and 7 pm.\nExtra dates 24/10, 31/10, 19/12 and 26/12.",
+      "libelleEs" : "Del 04/09 al 26/12/2022, todos los domingos de 9:30 a 19.\nFechas adicionales los días 24/10, 31/10, 19/12 y 26/12.",
+      "libelleIt" : "Dal 04/09 al 26/12/2022, tutti le domeniche dalle 9:30 alle 19.\nDate supplementari 24/10, 31/10, 19/12 e 26/12.",
+      "libelleDe" : "Vom 04/09 bis 26/12/2022, jeden Sonntag von 9.30 Uhr bis 19 Uhr.\nZusätzliche Termin am 24/10, 31/10, 19/12 und 26/12.",
+      "libelleNl" : "Van 04/09 tot en met 26/12/2022, elke zondag van 9.30 tot en met 19.00 u.\nExtra data 24/10, 31/10, 19/12 en 26/12.",
+      "libelleRu" : "С 04/09 до 26/12/2022, каждый воскресенья с 9h30 до 19h.\nДополнительные даты 24/10, 31/10, 19/12 и 26/12.",
+      "libelleZh" : "从 9月4日 到 2022年12月26日, 每星期日 小时小时分钟  和 小时小时 之间.\n特别日期10月24日, 10月31日, 12月19日 和 12月26日.",
+      "libellePtBR" : "De 04/09 a 26/12/2022, todas as domingos de 9h30 a  19h.\nDatas adicionais em 24/10, 31/10, 19/12 e 26/12.",
+      "libelleJa" : "04/09 から 26/12/2022 まで, 毎日曜日 9.30 午前 と 7 午後 の間.\n追加日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22451460,
+      "dateDebut" : "2022-04-25",
+      "dateFin" : "2022-07-03",
+      "complementHoraire" : {
+        "libelleFr" : "Horaires des sessions : 9h30/ 11h30/ 13h30/ 15h30/ 17h30/ 19h"
+      },
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24405182
+    }, {
+      "identifiant" : 23432885,
+      "dateDebut" : "2022-07-10",
+      "dateFin" : "2022-08-29",
+      "complementHoraire" : {
+        "libelleFr" : "Horaires des sessions : 9h30/ 11h30/ 13h30/ 15h30/ 17h30/ 19h"
+      },
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24405183
+    }, {
+      "identifiant" : 23432907,
+      "dateDebut" : "2022-09-04",
+      "dateFin" : "2022-12-26",
+      "complementHoraire" : {
+        "libelleFr" : "Horaires des sessions : 9h30/ 11h30/ 13h30/ 15h30/ 17h30/ 19h"
+      },
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesExceptionnelles" : [ {
+        "dateOuverture" : "2022-10-24"
+      }, {
+        "dateOuverture" : "2022-10-31"
+      }, {
+        "dateOuverture" : "2022-12-19"
+      }, {
+        "dateOuverture" : "2022-12-26"
+      } ],
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24405184
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 18 €\nEnfant (8-12 ans) : 12 €.\n\n Gratuit pour les moins de 8 ans.\n\n4 à 7 personnes payantes.",
+      "libelleEn" : "Adult: 18 €\nChild (8-12 years): 12 €.\n\n Free entry for children < 8 years.",
+      "libelleEs" : "Adulto: 18 €\nNiño (8-12 años): 12 €.\n\n Gratuito para los niños menores de 8 años.",
+      "libelleIt" : "Adulto: 18 €\nBambino (8-12 anni): 12 €.\n\n Gratuito per i bambini di età inferiore a 8 anni.",
+      "libelleDe" : "Erwachsene: 18 €\nKinder (8-12 Jahren): 12 €.\n\n Kostenlos für Kinder unter 8 Jahren.",
+      "libelleNl" : "Volwassene: € 18\nKind (8-12 jaar): € 12.\n\n Gratis voor kinderen onder de 8 jaar.",
+      "libelleRu" : "Взрослый человек : 18 €\nРебенок (8-12 лет) : 12 €.\n\n Бесплатно для лицам младше 8 лет.",
+      "libelleZh" : "成人 : 18 €\n儿童 (8-12 岁) : 12 €.\n\n 儿童 < 8 岁自由进入.",
+      "libellePtBR" : "Adulto: 18 €\nCriança (8-12 anos): 12 €.\n\n Gratuito para menores de 8 anos.",
+      "libelleJa" : "大人: 18 €\n子供 (8-12 歳): 12 €.\n\n 子供 < 8 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "4 à 7 personnes payantes"
+    },
+    "periodes" : [ {
+      "identifiant" : 12215075,
+      "dateDebut" : "2022-04-25",
+      "dateFin" : "2022-12-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 18.00,
+        "maximum" : 18.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1733
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "precisionTarif" : { },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1734
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 8,
+      "conditionEnfantAgeMin" : 8,
+      "conditionEnfantAgeMax" : 12
+    }
+  },
+  "reservation" : {
+    "complement" : {
+      "libelleFr" : "Réservation par groupes de 4 personnes payantes minimum et 7 personnes maximum"
+    }
+  },
+  "contacts" : [ {
+    "identifiant" : 18329206,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "COUDURIER",
+    "prenom" : "Pascal",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11236149,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/182/11187746.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/182/11187746-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/182/11187746-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/182/11187746-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "thumbnail_LLDMP-evenement-facebook",
+      "taille" : 274631,
+      "hauteur" : 628,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-10-15T15:48:37.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11258823,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/33/11215303.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/33/11215303-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/33/11215303-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/33/11215303-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "thumbnail_la-lettre-de-Marcel-Pagnol-sans-dates",
+      "taille" : 390983,
+      "hauteur" : 1280,
+      "largeur" : 905,
+      "lastModifiedDate" : "2021-10-19T08:46:38.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11258892,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/34/11215372.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/34/11215372-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/34/11215372-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/34/11215372-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "P1020374",
+      "taille" : 5256615,
+      "hauteur" : 3000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2021-10-19T08:54:59.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10400899,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Portrait de  Marcel Pagnol"
+    },
+    "copyright" : {
+      "libelleFr" : "VALLORANI Reportage"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/83/10179498.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/83/10179498-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/83/10179498-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/83/10179498-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maisonPagnol_JPVallorani006",
+      "taille" : 8982854,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-07-01T13:33:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10401880,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Salle à manger de la maison natale de Marcel Pagnol"
+    },
+    "copyright" : {
+      "libelleFr" : "VALLORANI Reportage"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/87/10180480.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/87/10180480-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/87/10180480-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/87/10180480-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maisonPagnol_JPVallorani004",
+      "taille" : 8569888,
+      "hauteur" : 5184,
+      "largeur" : 3456,
+      "lastModifiedDate" : "2021-07-01T14:32:28.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11258889,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/34/11215369.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/34/11215369-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/34/11215369-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/34/11215369-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maisonPagnol_JPVallorani003",
+      "taille" : 9844293,
+      "hauteur" : 5184,
+      "largeur" : 3456,
+      "lastModifiedDate" : "2021-10-19T08:54:55.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14251526,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/193/82/14570177/escape.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/193/82/14570177-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/193/82/14570177-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/193/82/14570177-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "escape",
+      "taille" : 128627,
+      "hauteur" : 189,
+      "largeur" : 756,
+      "lastModifiedDate" : "2022-09-30T12:02:17.836+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-04", "2022-12-11", "2022-12-18", "2022-12-19", "2022-12-25", "2022-12-26" ],
+  "informationsActivite" : {
+    "nomLieu" : "Maison natale de Marcel Pagnol",
+    "dureeSeance" : 60,
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1880
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1820
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5552918
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5552918
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-26T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.7,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 250,
+        "dateMaj" : 1667919801407
+      }
+    } ]
+  } ]
+}

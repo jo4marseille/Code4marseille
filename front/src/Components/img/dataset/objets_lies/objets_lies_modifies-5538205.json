@@ -1,0 +1,483 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538205,
+  "nom" : {
+    "libelleFr" : "Centre Historique",
+    "libelleEn" : "Centre Historique",
+    "libelleEs" : "Casco histórico",
+    "libelleIt" : "Centre Historique",
+    "libelleDe" : "Centre Historique",
+    "libelleNl" : "Centre Historique"
+  },
+  "identifier" : "SITRA2_PCU_5538205",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:18:01.480+0000",
+    "dateModification" : "2021-09-27T08:39:00.658+0000",
+    "dateExportModification" : "2022-05-17T13:25:43.553+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628139,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 79628140,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot.istres@visitprovence.com"
+      }
+    }, {
+      "identifiant" : 79628141,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5473210
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le centre historique est un trésor istreen. Typiquement provençal, il est le garant de l'Histoire de notre ville. Il peut se visiter en groupe, en famille ou en solitaire avec un guide ou avec le dépliant \"Istres A Travers Son Histoire\".",
+      "libelleEn" : "The old town is an Istrean treasure. Typically Provençal, it is evidence of our beautiful town’s history. It can be visited as a group, with the family or alone, with a guide or with the ‘Istres Through its History’ leaflet.",
+      "libelleEs" : "El casco histórico es un tesoro de Istres. De carácter típicamente provenzal, el casco antiguo de Istres es el garante de la historia de nuestra ciudad. Se puede visitar en grupo, en familia o en solitario con una guía o con el folleto «Istres a través de su historia»."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un centre ancien dont les premières traces écrites remontent au Xème siècle, en 966 exactement ! Istres possède un véritable centre historique, anciennement fortifié.\r\n\r\nIstres possède un véritable centre historique, anciennement fortifié, construit sur un banc calcaire abondant en huîtres fossilisées. Il s'agit d'une colline, dont la base forme un ovale d ‘environ 250 m sur 188 m, s'étendant du nord au sud, dominée par une éminence centrale de 30 m d'altitude. C'est un village perché sur un sommet rocheux, site caractéristique de l'habitat rural groupé méditerranéen, autour duquel la ville d'Istres s'est ensuite construite.",
+      "libelleEn" : "Istres has a real historic centre, which was formerly fortified and was built on a limestone bed rich in fossilised oysters. It formed a hill with an oval base (about 250 m by 188 m) stretching from north to south and with a central peak rising 30 m above sea level. This village perched on a rocky hilltop is typical of Mediterranean rural settlements, around which the town of Istres was built.",
+      "libelleEs" : "Istres posee un auténtico casco histórico, antiguamente fortificado y construido sobre un banco de roca caliza con un alto contenido de ostras fosilizadas. Se trata de una colina de base ovalada, de unos 250 m por 188 m, que se extiende de norte a sur, dominada por una atalaya central de 30 m de altitud. Es un pueblo encaramado en una cima rocosa, lugar característico del hábitat rural agrupado mediterráneo, alrededor del cual se desarrolló posteriormente la ciudad de Istres."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Allées Jean Jaurés",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.987234, 43.514166 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_VISITE",
+      "libelleFr" : "Propose la visite guidée ...",
+      "libelleEn" : "Proposes a guided tour entitled...",
+      "libelleEs" : "Ofrece la visita guiada...",
+      "libelleIt" : "Propone la visita guidata...",
+      "libelleDe" : "Bietet die Führung ... an.",
+      "libelleNl" : "Biedt de rondleiding ...",
+      "libelleRu" : "Предлагает экскурсию",
+      "libelleZh" : "提供导览参观",
+      "libellePtBR" : "Propõe a visita guiada ...",
+      "libelleJa" : "ガイド付きツアーを提案します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5592198
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5692696
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5692815
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5909937
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5592653
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3652
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3654
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3684
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9123583,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Two Black Cameras"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/119/8877883.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/119/8877883-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/119/8877883-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/119/8877883-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CENTRE HISTORIQUE ISTRES 2019 @TWO BLACK CAMERAS (46)",
+      "taille" : 7315451,
+      "hauteur" : 2863,
+      "largeur" : 4295,
+      "lastModifiedDate" : "2020-11-24T10:32:25.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9123584,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Two Black Cameras"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/119/8877884.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/119/8877884-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/119/8877884-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/119/8877884-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CENTRE HISTORIQUE ISTRES 2019 @TWO BLACK CAMERAS (47)",
+      "taille" : 9433402,
+      "hauteur" : 4075,
+      "largeur" : 2717,
+      "lastModifiedDate" : "2020-11-24T10:32:22.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9123610,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Centre Historique Istres"
+    },
+    "copyright" : {
+      "libelleFr" : "Two Black Cameras"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/119/8877909.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/119/8877909-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/119/8877909-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/119/8877909-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CAROL VISITE CENTRE ANCIEN @Imagin prod",
+      "taille" : 2230041,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T10:32:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9123611,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Centre Historique Istres"
+    },
+    "copyright" : {
+      "libelleFr" : "Two Black Cameras"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/119/8877910.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/119/8877910-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/119/8877910-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/119/8877910-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Mur Pierre centre ancien @TBC",
+      "taille" : 2456794,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T10:32:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9123618,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Eglise Notre Dame De BEauvoir"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/119/8877917.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/119/8877917-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/119/8877917-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/119/8877917-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Eglise NDB Beauvoir @com",
+      "taille" : 1935584,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T10:32:20.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 9113396,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/165/79/8867749/CENTRE+ANCIEN-plepicouche.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/165/79/8867749-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/165/79/8867749-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/165/79/8867749-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CENTRE ANCIEN-®plepicouche",
+      "taille" : 4465987,
+      "hauteur" : 2592,
+      "largeur" : 3888,
+      "lastModifiedDate" : "2020-11-24T10:32:29.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1202
+    } ],
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 488
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3511
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000172"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Istres"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.istres.fr"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 121,
+        "dateMaj" : 1631637604228
+      }
+    } ]
+  } ]
+}

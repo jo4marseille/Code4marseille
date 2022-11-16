@@ -1,0 +1,132 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5466291,
+  "nom" : {
+    "libelleFr" : "Mairie de la Destrousse - Service culture",
+    "libelleEn" : "Mairie de la Destrousse",
+    "libelleEs" : "Mairie de la Destrousse",
+    "libelleIt" : "Mairie de la Destrousse",
+    "libelleDe" : "Mairie de la Destrousse",
+    "libelleNl" : "Mairie de la Destrousse"
+  },
+  "identifier" : "SITRA2_STR_5466291",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:40:54.487+0000",
+    "dateModification" : "2022-01-14T10:47:16.520+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77072237,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 18 49 40"
+      }
+    }, {
+      "identifiant" : 77072239,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ladestrousse.fr"
+      }
+    }, {
+      "identifiant" : 77072240,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairieladestrousse.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de ville",
+      "codePostal" : "13112",
+      "commune" : {
+        "id" : 4442
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.605545, 43.377509 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4442
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20176418,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "NGUYEN",
+    "prenom" : "Jean",
+    "titre" : {
+      "libelleFr" : "Adjoint à la culture"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 456
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

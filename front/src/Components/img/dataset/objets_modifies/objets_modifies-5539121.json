@@ -1,0 +1,256 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539121,
+  "nom" : {
+    "libelleFr" : "Station biologique de la Tour du Valat",
+    "libelleEn" : "The Tour du Valat biological station",
+    "libelleEs" : "La estación biológica de la Tour du Valat",
+    "libelleIt" : "La stazione biologica della Tour du Valat",
+    "libelleDe" : "Die Tour du Valat biologische station",
+    "libelleNl" : "De Tour du Valat biologische station"
+  },
+  "identifier" : "SITRA2_PCU_5539121",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T12:24:30.982+0000",
+    "dateModification" : "2021-10-06T09:38:30.882+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.ginoux@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79658583,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 20 13"
+      }
+    }, {
+      "identifiant" : 79658584,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 20 19"
+      }
+    }, {
+      "identifiant" : 79658585,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "secretariat@tourduvalat.org"
+      }
+    }, {
+      "identifiant" : 79658586,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tourduvalat.org/"
+      }
+    }, {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 775880
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Station Biologique de la Tour du Valat a été créée en 1954 par Luc Hoffmann. Organisation indépendante, la Tour du Valat a été déclarée fondation à but non lucratif en 1976.",
+      "libelleEn" : "The Tour du Valat Biological Station was created in 1954 by Luc Hoffmann. An independent organisation, the Tour du Valat was declared a non-profit foundation in 1976.",
+      "libelleEs" : "La Estación Biológica de la Tour du Valat fue creada en 1954 por Luc Hoffmann. Organización independiente, el Tour du Valat fue declarado fundación sin ánimo de lucro en 1976."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Tour du Valat a pour but de promouvoir et de contribuer directement à la conservation des zones humides méditerranéennes. La partie centrale a été désignée comme Réserve Naturelle Volontaire depuis 1984. Elle est la plus importante de France. La station et la réserve ne sont ouvertes au public que 2 jours par an, lors d'une journée portes ouvertes en janvier et février. En temps normal, l'accès à la Station est réservé aux scientifiques.",
+      "libelleEn" : "The Tour du Valat aims to promote and contribute directly to the conservation of Mediterranean wetlands. The central part has been designated as a Voluntary Nature Reserve since 1984. It is the largest in France. The station and the reserve are only open to the public for 2 days a year, during an open day in January and February. Normally, access to the Station is reserved for scientists.",
+      "libelleEs" : "El Tour du Valat tiene como objetivo promover y contribuir directamente a la conservación de los humedales mediterráneos. La parte central ha sido designada como Reserva Natural Voluntaria desde 1984. Es el más grande de Francia. La estación y la reserva sólo están abiertas al público dos días al año, durante una jornada de puertas abiertas en enero y febrero. Normalmente, el acceso a la Estación está reservado a los científicos."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse2" : "Le Sambuc",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.667730, 43.508659 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488518,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2E00032_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/0/8257562.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/0/8257562-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/0/8257562-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/0/8257562-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 50407,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:24:23.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3200
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3554
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2E00032"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Arles"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.arlestourisme.com"
+    }
+  } ]
+}

@@ -1,0 +1,419 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5832018,
+  "nom" : {
+    "libelleFr" : "Vélo électrique : journée gourmande en fat bike / vin et huile d'olive",
+    "libelleEn" : "Electric bike ride: full day gourmet tour in fat bike / wine & olive oil tasting"
+  },
+  "identifier" : "SITRA2_EVE_5832018",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-08T13:16:02.066+0000",
+    "dateModification" : "2022-03-24T07:24:26.066+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5519582
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Fun et facile, découvrez Aix et sa campagne avec nos vélos électriques ! Sans aucun effort grâce aux fatbikes & ebikes homologués. Le long de la montagne Sainte-Victoire, avec dégustation de vin et huile d'olive dans un domaine viticole !",
+      "libelleEn" : "Fun and easy, come and discover the countryside of Aix-en-Provence along the Sainte-Victoire mountain, with our original electric fat bikes! Including wine and olive oil tasting."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Après une formation sur le fonctionnement des vélos, partez le long de la montagne Sainte-Victoire, sur la  route Cezanne, Le Tholonet, Saint Antonin et Rousset. Une pause sera faite au domaine Terre de Mistral, pour une visite des ateliers viticoles et oléicoles, suivi d'une dégustation.\r\nN'oubliez pas votre pique nique, auquel cas, nous pourrons faire une halte dans une épicerie.\r\n\r\nUne caution de 100€ par vélo est demandée (CB, cheque, espèces) et restituée à la fin de la balade.\r\n\r\n➜ Départ de l'Office de Tourisme\r\n➜ Langue : français / anglais \r\n➜ Enfants à partir de 1 mètre 50\r\n➜ Distance parcourue : 50km\r\n➜ Durée : 5 à 6h environ\r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix-en-Provence.",
+      "libelleEn" : "With family or with friends, discover the countryside of Aix-en-Provence effortlessly thanks to approved fatbikes & ebikes.\r\n\r\nAfter training in the operation of bicycles, we will follow the Cezanne road, Le Tholonet, Saint-Antonin-sur-Bayon, and Rousset. We will do a break in Terre de Mistral winery, for a guided tour of the Chai and olive oil production and tasting.\r\nDon't forget to bring something to eat, anyway, a stop could be possible to a grocery.\r\n\r\nA 100€ deposit per bike is asked (by credit card or cash) and given back after the tour.\r\n\r\n➜ Language: English & French\r\n➜ Departure from the Tourist Office\r\n➜ Children from 1.50 m\r\n➜ Distance covered: 50 km\r\n➜ Duration: around 5 to 6h\r\n\r\nBooking at the information desk or on the website of the Tourist Office."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Au départ de l'Office de Tourisme",
+      "adresse1" : "300 avenue Giuseppe Verdi",
+      "adresse2" : "BP 40106",
+      "codePostal" : "13090",
+      "bureauDistribution" : "Aix-en-Provence",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444349, 43.526025 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 16674
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5547667
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "nombrePersonnesMinimum" : 1
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 08/02 au 31/12/2022, tous les lundis, mardis, mercredis, jeudis, vendredis et samedis de 9h30 à 14h30.",
+      "libelleEn" : "From 08/02 to 31/12/2022, every Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 9.30 am and 2.30 pm.",
+      "libelleEs" : "Del 08/02 al 31/12/2022, todos los lunes, martes, miércoles, jueves, viernes y sábados de 9:30 a 14:30.",
+      "libelleIt" : "Dal 08/02 al 31/12/2022, tutti i lunedì, martedì, mercoledì, giovedì, venerdì e sabati dalle 9:30 alle 14:30.",
+      "libelleDe" : "Vom 08/02 bis 31/12/2022, jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 9.30 Uhr bis 14.30 Uhr.",
+      "libelleNl" : "Van 08/02 tot en met 31/12/2022, elke maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 9.30 tot en met 14.30 u.",
+      "libelleRu" : "С 08/02 до 31/12/2022, каждый понедельники, вторники, среды, четверги, пятницы и субботы с 9h30 до 14h30.",
+      "libelleZh" : "从 2月8日 到 2022年12月31日, 每星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 08/02 a 31/12/2022, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 9h30 a  14h30.",
+      "libelleJa" : "08/02 から 31/12/2022 まで, 毎月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 9.30 午前 と 2.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21133940,
+      "dateDebut" : "2022-02-08",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "14:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22648957
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 130 € (inclus : la visite dégustation dans un domaine viticole, un sac isotherme et une bouteille d'eau).\n",
+      "libelleEn" : "Full price: 130 € (Including: guided tour of the chai and olive oil production and tasting, a bag with a bottle of water).\n",
+      "libelleEs" : "Tarifa completa: 130 €.\n",
+      "libelleIt" : "Tarrifa intera: 130 €.\n",
+      "libelleDe" : "Voller Preis: 130 €.\n",
+      "libelleNl" : "Vol tarief: € 130.\n",
+      "libelleRu" : "Полную цену : 130 €.\n",
+      "libelleZh" : "全额 : 130 €.\n",
+      "libellePtBR" : "Tarifa inteira: 130 €.\n",
+      "libelleJa" : "通常料金: 130 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12143073,
+      "dateDebut" : "2022-02-08",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 130.00,
+        "maximum" : 130.00,
+        "precisionTarif" : {
+          "libelleFr" : "inclus : la visite dégustation dans un domaine viticole, un sac isotherme et une bouteille d'eau",
+          "libelleEn" : "Including: guided tour of the chai and olive oil production and tasting, a bag with a bottle of water"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5834050,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5349089
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence - à supp",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89399387,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/velo-electrique-journee-gourmande-en-fat-bike-vin-et-huile-d-olive.html",
+          "en" : "https://booking.aixenprovencetourism.com/velo-electrique-full-day-greedy-tour-in-fat-bike-wine-olive-oil-tasting.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 10228124,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CycloPub"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/170/10005112.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/170/10005112-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/170/10005112-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/170/10005112-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "800x600_velo-electrique-tour-cezanne-en-fat-bike-216765",
+      "taille" : 141382,
+      "hauteur" : 801,
+      "largeur" : 534,
+      "lastModifiedDate" : "2021-06-08T13:28:24.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10228123,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CycloPub"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/170/10005111.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/170/10005111-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/170/10005111-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/170/10005111-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "800x600_velo-electrique-tour-cezanne-en-fat-bike-216766",
+      "taille" : 223137,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-08T13:28:23.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10228125,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CycloPub"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/170/10005113.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/170/10005113-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/170/10005113-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/170/10005113-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_velo-electrique-tour-cezanne-en-fat-bike-216764",
+      "taille" : 209094,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-08T13:28:25.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10228126,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CycloPub"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/170/10005114.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/170/10005114-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/170/10005114-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/170/10005114-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "800x600_velo-electrique-tour-cezanne-en-fat-bike-216762",
+      "taille" : 173230,
+      "hauteur" : 533,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-08T13:28:25.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2117
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2271
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2256
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3706
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Au départ de l'Office de Tourisme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS003325"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

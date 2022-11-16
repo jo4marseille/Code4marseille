@@ -1,0 +1,258 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291094,
+  "nom" : {
+    "libelleFr" : "The Anonymous Project - Horizons"
+  },
+  "identifier" : "SITRA2_EVE_6291094",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T12:41:53.887+0000",
+    "dateModification" : "2022-10-18T15:39:27.317+0000",
+    "dateExportModification" : "2022-10-18T15:39:28.000+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104005517,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.laphotographie-marseille.com/wp-content/uploads/2022/10/Programme_PM2022.pdf"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558926
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "The Anonymous Project s’installe à l’hôpital avec une proposition inédite : une ligne d’horizon photographique de 13 mètres de long."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dans le prolongement de l’exposition À DEUX C’EST MIEUX !, The Anonymous Project s’installe à l’hôpital avec une proposition inédite : une ligne d’horizon\r\nphotographique de 13 mètres de long et une sélection d’images sur le thème du balnéaire !\r\n\r\nUne proposition Photo Marseille, Hôpitaux Universitaires de Marseille AP-HM"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôpital de la Timone",
+      "adresse1" : "264 Rue Saint Pierre",
+      "codePostal" : "13005",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.403206, 43.291580 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    }, {
+      "id" : 4536
+    }, {
+      "id" : 4537
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 17/10 au 25/12/2022, tous les jours.\nHoraires non communiqués.",
+      "libelleEn" : "From 17/10 to 25/12/2022, daily.",
+      "libelleEs" : "Del 17/10 al 25/12/2022, todos los dias.",
+      "libelleIt" : "Dal 17/10 al 25/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 17/10 bis 25/12/2022, täglich.",
+      "libelleNl" : "Van 17/10 tot en met 25/12/2022, iedere dag.",
+      "libelleRu" : "С 17/10 до 25/12/2022, ежедневно.",
+      "libelleZh" : "从 10月17日 到 2022年12月25日, 日常.",
+      "libellePtBR" : "De 17/10 a 25/12/2022, todos os dias.",
+      "libelleJa" : "17/10 から 25/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24465252,
+      "dateDebut" : "2022-10-17",
+      "dateFin" : "2022-12-25",
+      "complementHoraire" : {
+        "libelleFr" : "Horaires non communiqués"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24526899
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14449975,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "The Anonymous Project - Horizons - Lee Shulman"
+    },
+    "copyright" : {
+      "libelleFr" : "The Anonymous Project - Horizons - Lee Shulman"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/207/14798735.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/207/14798735-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/207/14798735-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/207/14798735-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-18-22 at 03.27 PM",
+      "taille" : 137832,
+      "hauteur" : 588,
+      "largeur" : 453,
+      "lastModifiedDate" : "2022-10-18T15:39:27.405+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Hôpital de la Timone"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-25T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT074054"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

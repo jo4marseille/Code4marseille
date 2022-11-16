@@ -1,0 +1,417 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5851033,
+  "nom" : {
+    "libelleFr" : "Café découverte à la galerie de l'histoire",
+    "libelleEn" : "Discovery coffee at the history gallery",
+    "libelleEs" : "Café descubrimiento en la galería de historia",
+    "libelleDe" : "Entdeckungskaffee in der Geschichtsgalerie"
+  },
+  "identifier" : "SITRA2_EVE_5851033",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-24T15:15:13.915+0000",
+    "dateModification" : "2022-09-22T09:13:38.628+0000",
+    "dateExportModification" : "2022-10-18T12:49:22.939+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 83679705,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Art, Histoire et Archéologie"
+      }
+    }, {
+      "identifiant" : 83679706,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service Art, Histoire et Archéologie"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Après un moment convivial autour d'un thé ou d'un café, découvrez un point de vue singulier sur sur un aspect de l'histoire martégale.\r\nSans inscription.",
+      "libelleEn" : "After a convivial moment around a tea or a coffee, discover a singular point of view on one aspect of Martégale history.\r\nWithout registration.",
+      "libelleEs" : "Después de un momento de convivencia con un té o un café, descubra un punto de vista singular sobre un aspecto de la historia de Martégale.\r\nSin registro.",
+      "libelleDe" : "Entdecken Sie nach einem geselligen Moment bei einem Tee oder Kaffee einen einzigartigen Blickwinkel auf einen Aspekt der Martégale-Geschichte.\r\nOhne Anmeldung."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "- 20 octobre : A la découverte des outils préhistoriques de la galerie de l'Histoire. \r\nUne visite informelle pour découvrir les différents outils de l'époque préhistorique présentés à la galerie de l'histoire.\r\nConfrontées à l'hostilité de la nature, les populations préhistoriques se sont outillées afin de faciliter leur survie et leur développement.\r\nHache, moules bivalves, lames et lamelles... cette visite informelle vous permettra de détailler les outils exposés dans la galerie de l'histoire et de découvrir leur utilité et leur période de création.\r\n\r\n- 01 décembre : Un atelier de broyage de calcite du site néolithique de Ponteau.",
+      "libelleEn" : "- 20 October: Discovering prehistoric tools in the History Gallery. \r\nAn informal visit to discover the different tools from the prehistoric period presented in the History Gallery.\r\nConfronted with the hostility of nature, prehistoric populations used tools to facilitate their survival and development.\r\nAxes, bivalve moulds, blades and slats... this informal visit will allow you to examine in detail the tools on display in the history gallery and to discover their usefulness and period of creation.\r\n\r\n- 01 December: A calcite grinding workshop at the Neolithic site of Ponteau.",
+      "libelleEs" : "- 20 de octubre: Descubrimiento de herramientas prehistóricas en la Galería de Historia. \r\nUna visita informal para descubrir las diferentes herramientas de la época prehistórica presentadas en la Galería de Historia.\r\nEnfrentadas a la hostilidad de la naturaleza, las poblaciones prehistóricas utilizaron herramientas para facilitar su supervivencia y desarrollo.\r\nHachas, moldes de bivalvos, cuchillas y listones... esta visita informal le permitirá examinar con detalle las herramientas expuestas en la galería de historia y descubrir su utilidad y época de creación.\r\n\r\n- 01 de diciembre: Taller de molienda de calcita en el yacimiento neolítico de Ponteau.",
+      "libelleDe" : "- 20. Oktober: Auf Entdeckungsreise zu den prähistorischen Werkzeugen in der Galerie der Geschichte. \r\nEin informeller Besuch, um die verschiedenen Werkzeuge aus der prähistorischen Zeit zu entdecken, die in der Galerie der Geschichte ausgestellt sind.\r\nKonfrontiert mit der Feindseligkeit der Natur, haben sich die prähistorischen Bevölkerungen mit Werkzeugen ausgestattet, um ihr Überleben und ihre Entwicklung zu erleichtern.\r\nÄxte, Muscheln, Klingen und Lamellen... Bei diesem informellen Rundgang können Sie die in der Geschichtsgalerie ausgestellten Werkzeuge im Detail betrachten und mehr über ihren Nutzen und ihre Entstehungszeit erfahren.\r\n\r\n- 01. Dezember: Ein Workshop zum Zermahlen von Calcit aus der neolithischen Stätte von Ponteau."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie de l'Histoire de Martigues",
+      "adresse1" : "Rond-point de l'Hôtel de ville",
+      "codePostal" : "13500",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.047511, 43.405875 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "lieu" : {
+      "id" : 15174
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538425
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538425
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5591698
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 20 octobre 2022 de 9h30 à 11h.\n\nJeudi 1er décembre 2022 de 9h30 à 11h.",
+      "libelleEn" : "Thursday 20 October 2022 between 9.30 am and 11 am.\n\nThursday 1st of December 2022 between 9.30 am and 11 am.",
+      "libelleEs" : "Jueves, 20 de octubre de 2022 de 9:30 a 11.\n\nJueves, 1 de diciembre de 2022 de 9:30 a 11.",
+      "libelleIt" : "Giovedì 20 ottobre 2022 dalle 9:30 alle 11.\n\nGiovedì 1° dicembre 2022 dalle 9:30 alle 11.",
+      "libelleDe" : "Donnerstag, den 20. Oktober 2022 von 9.30 Uhr bis 11 Uhr.\n\nDonnerstag, den 1. Dezember 2022 von 9.30 Uhr bis 11 Uhr.",
+      "libelleNl" : "Donderdag 20 oktober 2022 van 9.30 tot en met 11.00 u.\n\nDonderdag 1 december 2022 van 9.30 tot en met 11.00 u.",
+      "libelleRu" : "Четверг 20 октября 2022  с 9h30 до 11h.\n\nЧетверг 1-й декабря 2022 с 9h30 до 11h.",
+      "libelleZh" : "2022年10月20日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年12月1日, 星期四 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quinta-feira 20 Outubro 2022 de 9h30 a  11h.\n\nQuinta-feira 1º Dezembro 2022 de 9h30 a  11h.",
+      "libelleJa" : "木曜日 20 10月 2022 9.30 午前 と 11 午前 の間.\n\n木曜日 1st of 12月 2022 9.30 午前 と 11 午前 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23907595,
+      "dateDebut" : "2022-10-20",
+      "dateFin" : "2022-10-20",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24342301
+    }, {
+      "identifiant" : 23907600,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24342302
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18309385,
+    "referent" : true,
+    "nom" : "Art, Histoire et Archéologie",
+    "prenom" : "Service",
+    "titre" : {
+      "libelleFr" : "14 quai Aristide Briand"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83653059,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653060,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653071,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 95"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653072,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magali.gouiran@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653083,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 71"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 83653084,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "emmanuelle.achilli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 89792418,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 24 00 24 14"
+      },
+      "observation" : {
+        "libelleFr" : "Sylviane Allivons-Chapelle l'Annonciade"
+      }
+    }, {
+      "identifiant" : 103445971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nais.paoli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Naïs Paoli - Médiatrice culturelle"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14128155,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Café découverte à la galerie de l'Histoire"
+    },
+    "copyright" : {
+      "libelleFr" : "Paoli.N / Ville de Martigues, \tArt, Histoire et Archéologie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/37/14427642.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/37/14427642-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/37/14427642-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/37/14427642-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "bd6050bc16e24b2eadd2640f1ca96095.base.image",
+      "taille" : 68677,
+      "hauteur" : 466,
+      "largeur" : 700,
+      "lastModifiedDate" : "2022-09-22T09:13:38.748+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14128651,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Café découverte à la galerie de l'Histoire"
+    },
+    "copyright" : {
+      "libelleFr" : "Paoli.N / Ville de Martigues, Art, Histoire et Archéologie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/39/14428136.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/39/14428136-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/39/14428136-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/39/14428136-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "b6da364b0a714cefa962bc43624158ef.base.image",
+      "taille" : 207265,
+      "hauteur" : 506,
+      "largeur" : 700,
+      "lastModifiedDate" : "2022-09-22T09:13:39.078+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-10-20", "2022-12-01" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Galerie de l'Histoire de Martigues"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-01T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

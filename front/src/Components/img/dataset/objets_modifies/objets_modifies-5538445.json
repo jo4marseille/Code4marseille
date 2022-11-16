@@ -1,0 +1,238 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538445,
+  "nom" : {
+    "libelleFr" : "Tour de l'Horloge",
+    "libelleEn" : "Tour de l'Horloge",
+    "libelleEs" : "Tour de l'Horloge",
+    "libelleIt" : "Tour de l'Horloge",
+    "libelleDe" : "Tour de l'Horloge",
+    "libelleNl" : "Tour de l'Horloge"
+  },
+  "identifier" : "SITRA2_PCU_5538445",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:37:49.853+0000",
+    "dateModification" : "2021-07-13T10:22:59.427+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79629104,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 03 49 98"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225951
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Monument emblématique d'Aubagne, la tour de l'horloge et son campanile est sûrement l'édifice le plus photographié. \r\n\r\nConstruite en 1900. Ses cadrans sont orientés en direction des quatre points cardinaux.\r\n\r\nLes ferronneries qui protègent la cloche ne sont pas seulement décoratives : elles permettent de laisser passer le Mistral et garantissent ainsi plus de stabilité à la structure.",
+      "libelleEn" : "The Clock Tower : built in 1900 with its dials in direction of the four cardinal points."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Tour de l'Horloge",
+      "codePostal" : "13400",
+      "bureauDistribution" : "AUBAGNE",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.569489, 43.293114 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\nParking(Les Terres Rouges)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8486327,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000486_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/247/8255371.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/247/8255371-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/247/8255371-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/247/8255371-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 525599,
+      "hauteur" : 1920,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2020-07-23T16:30:55.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8486328,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000486_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/247/8255372.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/247/8255372-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/247/8255372-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/247/8255372-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 724827,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T16:30:54.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3506
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 6512
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3365
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000486"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

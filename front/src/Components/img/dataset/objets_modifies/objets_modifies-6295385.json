@@ -1,0 +1,237 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6295385,
+  "nom" : {
+    "libelleFr" : "Skullflower, Live in Antwerpen, 27.01.2007 - Part II"
+  },
+  "identifier" : "SITRA2_EVE_6295385",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-13T15:08:36.329+0000",
+    "dateModification" : "2022-10-13T15:16:34.863+0000",
+    "dateExportModification" : "2022-10-21T15:45:25.599+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104129160,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/salon-du-salon/sds-34-hendrik-hegray-skullflower-part-ii"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5518145
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Hendrik Hegray développe une œuvre forte, fragile, radicale et aberrante qui, malgré sa radicalité et sa position en «marge» a pu bénéficier d’importantes mises en avant."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Hendrik Hegray pratique le dessin, la musique, la performance, la photo, la vidéo, la sculpture.\r\n\r\nInfluencé à la fin des années 90 par les mouvements liés au graphisme et au dessin underground, il publie de nombreuses revues Nazi Knife, Ed. Paraguay, False Flag (W Jonas Delaborde) avec une implication particulière dans le domaine de l’auto-édition.\r\n\r\nHendrik Hegray développe une œuvre forte, fragile, radicale et aberrante qui, malgré sa radicalité et sa position en «marge» a pu bénéficier d’importantes mises en avant avec les expositions L’époque, les humeurs, les valeurs, l’attention.\r\n\r\nHendrik Hegray poursuit un chemin au gré d’envies, de partages, de rencontres, et propose une variation de sa capacité à tendre au monde un miroir accidenté, peuplé de ses chimères, inventions, de ses débris et découvertes.\r\n\r\nGalerie Valeria Cetraro / Salon du Salon Project Space / Festival Photo Marseille"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Salon du salon",
+      "adresse1" : "21 Avenue Prado",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.384998, 43.284409 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 24/10 au 19/11/2022.\nFermé lundi, mardi, mercredi et dimanche.\nVisites publiques jeudi, vendredi, samedi de 16h à 19h sur rendez-vous. \r\nedition@salondusalon.com.",
+      "libelleEn" : "From 24/10 to 19/11/2022.\nClosed Monday, Tuesday, Wednesday and Sunday.",
+      "libelleEs" : "Del 24/10 al 19/11/2022.\nCerrado lunes, martes, miércoles y domingo.",
+      "libelleIt" : "Dal 24/10 al 19/11/2022.\nChiuso lunedì, martedì, mercoledì e domenica.",
+      "libelleDe" : "Vom 24/10 bis 19/11/2022.\nMontag, Dienstag, Mittwoch und Sonntag geschlossen.",
+      "libelleNl" : "Van 24/10 tot en met 19/11/2022.\nMaandag, dinsdag, woensdag en zondag gesloten.",
+      "libelleRu" : "С 24/10 до 19/11/2022.\nНе работает понедельник, вторник, среда и воскресенье.",
+      "libelleZh" : "从 10月24日 到 2022年11月19日.\n星期一, 星期二, 星期三 和 星期日 关闭.",
+      "libellePtBR" : "De 24/10 a 19/11/2022.\nFechado em segunda-feira, terça-feira, quarta-feira e domingo.",
+      "libelleJa" : "24/10 から 19/11/2022 まで.\n月曜日, 火曜日, 水曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24494594,
+      "dateDebut" : "2022-10-24",
+      "dateFin" : "2022-11-19",
+      "complementHoraire" : {
+        "libelleFr" : "Visites publiques jeudi, vendredi, samedi de 16h à 19h sur rendez-vous. \r\nedition@salondusalon.com"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24494594
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14390616,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Hendrik Hegray – Skullflower – Part II"
+    },
+    "copyright" : {
+      "libelleFr" : "Hendrik Hegray – Skullflower – Part II"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/190/14728878.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/190/14728878-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/190/14728878-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/190/14728878-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "h",
+      "taille" : 117054,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-13T15:16:34.968+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-17", "2022-11-18", "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Salon du salon"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

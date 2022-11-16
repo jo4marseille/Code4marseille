@@ -1,0 +1,350 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6149302,
+  "nom" : {
+    "libelleFr" : "Randonnée Marche Populaire Autour des vestiges miniers"
+  },
+  "identifier" : "SITRA2_EVE_6149302",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-26T09:09:41.599+0000",
+    "dateModification" : "2022-06-01T08:20:24.927+0000",
+    "dateExportModification" : "2022-10-05T10:05:30.854+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Syndicat d'Initiative de Gréasque",
+      "dateCreation" : "2020-12-01T15:17:02.198+0000",
+      "dateModification" : "2022-10-24T08:49:51.046+0000",
+      "id" : 2143,
+      "siteWeb" : "http://www.ville-greasque.fr/"
+    },
+    "signalerUnProblemeMails" : [ "si.greasque@free.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 99726976,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 69 77 00"
+      }
+    }, {
+      "identifiant" : 99726977,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@museeminegreasque.fr"
+      }
+    }, {
+      "identifiant" : 99726978,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://museeminegreasque.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5530315
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Samedi 11 juin, le musée de la mine de Gréasque vous propose une randonnée réellement pour tous les publics : les solitaires, les groupes, les amoureux de la nature, les fervents de culture, les fans de sport, et même les familles avec enfants ou ados."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Samedi 11 juin, le musée de la mine de Gréasque vous propose une randonnée réellement pour tous les publics : les solitaires, les groupes, les amoureux de la nature, les fervents de culture, les fans de sport, et même les familles avec enfants ou ados qui veulent juste s’amuser !\r\nEt bien sûr, tout est organisé pour vous accueillir en sécurité, à commencer par des points de contrôle respectueux des règles sanitaires et de distanciation.\r\n\r\nRandonnée libre, pour tous\r\nLors d’une marche populaire, chacun part quand il veut, marche comme il veut, et surtout à son rythme !\r\nCette marche se déroule sur un parcours sans difficulté particulière. Vous avez même le choix entre deux distances, avec nos boucles de 8km et de 13km. \r\nEt on peut aussi (re)découvrir le parcours en version commentée : deux guides vous accompagneront et vous apporteront des informations sur les mines et sur la flore. Départ à 9h30.\r\n\r\nRetour du geocaching – version 2.0\r\nAprès un premier test en 2019, le musée vous propose un nouveau jeu de geocaching, autrement dit de recherches de caches et d’indices, sur la petite boucle de 8 km. \r\nAvec cette fois-ci des énigmes spéciales pour les plus jeunes, afin de mettre toute la famille à contribution. Il va falloir non seulement marcher (un peu) mais aussi savoir utiliser les réseaux sociaux (beaucoup) pour gagner l’un des nombreux lots prévus. De quoi rendre le parcours plus vivant, et vous faire découvrir la mine, sans même vous en apercevoir.\r\n\r\n\r\n13ème Marche Populaire : le samedi 11 juin 2022\r\nDéparts échelonnés au choix entre 8h et 13h\r\nDépart et arrivée au musée de la mine de Gréasque. Sans inscription préalable.\r\nRavitaillement à mi-parcours - Frais d’assurance FFSP obligatoire : 3€ par personne\r\n\r\nGeocaching et randonnée commentée: \r\nLes supports permettant de participer au geocaching sont distribués au départ entre 8h et 13h, sans supplément de prix. La participation au geocaching donne accès à un concours avec de nombreux lots à la clé : DVD de la mine ou de la dernière Ste Barbe, livres sur la mine etc…\r\nLa randonnée commentée nécessite une inscription préalable au 04 42 69 77 00."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "gel à disposition - distanciation facile en forêt"
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée de la Mine / Puits Hély d'Oissel",
+      "adresse1" : "Montée de l'ancien traînage",
+      "codePostal" : "13850",
+      "commune" : {
+        "id" : 4457
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.538544, 43.431235 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4457
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538009
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 11 juin 2022 de 8h à 17h.",
+      "libelleEn" : "Saturday 11 June 2022 between 8 am and 5 pm.",
+      "libelleEs" : "Sábado, 11 de junio de 2022 de 8 a 17.",
+      "libelleIt" : "Sabato 11 giugno 2022 dalle 8 alle 17.",
+      "libelleDe" : "Samstag, den 11. Juni 2022 von 8 Uhr bis 17 Uhr.",
+      "libelleNl" : "Zaterdag 11 juni 2022 van 8.00 tot en met 17.00 u.",
+      "libelleRu" : "Суббота 11 июня 2022  с 8h до 17h.",
+      "libelleZh" : "2022年6月11日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sábado 11 Junho 2022 de 8h a  17h.",
+      "libelleJa" : "土曜日 11 6月 2022 8 午前 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23427406,
+      "dateDebut" : "2022-06-11",
+      "dateFin" : "2022-06-11",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23427406
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 3 € (assurance rando).\n",
+      "libelleEn" : "One price: 3 €.\n",
+      "libelleEs" : "Tarifa única: 3 €.\n",
+      "libelleIt" : "Tariffa unica: 3 €.\n",
+      "libelleDe" : "Einheitspreis: 3 €.\n",
+      "libelleNl" : "Vast tarief: € 3.\n",
+      "libelleRu" : "Единый тариф : 3 €.\n",
+      "libelleZh" : "定价 : 3 €.\n",
+      "libellePtBR" : "Tarifa única: 3 €.\n",
+      "libelleJa" : "シングルレート: 3 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13276400,
+      "dateDebut" : "2022-06-11",
+      "dateFin" : "2022-06-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "assurance rando"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20812258,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Decombe",
+    "prenom" : "Lucile",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99726979,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "l.decombe@museeminegreasque.fr"
+      }
+    }, {
+      "identifiant" : 99726980,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 69 77 00"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13108393,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Musée de la Mine / Puits Hély d'Oissel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/200/13289570.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/200/13289570-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/200/13289570-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/200/13289570-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Recto Flyer A5 Marche Pop Ã  imprimer",
+      "taille" : 882035,
+      "hauteur" : 2755,
+      "largeur" : 2023,
+      "lastModifiedDate" : "2022-06-01T08:17:15.580+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13108394,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Musée de la Mine / Puits Hély d'Oissel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/200/13289571.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/200/13289571-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/200/13289571-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/200/13289571-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Verso Flyer A5 Marche Pop Ã  imprimer",
+      "taille" : 1056009,
+      "hauteur" : 2755,
+      "largeur" : 2023,
+      "lastModifiedDate" : "2022-06-01T08:17:16.822+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13108395,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Musée de la Mine / Puits Hély d'oissel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/200/13289572.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/200/13289572-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/200/13289572-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/200/13289572-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_7318",
+      "taille" : 2328109,
+      "hauteur" : 1236,
+      "largeur" : 1648,
+      "lastModifiedDate" : "2022-06-01T08:17:18.295+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1966
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2282
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 100,
+    "nomLieu" : "Musée de la Mine / Puits Hély d'Oissel"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-06-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

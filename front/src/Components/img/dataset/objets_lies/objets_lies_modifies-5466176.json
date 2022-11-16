@@ -1,0 +1,228 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5466176,
+  "nom" : {
+    "libelleFr" : "FRAC (Fonds régional d'art contemporain)",
+    "libelleEn" : "FRAC (Fonds régional d'art contemporain)",
+    "libelleEs" : "FRAC (Fonds régional d'art contemporain)",
+    "libelleIt" : "FRAC (Fondo Regionale d'Arte Contemporanea)",
+    "libelleDe" : "FRAC (regionaler Fonds für zeitgenössische Kunst)",
+    "libelleNl" : "FRAC (Fonds régional d'art contemporain)"
+  },
+  "identifier" : "SITRA2_STR_5466176",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:36:28.421+0000",
+    "dateModification" : "2022-08-22T13:59:03.189+0000",
+    "dateExportModification" : "2022-08-22T13:59:03.340+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071884,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 91 27 55"
+      }
+    }, {
+      "identifiant" : 77071885,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 91 90 28 50"
+      }
+    }, {
+      "identifiant" : 77071886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@fracpaca.org"
+      }
+    }, {
+      "identifiant" : 77071887,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marie-aurelie.elkurd@fracpaca.org"
+      }
+    }, {
+      "identifiant" : 77071888,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@fracpaca.org"
+      }
+    }, {
+      "identifiant" : 77071889,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.fracpaca.org"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "20 Boulevard De Dunkerque",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367530, 43.305759 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20644451,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "POZMENTIER-SPORTICH",
+    "prenom" : "Caroline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  }, {
+    "identifiant" : 20644479,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ENJALRAN",
+    "prenom" : "Muriel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  }, {
+    "identifiant" : 20644481,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ELKURD",
+    "prenom" : "Elise",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98678061,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marie-aurelie.elkurd@fracpaca.org"
+      }
+    } ]
+  }, {
+    "identifiant" : 21212513,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MENOU",
+    "prenom" : "Gwenola",
+    "titre" : {
+      "libelleFr" : "Chargee de communication"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102487251,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 91 27 55"
+      }
+    }, {
+      "identifiant" : 102487303,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "gwenola.menou@fracpaca.org"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

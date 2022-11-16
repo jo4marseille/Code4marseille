@@ -1,0 +1,237 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5515640,
+  "nom" : {
+    "libelleFr" : "Parc National des Calanques",
+    "libelleEn" : "Etablissement public du parc national des calanques",
+    "libelleIt" : "Etablissement public du parc national des calanques",
+    "libelleDe" : "Etablissement public du parc national des calanques",
+    "libelleNl" : "Etablissement public du parc national des calanques"
+  },
+  "identifier" : "SITRA2_STR_5515640",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-04-27T04:34:36.280+0000",
+    "dateModification" : "2022-08-18T07:10:36.243+0000",
+    "dateExportModification" : "2022-08-18T07:10:36.519+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78150156,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 20 10 50 00"
+      }
+    }, {
+      "identifiant" : 78150158,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@calanques-parcnational.fr"
+      }
+    }, {
+      "identifiant" : 78150160,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.calanques-parcnational.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "141 avenue du Prado",
+      "adresse2" : "Bât. A",
+      "codePostal" : "13008",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.386096, 43.269435 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20579288,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "WITZ",
+    "prenom" : "Chrystel",
+    "titre" : {
+      "libelleFr" : "Technicienne territoriale de médiation"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98313326,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 65 05 64 99"
+      }
+    }, {
+      "identifiant" : 98313350,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chrystel.witz@calanques-parcnational.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20579528,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "TAVERNIER",
+    "prenom" : "Julien",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98313775,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 20 10 50 04"
+      }
+    }, {
+      "identifiant" : 98313776,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "julien.tavernier@calanques-parcnational.fr"
+      }
+    }, {
+      "identifiant" : 98313789,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 60 57 31 23"
+      }
+    } ]
+  }, {
+    "identifiant" : 20951567,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "BRUYAS",
+    "prenom" : "Zacharie",
+    "titre" : {
+      "libelleFr" : "Responsable communication"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100544153,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 64 19 85 17"
+      }
+    }, {
+      "identifiant" : 100544249,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "zacharie.bruyas@calanques-parcnational.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 21197619,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BERTHAUD",
+    "prenom" : "Gaêlle",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,570 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5998008,
+  "nom" : {
+    "libelleFr" : "Venise la Sérénissime - Yves Klein, l'infini bleu",
+    "libelleEn" : "Venice, la Serenissima - Yves Klein, infinite blue"
+  },
+  "identifier" : "SITRA2_EVE_5998008",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-12-21T10:19:00.098+0000",
+    "dateModification" : "2022-03-01T11:19:26.362+0000",
+    "dateExportModification" : "2022-05-17T09:25:57.070+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512292,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 20 02"
+      }
+    }, {
+      "identifiant" : 70512295,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "message@carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 70512296,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "groupes@carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 70512298,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.carrieres-lumieres.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222913
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les Carrières de Lumières aux Baux-de-Provence présentent à partir du vendredi 4 mars 2022 deux nouvelles expositions Venise, la Sérénissime en programme long puis Yves Klein, l’infini bleu en programme court.",
+      "libelleEn" : "A new, must-see encounter with art, stone and light, striking up a dialogue between the works of Aix-born painter Paul Cézanne and the Russian artist Kandinsky."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Programme long\r\n\r\nVenise, la Sérénissime\r\n\r\nL’exposition vous propose un voyage à travers la ville de Venise afin de découvrir ses immenses trésors artistiques et architecturaux. En déambulant le long du Grand Canal et des canaux, des ruelles et des places, des bâtiments et des églises, savourez une promenade entre intérieurs et extérieurs, sacré et profane, à la recherche des symboles visibles d’un passé exceptionnel. Immergez-vous dans l’art byzantin et les mosaïques dorées de la basilique Saint-Marc, dans les chefs-d’œuvre du Tintoret, de Bellini ou de Canaletto ou encore dans la fameuse Mostra del Cinema avec des photographies d’actrices et acteurs du néoréalisme italien.\r\n\r\nProduction : Culturespaces Digital, Création artistique : Gianfranco Iannuzzi, mise en scène et animation vidéo : Cutback \r\nDurée: 35 min\r\n\r\nProgramme court\r\n\r\nYves Klein, l’infini bleu\r\n\r\nAprès Venise, la Sérénissime, les Carrières de Lumières présentent une création d’une dizaine de minutes réalisée à partir des œuvres de l’artiste originaire de Nice, Yves Klein.\r\nCelui-ci admire le ciel de la Méditerranée et y voit sa première œuvre, l’origine de son inspiration. Avec Yves Klein, la couleur prend une dimension spirituelle et métaphysique. Cette création plonge le visiteur dans les œuvres de l’artiste, au-delà de son célèbre bleu IKB (International Klein Blue). Nous y découvrons l’empreinte du corps avec ses Anthropométries ou encore celle de la nature avec ses Cosmogonies et ses Reliefs Planétaires. Cette exposition a été rendue possible grâce à l’autorisation des Archives Yves Klein et à leur précieux concours.\r\n\r\n\r\nProduction : Culturespaces Digital, création artistique : Cutback\r\nDurée : 10 min.\r\n\r\nDurée de l'ensemble de la programmation : 45 min."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Carrières de Lumières",
+      "adresse1" : "Route des Carrières - D27",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "300m du village des Baux-de-Provence"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.796172, 43.748461 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3674
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 596
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 6486
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMin" : 20
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/03/2022 au 02/01/2023, tous les jours.",
+      "libelleEn" : "From 04/03/2022 to 02/01/2023, daily.",
+      "libelleEs" : "Del 04/03/2022 al 02/01/2023, todos los dias.",
+      "libelleIt" : "Dal 04/03/2022 al 02/01/2023, ogni giorno.",
+      "libelleDe" : "Vom 04/03/2022 bis 02/01/2023, täglich.",
+      "libelleNl" : "Van 04/03/2022 tot en met 02/01/2023, iedere dag.",
+      "libelleRu" : "С 04/03/2022 до 02/01/2023, ежедневно.",
+      "libelleZh" : "从 2022年3月4日 到 2023年1月2日, 日常.",
+      "libellePtBR" : "De 04/03/2022 a 02/01/2023, todos os dias.",
+      "libelleJa" : "04/03/2022 から 02/01/2023 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22332648,
+      "dateDebut" : "2022-03-04",
+      "dateFin" : "2023-01-02",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22801336
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Du 19/05/2021 au 16/01/2022\nPlein tarif : 14,50 € (Adultes), Tarif réduit : 12 € (Jeunes (7 à 25 ans), étudiants, demandeurs d’emploi, enseignants), Forfait famille : 41 € (Famille (2 adultes et 2 enfants, soit 2e enfant gratuit)).\n\nDu 04/03/2022 au 02/01/2023\nPlein tarif : 14,50 € (Adultes), Tarif réduit : 12 € (Jeunes (7 à 25 ans), étudiants, demandeurs d’emploi, enseignants), Forfait famille : 41 € (Famille (2 adultes et 2 enfants, soit 2e enfant gratuit)).\n\n Gratuit pour les moins de 7 ans.\n Tarif groupe à partir de 20 personnes.\n\nLes Pass Baux-de-Provence\r\n(Carrières de Lumières + Château des Baux + Musée Yves Brayer offert)\r\nTarifs : Adulte 18€/20€*\r\nSénior (+ 65 ans) 16,50€/18,50€*\r\n7 à 25 ans 14€/16€*\r\nRéduit (étudiant + 25 ans, demandeurs d’emploi, enseignant) 14€/16€*\r\nMoins de 7 ans gratuit\r\nFamille (2 adultes et 2 enfants) 51,50€/59,50€*\r\n*Avec animations au Château des Baux.",
+      "libelleEn" : "From 19/05/2021 to 16/01/2022\nFull price: 14.50 €, Reduced price: 12 €, Family pass: 41 €.\n\nFrom 04/03/2022 to 02/01/2023\nFull price: 14.50 €, Reduced price: 12 €, Family pass: 41 €.\n\n Free entry for children < 7 years.\n Group rate available for > 20 people.",
+      "libelleEs" : "Del 19/05/2021 al 16/01/2022\nTarifa completa: 14,50 €, Precio reducido: 12 €, Forfait familia: 41 €.\n\nDel 04/03/2022 al 02/01/2023\nTarifa completa: 14,50 €, Precio reducido: 12 €, Forfait familia: 41 €.\n\n Gratuito para los niños menores de 7 años.\n Tarifa grupo a partir de 20 personas.",
+      "libelleIt" : "Dal 19/05/2021 al 16/01/2022\nTarrifa intera: 14,50 €, Prezzo ridotto: 12 €, Forfait famiglia: 41 €.\n\nDal 04/03/2022 al 02/01/2023\nTarrifa intera: 14,50 €, Prezzo ridotto: 12 €, Forfait famiglia: 41 €.\n\n Gratuito per i bambini di età inferiore a 7 anni.\n Tariffa gruppi a partire da 20 persone.",
+      "libelleDe" : "Vom 19/05/2021 bis 16/01/2022\nVoller Preis: 14,50 €, Reduzierter Preis: 12 €, Pauschalpreis Familie: 41 €.\n\nVom 04/03/2022 bis 02/01/2023\nVoller Preis: 14,50 €, Reduzierter Preis: 12 €, Pauschalpreis Familie: 41 €.\n\n Kostenlos für Kinder unter 7 Jahren.\n Gruppentarif ab 20 Personen.",
+      "libelleNl" : "Van 19/05/2021 tot en met 16/01/2022\nVol tarief: € 14,50, Korting: € 12, Vaste prijs gezin: € 41.\n\nVan 04/03/2022 tot en met 02/01/2023\nVol tarief: € 14,50, Korting: € 12, Vaste prijs gezin: € 41.\n\n Gratis voor kinderen onder de 7 jaar.\n Groepstarief vanaf 20 personen.",
+      "libelleRu" : "С 19/05/2021 до 16/01/2022\nполную цену : 14,50 €, Сниженная цена : 12 €, Турпакет для семьи : 41 €.\n\nС 04/03/2022 до 02/01/2023\nполную цену : 14,50 €, Сниженная цена : 12 €, Турпакет для семьи : 41 €.\n\n Бесплатно для лицам младше 7 лет.\n Групповой тариф, начиная с 20 человек.",
+      "libelleZh" : "从 2021年5月19日 到 2022年1月16日\n全额 : 14.50 €, 减价 : 12 €, 家庭票 : 41 €.\n\n从 2022年3月4日 到 2023年1月2日\n全额 : 14.50 €, 减价 : 12 €, 家庭票 : 41 €.\n\n 儿童 < 7 岁自由进入.\n 团队价格适用于 20 人以上.",
+      "libellePtBR" : "De 19/05/2021 a 16/01/2022\nTarifa inteira: 14,50 €, Preço reduzido: 12 €, Pacote família: 41 €.\n\nDe 04/03/2022 a 02/01/2023\nTarifa inteira: 14,50 €, Preço reduzido: 12 €, Pacote família: 41 €.\n\n Gratuito para menores de 7 anos.\n Tarifa de grupo a partir de 20 pessoas.",
+      "libelleJa" : "19/05/2021 から 16/01/2022 まで\n通常料金: 14.50 €, 割引料金: 12 €, ファミリーパッケージ: 41 €.\n\n04/03/2022 から 02/01/2023 まで\n通常料金: 14.50 €, 割引料金: 12 €, ファミリーパッケージ: 41 €.\n\n 子供 < 7 歳 は入場無料.\n 団体料金利用可 > 20 人."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Les Pass Baux-de-Provence\r\n(Carrières de Lumières + Château des Baux + Musée Yves Brayer offert)\r\nTarifs : Adulte 18€/20€*\r\nSénior (+ 65 ans) 16,50€/18,50€*\r\n7 à 25 ans 14€/16€*\r\nRéduit (étudiant + 25 ans, demandeurs d’emploi, enseignant) 14€/16€*\r\nMoins de 7 ans gratuit\r\nFamille (2 adultes et 2 enfants) 51,50€/59,50€*\r\n*Avec animations au Château des Baux"
+    },
+    "periodes" : [ {
+      "identifiant" : 12750460,
+      "dateDebut" : "2021-05-19",
+      "dateFin" : "2022-01-16",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 14.50,
+        "maximum" : 14.50,
+        "precisionTarif" : {
+          "libelleFr" : "Adultes"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "Jeunes (7 à 25 ans), étudiants, demandeurs d’emploi, enseignants"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 41.00,
+        "maximum" : 41.00,
+        "precisionTarif" : {
+          "libelleFr" : "Famille (2 adultes et 2 enfants, soit 2e enfant gratuit)"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4102
+        }
+      } ]
+    }, {
+      "identifiant" : 12750516,
+      "dateDebut" : "2022-03-04",
+      "dateFin" : "2023-01-02",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 14.50,
+        "maximum" : 14.50,
+        "precisionTarif" : {
+          "libelleFr" : "Adultes"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "Jeunes (7 à 25 ans), étudiants, demandeurs d’emploi, enseignants"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 41.00,
+        "maximum" : 41.00,
+        "precisionTarif" : {
+          "libelleFr" : "Famille (2 adultes et 2 enfants, soit 2e enfant gratuit)"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4102
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1281
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 7
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6183140,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5222913
+      },
+      "nom" : "Carrières des Lumières",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70512292,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 90 49 20 02"
+        }
+      }, {
+        "identifiant" : 70512295,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "message@carrieres-lumieres.com"
+        }
+      }, {
+        "identifiant" : 70512296,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "groupes@carrieres-lumieres.com"
+        }
+      }, {
+        "identifiant" : 70512298,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.carrieres-lumieres.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11867225,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "legende" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/65/11944401.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/65/11944401-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/65/11944401-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/65/11944401-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Venise, la Sérénissime",
+      "taille" : 1445064,
+      "hauteur" : 500,
+      "largeur" : 1600,
+      "lastModifiedDate" : "2022-03-01T10:50:46.393+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11867235,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Yves Klein, l'infini bleu"
+    },
+    "legende" : {
+      "libelleFr" : "Yves Klein, l'infini bleu"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces-Cutback"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/65/11944411.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/65/11944411-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/65/11944411-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/65/11944411-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Klein, l'infini bleu",
+      "taille" : 1374195,
+      "hauteur" : 500,
+      "largeur" : 1600,
+      "lastModifiedDate" : "2022-03-01T10:50:47.017+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-01-02T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12614012,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "legende" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces-Nuit de Chine"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/90/12802753.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/90/12802753-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/90/12802753-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/90/12802753-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "©Culturespaces-Nuit de Chine",
+      "taille" : 9972814,
+      "hauteur" : 2657,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2022-03-01T10:50:43.674+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-01-02T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12614137,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Klein"
+    },
+    "legende" : {
+      "libelleFr" : "Klein"
+    },
+    "copyright" : {
+      "libelleFr" : "CulturespacesCutback"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/91/12802878.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/91/12802878-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/91/12802878-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/91/12802878-diaporama.png",
+      "extension" : "png",
+      "fileName" : "2 Klein ©CulturespacesCutback",
+      "taille" : 10338686,
+      "hauteur" : 2160,
+      "largeur" : 3840,
+      "lastModifiedDate" : "2022-03-01T11:16:06.727+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-01-02T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12614165,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Klein"
+    },
+    "legende" : {
+      "libelleFr" : "Klein"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces / Cutback"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/91/12802906.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/91/12802906-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/91/12802906-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/91/12802906-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "3 Klein ©CulturespacesCutback",
+      "taille" : 2819204,
+      "hauteur" : 2160,
+      "largeur" : 3840,
+      "lastModifiedDate" : "2022-03-01T11:16:12.006+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-01-02T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12614035,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Dossier de presse Venise-Klein"
+    },
+    "legende" : {
+      "libelleFr" : "Dossier de presse Venise-Klein"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/216/90/12802776/dp_cdl_venise-klein.pdf",
+      "extension" : "pdf",
+      "fileName" : "dp_cdl_venise-klein",
+      "taille" : 5251123,
+      "lastModifiedDate" : "2022-03-01T10:50:49.222+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3832
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2349
+    },
+    "nomLieu" : "Carrières de Lumières"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

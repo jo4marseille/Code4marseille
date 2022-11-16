@@ -1,0 +1,368 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5842938,
+  "nom" : {
+    "libelleFr" : "Baby art",
+    "libelleEn" : "Baby art",
+    "libelleEs" : "Baby art",
+    "libelleIt" : "Baby art",
+    "libelleDe" : "Baby art",
+    "libelleNl" : "Baby art",
+    "libelleRu" : "Baby art",
+    "libelleZh" : "Baby art",
+    "libellePtBR" : "Baby art",
+    "libelleJa" : "Baby art"
+  },
+  "identifier" : "SITRA2_ACT_5842938",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-17T15:16:11.902+0000",
+    "dateModification" : "2022-08-05T14:51:11.538+0000",
+    "dateExportModification" : "2022-11-08T15:45:12.278+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512647,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 20 01 09"
+      }
+    }, {
+      "identifiant" : 70512650,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil.fondation@gmail.com"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 70512652,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.fondationvasarely.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223016
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "À la Fondation Vasarely, l’art est à la portée de tous. Accompagnez votre enfant entre 18 et 36 mois dans ses premières sensations artistiques. Une activité d'éveil artistique pour les plus petits, accompagnés par leur(s) parent(s). Activité de 45 minutes"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les Ateliers Baby art ont été pensés et conçus pour permettre dès le plus jeune âge de découvrir l’art à travers la stimulation des sens. L’approche des œuvres se fait en toute simplicité grâce à des jeux, des puzzles et des manipulations diverses et variées issues du vocabulaire plastique de Victor Vasarely. Nous vous attendons tous les premiers samedis de chaque mois pour partager un moment de détente et d’éveil muséal.\r\n\r\nLes Ateliers Baby art ont été pensés et conçus pour permettre dès le plus jeune âge de découvrir l’art à travers la stimulation des sens. L’approche des œuvres se fait en toute simplicité grâce à des jeux, des puzzles et des manipulations diverses et variées issues du vocabulaire plastique de Victor Vasarely.\r\n\r\nUn minimum de 3 enfants inscrits est requis, la Fondation Vasarely se réserve le droit d’annuler la veille si le minimum de 3 enfants n'est pas atteint."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Fondation Vasarely",
+      "adresse1" : "1 Avenue Marcel Pagnol",
+      "adresse2" : "CS 50490",
+      "codePostal" : "13096",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.424909, 43.521295 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538712
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible à tous"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "nombrePersonnesMinimum" : 3,
+    "ageMin" : 18,
+    "ageMax" : 36,
+    "uniteAgeMin" : "MOIS",
+    "uniteAgeMax" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 06/08 au 03/12/2022, le 1er samedi du mois de 10h30 à 11h30.",
+      "libelleEn" : "From 06/08 to 03/12/2022, 1st Saturday of the month between 10.30 am and 11.30 am.",
+      "libelleEs" : "Del 06/08 al 03/12/2022, el 1er sábado de mes de 10:30 a 11:30.",
+      "libelleIt" : "Dal 06/08 al 03/12/2022, il 1° sabato del mese dalle 10:30 alle 11:30.",
+      "libelleDe" : "Vom 06/08 bis 03/12/2022, jeden 1. Samstag des Monats von 10.30 Uhr bis 11.30 Uhr.",
+      "libelleNl" : "Van 06/08 tot en met 03/12/2022, op de 1ste zaterdag van de maand van 10.30 tot en met 11.30 u.",
+      "libelleRu" : "С 06/08 до 03/12/2022, 1-й суббота месяца с 10h30 до 11h30.",
+      "libelleZh" : "从 8月6日 到 2022年12月3日, 本月 于 第一天 星期六  小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 06/08 a 03/12/2022, as 1º sábado do mês de 10h30 a  11h30.",
+      "libelleJa" : "06/08 から 03/12/2022 まで, 月の1日 土曜日 10.30 午前 と 11.30 午前 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21214731,
+      "dateDebut" : "2022-08-06",
+      "dateFin" : "2022-12-03",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_MOIS",
+      "tousLesAns" : false,
+      "ouverturesJourDuMois" : [ {
+        "jourDuMois" : "D_1ER",
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24040153
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 20 € (par enfant & duo accompagnateurs)\nEnfant : 15 € (pour un enfant et un accompagnateur).\n",
+      "libelleEn" : "Adult: 20 €\nChild: 15 €.\n",
+      "libelleEs" : "Adulto: 20 €\nNiño: 15 €.\n",
+      "libelleIt" : "Adulto: 20 €\nBambino: 15 €.\n",
+      "libelleDe" : "Erwachsene: 20 €\nKinder: 15 €.\n",
+      "libelleNl" : "Volwassene: € 20\nKind: € 15.\n",
+      "libelleRu" : "Взрослый человек : 20 €\nРебенок : 15 €.\n",
+      "libelleZh" : "成人 : 20 €\n儿童 : 15 €.\n",
+      "libellePtBR" : "Adulto: 20 €\nCriança: 15 €.\n",
+      "libelleJa" : "大人: 20 €\n子供: 15 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12173391,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "maximum" : 20.00,
+        "precisionTarif" : {
+          "libelleFr" : "par enfant & duo accompagnateurs"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1733
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 15.00,
+        "maximum" : 15.00,
+        "precisionTarif" : {
+          "libelleFr" : "pour un enfant et un accompagnateur"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1734
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6667235,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5223016
+      },
+      "nom" : "Fondation Vasarely",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 101601161,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.eventbrite.fr/e/billets-baby-art-370479944487"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Sur réservation"
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 13672551,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Fondation Vasarely"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/209/13881638.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/209/13881638-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/209/13881638-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/209/13881638-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "baby art",
+      "taille" : 220880,
+      "hauteur" : 1698,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-08-05T14:51:11.631+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-03" ],
+  "informationsActivite" : {
+    "nomLieu" : "Fondation Vasarely",
+    "dureeSeance" : 45,
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1830
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1899
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1803
+    } ],
+    "prestataireActivites" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538712
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538712
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-03T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13PT001343"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 980,
+        "dateMaj" : 1667919338618
+      }
+    } ]
+  } ]
+}

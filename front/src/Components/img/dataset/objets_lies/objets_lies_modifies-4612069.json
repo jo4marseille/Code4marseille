@@ -1,0 +1,178 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 4612069,
+  "nom" : {
+    "libelleFr" : "Château Val Joanis",
+    "libelleEn" : "Château Val Joanis",
+    "libelleEs" : "Château Val Joanis",
+    "libelleIt" : "Château Val Joanis",
+    "libelleDe" : "Château Val Joanis",
+    "libelleNl" : "Château Val Joanis"
+  },
+  "identifier" : "SITRA2_STR_4612069",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2016-12-15T13:53:44.802+0000",
+    "dateModification" : "2017-03-22T13:15:51.757+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Vaucluse Provence Attractivité",
+      "dateCreation" : "2014-04-10T13:49:58.370+0000",
+      "dateModification" : "2022-11-07T15:47:15.861+0000",
+      "id" : 745,
+      "siteWeb" : "http://www.provenceguide.com"
+    },
+    "signalerUnProblemeMails" : [ "h.abry@vaucluseprovence.com", "sacha@vaucluseprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 38358809,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 20 77"
+      }
+    }, {
+      "identifiant" : 38358811,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@val-joanis.com"
+      }
+    }, {
+      "identifiant" : 38358812,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.val-joanis.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "32267075300019"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2404 Route de Villelaure",
+      "adresse2" : "D973",
+      "codePostal" : "84120",
+      "commune" : {
+        "id" : 34282
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.468788, 43.711316 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 34282
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 153
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 169
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 187
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 192
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 199
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3978
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 13519035,
+    "referent" : true,
+    "nom" : "Joanis",
+    "prenom" : "Val",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 40478479,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 20 77"
+      }
+    }, {
+      "identifiant" : 40478483,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@val-joanis.com"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 311231
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4645641
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4784556
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853837
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5916395
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6140533
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

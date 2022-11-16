@@ -1,0 +1,380 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6319180,
+  "nom" : {
+    "libelleFr" : "Funstatic - 100% Humain ! - Le Cirque Mondial"
+  },
+  "identifier" : "SITRA2_EVE_6319180",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-08T07:09:00.369+0000",
+    "dateModification" : "2022-11-08T08:03:22.202+0000",
+    "dateExportModification" : "2022-11-08T08:03:22.958+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92967691,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.cirque-mondial.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5948558
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venez découvrir le premier cirque traditionnel 100% Humain dans votre ville !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Nouveau programme, 100 % inédit, 100% Humain !\r\nSous le grand chapiteau venez applaudir une sélection d'artistes internationaux renommés et de jeunes talents pour un moment riche en émotion et convivialité !\r\n\r\nL'exploit, la performance athlétique, la magie, le rire et l'audace seront les maîtres mots de cette expérience unique dans l'univers coloré du Cirque."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Chapiteau Cirque Mondial",
+      "adresse1" : "Esplanade J4",
+      "codePostal" : "13002",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.361512, 43.298187 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022.\nÀ 14h et 17h.\n\nVendredi 11 novembre 2022.\nÀ 15h, 18h et 20h30.\n\nSamedi 12 novembre 2022.\nÀ 14h, 17h et 20h.\n\nVendredi 18 novembre 2022.\nÀ 18h et 20h30.\n\nSamedi 19 novembre 2022.\nÀ 14h, 17h et 20h.\n\nDimanche 20 novembre 2022.\nÀ 11h, 14h et 17h.\n\nMercredi 23 novembre 2022.\nÀ 14h et 17h.\n\nVendredi 25 novembre 2022.\nÀ 18h et 20h30.\n\nSamedi 26 novembre 2022.\nÀ 14h, 17h et 20h.\n\nDimanche 27 novembre 2022.\nÀ 11h, 14h et 17h.\n\nVendredi 2 décembre 2022.\nÀ 18h et 20h30.\n\nSamedi 3 décembre 2022 à 20h.\n\nDimanche 4 décembre 2022.\nÀ 11h, 14h et 16h30.\n\nMercredi 7 décembre 2022.\nÀ 18h et 20h30.\n\nVendredi 9 décembre 2022.\nÀ 18h et 20h30.\n\nSamedi 10 décembre 2022.\nÀ 16h30 et 20h.\n\nDimanche 11 décembre 2022.\nÀ 11h, 14h et 16h30.",
+      "libelleEn" : "Wednesday 9 November 2022.\n\nFriday 11 November 2022.\n\nSaturday 12 November 2022.\n\nFriday 18 November 2022.\n\nSaturday 19 November 2022.\n\nSunday 20 November 2022.\n\nWednesday 23 November 2022.\n\nFriday 25 November 2022.\n\nSaturday 26 November 2022.\n\nSunday 27 November 2022.\n\nFriday 2 December 2022.\n\nSaturday 3 December 2022 at 8 pm.\n\nSunday 4 December 2022.\n\nWednesday 7 December 2022.\n\nFriday 9 December 2022.\n\nSaturday 10 December 2022.\n\nSunday 11 December 2022.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022.\n\nViernes, 11 de noviembre de 2022.\n\nSábado, 12 de noviembre de 2022.\n\nViernes, 18 de noviembre de 2022.\n\nSábado, 19 de noviembre de 2022.\n\nDomingo, 20 de noviembre de 2022.\n\nMiércoles, 23 de noviembre de 2022.\n\nViernes, 25 de noviembre de 2022.\n\nSábado, 26 de noviembre de 2022.\n\nDomingo, 27 de noviembre de 2022.\n\nViernes, 2 de diciembre de 2022.\n\nSábado, 3 de diciembre de 2022 a 20.\n\nDomingo, 4 de diciembre de 2022.\n\nMiércoles, 7 de diciembre de 2022.\n\nViernes, 9 de diciembre de 2022.\n\nSábado, 10 de diciembre de 2022.\n\nDomingo, 11 de diciembre de 2022.",
+      "libelleIt" : "Mercoledì 9 novembre 2022.\n\nVenerdì 11 novembre 2022.\n\nSabato 12 novembre 2022.\n\nVenerdì 18 novembre 2022.\n\nSabato 19 novembre 2022.\n\nDomenica 20 novembre 2022.\n\nMercoledì 23 novembre 2022.\n\nVenerdì 25 novembre 2022.\n\nSabato 26 novembre 2022.\n\nDomenica 27 novembre 2022.\n\nVenerdì 2 dicembre 2022.\n\nSabato 3 dicembre 2022 alle 20.\n\nDomenica 4 dicembre 2022.\n\nMercoledì 7 dicembre 2022.\n\nVenerdì 9 dicembre 2022.\n\nSabato 10 dicembre 2022.\n\nDomenica 11 dicembre 2022.",
+      "libelleDe" : "Mittwoch, den 9. November 2022.\n\nFreitag, den 11. November 2022.\n\nSamstag, den 12. November 2022.\n\nFreitag, den 18. November 2022.\n\nSamstag, den 19. November 2022.\n\nSonntag, den 20. November 2022.\n\nMittwoch, den 23. November 2022.\n\nFreitag, den 25. November 2022.\n\nSamstag, den 26. November 2022.\n\nSonntag, den 27. November 2022.\n\nFreitag, den 2. Dezember 2022.\n\nSamstag, den 3. Dezember 2022 um 20 Uhr.\n\nSonntag, den 4. Dezember 2022.\n\nMittwoch, den 7. Dezember 2022.\n\nFreitag, den 9. Dezember 2022.\n\nSamstag, den 10. Dezember 2022.\n\nSonntag, den 11. Dezember 2022.",
+      "libelleNl" : "Woensdag 9 november 2022.\n\nVrijdag 11 november 2022.\n\nZaterdag 12 november 2022.\n\nVrijdag 18 november 2022.\n\nZaterdag 19 november 2022.\n\nZondag 20 november 2022.\n\nWoensdag 23 november 2022.\n\nVrijdag 25 november 2022.\n\nZaterdag 26 november 2022.\n\nZondag 27 november 2022.\n\nVrijdag 2 december 2022.\n\nZaterdag 3 december 2022 om 20.00 u.\n\nZondag 4 december 2022.\n\nWoensdag 7 december 2022.\n\nVrijdag 9 december 2022.\n\nZaterdag 10 december 2022.\n\nZondag 11 december 2022.",
+      "libelleRu" : "Среда 9 ноября 2022.\n\nПятница 11 ноября 2022.\n\nСуббота 12 ноября 2022.\n\nПятница 18 ноября 2022.\n\nСуббота 19 ноября 2022.\n\nВоскресенье 20 ноября 2022.\n\nСреда 23 ноября 2022.\n\nПятница 25 ноября 2022.\n\nСуббота 26 ноября 2022.\n\nВоскресенье 27 ноября 2022.\n\nПятница 2 декабря 2022.\n\nСуббота 3 декабря 2022  до 20h.\n\nВоскресенье 4 декабря 2022.\n\nСреда 7 декабря 2022.\n\nПятница 9 декабря 2022.\n\nСуббота 10 декабря 2022.\n\nВоскресенье 11 декабря 2022.",
+      "libelleZh" : "2022年11月9日, 星期三.\n\n2022年11月11日, 星期五.\n\n2022年11月12日, 星期六.\n\n2022年11月18日, 星期五.\n\n2022年11月19日, 星期六.\n\n2022年11月20日, 星期日.\n\n2022年11月23日, 星期三.\n\n2022年11月25日, 星期五.\n\n2022年11月26日, 星期六.\n\n2022年11月27日, 星期日.\n\n2022年12月2日, 星期五.\n\n2022年12月3日, 星期六   在 小时小时.\n\n2022年12月4日, 星期日.\n\n2022年12月7日, 星期三.\n\n2022年12月9日, 星期五.\n\n2022年12月10日, 星期六.\n\n2022年12月11日, 星期日.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022.\n\nSexta-feira 11 Novembro 2022.\n\nSábado 12 Novembro 2022.\n\nSexta-feira 18 Novembro 2022.\n\nSábado 19 Novembro 2022.\n\nDomingo 20 Novembro 2022.\n\nQuarta-feira 23 Novembro 2022.\n\nSexta-feira 25 Novembro 2022.\n\nSábado 26 Novembro 2022.\n\nDomingo 27 Novembro 2022.\n\nSexta-feira 2 Dezembro 2022.\n\nSábado 3 Dezembro 2022 para  20h.\n\nDomingo 4 Dezembro 2022.\n\nQuarta-feira 7 Dezembro 2022.\n\nSexta-feira 9 Dezembro 2022.\n\nSábado 10 Dezembro 2022.\n\nDomingo 11 Dezembro 2022.",
+      "libelleJa" : "水曜日 9 11月 2022.\n\n金曜日 11 11月 2022.\n\n土曜日 12 11月 2022.\n\n金曜日 18 11月 2022.\n\n土曜日 19 11月 2022.\n\n日曜日 20 11月 2022.\n\n水曜日 23 11月 2022.\n\n金曜日 25 11月 2022.\n\n土曜日 26 11月 2022.\n\n日曜日 27 11月 2022.\n\n金曜日 2 12月 2022.\n\n土曜日 3 12月 2022 8 午後 に.\n\n日曜日 4 12月 2022.\n\n水曜日 7 12月 2022.\n\n金曜日 9 12月 2022.\n\n土曜日 10 12月 2022.\n\n日曜日 11 12月 2022."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24718355,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "complementHoraire" : {
+        "libelleFr" : "à 14h et 17h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718355
+    }, {
+      "identifiant" : 24718356,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : {
+        "libelleFr" : "à 15h, 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718356
+    }, {
+      "identifiant" : 24718357,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : {
+        "libelleFr" : "à 14h, 17h et 20h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718357
+    }, {
+      "identifiant" : 24718360,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-11-18",
+      "complementHoraire" : {
+        "libelleFr" : "à 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718360
+    }, {
+      "identifiant" : 24718361,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-19",
+      "complementHoraire" : {
+        "libelleFr" : "à 14h, 17h et 20h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718361
+    }, {
+      "identifiant" : 24718412,
+      "dateDebut" : "2022-11-20",
+      "dateFin" : "2022-11-20",
+      "complementHoraire" : {
+        "libelleFr" : "à 11h, 14h et 17h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718412
+    }, {
+      "identifiant" : 24718426,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "complementHoraire" : {
+        "libelleFr" : "à 14h et 17h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718426
+    }, {
+      "identifiant" : 24718427,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "complementHoraire" : {
+        "libelleFr" : "à 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718427
+    }, {
+      "identifiant" : 24718429,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "complementHoraire" : {
+        "libelleFr" : "à 14h, 17h et 20h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718429
+    }, {
+      "identifiant" : 24718431,
+      "dateDebut" : "2022-11-27",
+      "dateFin" : "2022-11-27",
+      "complementHoraire" : {
+        "libelleFr" : "à 11h, 14h et 17h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718431
+    }, {
+      "identifiant" : 24718433,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "complementHoraire" : {
+        "libelleFr" : "à 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718433
+    }, {
+      "identifiant" : 24718443,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "complementHoraire" : { },
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718443
+    }, {
+      "identifiant" : 24718449,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "complementHoraire" : {
+        "libelleFr" : "à 11h, 14h et 16h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718449
+    }, {
+      "identifiant" : 24718450,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "complementHoraire" : {
+        "libelleFr" : "à 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718450
+    }, {
+      "identifiant" : 24718455,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "complementHoraire" : {
+        "libelleFr" : "à 18h et 20h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718455
+    }, {
+      "identifiant" : 24718514,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "complementHoraire" : {
+        "libelleFr" : "à 16h30 et 20h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718514
+    }, {
+      "identifiant" : 24718521,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "complementHoraire" : {
+        "libelleFr" : "à 11h, 14h et 16h30"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24718521
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 15 à 35 €.\n\n Gratuit pour les moins de 2 ans.",
+      "libelleEn" : "Full price: 15 to 35 €.\n\n Free entry for children < 2 years.",
+      "libelleEs" : "Tarifa completa: de 15 a 35 €.\n\n Gratuito para los niños menores de 2 años.",
+      "libelleIt" : "Tarrifa intera: da 15 a 35 €.\n\n Gratuito per i bambini di età inferiore a 2 anni.",
+      "libelleDe" : "Voller Preis: von 15 bis 35 €.\n\n Kostenlos für Kinder unter 2 Jahren.",
+      "libelleNl" : "Vol tarief: € 15 tot en met € 35.\n\n Gratis voor kinderen onder de 2 jaar.",
+      "libelleRu" : "Полную цену : с 15 до  35 €.\n\n Бесплатно для лицам младше 2 лет.",
+      "libelleZh" : "全额 : 从 15 到  35 €.\n\n 儿童 < 2 岁自由进入.",
+      "libellePtBR" : "Tarifa inteira: de 15 a 35 €.\n\n Gratuito para menores de 2 anos.",
+      "libelleJa" : "通常料金: 15 から 35 €.\n\n 子供 < 2 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13845212,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-12-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 15.00,
+        "maximum" : 35.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 2
+    }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14818667,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Funstatic - 100% Humain ! - Le Cirque Mondial"
+    },
+    "legende" : {
+      "libelleFr" : "Funstatic - 100% Humain ! - Le Cirque Mondial"
+    },
+    "copyright" : {
+      "libelleFr" : "Funstatic - 100% Humain ! - Le Cirque Mondial"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/2/15205055.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/2/15205055-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/2/15205055-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/2/15205055-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cirque mondial",
+      "taille" : 170917,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-11-08T08:03:22.519+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-11", "2022-11-12", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-23", "2022-11-25", "2022-11-26", "2022-11-27", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-09", "2022-12-10", "2022-12-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2147
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Chapiteau Cirque Mondial"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

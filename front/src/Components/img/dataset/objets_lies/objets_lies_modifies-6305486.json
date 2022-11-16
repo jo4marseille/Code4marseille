@@ -1,0 +1,399 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305486,
+  "nom" : {
+    "libelleFr" : "Un cadeau pour Noël"
+  },
+  "identifier" : "SITRA2_EVE_6305486",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T10:14:08.647+0000",
+    "dateModification" : "2022-10-21T10:31:31.694+0000",
+    "dateExportModification" : "2022-10-24T13:52:24.201+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104404058,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    }, {
+      "identifiant" : 104404059,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaflibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 104404166,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.leflibustier.net/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230835
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez l’univers coloré de Laure Crochet-Sernieclaes, dans son deuxième spectacle sur le même thème, pour les plus petits :  Les Lutins farceurs."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Deux lutins, aussi malicieux l’un que l’autre, décident de faire une surprise au Père Noël. Et si, cette année, c’était au Père Noël que l’on offrait un cadeau !\r\nDirection la fabrique de jouet ! Ces lutins ne sont pas très doués et encore moins disciplinés, il ne pensent qu’à jouer, danser et chanter. Mais leur motivation est sans faille !\r\nVont-ils arriver à terminer le cadeau pour le père Noël à temps ?"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Café théâtre Le Flibustier",
+      "adresse1" : "7 Rue Des Bretons",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453409, 43.529059 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729788
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 30 novembre 2022 à 14h30.\n\nSamedi 3 décembre 2022 à 14h30.\n\nDimanche 4 décembre 2022 à 14h30.\n\nMercredi 7 décembre 2022 à 14h30.\n\nSamedi 10 décembre 2022 à 14h30.\n\nDimanche 11 décembre 2022 à 14h30.\n\nMercredi 14 décembre 2022 à 14h30.",
+      "libelleEn" : "Wednesday 30 November 2022 at 2.30 pm.\n\nSaturday 3 December 2022 at 2.30 pm.\n\nSunday 4 December 2022 at 2.30 pm.\n\nWednesday 7 December 2022 at 2.30 pm.\n\nSaturday 10 December 2022 at 2.30 pm.\n\nSunday 11 December 2022 at 2.30 pm.\n\nWednesday 14 December 2022 at 2.30 pm.",
+      "libelleEs" : "Miércoles, 30 de noviembre de 2022 a 14:30.\n\nSábado, 3 de diciembre de 2022 a 14:30.\n\nDomingo, 4 de diciembre de 2022 a 14:30.\n\nMiércoles, 7 de diciembre de 2022 a 14:30.\n\nSábado, 10 de diciembre de 2022 a 14:30.\n\nDomingo, 11 de diciembre de 2022 a 14:30.\n\nMiércoles, 14 de diciembre de 2022 a 14:30.",
+      "libelleIt" : "Mercoledì 30 novembre 2022 alle 14:30.\n\nSabato 3 dicembre 2022 alle 14:30.\n\nDomenica 4 dicembre 2022 alle 14:30.\n\nMercoledì 7 dicembre 2022 alle 14:30.\n\nSabato 10 dicembre 2022 alle 14:30.\n\nDomenica 11 dicembre 2022 alle 14:30.\n\nMercoledì 14 dicembre 2022 alle 14:30.",
+      "libelleDe" : "Mittwoch, den 30. November 2022 um 14.30 Uhr.\n\nSamstag, den 3. Dezember 2022 um 14.30 Uhr.\n\nSonntag, den 4. Dezember 2022 um 14.30 Uhr.\n\nMittwoch, den 7. Dezember 2022 um 14.30 Uhr.\n\nSamstag, den 10. Dezember 2022 um 14.30 Uhr.\n\nSonntag, den 11. Dezember 2022 um 14.30 Uhr.\n\nMittwoch, den 14. Dezember 2022 um 14.30 Uhr.",
+      "libelleNl" : "Woensdag 30 november 2022 om 14.30 u.\n\nZaterdag 3 december 2022 om 14.30 u.\n\nZondag 4 december 2022 om 14.30 u.\n\nWoensdag 7 december 2022 om 14.30 u.\n\nZaterdag 10 december 2022 om 14.30 u.\n\nZondag 11 december 2022 om 14.30 u.\n\nWoensdag 14 december 2022 om 14.30 u.",
+      "libelleRu" : "Среда 30 ноября 2022  до 14h30.\n\nСуббота 3 декабря 2022  до 14h30.\n\nВоскресенье 4 декабря 2022  до 14h30.\n\nСреда 7 декабря 2022  до 14h30.\n\nСуббота 10 декабря 2022  до 14h30.\n\nВоскресенье 11 декабря 2022  до 14h30.\n\nСреда 14 декабря 2022  до 14h30.",
+      "libelleZh" : "2022年11月30日, 星期三   在 小时小时分钟.\n\n2022年12月3日, 星期六   在 小时小时分钟.\n\n2022年12月4日, 星期日   在 小时小时分钟.\n\n2022年12月7日, 星期三   在 小时小时分钟.\n\n2022年12月10日, 星期六   在 小时小时分钟.\n\n2022年12月11日, 星期日   在 小时小时分钟.\n\n2022年12月14日, 星期三   在 小时小时分钟.",
+      "libellePtBR" : "Quarta-feira 30 Novembro 2022 para  14h30.\n\nSábado 3 Dezembro 2022 para  14h30.\n\nDomingo 4 Dezembro 2022 para  14h30.\n\nQuarta-feira 7 Dezembro 2022 para  14h30.\n\nSábado 10 Dezembro 2022 para  14h30.\n\nDomingo 11 Dezembro 2022 para  14h30.\n\nQuarta-feira 14 Dezembro 2022 para  14h30.",
+      "libelleJa" : "水曜日 30 11月 2022 2.30 午後 に.\n\n土曜日 3 12月 2022 2.30 午後 に.\n\n日曜日 4 12月 2022 2.30 午後 に.\n\n水曜日 7 12月 2022 2.30 午後 に.\n\n土曜日 10 12月 2022 2.30 午後 に.\n\n日曜日 11 12月 2022 2.30 午後 に.\n\n水曜日 14 12月 2022 2.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24554882,
+      "dateDebut" : "2022-11-30",
+      "dateFin" : "2022-11-30",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24554882
+    }, {
+      "identifiant" : 24555085,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555085
+    }, {
+      "identifiant" : 24555094,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555094
+    }, {
+      "identifiant" : 24555082,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555082
+    }, {
+      "identifiant" : 24555089,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555089
+    }, {
+      "identifiant" : 24555095,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555095
+    }, {
+      "identifiant" : 24555083,
+      "dateDebut" : "2022-12-14",
+      "dateFin" : "2022-12-14",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555083
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 11 €, Enfant : 10 €.\n",
+      "libelleEn" : "Adult: 11 €, Child: 10 €.\n",
+      "libelleEs" : "Adulto: 11 €, Niño: 10 €.\n",
+      "libelleIt" : "Adulto: 11 €, Bambino: 10 €.\n",
+      "libelleDe" : "Erwachsene: 11 €, Kinder: 10 €.\n",
+      "libelleNl" : "Volwassene: € 11, Kind: € 10.\n",
+      "libelleRu" : "Взрослый : 11 €, Ребенок : 10 €.\n",
+      "libelleZh" : "成人 : 11 €, 儿童 : 10 €.\n",
+      "libellePtBR" : "Adulto: 11 €, Criança: 10 €.\n",
+      "libelleJa" : "大人: 11 €, 子供: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13778337,
+      "dateDebut" : "2022-11-30",
+      "dateFin" : "2022-12-14",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 11.00,
+        "maximum" : 11.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6510
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6875175,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230835
+      },
+      "nom" : "Café théâtre Le Flibustier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104404055,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.leflibustier.net/spectacles/jeune-public/un-cadeau-pour-le-pere-noel/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21468233,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104404056,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.flibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 104404057,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14481028,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Le Flibustier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/88/14833836.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/88/14833836-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/88/14833836-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/88/14833836-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "kado",
+      "taille" : 91710,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T10:31:32.075+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-30", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-10", "2022-12-11", "2022-12-14" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2230
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Café théâtre Le Flibustier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-14T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

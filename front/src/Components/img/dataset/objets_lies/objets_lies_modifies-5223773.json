@@ -1,0 +1,143 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223773,
+  "nom" : {
+    "libelleFr" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleEn" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleEs" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleIt" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleDe" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleNl" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleRu" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleZh" : "Bureau d'Information Touristique de Fontvieille",
+    "libellePtBR" : "Bureau d'Information Touristique de Fontvieille",
+    "libelleJa" : "Bureau d'Information Touristique de Fontvieille"
+  },
+  "identifier" : "SITRA2_STR_5223773",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:14:28.272+0000",
+    "dateModification" : "2021-10-11T08:09:03.293+0000",
+    "dateExportModification" : "2021-10-11T08:09:03.507+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70514778,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 67 49",
+        "en" : "00 33 4 90 54 67 49",
+        "de" : "00 33 4 90 54 67 49"
+      }
+    }, {
+      "identifiant" : 70514780,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fontvieille@alpillesenprovence.com",
+        "en" : "fontvieille@alpillesenprovence.com",
+        "de" : "fontvieille@alpillesenprovence.com"
+      }
+    }, {
+      "identifiant" : 70514781,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.alpillesenprovence.com",
+        "en" : "http://www.alpillesenprovence.com",
+        "de" : "http://www.alpillesenprovence.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "352735021",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue Des Moulins",
+      "codePostal" : "13990",
+      "commune" : {
+        "id" : 4449
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.709779, 43.724669 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4449
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18468791,
+    "referent" : true,
+    "nom" : "Vantalon",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,260 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538088,
+  "nom" : {
+    "libelleFr" : "Aqueduc de Roquefavour",
+    "libelleEn" : "Aqueduc de Roquefavour",
+    "libelleEs" : "Aqueduc de Roquefavour",
+    "libelleIt" : "Aqueduc de Roquefavour",
+    "libelleDe" : "Aqueduc de Roquefavour",
+    "libelleNl" : "Aqueduc de Roquefavour"
+  },
+  "identifier" : "SITRA2_PCU_5538088",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:09:54.795+0000",
+    "dateModification" : "2022-08-17T07:18:45.641+0000",
+    "dateExportModification" : "2022-09-05T08:52:12.683+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102323694,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 28 76 47"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5572008
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'Aqueduc de Roquefavour est un ouvrage d'art du 19ème siècle"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L'Aqueduc de Roquefavour permet aux eaux du canal de Marseille de franchir l'Arc sur les communes de Ventabren et d' Aix afin d'alimenter la ville de Marseille. Sa création fut décidée par le maire de la ville de Marseille, Maximin de Consolat qui va confier le projet à un jeune ingénieur, Franzt Mayor de Montricher. L'ouvrage est composé de trois rangs d'arcades, il est long de 375 mètres et haut de 83 mètres. Sa construction entreprise en 1841 sera achevée en 1847. Inscrit sur le registre des monuments historiques en 2002,\r\nl'aqueduc de Roquefavour a été reconnu comme le plus grand ouvrage en pierre au monde."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13122",
+      "bureauDistribution" : "VENTABREN",
+      "commune" : {
+        "id" : 4525
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.304035, 43.544411 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4525
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16903
+  }, {
+    "id" : 23313
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636437,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Armaganian",
+    "prenom" : "Houri",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81751025,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 28 76 47"
+      }
+    } ]
+  }, {
+    "identifiant" : 17636438,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Châtain",
+    "prenom" : "Marie-José",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81751026,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 28 76 47"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13585301,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Aqueduc de Roquefavour"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme d'Aix-en-Provence / Régis Cintas Flores"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/49/13775141.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/49/13775141-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/49/13775141-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/49/13775141-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "aqueduc Roquefavour crédit R. Cintas Flores (1)",
+      "taille" : 9588302,
+      "hauteur" : 2832,
+      "largeur" : 4256,
+      "lastModifiedDate" : "2022-08-17T07:17:29.193+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3485
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3491
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3365
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000013"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "BMT Ventabren"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ventabren.fr"
+    }
+  } ]
+}

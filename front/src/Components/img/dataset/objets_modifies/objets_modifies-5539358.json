@@ -1,0 +1,195 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539358,
+  "nom" : {
+    "libelleFr" : "Canal de Montrichet",
+    "libelleEn" : "Canal de Montrichet",
+    "libelleEs" : "Canal de Montrichet",
+    "libelleIt" : "Canal de Montrichet",
+    "libelleDe" : "Canal de Montrichet",
+    "libelleNl" : "Canal de Montrichet"
+  },
+  "identifier" : "SITRA2_PCU_5539358",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:54:57.027+0000",
+    "dateModification" : "2020-12-29T14:00:08.669+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Roque d'Anthéron",
+      "dateCreation" : "2020-11-04T10:41:06.262+0000",
+      "dateModification" : "2022-10-24T08:49:39.510+0000",
+      "id" : 2121,
+      "siteWeb" : "http://www.laroquedantheron-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "benedicte.roussy@ville-laroquedantheron.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79673336,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 70 74"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224885
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Canal de Marseille est l’œuvre de l'ingénieur suisse Frantz Mayor de Montricher"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Sous l’impulsion de Maximin Consolat, maire de Marseille, la création du canal de Marseille commença en 1839 pour amener l'eau de la Durance jusqu'à Marseille, sous la direction de l'ingénieur Frantz Mayor de Montricher.\r\nIl fallut quinze ans, de 1839 à 1854, pour construire le canal, avec son tracé tourmenté, ses 80 km de long dont 17 km en souterrains, ses 18 ponts-aqueducs, ses bassins et ses nombreux ouvrages techniques.\r\nLe canal de Montrichet (XIXè S), troisième canal de La Roque d'Anthéron, surplombe la commune au sud après avoir nettoyé ses eaux duranciennes dans la retenue de Saint Christophe. Ce barrage, particulièrement étonnant lorsqu'il est vide, fait partie, avec l'aqueduc de Roquefavour et le réseau d'eau du Palais Longchamp, des 3 originalités de l'oeuvre technique et sociale de Frantz Mayor de Montricher."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13640",
+      "bureauDistribution" : "LA ROQUE D'ANTHERON",
+      "commune" : {
+        "id" : 4495
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.316197, 43.712957 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4495
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9269579,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OT_LRA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/181/9024963.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/181/9024963-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/181/9024963-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/181/9024963-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "SENTIER_CRETES_3",
+      "taille" : 4269313,
+      "hauteur" : 6000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2020-12-29T10:04:58.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3485
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3493
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001424"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT La Roque d'Anthéron"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ville-laroquedantheron.fr"
+    }
+  } ]
+}

@@ -1,0 +1,328 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318903,
+  "nom" : {
+    "libelleFr" : "Vernissage de l'exposition ANNABEL AOUN BLANCO - \"COUPS APRÈS COUPS\""
+  },
+  "identifier" : "SITRA2_EVE_6318903",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T15:00:49.511+0000",
+    "dateModification" : "2022-11-07T15:44:56.332+0000",
+    "dateExportModification" : "2022-11-07T15:44:56.896+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104982945,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    }, {
+      "identifiant" : 104982946,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reattu.reservation@ville-arles.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223116
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Vernissage de l'exposition Annabel Aoun Blanco \"Coups après coups\" Vendredi 18 novembre 2022 à 18h30"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vernissage de l'exposition Annabel Aoun Blanco \"Coups après coups\" Vendredi 18 novembre 2022 à 18h30. \r\n\r\nSur réservation au 0490493758 ou reattu.reservation@ville-arles.fr"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Réattu",
+      "adresse1" : "10 Rue Du Grand Prieuré",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "MISE EN PLACE DE MESURES SANITAIRES :\r\n\r\nDistance de 1m50 entre les personnes \r\nPort du masque pour nos salariés \r\nPort du masque pour nos clients \r\nVitre de protection \r\nMise à disposition de gel hydroalcoolique\r\nNettoyage renforcé\r\nEffectif limité"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627937, 43.679141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "lieu" : {
+      "id" : 15613
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5539256
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318438
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539256
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318852
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 18 novembre 2022 de 18h30 à 20h.",
+      "libelleEn" : "Friday 18 November 2022 between 6.30 pm and 8 pm.",
+      "libelleEs" : "Viernes, 18 de noviembre de 2022 de 18:30 a 20.",
+      "libelleIt" : "Venerdì 18 novembre 2022 dalle 18:30 alle 20.",
+      "libelleDe" : "Freitag, den 18. November 2022 von 18.30 Uhr bis 20 Uhr.",
+      "libelleNl" : "Vrijdag 18 november 2022 van 18.30 tot en met 20.00 u.",
+      "libelleRu" : "Пятница 18 ноября 2022  с 18h30 до 20h.",
+      "libelleZh" : "2022年11月18日, 星期五   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Sexta-feira 18 Novembro 2022 de 18h30 a  20h.",
+      "libelleJa" : "金曜日 18 11月 2022 6.30 午後 と 8 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24714796,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-11-18",
+      "horaireOuverture" : "18:30:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715521
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21552137,
+    "referent" : true,
+    "nom" : "SERRES",
+    "prenom" : "Patricia",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104982947,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "p.serres@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 104982948,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14810210,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Annabel Aoun Blanco"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/221/15195482.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/221/15195482-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/221/15195482-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/221/15195482-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cap",
+      "taille" : 65622,
+      "hauteur" : 880,
+      "largeur" : 658,
+      "lastModifiedDate" : "2022-11-07T15:44:56.437+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14810084,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/220/220/15195356/GIF+Rattu.gif",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/220/220/15195356-liste.gif",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/220/220/15195356-fiche.gif",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/220/220/15195356-diaporama.gif",
+      "extension" : "gif",
+      "fileName" : "GIF Réattu",
+      "taille" : 198551,
+      "hauteur" : 640,
+      "largeur" : 640,
+      "lastModifiedDate" : "2022-11-07T15:25:41.432+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-18" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5754
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Musée Réattu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-18T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

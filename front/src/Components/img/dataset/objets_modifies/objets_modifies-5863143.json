@@ -1,0 +1,525 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863143,
+  "nom" : {
+    "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+  },
+  "identifier" : "SITRA2_EVE_5863143",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-06T15:25:10.499+0000",
+    "dateModification" : "2022-11-08T09:23:52.653+0000",
+    "dateExportModification" : "2022-11-08T23:14:12.785+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816739,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 97816740,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Parcours essentiel pour découvrir dans la ville la nature «jardinée», spontanée, sauvage et la plupart du temps invisible. Patrimoine historique et patrimoine naturel se rencontrent dans une visite où la nature est au cœur de l’histoire."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites sont destinées à une clientèle individuelle (Résevation possible jusqu'à 9 personnes max.) Pour les GROUPES (à partir de 10 personnes): réservation OBLIGATOIRE auprès du Service Groupes: groupes@marseille-tourisme.com"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre engagement : \"Balade buissonnière, la biodiversité en ville\"  est une activité bas carbone. \r\nEn choisissant cette prestation, vous limitez considérablement votre impact environnemental.\r\n\r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "RDV Station Tram: Arrêt Rome-Davso  Ligne 3",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Tramway ligne 3 Arenc/Le Silo-Castellane\nArrêt station Tram: Rome/Davso (ligne 3 Arenc/Le Silo-Castellane). Côté pair"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.379280, 43.293600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4466
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRéservation OBLIGATOIRE (nombre de places limité).\n\nPoussettes et chiens (sauf chiens d'assistance) non autorisés\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant la visite parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui)."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716880,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716880
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Prix individuel : 10,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Entrée aux sites et musées non comprise"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915473,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993298,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/balade-buissonniere-la-biodiversite-en-ville"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813299,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/233/15198564.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/233/15198564-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/233/15198564-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/233/15198564-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d7e58a3d76375224900-cropped600-400",
+      "taille" : 147257,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:58.480+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813300,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/101/233/15198565.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/101/233/15198565-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/101/233/15198565-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/101/233/15198565-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d7e7d80bbf592066377-cropped600-400",
+      "taille" : 105200,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:58.787+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813301,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/233/15198566.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/233/15198566-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/233/15198566-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/233/15198566-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d7e1f4a84c746043993-cropped600-400",
+      "taille" : 116879,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:57.850+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813302,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/233/15198567.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/233/15198567-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/233/15198567-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/233/15198567-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d7e37a8bcd329611958-cropped600-400",
+      "taille" : 161967,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:58.150+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813303,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/233/15198568.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/233/15198568-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/233/15198568-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/233/15198568-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d7e9ba6b75574554706-cropped600-400",
+      "taille" : 125107,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:56.766+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813304,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/233/15198569.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/233/15198569-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/233/15198569-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/233/15198569-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8d9f957cd68514029729-cropped600-400",
+      "taille" : 90588,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:57.099+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813305,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/233/15198570.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/233/15198570-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/233/15198570-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/233/15198570-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f92d03142100011557797-cropped600-400",
+      "taille" : 133720,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:55.963+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813306,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/233/15198571.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/233/15198571-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/233/15198571-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/233/15198571-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f92d0ccec7e5085928140-cropped600-400",
+      "taille" : 111518,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:56.397+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813307,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "legende" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade buissonnière, la biodiversité en ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/233/15198572.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/233/15198572-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/233/15198572-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/108/233/15198572-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f92d0edc1fe4598194993-cropped600-400",
+      "taille" : 100862,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:23:57.373+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2130
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.7,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 12,
+        "dateMaj" : 1667729689543
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "152652",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-164177",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

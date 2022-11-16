@@ -1,0 +1,285 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305526,
+  "nom" : {
+    "libelleFr" : "Pogo"
+  },
+  "identifier" : "SITRA2_EVE_6305526",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T10:39:18.838+0000",
+    "dateModification" : "2022-10-21T10:51:34.723+0000",
+    "dateExportModification" : "2022-10-21T10:51:35.287+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77181717,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://6mic-aix.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5480999
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pogo est une véritable rencontre entre la danse contemporaine et le milieu du rock. Sauter, transpirer, jeter, balancer, pogoter, headbanger, choquer, slamer sont le vocabulaire chorégraphique de cette pièce qui en joue avec grâce"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Sur scène : deux guitaristes, un bassiste, un batteur et une chanteuse. Les\r\npremières “notes lourdes et saturées” résonnent dans la salle. Soudain, un public apparaît. De dos, chacun à sa place, ils sautent, se balancent, s’électrisent au rythme effréné de ce premier morceau. Et puis, à travers des chocs, des heurts, ces individus singuliers se rencontrent pour former une masse. Pressés dans cet espace compact, ils dansent, jouent, tentent de prendre une place, leur place,\r\nse portent, s’emportent, se laissent aller à la transe jusqu’à ce que le cadre du concert s’évapore…\r\n\r\nElle met en lumière cet espace cathartique que le concert rock offre et donne à voir : toute la beauté d’un moment de lâcher prise enflammé, jusqu’à sentir l’odeur la transpiration comme un doux parfum d’extase.\r\n\r\n● Direction Artistique et Chorégraphie : Camille Vergnaud et Élise Ramond \r\n● Danseurs : Maé Forté, Francisca Crisóstomo López, Benoit LeBars, Gaïa\r\nMortellaro, Camille Vergnaud, Élise Ramond\r\n● Création sonore et interprétation : Gautier Gentieu, Jeanne Carrion, Ronie Marciano, Benjamin Delair, Davy Sanna\r\n● Création lumière : Anna Montambaux\r\n● Ingénieur son : Félix Villedon."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "6MIC : salle des musiques actuelles",
+      "adresse1" : "160 Rue Pascal Duverger",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.424093, 43.518298 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5540898
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "ageMin" : 132,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 1er décembre 2022 à 20h30.",
+      "libelleEn" : "Thursday 1st of December 2022 at 8.30 pm.",
+      "libelleEs" : "Jueves, 1 de diciembre de 2022 a 20:30.",
+      "libelleIt" : "Giovedì 1° dicembre 2022 alle 20:30.",
+      "libelleDe" : "Donnerstag, den 1. Dezember 2022 um 20.30 Uhr.",
+      "libelleNl" : "Donderdag 1 december 2022 om 20.30 u.",
+      "libelleRu" : "Четверг 1-й декабря 2022 до 20h30.",
+      "libelleZh" : "2022年12月1日, 星期四 在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 1º Dezembro 2022 para  20h30.",
+      "libelleJa" : "木曜日 1st of 12月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24555234,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24555234
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 16 €, Enfant : 12 €.\n",
+      "libelleEn" : "Adult: 16 €, Child: 12 €.\n",
+      "libelleEs" : "Adulto: 16 €, Niño: 12 €.\n",
+      "libelleIt" : "Adulto: 16 €, Bambino: 12 €.\n",
+      "libelleDe" : "Erwachsene: 16 €, Kinder: 12 €.\n",
+      "libelleNl" : "Volwassene: € 16, Kind: € 12.\n",
+      "libelleRu" : "Взрослый : 16 €, Ребенок : 12 €.\n",
+      "libelleZh" : "成人 : 16 €, 儿童 : 12 €.\n",
+      "libellePtBR" : "Adulto: 16 €, Criança: 12 €.\n",
+      "libelleJa" : "大人: 16 €, 子供: 12 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13778563,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "maximum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6875271,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5480999
+      },
+      "nom" : "6MIC : salle des musiques actuelles",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77181717,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://6mic-aix.fr"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14481160,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "6MIC"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/89/14833968.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/89/14833968-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/89/14833968-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/89/14833968-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pogo",
+      "taille" : 77048,
+      "hauteur" : 679,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T10:51:34.848+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-01" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "6MIC : salle des musiques actuelles"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-01T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

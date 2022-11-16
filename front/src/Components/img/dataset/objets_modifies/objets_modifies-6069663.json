@@ -1,0 +1,541 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6069663,
+  "nom" : {
+    "libelleFr" : "Marché de Créateurs"
+  },
+  "identifier" : "SITRA2_EVE_6069663",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-25T09:42:57.950+0000",
+    "dateModification" : "2022-03-25T13:43:40.738+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 98005568,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 16 43 25"
+      }
+    }, {
+      "identifiant" : 98005569,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marquagecontact@gmail.com"
+      }
+    }, {
+      "identifiant" : 98005570,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.association-marquage.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5348389
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une sélection d'Artisans et d'Artistes de toutes origines et de sensibilités variées, proposent leurs productions. Vous plongez dans leurs univers inspirés, plein d’originalité et d’insolite. Un temps de rencontres chaleureuses pour partager du plaisir."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce marché s’inscrit dans un nouveau rendez-vous aixois, en effet le Marché des Créateurs sera présent sur la place de Verdun tous les premiers mercredis du mois jusqu’en décembre (mais pas le 2 nov, le 9 nov).\r\nNous vous invitons à d'extraordinaires balades créatives. \r\nLors de ces rencontres vous croiserez une multitude d’artisans et d’artistes de toutes origines et de sensibilités variées.\r\nDes rendez-vous comme autant d’occasions pour plonger dans l’originalité et l’insolite. \r\nLes espaces publics investis deviennent des lieux d’échanges chaleureux entre les Créateurs et les Amateurs. Une démonstration éclectique pour se réconcilier avec la magie de la variété des supports d’expressions avec de nombreux domaines représentés tel que peinture, sculpture, bijou, luminaire, stylisme, photographie, accessoires, mobilier, reliure, céramique, travail du fil, du bois, du verre, du métal, composition florale, gourmandises, parfumerie, etc… un très large choix d’idées cadeaux comme autant d’occasions de se faire plaisir et de faire plaisir. \r\n\r\nCe bouquet d’événements vous conduira dans des univers inspirés pour rêver et vous apaiser.\r\n\r\nAlors, laissez vous séduire par ces myriades de rencontres avec des formes, des matières et des couleurs domptées  par ces créateurs originaux qui joueront avec une gamme de prix & une palette de sensibilités très étendues pour que chacun puisse y trouver son bonheur."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place de Verdun",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.450935, 43.528455 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 6 avril 2022 de 10h à 19h.\n\nMercredi 4 mai 2022 de 10h à 19h.\n\nMercredi 1er juin 2022 de 10h à 19h.\n\nMercredi 6 juillet 2022 de 10h à 19h.\n\nMercredi 3 août 2022 de 10h à 19h.\n\nMercredi 7 septembre 2022 de 10h à 19h.\n\nMercredi 5 octobre 2022 de 10h à 19h.\n\nMercredi 9 novembre 2022 de 10h à 19h.\n\nMercredi 7 décembre 2022 de 10h à 19h.",
+      "libelleEn" : "Wednesday 6 April 2022 between 10 am and 7 pm.\n\nWednesday 4 May 2022 between 10 am and 7 pm.\n\nWednesday 1st of June 2022 between 10 am and 7 pm.\n\nWednesday 6 July 2022 between 10 am and 7 pm.\n\nWednesday 3 August 2022 between 10 am and 7 pm.\n\nWednesday 7 September 2022 between 10 am and 7 pm.\n\nWednesday 5 October 2022 between 10 am and 7 pm.\n\nWednesday 9 November 2022 between 10 am and 7 pm.\n\nWednesday 7 December 2022 between 10 am and 7 pm.",
+      "libelleEs" : "Miércoles, 6 de abril de 2022 de 10 a 19.\n\nMiércoles, 4 de mayo de 2022 de 10 a 19.\n\nMiércoles, 1 de junio de 2022 de 10 a 19.\n\nMiércoles, 6 de julio de 2022 de 10 a 19.\n\nMiércoles, 3 de agosto de 2022 de 10 a 19.\n\nMiércoles, 7 de septiembre de 2022 de 10 a 19.\n\nMiércoles, 5 de octubre de 2022 de 10 a 19.\n\nMiércoles, 9 de noviembre de 2022 de 10 a 19.\n\nMiércoles, 7 de diciembre de 2022 de 10 a 19.",
+      "libelleIt" : "Mercoledì 6 aprile 2022 dalle 10 alle 19.\n\nMercoledì 4 maggio 2022 dalle 10 alle 19.\n\nMercoledì 1° giugno 2022 dalle 10 alle 19.\n\nMercoledì 6 luglio 2022 dalle 10 alle 19.\n\nMercoledì 3 agosto 2022 dalle 10 alle 19.\n\nMercoledì 7 settembre 2022 dalle 10 alle 19.\n\nMercoledì 5 ottobre 2022 dalle 10 alle 19.\n\nMercoledì 9 novembre 2022 dalle 10 alle 19.\n\nMercoledì 7 dicembre 2022 dalle 10 alle 19.",
+      "libelleDe" : "Mittwoch, den 6. April 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 4. Mai 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 1. Juni 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 6. Juli 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 3. August 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 7. September 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 5. Oktober 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 9. November 2022 von 10 Uhr bis 19 Uhr.\n\nMittwoch, den 7. Dezember 2022 von 10 Uhr bis 19 Uhr.",
+      "libelleNl" : "Woensdag 6 april 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 4 mei 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 1 juni 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 6 juli 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 3 augustus 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 7 september 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 5 oktober 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 9 november 2022 van 10.00 tot en met 19.00 u.\n\nWoensdag 7 december 2022 van 10.00 tot en met 19.00 u.",
+      "libelleRu" : "Среда 6 апреля 2022  с 10h до 19h.\n\nСреда 4 мая 2022  с 10h до 19h.\n\nСреда 1-й июня 2022 с 10h до 19h.\n\nСреда 6 июля 2022  с 10h до 19h.\n\nСреда 3 августа 2022  с 10h до 19h.\n\nСреда 7 сентября 2022  с 10h до 19h.\n\nСреда 5 октября 2022  с 10h до 19h.\n\nСреда 9 ноября 2022  с 10h до 19h.\n\nСреда 7 декабря 2022  с 10h до 19h.",
+      "libelleZh" : "2022年4月6日, 星期三   小时小时 和 小时小时 之间.\n\n2022年5月4日, 星期三   小时小时 和 小时小时 之间.\n\n2022年6月1日, 星期三 小时小时 和 小时小时 之间.\n\n2022年7月6日, 星期三   小时小时 和 小时小时 之间.\n\n2022年8月3日, 星期三   小时小时 和 小时小时 之间.\n\n2022年9月7日, 星期三   小时小时 和 小时小时 之间.\n\n2022年10月5日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月9日, 星期三   小时小时 和 小时小时 之间.\n\n2022年12月7日, 星期三   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 6 Abril 2022 de 10h a  19h.\n\nQuarta-feira 4 Maio 2022 de 10h a  19h.\n\nQuarta-feira 1º Junho 2022 de 10h a  19h.\n\nQuarta-feira 6 Julho 2022 de 10h a  19h.\n\nQuarta-feira 3 Agosto 2022 de 10h a  19h.\n\nQuarta-feira 7 Setembro 2022 de 10h a  19h.\n\nQuarta-feira 5 Outubro 2022 de 10h a  19h.\n\nQuarta-feira 9 Novembro 2022 de 10h a  19h.\n\nQuarta-feira 7 Dezembro 2022 de 10h a  19h.",
+      "libelleJa" : "水曜日 6 4月 2022 10 午前 と 7 午後 の間.\n\n水曜日 4 5月 2022 10 午前 と 7 午後 の間.\n\n水曜日 1st of 6月 2022 10 午前 と 7 午後 の間.\n\n水曜日 6 7月 2022 10 午前 と 7 午後 の間.\n\n水曜日 3 8月 2022 10 午前 と 7 午後 の間.\n\n水曜日 7 9月 2022 10 午前 と 7 午後 の間.\n\n水曜日 5 10月 2022 10 午前 と 7 午後 の間.\n\n水曜日 9 11月 2022 10 午前 と 7 午後 の間.\n\n水曜日 7 12月 2022 10 午前 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22978680,
+      "dateDebut" : "2022-04-06",
+      "dateFin" : "2022-04-06",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981883
+    }, {
+      "identifiant" : 22978681,
+      "dateDebut" : "2022-05-04",
+      "dateFin" : "2022-05-04",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981884
+    }, {
+      "identifiant" : 22978682,
+      "dateDebut" : "2022-06-01",
+      "dateFin" : "2022-06-01",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981885
+    }, {
+      "identifiant" : 22978683,
+      "dateDebut" : "2022-07-06",
+      "dateFin" : "2022-07-06",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981886
+    }, {
+      "identifiant" : 22978684,
+      "dateDebut" : "2022-08-03",
+      "dateFin" : "2022-08-03",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981887
+    }, {
+      "identifiant" : 22978685,
+      "dateDebut" : "2022-09-07",
+      "dateFin" : "2022-09-07",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981888
+    }, {
+      "identifiant" : 22978686,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-10-05",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981889
+    }, {
+      "identifiant" : 22978687,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981890
+    }, {
+      "identifiant" : 22978688,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22981891
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20523537,
+    "referent" : true,
+    "prenom" : "Age",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4135
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98005571,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marquagecontact@gmail.com"
+      }
+    }, {
+      "identifiant" : 98005572,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 16 43 25"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12739464,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Association Marquage"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/82/12931835.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/82/12931835-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/82/12931835-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/82/12931835-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "createurs",
+      "taille" : 162833,
+      "hauteur" : 861,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-03-25T13:43:40.961+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737952,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "exposante Yfat Gat"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/77/12930335.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/77/12930335-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/77/12930335-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/77/12930335-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "MarcheÌ-de-CreÌateurs-associationmarquage-agecreation-yfat-gat-studio",
+      "taille" : 1994896,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-03-25T13:40:10.798+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737953,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "public au marché"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/77/12930336.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/77/12930336-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/77/12930336-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/77/12930336-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "tableau-public-Marche-de-createurs-associationmarquage",
+      "taille" : 119173,
+      "hauteur" : 557,
+      "largeur" : 709,
+      "lastModifiedDate" : "2022-03-25T13:40:09.457+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737954,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "public devant stand photo"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/77/12930337.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/77/12930337-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/77/12930337-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/77/12930337-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "photographes-public-associationmarquage-marche-de-createurs",
+      "taille" : 134229,
+      "hauteur" : 709,
+      "largeur" : 519,
+      "lastModifiedDate" : "2022-03-25T13:40:09.943+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737955,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "stand déco"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/77/12930339.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/77/12930339-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/77/12930339-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/77/12930339-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "SeverineVINCENT-LUCE-associationmarquage-marche-de-createurs-agecreation",
+      "taille" : 176683,
+      "hauteur" : 794,
+      "largeur" : 595,
+      "lastModifiedDate" : "2022-03-25T13:40:15.372+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737956,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché stands & palais"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/77/12930340.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/77/12930340-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/77/12930340-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/77/12930340-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "Aix-2021-6369-associationmarquage-marche-de-createurs-agecreation",
+      "taille" : 3295403,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-03-25T13:40:16.018+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12737957,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "exposant Roland Framorando"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/77/12930341.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/77/12930341-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/77/12930341-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/77/12930341-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "Aix-2021-6373-associationmarquage-marche-de-createurs-agecreation",
+      "taille" : 3437100,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-03-25T13:40:12.932+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12737958,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "communiqué Marché du 6 avril 2022"
+    },
+    "copyright" : {
+      "libelleFr" : "agecreation"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/38/77/12930342/ComPresse-AIX-6Avril2022.pdf",
+      "extension" : "pdf",
+      "fileName" : "ComPresse-AIX-6Avril2022",
+      "taille" : 233123,
+      "lastModifiedDate" : "2022-03-25T13:40:15.335+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-12-07" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2083
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2069
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2124
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2127
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2144
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2169
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2217
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2252
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2282
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2304
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 4068
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 4069
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nbParticipantsAttendu" : 20,
+    "nbVisiteursAttendu" : 1001,
+    "nomLieu" : "Place de Verdun"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-07T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,331 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539042,
+  "nom" : {
+    "libelleFr" : "Maison des Arts et Traditions Provençales",
+    "libelleEn" : "Maison des Arts et Traditions Provençales",
+    "libelleIt" : "Maison des Arts et Traditions Provençales",
+    "libelleDe" : "Maison des Arts et Traditions Provençales",
+    "libelleNl" : "Maison des Arts et Traditions Provençales"
+  },
+  "identifier" : "SITRA2_PCU_5539042",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T11:02:29.562+0000",
+    "dateModification" : "2022-10-12T07:46:40.180+0000",
+    "dateExportModification" : "2022-10-18T08:12:55.269+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79656246,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 42 74 82"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223295
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Maison des Arts et traditions provençales"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La maison des arts et traditions provençales, don à la commune, est meublée et décorée, de 1850 à 1930 environ.  \r\nCette maison relate la vie d’autrefois avec différents meubles et accessoires de la Provence, du temps passé de nos grands-parents. Au rez-de-chaussée, dans l’entrée une belle rampe d’escalier qui nous même au 1er étage,  un salon, une salle à manger, une cuisine et une lingerie, à l’étage les chambres des parents et enfants."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5159
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Fernand Brun",
+      "codePostal" : "13680",
+      "bureauDistribution" : "LANCON-PROVENCE",
+      "commune" : {
+        "id" : 4462
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.153633, 43.569581 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4462
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Consulter l'association des Amis du vieux Lançon pour les horaires d'ouverture"
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21835339,
+      "dateDebut" : "2022-05-14",
+      "dateFin" : "2022-05-14",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "23:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 23339775
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4192
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 17641263,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MILANI",
+    "prenom" : "Robert",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81749168,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 80 99 21 80"
+      }
+    }, {
+      "identifiant" : 81749169,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "robertjoellemilani@orange.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11008008,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/204/10931400.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/204/10931400-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/204/10931400-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/204/10931400-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Maison des Arts et td",
+      "taille" : 2103709,
+      "hauteur" : 1977,
+      "largeur" : 2953,
+      "lastModifiedDate" : "2021-09-15T09:36:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11008009,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/204/10931401.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/204/10931401-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/204/10931401-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/204/10931401-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maison Arts et td 3",
+      "taille" : 2213430,
+      "hauteur" : 2598,
+      "largeur" : 1949,
+      "lastModifiedDate" : "2021-09-15T09:36:55.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11119984,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/235/11070229.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/235/11070229-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/235/11070229-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/235/11070229-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maison des Arts et traditions 1",
+      "taille" : 954115,
+      "hauteur" : 1363,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2021-09-27T08:55:23.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12670954,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/72/12863617.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/72/12863617-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/72/12863617-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/72/12863617-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maison_art_et_tradition (1)",
+      "taille" : 756338,
+      "hauteur" : 1024,
+      "largeur" : 724,
+      "lastModifiedDate" : "2022-03-10T14:07:39.820+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12670912,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/87/72/12863575/maison_art_et_tradition+1.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/87/72/12863575-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/87/72/12863575-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/87/72/12863575-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "maison_art_et_tradition (1)",
+      "taille" : 756338,
+      "hauteur" : 1024,
+      "largeur" : 724,
+      "lastModifiedDate" : "2022-03-10T14:07:40.367+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "datesOuverture" : [ "2023-05-14", "2024-05-14" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3229
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000007"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Lançon de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.lancon-provence-tourisme.com"
+    }
+  } ]
+}

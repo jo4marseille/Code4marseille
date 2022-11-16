@@ -1,0 +1,492 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5851096,
+  "nom" : {
+    "libelleFr" : "Mx Food restaurant concept store"
+  },
+  "identifier" : "SITRA2_RES_5851096",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-24T15:42:32.296+0000",
+    "dateModification" : "2022-10-24T14:17:41.859+0000",
+    "dateExportModification" : "2022-11-08T15:43:50.267+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 93912173,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 12 04 30 02"
+      }
+    }, {
+      "identifiant" : 89871430,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mxmarseille.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5851097
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Mx food est un lieu et un concept à part : à la fois restaurant, boutique, espace muséal, bar...dont le thème est l'anis, sous toutes ses formes!"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La décoration du Mx s'inspire de cette épice emblématique et savoureuse : l'anis, et les couleurs dominantes sont apaisantes. \r\n- Au restaurant Mx Food, les chefs en résidence se succèdent et laissent libre cours à leur imagination et à leur créativité pour proposer une cuisine à tendance méditerranéenne.\r\n- Au Mx Bar, des cocktails savoureux et colorés sont aussi proposés.\r\n- La boutique Mx Shop, concept store, offre une large gamme de produits et accessoires autour de cette fabuleuse épice : de quoi trouver à coup sûr une idée de cadeau...\r\n- Un espace musée immersif, le Mx Expérience, vous propose un parcours découverte autour de l'anis.\r\n\r\nEt enfin, des ateliers sont organisés autour de la gastronomie et des cocktails. Le Mx c'est vraiment une expérience multi sensorielle!"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Docks Village",
+      "adresse2" : "10 Place de la Joliette et bd de Dunkerque",
+      "codePostal" : "13002",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366307, 43.307039 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 6042984
+      }
+    }, {
+      "type" : "OFFRE_SPECIALE_CADRE",
+      "libelleFr" : "Propose une offre spéciale dans le cadre de ...",
+      "libelleEn" : "Proposes a special offer as part of...",
+      "libelleEs" : "Propone una oferta especial en el marco de...",
+      "libelleIt" : "Propone un’offerta speciale nel contesto di...",
+      "libelleDe" : "Bietet ein Sonderangebot an im Rahmen von ... an.",
+      "libelleNl" : "Biedt een speciale aanbieding in het kader van ...",
+      "libelleRu" : "Специальное предложение в рамках",
+      "libelleZh" : "在期间提供特别优惠",
+      "libellePtBR" : "Propõe uma oferta especial no âmbito de ...",
+      "libelleJa" : "は特別オファーを提供します",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5857728
+      }
+    }, {
+      "type" : "OFFRE_SPECIALE_CADRE",
+      "libelleFr" : "Propose une offre spéciale dans le cadre de ...",
+      "libelleEn" : "Proposes a special offer as part of...",
+      "libelleEs" : "Propone una oferta especial en el marco de...",
+      "libelleIt" : "Propone un’offerta speciale nel contesto di...",
+      "libelleDe" : "Bietet ein Sonderangebot an im Rahmen von ... an.",
+      "libelleNl" : "Biedt een speciale aanbieding in het kader van ...",
+      "libelleRu" : "Специальное предложение в рамках",
+      "libelleZh" : "在期间提供特别优惠",
+      "libellePtBR" : "Propõe uma oferta especial no âmbito de ...",
+      "libelleJa" : "は特別オファーを提供します",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5849954
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 715
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 822
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1106
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 582
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accueil de 250 personnes en format cocktail en privatisation totale du lieu."
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "labelsTourismeHandicap" : [ {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1224
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1225
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1226
+    } ],
+    "descriptifHandicapMoteur" : {
+      "libelleFr" : "Les 4 espaces proposés par le Mx sont accessibles.\r\nWC adaptés."
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMax" : 250
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022 \nOuverture le lundi de 12h à 14h. Le mardi et mercredi de 10h à 23h. Le jeudi, vendredi et samedi de 10h à 1h. Le dimanche de 10h à 16h.",
+      "libelleEn" : "From 01/01 to 31/12/2022 \nOpening hours on Monday between 12 pm and 2 pm. On Tuesday and Wednesday between 10 am and 11 pm. On Thursday, Friday and Saturday between 10 am and 1 am. On Sunday between 10 am and 4 pm.",
+      "libelleEs" : "Del 01/01 al 31/12/2022 \nHorarios de apertura los lunes de 12 a 14. Los martes y miércoles de 10 a 23. Los jueves, viernes y sábado de 10 a 1. Los domingo de 10 a 16.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022 \nOrari di apertura il lunedì dalle 12 alle 14. Il martedì e mercoledì dalle 10 alle 23. Il giovedì, venerdì e sabato dalle 10 alle 1. Il domenica dalle 10 alle 16.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022 \nÖffnungszeiten jeden Montag von 12 Uhr bis 14 Uhr. Jeden Dienstag und Mittwoch von 10 Uhr bis 23 Uhr. Jeden Donnerstag, Freitag und Samstag von 10 Uhr bis 1 Uhr. Jeden Sonntag von 10 Uhr bis 16 Uhr.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022 \nOpeningstijden op maandag van 12.00 tot en met 14.00 u. Op dinsdag en woensdag van 10.00 tot en met 23.00 u. Op donderdag, vrijdag en zaterdag van 10.00 tot en met 1.00 u. Op zondag van 10.00 tot en met 16.00 u.",
+      "libelleRu" : "С 01/01 до 31/12/2022 \nЧасы открытия на понедельник с 12h до 14h. На вторник и среда с 10h до 23h. На четверг, пятница и суббота с 10h до 1h. На воскресенье с 10h до 16h.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日 \n开放时间 上 星期一 小时小时 和 小时小时 之间. 上 星期二 和 星期三 小时小时 和 小时小时 之间. 上 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间. 上 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 01/01 a 31/12/2022 \nOuverture na segunda-feira de 12h a  14h. Na terça-feira e quarta-feira de 10h a  23h. Na quinta-feira, sexta-feira e sábado de 10h a  1h. Na domingo de 10h a  16h.",
+      "libelleJa" : "01/01 から 31/12/2022 まで \n開館時間 月曜日 に 12 午後 と 2 午後 の間. 火曜日 と 水曜日 に 10 午前 と 11 午後 の間. 木曜日, 金曜日 と 土曜日 に 10 午前 と 1 午前 の間. 日曜日 に 10 午前 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21275041,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24573720
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Menu adulte : de 22 à 29 €\nPlat du jour : 16 €.\n\n\nEspace muséal entre 4 et 8 euros\r\nBrunch le dimanche 32 euros.",
+      "libelleEn" : "Adult menu: 22 to 29 €\nDish of the day: 16 €.\n",
+      "libelleEs" : "Menú adulto: de 22 a 29 €\nPlato del día: 16 €.\n",
+      "libelleIt" : "Menu adulto: da 22 a 29 €\nPiatto del giorno: 16 €.\n",
+      "libelleDe" : "Erwachsenenmenü: von 22 bis 29 €\nTagesmenü: 16 €.\n",
+      "libelleNl" : "Volwassene menu: € 22 tot en met € 29\nDagschotel: € 16.\n",
+      "libelleRu" : "Меню взрослого : с 22 до  29 €\nДежурное блюдо : 16 €.\n",
+      "libelleZh" : "成人菜单 : 从 22 到  29 €\n今日推荐菜 : 16 €.\n",
+      "libellePtBR" : "Menu adulto: de 22 a 29 €\nPrato do dia: 16 €.\n",
+      "libelleJa" : "大人向けメニュー: 22 から 29 €\n本日のメインディッシュ: 16 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Espace muséal entre 4 et 8 euros\r\nBrunch le dimanche 32 euros"
+    },
+    "periodes" : [ {
+      "identifiant" : 12640886,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 22.00,
+        "maximum" : 29.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1502
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "maximum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1517
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16767
+  }, {
+    "id" : 16790
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21271294,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "REYNAUD",
+    "prenom" : "Julie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102978566,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@mxmarseille.com"
+      }
+    }, {
+      "identifiant" : 102978582,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 12 04 30 02"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11691010,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Mx Food Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Salle de restaurant"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme et Congres Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/15/11734830.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/15/11734830-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/15/11734830-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/15/11734830-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "PHOTO6",
+      "taille" : 140026,
+      "hauteur" : 777,
+      "largeur" : 1278,
+      "lastModifiedDate" : "2021-12-02T13:29:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11690997,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Mx Food Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Espace museal"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme et Congres Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/15/11734817.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/15/11734817-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/15/11734817-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/15/11734817-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "PHOTO4",
+      "taille" : 252472,
+      "hauteur" : 771,
+      "largeur" : 1839,
+      "lastModifiedDate" : "2021-12-02T13:29:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11691101,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bar Mx Food Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Bar Mx Food Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme et Congres Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/137/15/11734921.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/137/15/11734921-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/137/15/11734921-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/137/15/11734921-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "BAR3",
+      "taille" : 205898,
+      "hauteur" : 774,
+      "largeur" : 1283,
+      "lastModifiedDate" : "2021-12-02T13:33:13.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10360513,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Restaurant Mx Food Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Salle de restaurant"
+    },
+    "copyright" : {
+      "libelleFr" : "Restaurant Mx Food Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/181/10139051.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/181/10139051-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/181/10139051-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/181/10139051-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MXFOOD",
+      "taille" : 72732,
+      "hauteur" : 424,
+      "largeur" : 686,
+      "lastModifiedDate" : "2021-06-24T15:54:18.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsRestauration" : {
+    "chef" : "Plusieurs chefs en résidence",
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2985
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 5351
+    } ],
+    "capacite" : {
+      "descriptionSalles" : {
+        "libelleFr" : "2 salles dont 1 à l'étage."
+      },
+      "nombreSalles" : 2,
+      "nombreMaximumCouverts" : 100
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1791
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1802
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1843
+    } ]
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.1,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 200,
+        "dateMaj" : 1667919317011
+      }
+    } ]
+  } ]
+}

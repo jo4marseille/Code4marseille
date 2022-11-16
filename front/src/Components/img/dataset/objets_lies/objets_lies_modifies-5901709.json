@@ -1,0 +1,326 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5901709,
+  "nom" : {
+    "libelleFr" : "Visite commentée du château des Baumes"
+  },
+  "identifier" : "SITRA2_EVE_5901709",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-02T08:34:41.980+0000",
+    "dateModification" : "2022-09-29T09:54:13.659+0000",
+    "dateExportModification" : "2022-09-29T09:54:13.817+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Après 2 ans de travaux, le château des Baumes renaît ! Partez à la découverte de l’histoire de ce lieu unique, entièrement rénové, qui a longtemps fasciné et laissé libre court à l’imaginaire des istréens."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous circulerez dans le château et vous admirerez cette bâtisse de style italien, datant du début du XXème siècle et liée à l’histoire de notre ville."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Port du masque à l'intérieur du château\r\nInscriptions obligatoires, à partir du 8 septembre"
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Château des Baumes",
+      "adresse1" : "Château des Baumes",
+      "adresse2" : "48 Boulevard Dethez",
+      "codePostal" : "13800",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.983046, 43.512083 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 17180
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5901670
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 12 novembre 2022 à 14h30.",
+      "libelleEn" : "Saturday 12 November 2022 at 2.30 pm.",
+      "libelleEs" : "Sábado, 12 de noviembre de 2022 a 14:30.",
+      "libelleIt" : "Sabato 12 novembre 2022 alle 14:30.",
+      "libelleDe" : "Samstag, den 12. November 2022 um 14.30 Uhr.",
+      "libelleNl" : "Zaterdag 12 november 2022 om 14.30 u.",
+      "libelleRu" : "Суббота 12 ноября 2022  до 14h30.",
+      "libelleZh" : "2022年11月12日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "Sábado 12 Novembro 2022 para  14h30.",
+      "libelleJa" : "土曜日 12 11月 2022 2.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21694314,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : { },
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24396103
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5995778,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 93996794,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/visite-commentee-du-chateau-des-baumes-1.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10885478,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OT Istres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/138/10783413.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/138/10783413-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/138/10783413-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/138/10783413-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CHATEAU DES BAUMES RENOVE JUIN 2021 @OTistres (11)",
+      "taille" : 3485693,
+      "hauteur" : 4624,
+      "largeur" : 3472,
+      "lastModifiedDate" : "2021-09-02T08:40:25.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10885477,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OT Istres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/138/10783412.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/138/10783412-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/138/10783412-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/138/10783412-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CHATEAU DES BAUMES RENOVE JUIN 2021 @OTistres (8)",
+      "taille" : 2028400,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2021-09-02T08:40:22.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10885479,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OT Istres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/138/10783414.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/138/10783414-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/138/10783414-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/138/10783414-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CHATEAU DES BAUMES RENOVE JUIN 2021 @OTistres (32)",
+      "taille" : 3458596,
+      "hauteur" : 4624,
+      "largeur" : 3472,
+      "lastModifiedDate" : "2021-09-02T08:40:20.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Château des Baumes"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

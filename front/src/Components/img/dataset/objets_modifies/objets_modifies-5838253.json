@@ -1,0 +1,440 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5838253,
+  "nom" : {
+    "libelleFr" : "Balade œnologique en Côtes de Provence Sainte-Victoire - WT1",
+    "libelleEn" : "Organic wine tour in Côtes de Provence Sainte-Victoire - WT1"
+  },
+  "identifier" : "SITRA2_EVE_5838253",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-14T11:43:25.550+0000",
+    "dateModification" : "2022-03-24T07:24:28.744+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5480982
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Demi-journée - Visite guidée de 2 domaines familiaux et dégustation de 9 vins différents ! Excursion limitée à 8 places !",
+      "libelleEn" : "Half day tour - Guided visit of 2 family-owned wineries and tasting of 9 different wines. Excursion limited to 8 seats !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au pied de la Sainte-Victoire, entouré de vignes à perte de vue, visitez 2 châteaux : apprenez tout sur ce terroir et sur l'élaboration des vins, du raisin à la bouteille en visitant les chais de vinification et de vieillissement dans le respect des traditions. Dégustez des rosés typiques, des blancs aromatiques et délicats, et des rouges structurés pour votre plus grand plaisir. Visite guidée de 2 domaines et dégustation commentée de 9 vins différents (inclus) par un spécialiste des vins de Provence.\r\n\r\n➜ Excursion commentée / Départ garanti à partir de 2 personnes\r\n➜ Déjeuner non inclus\r\n➜ Départ à l'Office de Tourisme à 9h\r\n➜ Enfant à partir de 4 ans.\r\n➜ Durée : 3h15\r\n➜ ​Les animaux sont interdits\r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix-en-Provence.",
+      "libelleEn" : "Discover the beautiful Côtes de Provence Sainte-Victoire wine region. At the foothills of the Sainte-Victoire, surrounded by vines for as far as the eye can see, visit 2 family-owned wineries: tour the vat and aging rooms, learn about the wine making process explanation, from the vine to the bottle. Conclude with tastings of fruity & dry rosés, delicate and aromatic whites and full-bodied reds. Guided visit of 2 wineries and tasting of 9 different wines with a Provence wine expert. (tasting fees included)\r\n\r\n➜ Commented excursion  / Guaranteed departure from 2 people (8 max)\r\n➜ Departure from the Tourist Office at 9am\r\n➜ Lunch not included\r\n➜ ​Child from 4s\r\n➜ Duration: 3h15\r\n➜ Pets are forbidden\r\n\r\nBooking at the information desk or on the website of the Tourist Office."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Au départ de l'Office de Tourisme",
+      "adresse1" : "300 avenue Giuseppe Verdi",
+      "adresse2" : "BP 40106",
+      "codePostal" : "13090",
+      "bureauDistribution" : "Aix-en-Provence",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444349, 43.526025 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 16674
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5565765
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "nombrePersonnesMinimum" : 2,
+    "tailleGroupeMax" : 8,
+    "ageMin" : 48,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/03 au 31/03/2022, tous les mardis, jeudis et samedis de 13h30 à 16h45.\n\nDu 01/04 au 29/10/2022, tous les mercredis et samedis de 9h à 12h15.\n\nDu 01/11 au 29/11/2022, tous les mardis, jeudis et samedis de 13h30 à 16h45.",
+      "libelleEn" : "From 01/03 to 31/03/2022, every Tuesday, Thursday and Saturday between 1.30 pm and 4.45 pm.\n\nFrom 01/04 to 29/10/2022, every Wednesday and Saturday between 9 am and 12.15 pm.\n\nFrom 01/11 to 29/11/2022, every Tuesday, Thursday and Saturday between 1.30 pm and 4.45 pm.",
+      "libelleEs" : "Del 01/03 al 31/03/2022, todos los martes, jueves y sábados de 13:30 a 16:45.\n\nDel 01/04 al 29/10/2022, todos los miércoles y sábados de 9 a 12:15.\n\nDel 01/11 al 29/11/2022, todos los martes, jueves y sábados de 13:30 a 16:45.",
+      "libelleIt" : "Dal 01/03 al 31/03/2022, tutti i martedì, giovedì e sabati dalle 13:30 alle 16:45.\n\nDal 01/04 al 29/10/2022, tutti i mercoledì e sabati dalle 9 alle 12:15.\n\nDal 01/11 al 29/11/2022, tutti i martedì, giovedì e sabati dalle 13:30 alle 16:45.",
+      "libelleDe" : "Vom 01/03 bis 31/03/2022, jeden Dienstag, Donnerstag und Samstag von 13.30 Uhr bis 16.45 Uhr.\n\nVom 01/04 bis 29/10/2022, jeden Mittwoch und Samstag von 9 Uhr bis 12.15 Uhr.\n\nVom 01/11 bis 29/11/2022, jeden Dienstag, Donnerstag und Samstag von 13.30 Uhr bis 16.45 Uhr.",
+      "libelleNl" : "Van 01/03 tot en met 31/03/2022, elke dinsdag, donderdag en zaterdag van 13.30 tot en met 16.45 u.\n\nVan 01/04 tot en met 29/10/2022, elke woensdag en zaterdag van 9.00 tot en met 12.15 u.\n\nVan 01/11 tot en met 29/11/2022, elke dinsdag, donderdag en zaterdag van 13.30 tot en met 16.45 u.",
+      "libelleRu" : "С 01/03 до 31/03/2022, каждый вторники, четверги и субботы с 13h30 до 16h45.\n\nС 01/04 до 29/10/2022, каждый среды и субботы с 9h до 12h15.\n\nС 01/11 до 29/11/2022, каждый вторники, четверги и субботы с 13h30 до 16h45.",
+      "libelleZh" : "从 3月1日 到 2022年3月31日, 每星期二, 星期四 和 星期六 小时小时分钟  和 小时小时分钟  之间.\n\n从 4月1日 到 2022年10月29日, 每星期三 和 星期六 小时小时 和 小时小时分钟  之间.\n\n从 11月1日 到 2022年11月29日, 每星期二, 星期四 和 星期六 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 01/03 a 31/03/2022, todas as terças-feiras, quintas-feiras e sábados de 13h30 a  16h45.\n\nDe 01/04 a 29/10/2022, todas as quartas-feiras e sábados de 9h a  12h15.\n\nDe 01/11 a 29/11/2022, todas as terças-feiras, quintas-feiras e sábados de 13h30 a  16h45.",
+      "libelleJa" : "01/03 から 31/03/2022 まで, 毎火曜日, 木曜日 と 土曜日 1.30 午後 と 4.45 午後 の間.\n\n01/04 から 29/10/2022 まで, 毎水曜日 と 土曜日 9 午前 と 12.15 午後 の間.\n\n01/11 から 29/11/2022 まで, 毎火曜日, 木曜日 と 土曜日 1.30 午後 と 4.45 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21178533,
+      "dateDebut" : "2022-03-01",
+      "dateFin" : "2022-03-31",
+      "horaireOuverture" : "13:30:00",
+      "horaireFermeture" : "16:45:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22722938
+    }, {
+      "identifiant" : 22456682,
+      "dateDebut" : "2022-04-01",
+      "dateFin" : "2022-10-29",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "12:15:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22722939
+    }, {
+      "identifiant" : 22456700,
+      "dateDebut" : "2022-11-01",
+      "dateFin" : "2022-11-29",
+      "horaireOuverture" : "13:30:00",
+      "horaireFermeture" : "16:45:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22722940
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 70 €, Enfant (4-12 ans) : 35 €.\n",
+      "libelleEn" : "Adult: 70 €, Child (4-12 years): 35 €.\n",
+      "libelleEs" : "Adulto: 70 €, Niño (4-12 años): 35 €.\n",
+      "libelleIt" : "Adulto: 70 €, Bambino (4-12 anni): 35 €.\n",
+      "libelleDe" : "Erwachsene: 70 €, Kinder (4-12 Jahren): 35 €.\n",
+      "libelleNl" : "Volwassene: € 70, Kind (4-12 jaar): € 35.\n",
+      "libelleRu" : "Взрослый : 70 €, Ребенок (4-12 лет) : 35 €.\n",
+      "libelleZh" : "成人 : 70 €, 儿童 (4-12 岁) : 35 €.\n",
+      "libellePtBR" : "Adulto: 70 €, Criança (4-12 anos): 35 €.\n",
+      "libelleJa" : "大人: 70 €, 子供 (4-12 歳): 35 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12159192,
+      "dateDebut" : "2022-03-01",
+      "dateFin" : "2022-11-29",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 70.00,
+        "maximum" : 70.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 35.00,
+        "maximum" : 35.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionEnfantAgeMin" : 4,
+      "conditionEnfantAgeMax" : 12
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5846491,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5349089
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence - à supp",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89552810,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/demi-journee-balade-oenologique-en-cotes-de-provence-sainte-victoire-wt1.html",
+          "en" : "https://booking.aixenprovencetourism.com/half-day-tour-organic-wine-tour-in-cotes-de-provence-sainte-victoire-wt1.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 10271730,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Provence Wine Tours"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/90/10050273.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/90/10050273-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/90/10050273-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/90/10050273-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_balade-oenologique-en-cotes-de-provence-sainte-victoire-36850",
+      "taille" : 250687,
+      "hauteur" : 532,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-14T12:00:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10271731,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Provence Wine Tours"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/90/10050274.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/90/10050274-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/90/10050274-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/90/10050274-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_balade-oenologique-en-cotes-de-provence-sainte-victoire-37068",
+      "taille" : 218216,
+      "hauteur" : 542,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-14T12:00:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10271732,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Provence Wine Tours"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/90/10050275.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/90/10050275-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/90/10050275-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/90/10050275-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_balade-oenologique-en-cotes-de-provence-sainte-victoire-37069",
+      "taille" : 240276,
+      "hauteur" : 563,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-14T12:00:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10271733,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Provence Wine Tours"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/90/10050276.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/90/10050276-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/90/10050276-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/90/10050276-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_balade-oenologique-en-cotes-de-provence-sainte-victoire-37070",
+      "taille" : 97543,
+      "hauteur" : 425,
+      "largeur" : 640,
+      "lastModifiedDate" : "2021-06-14T12:00:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10271734,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Provence Wine Tours"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/90/10050277.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/90/10050277-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/90/10050277-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/90/10050277-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_coteaux-d-aix-37067",
+      "taille" : 140510,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-14T12:00:10.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-26", "2022-10-29", "2022-11-01", "2022-11-03", "2022-11-05", "2022-11-08", "2022-11-10", "2022-11-12", "2022-11-15", "2022-11-17", "2022-11-19", "2022-11-22", "2022-11-24", "2022-11-26", "2022-11-29" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2117
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2271
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Au départ de l'Office de Tourisme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-29T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

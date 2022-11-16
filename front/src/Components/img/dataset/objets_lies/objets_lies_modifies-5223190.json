@@ -1,0 +1,149 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223190,
+  "nom" : {
+    "libelleFr" : "Fondation Saint-John Perse",
+    "libelleEn" : "Saint John Perse Foundation",
+    "libelleEs" : "Fondation Saint John Perse",
+    "libelleIt" : "Fondation Saint John Perse",
+    "libelleDe" : "Fondation Saint John Perse",
+    "libelleNl" : "Fondation Saint John Perse"
+  },
+  "identifier" : "SITRA2_STR_5223190",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:53:44.306+0000",
+    "dateModification" : "2021-06-03T15:20:45.212+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512966,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 98 85"
+      }
+    }, {
+      "identifiant" : 70512967,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 11 86"
+      }
+    }, {
+      "identifiant" : 70512968,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fondationsaintjohnperse@orange.fr"
+      }
+    }, {
+      "identifiant" : 70512969,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.fondationsaintjohnperse.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "30814830300024",
+      "codeApeNaf" : "925",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Cité du Livre",
+      "adresse2" : "8-10 Rue Des Allumettes",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439128, 43.523926 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19299967,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Domény",
+    "prenom" : "Virginie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

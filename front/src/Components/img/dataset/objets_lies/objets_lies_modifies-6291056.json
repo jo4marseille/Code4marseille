@@ -1,0 +1,313 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291056,
+  "nom" : {
+    "libelleFr" : "Le petit garde rouge"
+  },
+  "identifier" : "SITRA2_EVE_6291056",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T12:21:24.259+0000",
+    "dateModification" : "2022-10-11T07:38:25.251+0000",
+    "dateExportModification" : "2022-10-17T14:28:32.451+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104004620,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lestheatres.net/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228880
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Chen Jiang Hong redessine au théâtre son enfance chamboulée à travers une proposition singulièrement ludique et plastique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Après avoir fait paraître l’album illustré Mao et moi, l’artiste devient sur scène l’acteur de sa propre histoire. Il redessine à l’encre noire les contours de son enfance bouleversée par la révolution culturelle en Chine. Faisant du plateau un livre ouvert où se ravive et s’anime un destin à la fois personnel et collectif, il narre sans univocité sa jeunesse certes précaire mais paisible soudainement confrontée à la propagande et la violence politique au milieu des années soixante. Au moyen de lignes et de courbes esquissées en direct qui sont d’une grande force évocatrice, il rend éloquente et émouvante la combinaison du récit et de l’image soutenue par la danse et la musique.\r\n\r\n● Mise en scène François Orsoni\r\n● Textes et dessins Chen Jiang Hong\r\n● Avec Lili Chen, Alban Guyon et Namkyung Kim"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre du Jeu de Paume",
+      "adresse1" : "17-21 Rue De l'Opéra",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.454640, 43.527427 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228881
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    } ],
+    "ageMin" : 144,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 23 novembre 2022 à 19h.",
+      "libelleEn" : "Wednesday 23 November 2022 at 7 pm.",
+      "libelleEs" : "Miércoles, 23 de noviembre de 2022 a 19.",
+      "libelleIt" : "Mercoledì 23 novembre 2022 alle 19.",
+      "libelleDe" : "Mittwoch, den 23. November 2022 um 19 Uhr.",
+      "libelleNl" : "Woensdag 23 november 2022 om 19.00 u.",
+      "libelleRu" : "Среда 23 ноября 2022  до 19h.",
+      "libelleZh" : "2022年11月23日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 23 Novembro 2022 para  19h.",
+      "libelleJa" : "水曜日 23 11月 2022 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24464897,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24470231
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 10 à 23 € (Différent selon la catégorie).\n",
+      "libelleEn" : "Full price: 10 to 23 €.\n",
+      "libelleEs" : "Tarifa completa: de 10 a 23 €.\n",
+      "libelleIt" : "Tarrifa intera: da 10 a 23 €.\n",
+      "libelleDe" : "Voller Preis: von 10 bis 23 €.\n",
+      "libelleNl" : "Vol tarief: € 10 tot en met € 23.\n",
+      "libelleRu" : "Полную цену : с 10 до  23 €.\n",
+      "libelleZh" : "全额 : 从 10 到  23 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 10 a 23 €.\n",
+      "libelleJa" : "通常料金: 10 から 23 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13727340,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 23.00,
+        "precisionTarif" : {
+          "libelleFr" : "Différent selon la catégorie"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6847209,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228880
+      },
+      "nom" : "Théâtre du Jeu de Paume",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104004619,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lestheatres.net/fr/a/3676-le-petit-garde-rouge"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14352601,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Simon Gosselin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/23/14686132.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/23/14686132-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/23/14686132-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/23/14686132-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "rouge1",
+      "taille" : 136994,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-10T12:42:21.320+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14352602,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Simon Gosselin"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/23/14686133.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/23/14686133-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/23/14686133-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/23/14686133-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "rouge2",
+      "taille" : 104292,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-10T12:42:20.975+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Théâtre du Jeu de Paume"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

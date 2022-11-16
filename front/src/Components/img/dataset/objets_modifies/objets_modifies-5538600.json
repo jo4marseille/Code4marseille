@@ -1,0 +1,245 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538600,
+  "nom" : {
+    "libelleFr" : "Chapelle Sainte Anne de Goiron",
+    "libelleEn" : "Chapelle Sainte Anne de Goiron",
+    "libelleEs" : "Chapelle Sainte Anne de Goiron",
+    "libelleIt" : "Chapelle Sainte Anne de Goiron",
+    "libelleDe" : "Chapelle Sainte Anne de Goiron",
+    "libelleNl" : "Chapelle Sainte Anne de Goiron"
+  },
+  "identifier" : "SITRA2_PCU_5538600",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:58:27.245+0000",
+    "dateModification" : "2020-12-24T15:16:38.880+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Roque d'Anthéron",
+      "dateCreation" : "2020-11-04T10:41:06.262+0000",
+      "dateModification" : "2022-10-24T08:49:39.510+0000",
+      "id" : 2121,
+      "siteWeb" : "http://www.laroquedantheron-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "benedicte.roussy@ville-laroquedantheron.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79630905,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 70 74"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224943
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Edifiée au XIème siècle par les précurseurs des moines de Silvacane, la chapelle romane est installée sur un ancien site païen du plateau de Manivert dominant le village de La Roque d’Anthéron."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La chapelle Sainte Anne de Goiron est style roman malgré sa restauration au 19° siècle. Elle est située dans un site sauvage et était un lieu de pélerinage pour la pluie. Elle est composée d'une unique nef en berceau brisé et d'abside en cul de four. Elle possède un campanile de forme triangulaire. On y trouve de jolis ex-votos du XVIIe siècle."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Route de Sainte Anne",
+      "codePostal" : "13640",
+      "bureauDistribution" : "LA ROQUE D'ANTHERON",
+      "commune" : {
+        "id" : 4495
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.276742, 43.696486 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4495
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Accès libre soumis à restriction (accès aux massifs forestiers règlementé en période estivale en raison du risque incendie).",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Accès libre soumis à restriction (accès aux massifs forestiers règlementé en période estivale en raison du risque incendie)"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9265930,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CREDIT_OT_LRA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/167/9021267.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/167/9021267-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/167/9021267-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/167/9021267-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_0386",
+      "taille" : 7636370,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2020-12-24T15:10:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9265942,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CREDIT_OT_LRA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/167/9021278.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/167/9021278-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/167/9021278-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/167/9021278-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_0391",
+      "taille" : 7035425,
+      "hauteur" : 6000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2020-12-24T15:10:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9265961,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CREDIT_OT_LRA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/167/9021297.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/167/9021297-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/167/9021297-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/167/9021297-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_0416",
+      "taille" : 5423178,
+      "hauteur" : 6000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2020-12-24T15:10:40.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3488
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3530
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3328
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000083"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT La Roque d'Anthéron"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ville-laroquedantheron.fr"
+    }
+  } ]
+}

@@ -1,0 +1,272 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 6042985,
+  "nom" : {
+    "libelleFr" : "MX Experience"
+  },
+  "identifier" : "SITRA2_STR_6042985",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-24T14:45:52.547+0000",
+    "dateModification" : "2022-08-30T15:37:52.270+0000",
+    "dateExportModification" : "2022-08-30T15:37:52.395+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97146342,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mxmarseille.com"
+      }
+    }, {
+      "identifiant" : 97148476,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 12 04 30 00"
+      }
+    }, {
+      "identifiant" : 97148491,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@mxmarseille.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Les Docks Village",
+      "adresse2" : "10 place de la Joliette",
+      "codePostal" : "13002",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366307, 43.307039 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21242657,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BETHE",
+    "prenom" : "Marieva",
+    "titre" : {
+      "libelleFr" : "Chargée de projet"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102749287,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 25 05 92 58"
+      }
+    }, {
+      "identifiant" : 102749298,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marieva.bethe-ext@pernod-ricard.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21242708,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "BOUCLY",
+    "prenom" : "Hugues",
+    "titre" : {
+      "libelleFr" : "Chargée d'affaires"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 474
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102749469,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "hugues.boucly@pernod-ricard.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21242747,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GAUTHIER-DEBLAISE",
+    "prenom" : "Marjorie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102750884,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 34 19 44 13"
+      }
+    }, {
+      "identifiant" : 102750893,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marjorie.gauthier-deblaize@pernod-ricard.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21243015,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "LADAYCIA",
+    "prenom" : "Marina",
+    "titre" : {
+      "libelleFr" : "Responsable administratif et financier"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102750951,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 11 47 93 59"
+      }
+    }, {
+      "identifiant" : 102750975,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marina.ladaycia@pernod-ricard.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21243026,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "PANEL",
+    "prenom" : "Yohann",
+    "titre" : {
+      "libelleFr" : "Chargé d'affaires"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 474
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102751050,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 77 00 21 61"
+      }
+    }, {
+      "identifiant" : 102751070,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "yohann.panel@pernod-ricard.com"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

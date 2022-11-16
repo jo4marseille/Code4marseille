@@ -1,0 +1,372 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062471,
+  "nom" : {
+    "libelleFr" : "Balade Le Panier",
+    "libelleEn" : "The Panier tour"
+  },
+  "identifier" : "SITRA2_EVE_6062471",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:13:07.110+0000",
+    "dateModification" : "2022-11-08T09:27:31.678+0000",
+    "dateExportModification" : "2022-11-08T23:14:47.650+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816802,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 6 25 35 47 21"
+      }
+    }, {
+      "identifiant" : 97816803,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tuktukmarseille@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Au départ du Vieux Port, découvrez le quartier de l hôtel de ville,  la plus vieille maison de Marseille l hôtel de Cabre, l hôtel Dieu, la Major, le MuCem, la vieille charité et les rues étroites du plus vieux quartier de Marseille le Panier... ",
+      "libelleEn" : "Discover the oldest district of Marseille founded by the Greeks in 2600 on the way you will stop at the Majestic Major cathedral and discover the special atmosphere of this district: hand craft shops coffee…\n\n \n\nDiscover the oldest district of…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Découvrez le plus vieux quartier de Marseille : Le Panier ainsi que la majestueuse cathédrale de la Major construite au XIXe siècle… Plongez dans ses rues étroites qui vous mènent jusqu’à la Vieille Charité, (halte de 20 à 30 minutes) puis au mythique Vieux-Port, au nouveau MuCem et à la Villa Méditerranée en empruntant le nouveau boulevard du Littoral…\n\n \n\nItinéraire : Vieux-Port – Hôtel de Cabre – Hôtel-Dieu – Eglise St-Laurent – La Major – Le Panier – Place des Moulins – La Vieille Charité – Vieux-Port.",
+      "libelleEn" : "Discover the oldest district of Marseille founded by the Greeks in 2600 on the way you will stop at the Majestic Major cathedral and discover the special atmosphere of this district: hand craft shops coffee…This typical district offer you thrugh its narrows street, one of the best place of Marseille narrow and colorful streets we will gave you to la vieille charité museum. To achieve the tour you will enjoy the old harbour dominated by Notre Dame de la garde. And on the littoral boulevard you will appreciate the new district of la Joliette with his new museum, buildings and modern interest (stop possible on request).Circuit: Old harbour – St Laurent church – La Major – le Panier – Windmill Square – la Vieille Charité – Mucem – Hôtel de cabre – Hôtel Dieu – old harbour."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 La Canebière",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374570, 43.295600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nPensez à vous munir de votre masque",
+      "libelleEn" : "\nImportant information:\nPensez à vous munir de votre masque"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716916,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716916
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "\nNon compris : Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour).",
+      "libelleEn" : "\nNot included: Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)",
+      "libelleEn" : "\nNot included: Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915505,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5558474
+      },
+      "nom" : "Tuk Tuk Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993398,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/balade-le-panier"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813385,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/233/15198650.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/233/15198650-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/233/15198650-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/233/15198650-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ff4db4d31478370583681-cropped600-400",
+      "taille" : 91676,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:32.932+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813386,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/233/15198651.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/233/15198651-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/233/15198651-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/233/15198651-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ff4db113ed39302113545-cropped600-400",
+      "taille" : 107840,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:33.306+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813387,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/233/15198652.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/233/15198652-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/233/15198652-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/233/15198652-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f47dbc37b739224985101-cropped600-400",
+      "taille" : 94494,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:33.635+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813388,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade Le Panier",
+      "libelleEn" : "The Panier tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/233/15198653.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/233/15198653-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/233/15198653-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/233/15198653-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f50e77c14e75707950048-cropped600-400",
+      "taille" : 103353,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:34.025+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "158692",
+        "product_supplier_id" : "35331",
+        "sku" : "T-TU49-170738",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

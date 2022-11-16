@@ -1,0 +1,500 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5233730,
+  "nom" : {
+    "libelleFr" : "Gallifet Kitchen",
+    "libelleEn" : "Gallifet Kitchen",
+    "libelleIt" : "Gallifet Kitchen",
+    "libelleDe" : "Gallifet Kitchen",
+    "libelleNl" : "Gallifet Kitchen"
+  },
+  "identifier" : "SITRA2_RES_5233730",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-04T12:55:27.293+0000",
+    "dateModification" : "2022-05-31T12:43:35.473+0000",
+    "dateExportModification" : "2022-10-25T15:44:29.113+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512951,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 53 84 37 61"
+      }
+    }, {
+      "identifiant" : 94788871,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "presse@hoteldegallifet.com"
+      }
+    }, {
+      "identifiant" : 70512953,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.hoteldegallifet.com"
+      }
+    }, {
+      "identifiant" : 79606577,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/HotelDeGallifet/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223184
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le restaurant du centre d'art Gallifet se situe dans un jardin de 500m2 à deux pas du Cours Mirabeau.",
+      "libelleEn" : "The Gallifet art center's restaurant is located in a 500m2 garden, near the Cours Mirabeau."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le restaurant de Gallifet ouvre ses portes pour la saison estivale le 24 mai. Le chef Preston Miller y sera en résidence pendant quatre mois.\r\n\r\nSous une canopée de feuilles de marronniers centenaires Gallifet Kitchen propose une cuisine locale, simple et raffinée. Le restaurant a à cœur de mettre en valeur des produits sélectionnés auprès d'agriculteurs, de pêcheurs et d'artisans de la région. Pour certains fruits et légumes, la récolte vient directement de son propre potager – le Gallifet Kitchen Garden – qui se trouve à 6 kilomètres d'Aix.",
+      "libelleEn" : "The de Gallifet restaurant opens for the summer season on May 24th. Chef Preston Miller will be in residence for four months.\r\n\r\nBelow a canopy of centuries-old chestnut trees, Gallifet Kitchen serves local, simple and refined cuisine. The restaurant aims to enhance ingredients selected from the region's farmers, fishermen and artisans. Some of the fruit and vegetables come directly from the Gallifet Kitchen Garden, 6 kilometres away from Aix."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "52 rue Cardinale",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447867, 43.525141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539502
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1118
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1177
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 4995
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6304
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 24/05 au 01/10/2022, tous les mardis, mercredis, jeudis, vendredis, samedis et dimanches de 12h à 18h.\nEt tous les jeudis, vendredis et samedis soirs.",
+      "libelleEn" : "From 24/05 to 01/10/2022, every Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday between 12 pm and 6 pm.",
+      "libelleEs" : "Del 24/05 al 01/10/2022, todos los martes, miércoles, jueves, viernes, sábados y domingos de 12 a 18.",
+      "libelleIt" : "Dal 24/05 al 01/10/2022, tutti i martedì, mercoledì, giovedì, venerdì, sabati e domeniche dalle 12 alle 18.",
+      "libelleDe" : "Vom 24/05 bis 01/10/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 12 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 24/05 tot en met 01/10/2022, elke dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag van 12.00 tot en met 18.00 u.",
+      "libelleRu" : "С 24/05 до 01/10/2022, каждый вторники, среды, четверги, пятницы, субботы и воскресенья с 12h до 18h.",
+      "libelleZh" : "从 5月24日 到 2022年10月1日, 每星期二, 星期三, 星期四, 星期五, 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 24/05 a 01/10/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos de 12h a  18h.",
+      "libelleJa" : "24/05 から 01/10/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 12 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19616736,
+      "dateDebut" : "2022-05-24",
+      "dateFin" : "2022-10-01",
+      "complementHoraire" : {
+        "libelleFr" : "et tous les jeudis, vendredis et samedis soirs."
+      },
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23455827
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Menu dégustation : 45 € (menu du soir).\n",
+      "libelleEn" : "Tasting menu: 45 €.\n",
+      "libelleEs" : "Menú degustación: 45 €.\n",
+      "libelleIt" : "Menu degustazione: 45 €.\n",
+      "libelleDe" : "Verkostungsmenü: 45 €.\n",
+      "libelleNl" : "Proeverijmenu: € 45.\n",
+      "libelleRu" : "Дегустационное меню : 45 €.\n",
+      "libelleZh" : "品尝菜单 : 45 €.\n",
+      "libellePtBR" : "Menu degustação: 45 €.\n",
+      "libelleJa" : "試食メニュー: 45 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12739978,
+      "dateDebut" : "2022-05-24",
+      "dateFin" : "2022-10-01",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 45.00,
+        "maximum" : 45.00,
+        "precisionTarif" : {
+          "libelleFr" : "menu du soir"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1515
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18715266,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Perniola",
+    "prenom" : "Simona",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85863026,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "simona.perniola@gmail.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11833894,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002924_1_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Autre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/163/11903977.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/163/11903977-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/163/11903977-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/163/11903977-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 578375,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-12-17T10:22:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11833895,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002924_2_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Autre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/163/11903978.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/163/11903978-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/163/11903978-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/234/163/11903978-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 437073,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-12-17T10:22:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11833896,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002924_3_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Autre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/163/11903979.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/163/11903979-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/163/11903979-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/163/11903979-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 331151,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-12-17T10:22:35.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11833897,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002924_4_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Autre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/163/11903980.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/163/11903980-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/163/11903980-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/163/11903980-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 727295,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-12-17T10:22:35.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 1,
+    "capaciteMaxAccueil" : 100
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2985
+    } ],
+    "classementsGuides" : [ {
+      "elementReferenceType" : "RestaurationClassementGuide",
+      "id" : 2953
+    }, {
+      "elementReferenceType" : "RestaurationClassementGuide",
+      "id" : 5172
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    }, {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 3825
+    } ],
+    "capacite" : {
+      "nombreMaximumCouverts" : 80,
+      "nombreCouvertsTerrasse" : 80
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-10-01T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1795229,
+      "annee" : 2022,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST002924"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.2,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 33,
+        "dateMaj" : 1666703160540
+      }
+    } ]
+  } ]
+}

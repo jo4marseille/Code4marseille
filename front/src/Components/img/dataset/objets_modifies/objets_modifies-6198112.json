@@ -1,0 +1,238 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6198112,
+  "nom" : {
+    "libelleFr" : "Plein d'essence"
+  },
+  "identifier" : "SITRA2_EVE_6198112",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-07T10:01:51.700+0000",
+    "dateModification" : "2022-10-27T13:46:47.714+0000",
+    "dateExportModification" : "2022-10-27T13:46:47.844+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92160779,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://garage-comedy.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5919030
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Plus besoin d'aller dans la capitale pour voir des artistes talentueux ou/et reconnus, c'est désormais au cours Julien, en plein coeur du quartier des artistes que toute l'équipe du Garage vous donne rdv chaque semaine !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "6 humoristes pour faire le plein !\r\n\r\nLe Garage Comedy est un collectif d'une centaine artistes qui rassemble la crème du stand-up marseillais et qui invite chaque semaine des artistes de la France entière.\r\n\r\nPlus besoin d'aller dans la capitale pour voir des artistes talentueux ou/et reconnus, c'est désormais au cours Julien, en plein coeur du quartier des artistes que toute l'équipe du Garage vous donne rdv chaque semaine !\r\n\r\nÀ partir de 19h : le bar-tapas du Garage vous accueille dès l'heure de l'apéro dans son espace lounge le tout dans une ambiance musicale et chaleureuse.\r\n20h30 : début du Comedy Club (durée 1h15)\r\n21h30 : on vous accompagne pour finir la soirée en musique"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Garage Comedy",
+      "adresse1" : "15 Rue 3 Frères Barthélémy",
+      "codePostal" : "13006",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.384700, 43.292930 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 13/10/2022 au 25/05/2023, tous les jeudis à 20h30.",
+      "libelleEn" : "From 13/10/2022 to 25/05/2023, every Thursday at 8.30 pm.",
+      "libelleEs" : "Del 13/10/2022 al 25/05/2023, todos los jueves a 20:30.",
+      "libelleIt" : "Dal 13/10/2022 al 25/05/2023, tutti i giovedì alle 20:30.",
+      "libelleDe" : "Vom 13/10/2022 bis 25/05/2023, jeden Donnerstag um 20.30 Uhr.",
+      "libelleNl" : "Van 13/10/2022 tot en met 25/05/2023, elke donderdag om 20.30 u.",
+      "libelleRu" : "С 13/10/2022 до 25/05/2023, каждый четверги до 20h30.",
+      "libelleZh" : "从 2022年10月13日 到 2023年5月25日, 每星期四 在 小时小时分钟.",
+      "libellePtBR" : "De 13/10/2022 a 25/05/2023, todas as quintas-feiras para  20h30.",
+      "libelleJa" : "13/10/2022 から 25/05/2023 まで, 毎木曜日 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23823072,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2023-05-25",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 24618479
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 1 €.\n\n\nAu chapeau\r\nPrévoir une consommation.",
+      "libelleEn" : "Full price: from 1 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 1 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 1 €.\n",
+      "libelleDe" : "Voller Preis: ab 1 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 1 €.\n",
+      "libelleRu" : "Полную цену : с 1 €.\n",
+      "libelleZh" : "全额 : 从 1 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 1 €.\n",
+      "libelleJa" : "通常料金: 1 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Au chapeau\r\nPrévoir une consommation"
+    },
+    "periodes" : [ {
+      "identifiant" : 13807933,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2023-05-25",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 1.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14363991,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Plein d'essence"
+    },
+    "legende" : {
+      "libelleFr" : "Plein d'essence"
+    },
+    "copyright" : {
+      "libelleFr" : "Plein d'essence - Garage Comedy"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/73/14698920.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/73/14698920-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/73/14698920-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/73/14698920-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "plein essence",
+      "taille" : 91486,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-11T11:54:26.008+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29", "2023-01-05", "2023-01-12", "2023-01-19", "2023-01-26", "2023-02-02", "2023-02-09", "2023-02-16", "2023-02-23", "2023-03-02", "2023-03-09", "2023-03-16", "2023-03-23", "2023-03-30", "2023-04-06", "2023-04-13", "2023-04-20", "2023-04-27", "2023-05-04", "2023-05-11", "2023-05-18", "2023-05-25" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Garage Comedy"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-05-25T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

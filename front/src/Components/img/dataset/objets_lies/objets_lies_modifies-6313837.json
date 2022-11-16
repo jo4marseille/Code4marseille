@@ -1,0 +1,317 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313837,
+  "nom" : {
+    "libelleFr" : "Drôles de découvertes"
+  },
+  "identifier" : "SITRA2_EVE_6313837",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T08:45:36.748+0000",
+    "dateModification" : "2022-11-02T08:58:32.329+0000",
+    "dateExportModification" : "2022-11-02T08:58:57.211+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104813519,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 48"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation"
+      }
+    }, {
+      "identifiant" : 104813520,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    }, {
+      "identifiant" : 104813521,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    }, {
+      "identifiant" : 104813522,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La mythologie romaine, à travers les objets archéologiques, n’aura plus de secret pour les enfants. Visites enrichies d’un livret."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "PARCOURS INSOLITES D’OBJETS ENGLOUTIS\r\nPris dans les filets des pêcheurs ou pillés par les chasseurs d’épaves, les objets archéologiques découverts sous l’eau ont tous des histoires différentes. Recomposez ces parcours insolites d’objets engloutis et repartez avec votre petit livre d’histoires.\r\n\r\nPar Gabrielle Antz, médiatrice au musée.\r\n\r\nInformations pratiques\r\n> Enfants de 6 à 12 ans accompagnés d’un adulte\r\n> Durée : 1h15\r\n> Sur réservation au 04 13 31 51 48 du lundi au vendredi de 8h à 12h et 13h à 16h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Départemental Arles antique",
+      "adresse1" : "Presqu'île du Cirque-Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616077, 43.671947 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Lundi 19 décembre 2022 de 10h30 à 12h.\n\nMercredi 21 décembre 2022 de 10h30 à 12h.",
+      "libelleEn" : "Monday 19 December 2022 between 10.30 am and 12 pm.\n\nWednesday 21 December 2022 between 10.30 am and 12 pm.",
+      "libelleEs" : "Lunes, 19 de diciembre de 2022 de 10:30 a 12.\n\nMiércoles, 21 de diciembre de 2022 de 10:30 a 12.",
+      "libelleIt" : "Lunedì 19 dicembre 2022 dalle 10:30 alle 12.\n\nMercoledì 21 dicembre 2022 dalle 10:30 alle 12.",
+      "libelleDe" : "Montag, den 19. Dezember 2022 von 10.30 Uhr bis 12 Uhr.\n\nMittwoch, den 21. Dezember 2022 von 10.30 Uhr bis 12 Uhr.",
+      "libelleNl" : "Maandag 19 december 2022 van 10.30 tot en met 12.00 u.\n\nWoensdag 21 december 2022 van 10.30 tot en met 12.00 u.",
+      "libelleRu" : "Понедельник 19 декабря 2022  с 10h30 до 12h.\n\nСреда 21 декабря 2022  с 10h30 до 12h.",
+      "libelleZh" : "2022年12月19日, 星期一   小时小时分钟  和 小时小时 之间.\n\n2022年12月21日, 星期三   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Segunda-feira 19 Dezembro 2022 de 10h30 a  12h.\n\nQuarta-feira 21 Dezembro 2022 de 10h30 a  12h.",
+      "libelleJa" : "月曜日 19 12月 2022 10.30 午前 と 12 午後 の間.\n\n水曜日 21 12月 2022 10.30 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24674608,
+      "dateDebut" : "2022-12-19",
+      "dateFin" : "2022-12-19",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24674608
+    }, {
+      "identifiant" : 24674765,
+      "dateDebut" : "2022-12-21",
+      "dateFin" : "2022-12-21",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24674765
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21525885,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104813523,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104813524,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14723117,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Amphore - Trésors du fond des mers"
+    },
+    "copyright" : {
+      "libelleFr" : "Amphore - Trésors du fond des mers"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/97/15098361.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/97/15098361-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/97/15098361-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/97/15098361-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Amphore affiche trÃ©sor du fond des mers",
+      "taille" : 70457,
+      "hauteur" : 653,
+      "largeur" : 879,
+      "lastModifiedDate" : "2022-11-02T08:58:32.462+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-19", "2022-12-21" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée Départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-21T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

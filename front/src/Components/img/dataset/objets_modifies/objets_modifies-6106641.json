@@ -1,0 +1,259 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6106641,
+  "nom" : {
+    "libelleFr" : "Marché de la Plaine"
+  },
+  "identifier" : "SITRA2_EVE_6106641",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-03T06:42:05.563+0000",
+    "dateModification" : "2022-05-04T14:50:57.260+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 98992785,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://decouvrir-marseille.marseille.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5350442
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Grand marché populaire et historique de la Plaine."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Plus de 230 emplacements sont attribués aux forains  sur ce lieu emblématique du commerce de proximité marseillais.\r\n\r\nGrand marché populaire et historique dans le quartier de la Plaine  sur la place Jeans Jaurès.\r\n\r\nUn marché écologique, une gestion innovante et concertée\r\n\r\nLa concertationavec la Ville de Marseille apermis la planification de nouvelles conditions de circulation facilitant l’installation des camions des forains à proximité de leur emplacement.\r\n\r\nCes nouvelles mesures co-construites s’inscrivent dans le cadre d’un règlement intérieur revu permettant la réintégration d’un maximum de forains. La commission des marchés, réunie en février pour la première fois depuis plusieurs années, sera désormais régulièrement convoquée afin de maintenir un dialogue régulier sur les activités du marché, comme cela se pratique dans les autres villes.\r\n\r\nÀ la demande de la Ville de Marseille, les forains du marché de la Plaine ont accepté de s’inscrire dans une démarche plus écologique en remplaçant les sacs plastiques à usage unique par des sacs en papier ou en carton, favorisant leur recyclage et une gestion écologique satisfaisantes."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place Jean Jaurès",
+      "adresse1" : "Place Jean Jaurès",
+      "codePostal" : "13005",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.386852, 43.295663 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/05 au 31/12/2022, tous les mardis, jeudis et samedis de 7h30 à 14h sauf le 25 décembre.",
+      "libelleEn" : "From 03/05 to 31/12/2022, every Tuesday, Thursday and Saturday between 7.30 am and 2 pm except on December 25th.",
+      "libelleEs" : "Del 03/05 al 31/12/2022, todos los martes, jueves y sábados de 7:30 a 14 excepto el 25 de diciembre.",
+      "libelleIt" : "Dal 03/05 al 31/12/2022, tutti i martedì, giovedì e sabati dalle 7:30 alle 14 tranne il 25 dicembre.",
+      "libelleDe" : "Vom 03/05 bis 31/12/2022, jeden Dienstag, Donnerstag und Samstag von 7.30 Uhr bis 14 Uhr (außer 25. Dezember).",
+      "libelleNl" : "Van 03/05 tot en met 31/12/2022, elke dinsdag, donderdag en zaterdag van 7.30 tot en met 14.00 u m.u.v. 25 december.",
+      "libelleRu" : "С 03/05 до 31/12/2022, каждый вторники, четверги и субботы с 7h30 до 14h кроме 25 декабря.",
+      "libelleZh" : "从 5月3日 到 2022年12月31日, 每星期二, 星期四 和 星期六 小时小时分钟  和 小时小时 之间 不包括 12月25日.",
+      "libellePtBR" : "De 03/05 a 31/12/2022, todas as terças-feiras, quintas-feiras e sábados de 7h30 a  14h exceto em 25 de dezembro.",
+      "libelleJa" : "03/05 から 31/12/2022 まで, 毎火曜日, 木曜日 と 土曜日 7.30 午前 と 2 午後 の間 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23240780,
+      "dateDebut" : "2022-05-03",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "07:30:00",
+      "horaireFermeture" : "14:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23259399
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12950678,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché de la Plaine - Ville de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Marché de la Plaine - Ville de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/117/13137244.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/117/13137244-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/117/13137244-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/117/13137244-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "plaine",
+      "taille" : 100094,
+      "hauteur" : 842,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-05-04T14:50:10.411+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-20", "2022-10-22", "2022-10-25", "2022-10-27", "2022-10-29", "2022-11-01", "2022-11-03", "2022-11-05", "2022-11-08", "2022-11-10", "2022-11-12", "2022-11-15", "2022-11-17", "2022-11-19", "2022-11-22", "2022-11-24", "2022-11-26", "2022-11-29", "2022-12-01", "2022-12-03", "2022-12-06", "2022-12-08", "2022-12-10", "2022-12-13", "2022-12-15", "2022-12-17", "2022-12-20", "2022-12-22", "2022-12-24", "2022-12-27", "2022-12-29", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2124
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Place Jean Jaurès"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV078287"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

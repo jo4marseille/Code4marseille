@@ -1,0 +1,249 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6300251,
+  "nom" : {
+    "libelleFr" : "Au Corona bar"
+  },
+  "identifier" : "SITRA2_EVE_6300251",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-17T08:36:16.214+0000",
+    "dateModification" : "2022-10-17T08:46:53.484+0000",
+    "dateExportModification" : "2022-10-24T07:37:00.667+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70527685,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.theatreantidote.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227372
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une comédie à couper le souffle..."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Rendez-vous au Corona bar !\r\n\r\nOù l'on vous servira de succulents échanges, un cocktail au goût exquis avec une dose d'authenticité, une dose de fiction mais surtout une grosse dose d'humour.\r\n\r\nArtistes : Kamel, Jean-Jacques Fiorito"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Antidote",
+      "adresse1" : "132 Boulevard de la Blancarde",
+      "codePostal" : "13004",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4534
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.405569, 43.303468 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4534
+    } ],
+    "lieu" : {
+      "id" : 14705
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5227373
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du jeudi 10 au samedi 12 novembre 2022 à 21h15.\n\nDu jeudi 17 au samedi 19 novembre 2022 à 21h15.",
+      "libelleEn" : "From Thursday 10 to Saturday 12 November 2022 at 9.15 pm.\n\nFrom Thursday 17 to Saturday 19 November 2022 at 9.15 pm.",
+      "libelleEs" : "Del jueves, 10 al sábado, 12 de noviembre de 2022 a 21:15.\n\nDel jueves, 17 al sábado, 19 de noviembre de 2022 a 21:15.",
+      "libelleIt" : "Dal giovedì 10 a sabato 12 novembre 2022 alle 21:15.\n\nDal giovedì 17 a sabato 19 novembre 2022 alle 21:15.",
+      "libelleDe" : "Von Donnerstag, den 10. bis Samstag, den 12. November 2022 um 21.15 Uhr.\n\nVon Donnerstag, den 17. bis Samstag, den 19. November 2022 um 21.15 Uhr.",
+      "libelleNl" : "Donderdag 10 tot en met zaterdag 12 november 2022 om 21.15 u.\n\nDonderdag 17 tot en met zaterdag 19 november 2022 om 21.15 u.",
+      "libelleRu" : "С четверг 10 до суббота 12 ноября 2022  до 21h15.\n\nС четверг 17 до суббота 19 ноября 2022  до 21h15.",
+      "libelleZh" : "从 星期四 到 2022年11月12日, 星期六   在 小时小时分钟.\n\n从 星期四 到 2022年11月19日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "De Quinta-feira 10 a Sábado 12 Novembro 2022 para  21h15.\n\nDe Quinta-feira 17 a Sábado 19 Novembro 2022 para  21h15.",
+      "libelleJa" : "木曜日 10 から 土曜日 12 11月 2022 まで 9.15 午後 に.\n\n木曜日 17 から 土曜日 19 11月 2022 まで 9.15 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24511657,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "21:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24511809
+    }, {
+      "identifiant" : 24511691,
+      "dateDebut" : "2022-11-17",
+      "dateFin" : "2022-11-19",
+      "horaireOuverture" : "21:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24511810
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 20 €.\n",
+      "libelleEn" : "One price: 20 €.\n",
+      "libelleEs" : "Tarifa única: 20 €.\n",
+      "libelleIt" : "Tariffa unica: 20 €.\n",
+      "libelleDe" : "Einheitspreis: 20 €.\n",
+      "libelleNl" : "Vast tarief: € 20.\n",
+      "libelleRu" : "Единый тариф : 20 €.\n",
+      "libelleZh" : "定价 : 20 €.\n",
+      "libellePtBR" : "Tarifa única: 20 €.\n",
+      "libelleJa" : "シングルレート: 20 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13753097,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-19",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "maximum" : 20.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16645
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14429336,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Au Corona bar - Fiorito & Kamel"
+    },
+    "legende" : {
+      "libelleFr" : "Au Corona bar - Fiorito & Kamel"
+    },
+    "copyright" : {
+      "libelleFr" : "Au Corona bar - Fiorito & Kamel - L'Antidote"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/117/14775618.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/117/14775618-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/117/14775618-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/117/14775618-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "corona bar",
+      "taille" : 120095,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-17T08:44:15.395+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-17", "2022-11-18", "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Antidote"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

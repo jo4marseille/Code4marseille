@@ -1,0 +1,534 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539342,
+  "nom" : {
+    "libelleFr" : "Planétarium Peiresc",
+    "libelleEn" : "Planétarium Peiresc",
+    "libelleEs" : "Planétarium Peiresc",
+    "libelleIt" : "Planétarium Peiresc",
+    "libelleDe" : "Planétarium Peiresc",
+    "libelleNl" : "Planétarium Peiresc"
+  },
+  "identifier" : "SITRA2_PCU_5539342",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:52:34.258+0000",
+    "dateModification" : "2022-09-22T14:15:30.627+0000",
+    "dateExportModification" : "2022-10-17T12:22:42.992+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79673073,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 20 43 66"
+      }
+    }, {
+      "identifiant" : 79673074,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@aix-planetarium.fr"
+      }
+    }, {
+      "identifiant" : 79673075,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aix-planetarium.fr"
+      }
+    }, {
+      "identifiant" : 79673076,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/planetarium.peiresc/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5221765
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le planétarium Peiresc se trouve dans l'ouest de la ville à côté du parc St Mitre (quartier Jas de Bouffan).",
+      "libelleEn" : "The Peiresc planetarium is located near the gorgeous Saint Mitre Park, in the west part of the city."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Animées par des médiateurs scientifiques diplômés, les séances abordent tous les thèmes liés à l'astronomie, comme la découverte des étoiles et constellations, le Système solaire ou l'exploration spatiale ! Elles sont accessibles à tous les publics, des petits de 4 ans pour certaines séances et jusqu'aux plus passionnés pour d'autres.\r\nLa coupole de 8m est équipée d'un simulateur de ciel permettant de reproduire la voûte céleste.  Ce système permet également la projection de films et belles images sur les planètes ou les galaxies…\r\n\r\nDes séances publiques sont proposées le mercredi, le samedi et un dimanche par mois en général. Notre programme est aussi largement renforcé pendant les vacances scolaires. Le planétarium, ce sont aussi des activités pour les scolaires et autres groupes.\r\n\r\nVous pouvez vous rendre au planétarium en bus depuis le centre ville (arrêt Parc St Mitre, ligne 3). Pour les voitures, le stationnement est gratuit sur l'avenue.\r\n\r\n➜ Séances sur réservation (par téléphone uniquement).\r\n➜ Secrétariat : du mardi au samedi de 9h à 12h et de 13h à 16h30 (horaires habituels susceptibles de changements ponctuels).\r\n➜ Le site est ouvert au public en fonction des séances, expositions et événements.",
+      "libelleEn" : "The planetarium offers to visitors a complete set of learning experiences including and not limited to Astronomy, Astrophysics and Earth Science. Our team will guide you through a 8 meters dome equipped with a cutting edge star projector.\r\n\r\nThe planetarium has free lectures held every month on a wide variety of scientific subjects. You can visit the planetarium by bus from the Rotonde plaza or by car (free parking on site)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "166 Avenue Jean Monnet",
+      "codePostal" : "13090",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.425160, 43.532674 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5530697
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6292664
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les mardis, mercredis, jeudis, vendredis et samedis.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20140892,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24347308
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 8 €\nTarif réduit : 6 € (pour les adhérents, les demandeurs d'emploi, les étudiants, les handicapés et les enseignants : Bouches du Rhône et départements limitrophes)\nEnfant : 5 € (moins de 18 ans).\n",
+      "libelleEn" : "Full price: 8 €\nReduced price: 6 € (for job seekers, students and disabled people)\nChild: 5 € (Under 18 years old).\n",
+      "libelleEs" : "Tarifa completa: 8 €\nPrecio reducido: 6 €\nNiño: 5 €.\n",
+      "libelleIt" : "Tarrifa intera: 8 €\nPrezzo ridotto: 6 €\nBambino: 5 €.\n",
+      "libelleDe" : "Voller Preis: 8 €\nReduzierter Preis: 6 €\nKinder: 5 €.\n",
+      "libelleNl" : "Vol tarief: € 8\nKorting: € 6\nKind: € 5.\n",
+      "libelleRu" : "Полную цену : 8 €\nСниженная цена : 6 €\nРебенок : 5 €.\n",
+      "libelleZh" : "全额 : 8 €\n减价 : 6 €\n儿童 : 5 €.\n",
+      "libellePtBR" : "Tarifa inteira: 8 €\nPreço reduzido: 6 €\nCriança: 5 €.\n",
+      "libelleJa" : "通常料金: 8 €\n割引料金: 6 €\n子供: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 11710863,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 6.00,
+        "precisionTarif" : {
+          "libelleFr" : "pour les adhérents, les demandeurs d'emploi, les étudiants, les handicapés et les enseignants : Bouches du Rhône et départements limitrophes",
+          "libelleEn" : "for job seekers, students and disabled people"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "moins de 18 ans",
+          "libelleEn" : "Under 18 years old"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1751
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16801
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17643918,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ROUSSON",
+    "prenom" : "Christine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13190367,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Planetarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/2/13369896.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/2/13369896-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/2/13369896-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/2/13369896-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "planetariummmmmm",
+      "taille" : 248265,
+      "hauteur" : 803,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-06-08T09:43:25.699+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13190444,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Planetarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/2/13369973.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/2/13369973-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/2/13369973-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/2/13369973-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "planetariummmmmm.2jpg",
+      "taille" : 200881,
+      "hauteur" : 803,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-06-08T09:43:26.208+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195750,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4A00653_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Planétarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/143/8949711.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/143/8949711-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/143/8949711-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/143/8949711-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 762386,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-10T05:11:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195751,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4A00653_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Jean-Claude Carbone"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/143/8949712.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/143/8949712-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/143/8949712-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/143/8949712-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 372006,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-10T05:11:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195752,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4A00653_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Planétarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/143/8949713.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/143/8949713-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/143/8949713-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/143/8949713-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 779632,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-10T05:11:53.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195753,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4A00653_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Planétarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/143/8949714.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/143/8949714-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/143/8949714-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/143/8949714-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 295372,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-10T05:11:53.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195755,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4A00653_7_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Planétarium Peiresc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/143/8949716.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/143/8949716-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/143/8949716-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/143/8949716-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 580003,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-10T05:11:51.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3200
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3559
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3560
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1778
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4A00653"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

@@ -1,0 +1,493 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5984782,
+  "nom" : {
+    "libelleFr" : "Visite familiale nocturne à la chapelle de l'Annonciade",
+    "libelleEn" : "Family night visit to the chapel of the Annonciade",
+    "libelleEs" : "Visita nocturna en familia a la Capilla de la Anunciación",
+    "libelleDe" : "Nächtlicher Familienbesuch in der Annonciade-Kapelle"
+  },
+  "identifier" : "SITRA2_EVE_5984782",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-12-07T09:25:30.737+0000",
+    "dateModification" : "2022-07-19T09:15:35.101+0000",
+    "dateExportModification" : "2022-10-18T12:49:22.939+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 83679705,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Art, Histoire et Archéologie"
+      }
+    }, {
+      "identifiant" : 83682956,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 88 79 04"
+      },
+      "observation" : {
+        "libelleFr" : "Direct chapelle annonciade"
+      }
+    }, {
+      "identifiant" : 83679706,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service Art, Histoire et Archéologie"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visite à la lampe torche de la chapelle de l'Annonciade, pour les petit·es et les grand·es.",
+      "libelleEn" : "Torchlight visit of the Annonciade chapel, for children and adults.",
+      "libelleEs" : "Visita con antorchas a la capilla de la Annonciade, para grandes y pequeños.",
+      "libelleDe" : "Taschenlampenführung durch die Annonciade-Kapelle für Kinder und Erwachsene."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Découvrez la chapelle de l'Annonciade de Martigues comme vous ne l'avez jamais vu. Dans l'obscurité, munissez-vous de votre lampe torche et découvrez l'histoire de ce lieu emblématique à travers son style baroque.",
+      "libelleEn" : "Discover the chapel of the Annonciade of Martigues as you have never seen it before. In the dark, take your flashlight and discover the history of this emblematic place through its baroque style.",
+      "libelleEs" : "Descubra la capilla de la Annonciade en Martigues como nunca antes la había visto. En la oscuridad, tome su linterna y descubra la historia de este emblemático lugar a través de su estilo barroco.",
+      "libelleDe" : "Entdecken Sie die Chapelle de l'Annonciade in Martigues, wie Sie sie noch nie gesehen haben. Nehmen Sie in der Dunkelheit Ihre Taschenlampe mit und entdecken Sie die Geschichte dieses symbolträchtigen Ortes anhand seines barocken Stils."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1669
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1678
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Chapelle de l'Annonciade",
+      "adresse1" : "Boulevard Richaud",
+      "adresse3" : "Jonquières",
+      "codePostal" : "13500",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Marseille Provence : Aéroport/Aérodrome à 20km\r\nGare de Martigues Lavéra : Gare ferroviaire à 4km",
+        "libelleEn" : "Marseille Provence: Airport / Aerodrome at 20km\r\nMartigues Lavéra station: Railway station at 4km",
+        "libelleEs" : "Marsella Provenza: Aeropuerto / Aeródromo a 20km\r\nEstación Martigues Lavéra: estación de tren a 4km",
+        "libelleDe" : "Marseille Provence: Flughafen / Flugplatz in 20 km Entfernung\r\nMartigues Lavéra Station: Bahnhof in 4 km Entfernung"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.054480, 43.403477 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 191
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4071
+    } ],
+    "lieu" : {
+      "id" : 15173
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5539368
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539368
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : { },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    } ],
+    "ageMin" : 72,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 22 décembre 2022 de 17h30 à 19h.",
+      "libelleEn" : "Thursday 22 December 2022 between 5.30 pm and 7 pm.",
+      "libelleEs" : "Jueves, 22 de diciembre de 2022 de 17:30 a 19.",
+      "libelleIt" : "Giovedì 22 dicembre 2022 dalle 17:30 alle 19.",
+      "libelleDe" : "Donnerstag, den 22. Dezember 2022 von 17.30 Uhr bis 19 Uhr.",
+      "libelleNl" : "Donderdag 22 december 2022 van 17.30 tot en met 19.00 u.",
+      "libelleRu" : "Четверг 22 декабря 2022  с 17h30 до 19h.",
+      "libelleZh" : "2022年12月22日, 星期四   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quinta-feira 22 Dezembro 2022 de 17h30 a  19h.",
+      "libelleJa" : "木曜日 22 12月 2022 5.30 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22235383,
+      "dateDebut" : "2022-12-22",
+      "dateFin" : "2022-12-22",
+      "complementHoraire" : { },
+      "horaireOuverture" : "17:30:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23906915
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateFermeture" : "2021-12-04"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18309385,
+    "referent" : true,
+    "nom" : "Art, Histoire et Archéologie",
+    "prenom" : "Service",
+    "titre" : {
+      "libelleFr" : "14 quai Aristide Briand"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83653059,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653060,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653071,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 95"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653072,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magali.gouiran@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653083,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 71"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 83653084,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "emmanuelle.achilli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 89792418,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 24 00 24 14"
+      },
+      "observation" : {
+        "libelleFr" : "Sylviane Allivons-Chapelle l'Annonciade"
+      }
+    }, {
+      "identifiant" : 103445971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nais.paoli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Naïs Paoli - Médiatrice culturelle"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11735371,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Chapelle de l'Annonciade de Martigues"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/222/11788005.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/222/11788005-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/222/11788005-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/222/11788005-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "OT Mtg kk (3)",
+      "taille" : 4216614,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2021-12-07T09:33:15.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11735372,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Visite familiale nocturne de la Chapelle de l'Annonciade de Martigues"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/222/11788006.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/222/11788006-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/222/11788006-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/222/11788006-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "OT Mtg kk (17)",
+      "taille" : 5505958,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2021-12-07T09:33:11.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11735373,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Style baroque de la chapelle de Martigues"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/222/11788007.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/222/11788007-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/222/11788007-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/222/11788007-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "OT Mtg kk (21)",
+      "taille" : 4853930,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2021-12-07T09:33:08.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-12-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Chapelle de l'Annonciade"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-22T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS002337"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Martigues"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.martigues-tourisme.com"
+    }
+  } ]
+}

@@ -1,0 +1,212 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305787,
+  "nom" : {
+    "libelleFr" : "Twill & tulle"
+  },
+  "identifier" : "SITRA2_EVE_6305787",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T12:59:27.630+0000",
+    "dateModification" : "2022-11-07T11:05:57.117+0000",
+    "dateExportModification" : "2022-11-07T11:05:57.275+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104409642,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/zemma/twill-and-tulle"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5802268
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour la galerie Zemma, Nicole Hassler a choisi de montrer des oeuvres reflétant sa démarche, des peintures, des travaux sur papier et réalisera une oeuvre murale."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La plasticienne franco-suisse Nicole Hassler (née à Bâle en 1953) expose pour la première fois à Marseille en présentant des œuvres inédites.\r\n\r\n Nicole Hassler travaille sur l’identité de la nature des pigments et à son apparence, avant de se tourner vers les nuanciers de l’industrie cosmétique. La question de la couleur l’a amené à diverses expérimentations, des peintures au fond de teint (1995) en passant par les vernis à ongle du cosméticien O.P.I (Los Angeles de 2008 à 2011), aux fards, ainsi qu’à des recettes ancestrales qu’elle applique à même le mur, au format architectural et éphémère.\r\n\r\n Pour la galerie Zemma, Nicole Hassler a choisi de montrer des oeuvres reflétant sa démarche, des peintures, des travaux sur papier et réalisera une oeuvre murale. Tandis qu’on ne touche jamais aux œuvres d’art, la plasticienne propose pour la première fois au public de participer à l’élaboration de la peinture, en poudrant un des murs de la galerie."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Atelier-galerie Zemma",
+      "adresse1" : "40 rue Sainte",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374373, 43.292347 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/10 au 12/11/2022, tous les vendredis et samedis de 15h à 19h.\nOu sur RDV.",
+      "libelleEn" : "From 07/10 to 12/11/2022, every Friday and Saturday between 3 pm and 7 pm.",
+      "libelleEs" : "Del 07/10 al 12/11/2022, todos los viernes y sábados de 15 a 19.",
+      "libelleIt" : "Dal 07/10 al 12/11/2022, tutti i venerdì e sabati dalle 15 alle 19.",
+      "libelleDe" : "Vom 07/10 bis 12/11/2022, jeden Freitag und Samstag von 15 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 07/10 tot en met 12/11/2022, elke vrijdag en zaterdag van 15.00 tot en met 19.00 u.",
+      "libelleRu" : "С 07/10 до 12/11/2022, каждый пятницы и субботы с 15h до 19h.",
+      "libelleZh" : "从 10月7日 到 2022年11月12日, 每星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 07/10 a 12/11/2022, todas as sextas-feiras e sábados de 15h a  19h.",
+      "libelleJa" : "07/10 から 12/11/2022 まで, 毎金曜日 と 土曜日 3 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24556629,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : {
+        "libelleFr" : "Ou sur RDV"
+      },
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24711380
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14481830,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Nicole Hassler"
+    },
+    "copyright" : {
+      "libelleFr" : "Nicole Hassler"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/91/14834635.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/91/14834635-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/91/14834635-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/91/14834635-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "archi",
+      "taille" : 66190,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-21T13:06:24.176+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Atelier-galerie Zemma"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

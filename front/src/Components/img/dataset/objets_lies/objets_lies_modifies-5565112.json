@@ -1,0 +1,489 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5565112,
+  "nom" : {
+    "libelleFr" : "Atelier Marcel Carbonel",
+    "libelleEn" : "Les Ateliers Marcel Carbonel",
+    "libelleEs" : "Les Ateliers Marcel Carbonel",
+    "libelleIt" : "Les Ateliers Marcel Carbonel",
+    "libelleDe" : "Les Ateliers Marcel Carbonel",
+    "libelleNl" : "Les Ateliers Marcel Carbonel"
+  },
+  "identifier" : "SITRA2_COS_5565112",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T23:06:24.024+0000",
+    "dateModification" : "2021-11-25T14:13:51.556+0000",
+    "dateExportModification" : "2022-11-08T17:02:04.910+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80136231,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 54 26 58"
+      }
+    }, {
+      "identifiant" : 80136232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 13 61 36"
+      }
+    }, {
+      "identifiant" : 80136233,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "infomc@santonsmarcelcarbonel.com"
+      }
+    }, {
+      "identifiant" : 80136234,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.santonsmarcelcarbonel.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "30912351100029",
+      "codeApeNaf" : "262A"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5218774
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Marcel Carbonel, maître-santonnier depuis 1935, a ouvert son atelier à proximité de l'abbaye St Victor à Marseille. Aujourd'hui, c'est son petit fils, Philippe Renoux, qui a repris avec la même passion l'activité."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dans l'atelier, les visiteurs peuvent entrer librement et gratuitement.\r\nIl y a toujours quelqu'un pour accueillir et donner des explications sur les différentes étapes de la création du santon. \r\nOn peut voir les moules de production (les moules-mères sont dans un coffre-fort) + l'atelier peinture (gouache si particulière qu'elle donne un effet velours aux costumes des santons ) ainsi que les fours.\r\nLes ateliers Carbonel sont les seuls à fabriquer leurs propres couleurs avec des pigments qu'ils broient et qu'ils créent sur place.\r\n\r\nUn musée exceptionnel attenant à l'atelier retrace toute l'histoire du santon provençal depuis le XVIIIe s."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "1 - Les mesures préconisées par l'Agence Nationale de Santé Publique en\nmatière de gestes barrières\n \n2 - L'application des règles de distanciation sociale\n \n3 - La mise en oeuvre des chartes promulguées par les instances\nprofessionnelles (FNHPA, UMIH, GNC, Gîtes de France...)\n \n4 - La présence, dans chaque structure, d'un(e) référent(e) sécurité\nsanitaire au fait des procédures et des protocoles, et qui portera à la\nconnaissance de l'ensemble du personnel les mesures à respecter\n \n5 -La diffusion et la mise à disposition de toutes les informations\nsanitaires indispensables : marins pompiers, services médicaux,\nhôpitaux, centres de dépistage, urgences ...\n \n6 - L'établissement de règles de conduite en cas de suspicion Covid-19 :\ndisposer d'un protocole précis en ce qui concerne les employés qui\npourraient montrer des signes d'infection au Covid-10 et appliquer ces\nprotocoles sans délai \" dans la mesure du possible \", ces protocoles\ndoivent aussi être appliqués aux clients en cas de doute"
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 5317
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6068
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6199
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "47 Rue Neuve Sainte-Catherine",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367214, 43.291616 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539551
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 5469
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Vieux Port-Carénage)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12, tous les mardis, mercredis, jeudis, vendredis et samedis.",
+      "libelleEn" : "From 01/01 to 31/12, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 01/01 al 31/12, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 01/01 al 31/12, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 01/01 bis 31/12, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 01/01 tot en met 31/12, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 01/01 до 31/12, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 1月1日 到 12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 01/01 a 31/12, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "01/01 から 31/12 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19420203,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22162012
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "50 euros pour un groupe de 20 personnes. Durée de la visite 45 minutes."
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5692701,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5218774
+      },
+      "nom" : "Atelier Marcel Carbonel",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70476336,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "infomc@santonsmarcelcarbonel.com"
+        }
+      }, {
+        "identifiant" : 70476335,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 91 54 26 58"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 10234
+  }, {
+    "id" : 12888
+  }, {
+    "id" : 12889
+  }, {
+    "id" : 12891
+  }, {
+    "id" : 13198
+  }, {
+    "id" : 13246
+  }, {
+    "id" : 16636
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17722627,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "VITALI",
+    "prenom" : "Baptiste",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90333860,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0618465882"
+      }
+    }, {
+      "identifiant" : 90333861,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bvitali@marcelcarbonel.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11626559,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/228/11658283.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/228/11658283-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/228/11658283-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/228/11658283-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC_1428",
+      "taille" : 6629819,
+      "hauteur" : 3096,
+      "largeur" : 5504,
+      "lastModifiedDate" : "2021-11-25T14:13:51.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11624758,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Santons Marcel Carbonel"
+    },
+    "legende" : {
+      "libelleFr" : "Santons Marcel Carbonel Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme et Congrès Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/221/11656496.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/221/11656496-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/221/11656496-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/221/11656496-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marcel Carbonel 1",
+      "taille" : 6079015,
+      "hauteur" : 3096,
+      "largeur" : 5504,
+      "lastModifiedDate" : "2021-11-25T09:25:06.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11567622,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Santons Marcel carbonel Marseille.jpg"
+    },
+    "legende" : {
+      "libelleFr" : "Santons Marcel carbonel Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Crédit photo Carbonel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/209/11587994.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/209/11587994-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/209/11587994-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/209/11587994-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 30339,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-11-19T15:08:38.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-30", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-07", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02", "2024-11-05", "2024-11-06", "2024-11-07", "2024-11-08" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1874
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2071
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4724
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4002287"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.7,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 55,
+        "dateMaj" : 1667920228094
+      }
+    } ]
+  } ]
+}

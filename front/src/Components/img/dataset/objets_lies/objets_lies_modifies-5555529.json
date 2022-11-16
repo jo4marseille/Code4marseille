@@ -1,0 +1,323 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5555529,
+  "nom" : {
+    "libelleFr" : "Boutique de la savonnerie La Licorne",
+    "libelleEn" : "Boutique de la savonnerie La Licorne",
+    "libelleIt" : "Boutique de la savonnerie La Licorne",
+    "libelleDe" : "Boutique de la savonnerie La Licorne",
+    "libelleNl" : "Boutique de la savonnerie La Licorne"
+  },
+  "identifier" : "SITRA2_COS_5555529",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T19:14:34.983+0000",
+    "dateModification" : "2022-07-08T07:18:05.230+0000",
+    "dateExportModification" : "2022-09-19T09:34:40.138+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80110425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 12 00 91"
+      }
+    }, {
+      "identifiant" : 80110426,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 96 12 00 91"
+      }
+    }, {
+      "identifiant" : 80110427,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.savon-de-marseille-licorne.com/"
+      }
+    }, {
+      "identifiant" : 101130384,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@soap-marseille.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5555528
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Vente de savons de Marseille fabriqués par l'usine du cours Julien. \r\nSavons traditionnels ou originaux (pétanque, sardine à la lavande etc.).\r\nCoffrets cadeaux, cosmétiques."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Depuis plus de 100 ans nos machines, nos gestes et notre savoir-faire sont restés inchangés, afin d'offrir au monde entier un savon de haute qualité et de grande renommée. Il est obtenu par un mélange d'huile et de soude. \r\nOn le broie ensuite avec des rouleaux en granit pour donner finesse et douceur à nos produits. Un mélangeur permet d'intégrer les ingrédients entrant dans la composition du savon (miel, essences, parfums, grains de lavande).\r\nLe produit obtenu est versé dans une boudineuse afin d'obtenir des \"pâtons\" de savon. \r\nLes savons sont ensuite estampillés manuellement, moulés et étiquetés."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "1 - Les mesures préconisées par l'Agence Nationale de Santé Publique en\nmatière de gestes barrières\n\n2 - L'application des règles de distanciation sociale\n\n3 - La mise en oeuvre des chartes promulguées par les instances\nprofessionnelles (FNHPA, UMIH, GNC, Gîtes de France...)\n\n4 - La présence, dans chaque structure, d'un(e) référent(e) sécurité\nsanitaire au fait des procédures et des protocoles, et qui portera à la\nconnaissance de l'ensemble du personnel les mesures à respecter\n\n5 -La diffusion et la mise à disposition de toutes les informations\nsanitaires indispensables : marins pompiers, services médicaux,\nhôpitaux, centres de dépistage, urgences ...\n\n6 - L'établissement de règles de conduite en cas de suspicion Covid-19 :\ndisposer d'un protocole précis en ce qui concerne les employés qui\npourraient montrer des signes d'infection au Covid-10 et appliquer ces\nprotocoles sans délai \" dans la mesure du possible \", ces protocoles\ndoivent aussi être appliqués aux clients en cas de doute"
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6199
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "112 Quai Du Port",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.368220, 43.296018 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538588
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5558004
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19421029,
+      "dateDebut" : "2021-01-02",
+      "dateFin" : "2021-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23832213
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4187
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16636
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8535469,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV004304_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/182/8304184.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/182/8304184-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/182/8304184-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/182/8304184-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 11772,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2020-07-25T22:06:07.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8535470,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV004304_2_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/182/8304185.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/182/8304185-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/182/8304185-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/182/8304185-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 69244,
+      "hauteur" : 166,
+      "largeur" : 198,
+      "lastModifiedDate" : "2020-07-25T22:06:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1874
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2058
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2160
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13DIV004304"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

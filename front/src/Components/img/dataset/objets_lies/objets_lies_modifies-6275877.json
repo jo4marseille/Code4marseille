@@ -1,0 +1,254 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6275877,
+  "nom" : {
+    "libelleFr" : "Ciné Concert - 3xMaya Deren"
+  },
+  "identifier" : "SITRA2_EVE_6275877",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-28T08:39:27.268+0000",
+    "dateModification" : "2022-10-10T06:43:35.050+0000",
+    "dateExportModification" : "2022-10-10T06:43:35.356+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77886824,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lameson.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5504675
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un cinéma hors la loi.\r\nConcert proposé dans le cadre du festival Jazz sur la Ville."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le projet de création de ciné-concert 3x Maya Deren est né de l’envie de longue date qu'a eue Uli Wolters de mettre en musique l’univers onirique de la cinéaste, chorégraphe, activiste et ethnologue américaine d'origine ukrainienne Maya Deren (née Eleanora Derenkovskaïa, Kiev, 1917 - NewYork, 1961). Figure de proue de la scène d'avant-garde américaine et artiste complète, celle-ci a durablement marqué son art par son approche unique et originale de la cinématographie, et c’est surtout les court-métrages qu’elle a réalisés dans les années 1940 qui ont établi un langage d’inspiration surréaliste et par moments psychanalytique dont l'influence est évidente encore de nos jours.\r\n\r\nUli Wolters a entrepris de mettre en musique – jouée en direct dans la longue tradition des ciné concerts – trois films phares de la réalisatrice iconique :\r\n\r\n- Meshes Of The Afternoon (1943) - durée 14 minutes\r\n- At Land (1944) –- durée 15 minutes\r\n- Ritual In Transfigured Time (1946) - durée 15 minutes\r\n\r\nLa composition musicale tisse des éléments mélodiques et rythmiques minimalistes à la manière de Steve Reich ou de Philip Glass, avec des passages qui relèvent davantage de l'écriture plus classique de musique de films et qui puisent aussi bien dans le langage musical du jazz que dans celui des musiques actuelles.\r\n\r\nArtistes\r\nUli Wolters\r\nChristophe Isselée"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Mesón",
+      "adresse1" : "52 rue Consolat",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.387830, 43.300330 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "complement" : { },
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 3 décembre 2022 à 20h30.\nOuverture des portes à 19h30\r\nDébut du concert à 20h30.",
+      "libelleEn" : "Saturday 3 December 2022 at 8.30 pm.",
+      "libelleEs" : "Sábado, 3 de diciembre de 2022 a 20:30.",
+      "libelleIt" : "Sabato 3 dicembre 2022 alle 20:30.",
+      "libelleDe" : "Samstag, den 3. Dezember 2022 um 20.30 Uhr.",
+      "libelleNl" : "Zaterdag 3 december 2022 om 20.30 u.",
+      "libelleRu" : "Суббота 3 декабря 2022  до 20h30.",
+      "libelleZh" : "2022年12月3日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "Sábado 3 Dezembro 2022 para  20h30.",
+      "libelleJa" : "土曜日 3 12月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24385059,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "complementHoraire" : {
+        "libelleFr" : "Ouverture des portes à 19h30\r\nDébut du concert à 20h30"
+      },
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24461644
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 12 €.\n\n\nAdhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert.",
+      "libelleEn" : "Full price: 12 €.\n",
+      "libelleEs" : "Tarifa completa: 12 €.\n",
+      "libelleIt" : "Tarrifa intera: 12 €.\n",
+      "libelleDe" : "Voller Preis: 12 €.\n",
+      "libelleNl" : "Vol tarief: € 12.\n",
+      "libelleRu" : "Полную цену : 12 €.\n",
+      "libelleZh" : "全额 : 12 €.\n",
+      "libellePtBR" : "Tarifa inteira: 12 €.\n",
+      "libelleJa" : "通常料金: 12 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert."
+    },
+    "periodes" : [ {
+      "identifiant" : 13687900,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14206494,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Ciné Concert - Maya Deren"
+    },
+    "legende" : {
+      "libelleFr" : "Ciné Concert - Maya Deren"
+    },
+    "copyright" : {
+      "libelleFr" : "Uli Wolters © Chris Boyer - Ciné Concert - Maya Deren - La Mesón"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/129/14516613.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/129/14516613-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/129/14516613-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/129/14516613-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cine concert",
+      "taille" : 102508,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-09-28T08:42:59.992+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-12-03" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Mesón"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-03T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

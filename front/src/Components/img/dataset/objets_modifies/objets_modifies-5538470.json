@@ -1,0 +1,377 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538470,
+  "nom" : {
+    "libelleFr" : "Musée Archéologique",
+    "libelleEn" : "Musée Archéologique",
+    "libelleIt" : "Musée Archéologique",
+    "libelleDe" : "Musée Archéologique",
+    "libelleNl" : "Musée Archéologique"
+  },
+  "identifier" : "SITRA2_PCU_5538470",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:39:29.358+0000",
+    "dateModification" : "2020-12-11T18:02:04.585+0000",
+    "dateExportModification" : "2022-09-05T08:52:11.402+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512912,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 22 71 19"
+      }
+    }, {
+      "identifiant" : 70512914,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.simiane-collongue.fr"
+      }
+    }, {
+      "identifiant" : 85037264,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 94 91 84"
+      }
+    }, {
+      "identifiant" : 85037265,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "silexfacsimile@hotmail.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223139
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Musée didactique de Préhistoire situé au sous-sol de la Mairie de Simiane."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ouvert les 1er samedis du mois. Les mercredis ateliers pour enfants. Inscriptions obligatoires : 04.91.47.67.72. Les ateliers sont payants. Voyage dans la Préhistoire, du Bing Bang à l'écriture en passant par la formation de la terre, l'apparition de la vie, l'évolution de l'homme. Puis viennent les grands acquis techniques : l'outil, la maîtrise du feu, l'art. Après la prédation, l'homme va dominer son environnement et va devenir producteur : agriculture élevage métallurgie.\r\nSurface de l'exposition permanente : 200"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Mairie de Simiane",
+      "adresse2" : "Sous sol",
+      "codePostal" : "13109",
+      "bureauDistribution" : "SIMIANE COLLONGUE",
+      "commune" : {
+        "id" : 4518
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Situé sous la Mairie, accès handicapé."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.435889, 43.415284 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4518
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 822
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public(Parking de la Mairie)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, le 1er samedi du mois.\nLes mercredis ateliers pour enfants.",
+      "libelleEn" : "All year round, 1st Saturday of the month.",
+      "libelleEs" : "Todo el año, el 1er sábado de mes.",
+      "libelleIt" : "Tutto l'anno, il 1° sabato del mese.",
+      "libelleDe" : "Ganzjährig, jeden 1. Samstag des Monats.",
+      "libelleNl" : "Het hele jaar, op de 1ste zaterdag van de maand.",
+      "libelleRu" : "В течение всего года, 1-й суббота месяца.",
+      "libelleZh" : "全年, 本月 于 第一天 星期六.",
+      "libellePtBR" : "Todo o ano, as 1º sábado do mês.",
+      "libelleJa" : "オールシーズン, 月の1日 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20158005,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Les mercredis ateliers pour enfants."
+      },
+      "type" : "OUVERTURE_MOIS",
+      "tousLesAns" : true,
+      "ouverturesJourDuMois" : [ {
+        "jourDuMois" : "D_1ER",
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 20158005
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués. Ateliers payants.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Ateliers payants"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5463128,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5223139
+      },
+      "nom" : "Musée Archéologique",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 85037282,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 91 47 67 72"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Les mercredis ateliers pour enfants. Inscriptions obligatoires :"
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 23313
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18570912,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BRETTON",
+    "prenom" : "Catherine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85037257,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 22 71 19"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8490566,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000049_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/8/8259610.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/8/8259610-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/8/8259610-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/8/8259610-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 498862,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:43:29.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8490567,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000049_2_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/8/8259611.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/8/8259611-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/8/8259611-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/27/8/8259611-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 458312,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:43:28.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 3,
+    "capaciteMaxAccueil" : 50
+  },
+  "visites" : {
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-03", "2023-01-07", "2023-02-04", "2023-03-04", "2023-04-01", "2023-05-06", "2023-06-03", "2023-07-01", "2023-08-05", "2023-09-02", "2023-10-07", "2023-11-04", "2023-12-02", "2024-01-06", "2024-02-03", "2024-03-02", "2024-04-06", "2024-05-04", "2024-06-01", "2024-07-06", "2024-08-03", "2024-09-07", "2024-10-05", "2024-11-02" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3429
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000049"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Simiane Collongue"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.simianetourisme.com"
+    }
+  } ]
+}

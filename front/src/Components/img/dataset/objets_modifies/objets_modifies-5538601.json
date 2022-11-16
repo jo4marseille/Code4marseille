@@ -1,0 +1,485 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538601,
+  "nom" : {
+    "libelleFr" : "Musée provençal des transports",
+    "libelleEn" : "Musée provençal des transports",
+    "libelleEs" : "Musée provençal des transports",
+    "libelleIt" : "Musée provençal des transports",
+    "libelleDe" : "Musée provençal des transports",
+    "libelleNl" : "Musée provençal des transports"
+  },
+  "identifier" : "SITRA2_PCU_5538601",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:58:36.626+0000",
+    "dateModification" : "2022-02-16T15:12:01.424+0000",
+    "dateExportModification" : "2022-09-29T07:30:48.115+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79630920,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 10 39 24 22"
+      }
+    }, {
+      "identifiant" : 79630922,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@cppva.com"
+      }
+    }, {
+      "identifiant" : 79836026,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.cppva.com/accueil.php?fbclid=IwAR1abK_gpt9ZVTooX7S2RpeIKt0LeLFp7g6JTRV8gUPPaK3ImxkTLyadl_c"
+      }
+    }, {
+      "identifiant" : 80958581,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/CPPVA/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "48763663100011"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5598112
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le musée retrace l'histoire des transports : wagons, tramways, trolley-bus, locomotives.\r\nLe petit train de 60 (écartement des roues) permet une promenade en campagne sur un parcours de 1 km 800 les dimanches après-midi."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce n'est ni un manège, ni un gros jouet. Il est constitué avec des matériels professionnels des mines de charbon et de bauxite, des carrières et des travaux publics.\r\nOn peut aussi découvrir une vingtaine de locomotives et tractrices, wagons et wagonets, visiter un wagon-poste complet.\r\nEnfin, un ancien trolley-bus Canebière-Corniche aménagé en salle de projection permet de découvrir les vieux transports marseillais à l'aide d'un montage audio-visuel.\r\nOn vous propose à la location des autobus anciens, ainsi que le site pour des événements divers comme des mariages, anniversaires, shooting photos...\r\nDes animations touristiques sont proposées aux visiteurs tout au long de l'année ainsi que des rassemblements de véhicules anciens..."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Pour sa réouverture au 31/05; l'espace musée réouvre et le petit train de Sainte Victoire fonctionnera ainsi que les petites locomotives à vapeur! Horaires adaptés au couvre-feu : ouverture le dimanche de 14:00 à 18:00.\r\nRespect des normes sanitaires."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Gare SNCF de La Barque",
+      "adresse2" : "Chemin de la Bergerie",
+      "codePostal" : "13710",
+      "bureauDistribution" : "FUVEAU",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.545974, 43.470510 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "descriptifAnimauxAcceptes" : {
+      "libelleFr" : "Animaux acceptés en laisse uniquement."
+    },
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking(Parking du musée)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3651
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 27/03 au 18/12, tous les dimanches de 14h à 18h.\nDe 14:30 à 17:30  horaires d'hiver.\r\n\r\nDe 14:00 à 18:00 horaires d'été\r\nTrains a 14H30, 15H30, 16H30.\r\nOuverture à la demande pour les groupes sur réservation.",
+      "libelleEn" : "From 27/03 to 18/12, every Sunday between 2 pm and 6 pm.",
+      "libelleEs" : "Del 27/03 al 18/12, todos los domingos de 14 a 18.",
+      "libelleIt" : "Dal 27/03 al 18/12, tutti le domeniche dalle 14 alle 18.",
+      "libelleDe" : "Vom 27/03 bis 18/12, jeden Sonntag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 27/03 tot en met 18/12, elke zondag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 27/03 до 18/12, каждый воскресенья с 14h до 18h.",
+      "libelleZh" : "从 3月27日 到 12月18日, 每星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 27/03 a 18/12, todas as domingos de 14h a  18h.",
+      "libelleJa" : "27/03 から 18/12 まで, 毎日曜日 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20051848,
+      "dateDebut" : "2022-03-27",
+      "dateFin" : "2022-12-18",
+      "complementHoraire" : {
+        "libelleFr" : "De 14:30 à 17:30  horaires d'hiver.\r\n\r\nDe 14:00 à 18:00 horaires d'été\r\nTrains a 14H30, 15H30, 16H30.\r\nOuverture à la demande pour les groupes sur réservation."
+      },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22718663
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateFermeture" : "2021-06-13"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée : 4€ \r\nEntrée : 12€ \r\nForfait : 120€"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Entrée : 4€ \r\nEntrée : 12€ \r\nForfait : 120€"
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1265
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5843776,
+      "nom" : "https://www.cppva.com/main_resa.php",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16903
+  }, {
+    "id" : 23526
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636896,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "SARETTO",
+    "prenom" : "Luc",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84542575,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 40 97 03 18"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9649073,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Provençal des transports"
+    },
+    "copyright" : {
+      "libelleFr" : "cdusserre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/136/9406645.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/136/9406645-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/136/9406645-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/136/9406645-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "2018-09-16 16.19.09",
+      "taille" : 2415940,
+      "hauteur" : 2976,
+      "largeur" : 3968,
+      "lastModifiedDate" : "2021-03-12T15:11:35.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9649110,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Provençal des Transports"
+    },
+    "copyright" : {
+      "libelleFr" : "cdusserre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/136/9406682.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/136/9406682-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/136/9406682-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/136/9406682-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "2018-09-16 16.42.05",
+      "taille" : 2447417,
+      "hauteur" : 2976,
+      "largeur" : 3968,
+      "lastModifiedDate" : "2021-03-12T15:11:38.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9649115,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Provençal des Transports"
+    },
+    "copyright" : {
+      "libelleFr" : "cdusserre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/136/9406686.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/136/9406686-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/136/9406686-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/136/9406686-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "2018-09-16 16.19.24",
+      "taille" : 1682529,
+      "hauteur" : 2976,
+      "largeur" : 3968,
+      "lastModifiedDate" : "2021-03-12T15:11:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9649125,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Provençal des Transports"
+    },
+    "copyright" : {
+      "libelleFr" : "cdusserre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/136/9406696.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/136/9406696-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/136/9406696-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/136/9406696-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cppva-train-patio",
+      "taille" : 353872,
+      "hauteur" : 926,
+      "largeur" : 1234,
+      "lastModifiedDate" : "2021-03-12T15:11:41.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9649869,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Provençal des Transports"
+    },
+    "copyright" : {
+      "libelleFr" : "cppva"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/138/9407193.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/138/9407193-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/138/9407193-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/138/9407193-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cppva-petit-train",
+      "taille" : 362942,
+      "hauteur" : 926,
+      "largeur" : 1234,
+      "lastModifiedDate" : "2021-03-12T15:17:38.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : false,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 489
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-30", "2022-11-06", "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-04", "2022-12-11", "2022-12-18", "2023-04-02", "2023-04-09", "2023-04-16", "2023-04-23", "2023-04-30", "2023-05-07", "2023-05-14", "2023-05-21", "2023-05-28", "2023-06-04", "2023-06-11", "2023-06-18", "2023-06-25", "2023-07-02", "2023-07-09", "2023-07-16", "2023-07-23", "2023-07-30", "2023-08-06", "2023-08-13", "2023-08-20", "2023-08-27", "2023-09-03", "2023-09-10", "2023-09-17", "2023-09-24", "2023-10-01", "2023-10-08", "2023-10-15", "2023-10-22", "2023-10-29", "2023-11-05", "2023-11-12", "2023-11-19", "2023-11-26", "2023-12-03", "2023-12-10", "2023-12-17", "2024-03-31", "2024-04-07", "2024-04-14", "2024-04-21", "2024-04-28", "2024-05-05", "2024-05-12", "2024-05-19", "2024-05-26", "2024-06-02", "2024-06-09", "2024-06-16", "2024-06-23", "2024-06-30", "2024-07-07", "2024-07-14", "2024-07-21", "2024-07-28", "2024-08-04", "2024-08-11", "2024-08-18", "2024-08-25", "2024-09-01", "2024-09-08", "2024-09-15", "2024-09-22", "2024-09-29", "2024-10-06", "2024-10-13", "2024-10-20", "2024-10-27" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3438
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3225
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001645"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Fuveau"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.fuveau-tourisme.com"
+    }
+  } ]
+}

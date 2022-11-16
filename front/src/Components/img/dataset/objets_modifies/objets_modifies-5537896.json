@@ -1,0 +1,256 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537896,
+  "nom" : {
+    "libelleFr" : "Meyrargues",
+    "libelleEn" : "Le village de Meyrargues",
+    "libelleIt" : "Le village de Meyrargues",
+    "libelleDe" : "Le village de Meyrargues",
+    "libelleNl" : "Le village de Meyrargues"
+  },
+  "identifier" : "SITRA2_PCU_5537896",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:57:21.194+0000",
+    "dateModification" : "2021-01-18T16:07:18.310+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Mairie de Meyrargues",
+      "dateCreation" : "2020-11-30T10:52:00.632+0000",
+      "dateModification" : "2022-10-24T08:49:32.795+0000",
+      "id" : 2141,
+      "siteWeb" : "http://www.meyrargues.fr"
+    },
+    "signalerUnProblemeMails" : [ "bim@meyrargues.fr", "philippe.gregoire@meyrargues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627123,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 57 50 09"
+      }
+    }, {
+      "identifiant" : 79627124,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@meyrargues.fr"
+      }
+    }, {
+      "identifiant" : 79627125,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.meyrargues.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224158
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La petite commune de Meyrargues  est à 14 kilomètres au Nord d'Aix-en-Provence. D'une surface de 4167 hectares et d'une altitude de 235 mètres, la commune recense une population de 3850 Meyrarguais(es)"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Meyrargues est un village blotti à flanc de collines. Il domine la vallée de la Durance entre la montagne du Luberon et son vaste espace forestier du Ligourès qui s'étend jusqu'à la montagne Sainte-Victoire. Meyrargues a su conserver toute la beauté de son environnement et sa faune remarquable.\r\nSon château du X siècle domine le village du haut d'un rocher. \r\n\r\nDans un vallon derrière le château, en prenant la route du cimetière, vous pourrez apercevoir les vestiges d'un ancien aqueduc romain qui jadis desservait la ville d'Aix en Provence. Ce vallon est également le point de départ de nombreuses randonnées pédestres.\r\n\r\nLe circuit de \"Découverte du patrimoine entre nature et histoire\" avec la table d'orientation au sommet de la colline St Claude permet aux visiteurs d'embrasser un panorama à couper le souffle sur 360°.",
+      "libelleEn" : "The small town of Meyrargues is 14 kilometres north of Aix-en-Provence. With an area of 4167 hectares and an altitude of 235 meters, the commune has a population of 3850 inhabitants.\r\n\r\nMeyrargues is a hillside village. It dominates the Durance Valley between the Luberon mountain and its vast forest area of Ligourès which extends to the Sainte-Victoire mountain. Meyrargues has preserved all the beauty of its environment and its remarkable fauna.\r\nIts 10th century castle dominates the village from the top of a rock. \r\n\r\nIn a valley behind the castle, taking the road to the cemetery, you can see the remains of an ancient Roman aqueduct that once served the city of Aix in Provence. This valley is also the starting point for many hikes.\r\n\r\nThe \"Discovering the Heritage Between Nature and History\" tour with the orientation table at the top of St Claude's Hill allows visitors to embrace a breathtaking 360-degree panorama."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13650",
+      "bureauDistribution" : "MEYRARGUES",
+      "commune" : {
+        "id" : 4470
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.528175, 43.635993 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4470
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01/2019 au 31/12/2021, tous les jours.",
+      "libelleEn" : "From 01/01/2019 to 31/12/2021, daily.",
+      "libelleEs" : "Del 01/01/2019 al 31/12/2021, todos los dias.",
+      "libelleIt" : "Dal 01/01/2019 al 31/12/2021, ogni giorno.",
+      "libelleDe" : "Vom 01/01/2019 bis 31/12/2021, täglich.",
+      "libelleNl" : "Van 01/01/2019 tot en met 31/12/2021, iedere dag.",
+      "libelleRu" : "С 01/01/2019 до 31/12/2021, ежедневно.",
+      "libelleZh" : "从 2019年1月1日 到 2021年12月31日, 日常.",
+      "libellePtBR" : "De 01/01/2019 a 31/12/2021, todos os dias.",
+      "libelleJa" : "01/01/2019 から 31/12/2021 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19373357,
+      "dateDebut" : "2019-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 20353409
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16903
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9380167,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Meyrargues 13650"
+    },
+    "legende" : {
+      "libelleFr" : "vue sommet St Claude"
+    },
+    "copyright" : {
+      "libelleFr" : "@ville de Meyrargues"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/109/9137627.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/109/9137627-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/109/9137627-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/109/9137627-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "03 01 2009 P1010140 (7)",
+      "taille" : 802061,
+      "hauteur" : 1712,
+      "largeur" : 2288,
+      "lastModifiedDate" : "2021-01-18T16:06:18.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693855
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3495
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3504
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000079"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

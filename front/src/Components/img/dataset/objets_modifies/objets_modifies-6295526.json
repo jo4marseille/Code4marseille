@@ -1,0 +1,221 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6295526,
+  "nom" : {
+    "libelleFr" : "Hip Hop Sensations - DJ Samy (Numark Artist)"
+  },
+  "identifier" : "SITRA2_EVE_6295526",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T07:07:09.167+0000",
+    "dateModification" : "2022-10-14T07:15:02.107+0000",
+    "dateExportModification" : "2022-10-14T07:15:02.606+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77015619,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lemakeda.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463821
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un Concentré de Hip Hop Old School au Makeda."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "RareRnB - NewJack - Funk - Groove - Boom Bap - Drill - Ragga\r\n\r\nAmbassadeur et artiste officiel Numark (USA) parmi 25 autres artistes à travers le monde.\r\nDJ Samy est un activiste Hip Hop depuis la fin des années 90, il s'est produit en première partie d'artistes nationaux et internationaux comme 50 Cent, Booba, The Pharcyde, Fatman Scoop, Tara McDonald, Psy 4 de La Rime...\r\nIl fonde en 2015 le Mouvement Scratcheverywhere qui a connu un grand succès á Londres pour son lancement au fameux Chip Shop, lieu incontournable de la scène Hip Hop Londoniennes.\r\n\r\nEn 2018, il marque les esprits lors de son showcase avec sa platine vinyle portable pour la 34e édition des championnats du monde des Djs à Londres, le DMC World DJ Championship.\r\n\r\nIl rejoint par la suite la team des juges DMC portablist en 2018, 2019, 2020, 2021 et 2022.\r\nEn 2022, il fonde Cuts Radio, la nouvelle radio made in Marseille avec un bouquet de 6 Radios Digitales.\r\n\r\nSes sets connus par un mélange harmonieux de Scratch, de différents styles musicaux, et un concentré d'énergie, font l'unanimité auprès du public dans chacune de ses prestations !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Makeda",
+      "adresse1" : "103 Rue Ferrari",
+      "codePostal" : "13005",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.391787, 43.293280 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 23h30.",
+      "libelleEn" : "Friday 11 November 2022 at 11.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 23:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 23:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 23.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 23.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 23h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  23h30.",
+      "libelleJa" : "金曜日 11 11月 2022 11.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24496780,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : { },
+      "horaireOuverture" : "23:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24496780
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués. L'adhésion à Orizon Sud est valable un an, elle vous donne accès à un tarif réduit.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "L'adhésion à Orizon Sud est valable un an, elle vous donne accès à un tarif réduit."
+    },
+    "periodes" : [ {
+      "identifiant" : 13744056,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11"
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14394085,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Hip Hop Sensations - DJ Samy (Numark Artist)"
+    },
+    "legende" : {
+      "libelleFr" : "Jef Caïazzo - Le Makeda"
+    },
+    "copyright" : {
+      "libelleFr" : "Jef Caïazzo - Le Makeda"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/206/14732824.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/206/14732824-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/206/14732824-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/206/14732824-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "makeda logo design par Jef Caïazzo",
+      "taille" : 58941,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-14T07:15:02.179+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2111
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3815
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 6786
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Makeda"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

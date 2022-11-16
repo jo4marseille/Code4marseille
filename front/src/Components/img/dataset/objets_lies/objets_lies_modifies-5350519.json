@@ -1,0 +1,149 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5350519,
+  "nom" : {
+    "libelleFr" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleEn" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleEs" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleIt" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleDe" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleNl" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleRu" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleZh" : "Mairie de Saint-Étienne-du-Grès",
+    "libellePtBR" : "Mairie de Saint-Étienne-du-Grès",
+    "libelleJa" : "Mairie de Saint-Étienne-du-Grès"
+  },
+  "identifier" : "SITRA2_STR_5350519",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-09-17T14:10:36.492+0000",
+    "dateModification" : "2022-06-01T10:05:12.622+0000",
+    "dateExportModification" : "2022-06-01T10:05:12.750+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 73680302,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 16 46",
+        "en" : "00 33 4 90 49 16 46",
+        "de" : "00 33 4 90 49 16 46"
+      }
+    }, {
+      "identifiant" : 73680304,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@saintetiennedugres.com"
+      }
+    }, {
+      "identifiant" : 73680305,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://saintetiennedugres.com/"
+      }
+    }, {
+      "identifiant" : 99856167,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/saintetiennedugres"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130094200011",
+      "codeApeNaf" : "751A"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de Ville",
+      "codePostal" : "13103",
+      "commune" : {
+        "id" : 4505
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.731181, 43.781192 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4505
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18511263,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Mangion",
+    "prenom" : "Jean",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 469
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

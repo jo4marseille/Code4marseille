@@ -1,0 +1,374 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5808001,
+  "nom" : {
+    "libelleFr" : "Escape Game : pistez Aix",
+    "libelleEn" : "Escape Game : pistez Aix"
+  },
+  "identifier" : "SITRA2_EVE_5808001",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-05-20T10:01:27.241+0000",
+    "dateModification" : "2022-03-24T07:24:27.258+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5515470
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Explorez Aix-en-Provence de façon unique ! L’affaire du dessin volé est un jeu de piste / escape game extérieur.",
+      "libelleEn" : "Explore Aix-en-Provence in a unique way! The stolen draw case is an outdoor treasure hunt / escape game."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Guidé par un kit d’enquêteur fourni par l’Office de Tourisme, à vous de résoudre les 18 énigmes de l’aventure tout en profitant d’un parcours original à travers la ville, ponctué d’anecdotes historiques. \r\n\r\n➜ Départ à l'Office de Tourisme, Pass sanitaire nécessaire pour récupérer votre kit\r\n➜ Difficulté des énigmes : moyenne, pour ados/adultes (à partir de 9 ans).\r\n➜ Durée : 2h30 environ\r\n➜ L'Office de Tourisme est fermé les dimanches et certains jours fériés, le kit d'enquêteur devra être récupéré la veille.",
+      "libelleEn" : "Guided by an investigator's kit provided by the Tourist Office, you have to solve the 18 riddles of the adventure while enjoying an original route through the city, punctuated by historical anecdotes.\r\n\r\n➜ Kit only in French\r\n➜ Departure at the Tourist Office, Health pass required to collect your kit\r\n➜ Difficulty of the riddles: medium, for teenagers / adults (from 9 years old).\r\n➜ Duration: about 2h30\r\n➜ The Tourist Office is closed on Sundays and on some public holidays, the interviewer kit must be taken the day before."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Au départ de l'Office de Tourisme",
+      "adresse1" : "300 avenue Giuseppe Verdi",
+      "adresse2" : "BP 40106",
+      "codePostal" : "13090",
+      "bureauDistribution" : "Aix-en-Provence",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444349, 43.526025 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 16674
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "AU_DEPART_DE",
+      "libelleFr" : "Se trouve au départ de...",
+      "libelleEn" : "Is located at the start of...",
+      "libelleEs" : "Se encuentra en el inicio de...",
+      "libelleIt" : "Si trova alla partenza di...",
+      "libelleDe" : "Befindet sich beim Start von ...",
+      "libelleNl" : "Bevindt zich bij het vertrekpunt van ...",
+      "libelleRu" : "Находится при выезде из...",
+      "libelleZh" : "位于起点",
+      "libellePtBR" : "Se encontra na saída de ...",
+      "libelleJa" : "の出発地は",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5547667
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 15/12/2021 au 31/12/2022, tous les jours de 8h30 à 18h.\nFermé les dimanches et jours fériés.\r\nKits à récupérer à l'Office de Tourisme.",
+      "libelleEn" : "From 15/12/2021 to 31/12/2022, daily between 8.30 am and 6 pm.\nClosed on Sundays and public holidays.",
+      "libelleEs" : "Del 15/12/2021 al 31/12/2022, todos los dias de 8:30 a 18.",
+      "libelleIt" : "Dal 15/12/2021 al 31/12/2022, ogni giorno dalle 8:30 alle 18.",
+      "libelleDe" : "Vom 15/12/2021 bis 31/12/2022, täglich von 8.30 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 15/12/2021 tot en met 31/12/2022, iedere dag van 8.30 tot en met 18.00 u.",
+      "libelleRu" : "С 15/12/2021 до 31/12/2022, ежедневно с 8h30 до 18h.",
+      "libelleZh" : "从 2021年12月15日 到 2022年12月31日, 日常 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 15/12/2021 a 31/12/2022, todos os dias de 8h30 a  18h.",
+      "libelleJa" : "15/12/2021 から 31/12/2022 まで, 毎日 8.30 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21007350,
+      "dateDebut" : "2021-12-15",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Fermé les dimanches et jours fériés.\r\nKits à récupérer à l'Office de Tourisme.",
+        "libelleEn" : "Closed on Sundays and public holidays."
+      },
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22682575
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 11 €.\n\n Gratuit pour les moins de 9 ans.\n\nGratuit pour les détenteurs du City Pass Aix-en-Provence.",
+      "libelleEn" : "Adult: 11 €.\n\n Free entry for children < 9 years.\n\nFree for City Pass Aix-en-Provence owner.",
+      "libelleEs" : "Adulto: 11 €.\n\n Gratuito para los niños menores de 9 años.",
+      "libelleIt" : "Adulto: 11 €.\n\n Gratuito per i bambini di età inferiore a 9 anni.",
+      "libelleDe" : "Erwachsene: 11 €.\n\n Kostenlos für Kinder unter 9 Jahren.",
+      "libelleNl" : "Volwassene: € 11.\n\n Gratis voor kinderen onder de 9 jaar.",
+      "libelleRu" : "Взрослый : 11 €.\n\n Бесплатно для лицам младше 9 лет.",
+      "libelleZh" : "成人 : 11 €.\n\n 儿童 < 9 岁自由进入.",
+      "libellePtBR" : "Adulto: 11 €.\n\n Gratuito para menores de 9 anos.",
+      "libelleJa" : "大人: 11 €.\n\n 子供 < 9 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Gratuit pour les détenteurs du City Pass Aix-en-Provence",
+      "libelleEn" : "Free for City Pass Aix-en-Provence owner"
+    },
+    "periodes" : [ {
+      "identifiant" : 12089184,
+      "dateDebut" : "2021-06-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 11.00,
+        "maximum" : 11.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 9
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5797039,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5349089
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence - à supp",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 88907035,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/escape-game-pistez-aix.html#media",
+          "en" : "https://booking.aixenprovencetourism.com/escape-game-pistez-aix.html#media"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 10038464,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/155/9804765.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/155/9804765-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/155/9804765-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/155/9804765-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pistezAix_visuel2",
+      "taille" : 233687,
+      "hauteur" : 800,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-05-21T07:06:40.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10038463,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/155/9804764.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/155/9804764-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/155/9804764-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/155/9804764-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pistezAix_visuel1",
+      "taille" : 230834,
+      "hauteur" : 595,
+      "largeur" : 842,
+      "lastModifiedDate" : "2021-05-21T07:06:41.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10038465,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/155/9804766.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/155/9804766-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/155/9804766-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/155/9804766-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pistezAix_visuel3",
+      "taille" : 5558870,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2021-05-21T07:06:45.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10038466,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/155/9804767.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/155/9804767-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/155/9804767-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/155/9804767-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pistezAix_visuel4",
+      "taille" : 4693700,
+      "hauteur" : 4000,
+      "largeur" : 6000,
+      "lastModifiedDate" : "2021-05-21T07:06:41.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Au départ de l'Office de Tourisme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

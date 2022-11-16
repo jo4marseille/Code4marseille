@@ -1,0 +1,210 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6057438,
+  "nom" : {
+    "libelleFr" : "Commémoration du 11 Novembre 1918"
+  },
+  "identifier" : "SITRA2_EVE_6057438",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-12T14:54:54.622+0000",
+    "dateModification" : "2022-11-04T09:45:33.739+0000",
+    "dateExportModification" : "2022-11-04T09:45:44.439+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77090958,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 80 05"
+      }
+    }, {
+      "identifiant" : 77090960,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lessaintesmaries.fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5469879
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Commémoration du 11 novembre 1918 au Monument aux Morts avec la participation du 503ème Régiment du Train de Camargue"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "10h45 : Rassemblement sur le Parvis de la Mairie – Défilé\r\n11h00 : Dépôt de gerbes au Monument aux Morts"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Monument aux Morts",
+      "adresse1" : "Av Van Gogh",
+      "codePostal" : "13460",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.427977, 43.450445 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre.\nA partir de 10h45.",
+      "libelleEn" : "Friday 11 November.",
+      "libelleEs" : "Viernes, 11 de noviembre.",
+      "libelleIt" : "Venerdì 11 novembre.",
+      "libelleDe" : "Freitag, den 11. November.",
+      "libelleNl" : "Vrijdag 11 november.",
+      "libelleRu" : "Пятница 11 ноября.",
+      "libelleZh" : "11月11日, 星期五.",
+      "libellePtBR" : "Sexta-feira 11 Novembro.",
+      "libelleJa" : "金曜日 11 11月."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22886327,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : {
+        "libelleFr" : "A partir de 10h45"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 24695665
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 19073
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14763417,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/13/15142227.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/13/15142227-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/13/15142227-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/13/15142227-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Commèmoration du 11 novembre 1918",
+      "taille" : 5831,
+      "hauteur" : 168,
+      "largeur" : 300,
+      "lastModifiedDate" : "2022-11-04T09:45:33.827+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2023-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Monument aux Morts"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { }
+}

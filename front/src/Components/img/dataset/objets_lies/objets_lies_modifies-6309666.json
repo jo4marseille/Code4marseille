@@ -1,0 +1,296 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309666,
+  "nom" : {
+    "libelleFr" : "Une nouvelle nécropole de bovidés à Saqqarah"
+  },
+  "identifier" : "SITRA2_EVE_6309666",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T12:50:25.924+0000",
+    "dateModification" : "2022-10-27T08:51:40.579+0000",
+    "dateExportModification" : "2022-10-27T08:51:41.419+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104590089,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 12 91 67 67"
+      },
+      "observation" : {
+        "libelleFr" : "Renseignements"
+      }
+    }, {
+      "identifiant" : 104590090,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104590091,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      }
+    }, {
+      "identifiant" : 104590092,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'académie d'Arles propose une conférence sur la nouvelle nécropole de bovidés à Saqqarah"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le sérapéum de Saqqarah, fouillé par Auguste Mariette, est réputé pour avoir abrité les momies des taureaux Apis. Cependant, d’autres bovidés ont aussi été distingués ; ils étaient là suite au pillage de la nécropole qui les abritait et qui reste encore à découvrir.\r\n\r\nPar Alain Charron, conservateur en chef du patrimoine au musée.\r\n\r\nInformations pratiques\r\n> Auditorium du musée\r\n> Renseignement au 06 12 91 67 67 et sur academie.arles.free.fr"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée départemental Arles antique",
+      "adresse1" : "Avenue Jean Monnet",
+      "adresse2" : "Presqu'Ile du Cirque Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616866, 43.672526 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 4 décembre 2022 à 17h30.",
+      "libelleEn" : "Sunday 4 December 2022 at 5.30 pm.",
+      "libelleEs" : "Domingo, 4 de diciembre de 2022 a 17:30.",
+      "libelleIt" : "Domenica 4 dicembre 2022 alle 17:30.",
+      "libelleDe" : "Sonntag, den 4. Dezember 2022 um 17.30 Uhr.",
+      "libelleNl" : "Zondag 4 december 2022 om 17.30 u.",
+      "libelleRu" : "Воскресенье 4 декабря 2022  до 17h30.",
+      "libelleZh" : "2022年12月4日, 星期日   在 小时小时分钟.",
+      "libellePtBR" : "Domingo 4 Dezembro 2022 para  17h30.",
+      "libelleJa" : "日曜日 4 12月 2022 5.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24601661,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "horaireOuverture" : "17:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24601661
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21495845,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104590093,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104590094,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14576753,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Une nouvelle nécropole de bovidés à Saqqarah"
+    },
+    "copyright" : {
+      "libelleFr" : "© Dr"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/242/14938819.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/242/14938819-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/242/14938819-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/242/14938819-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Une nouvelle nÃ©cropole de bovidÃ©s",
+      "taille" : 154612,
+      "hauteur" : 653,
+      "largeur" : 879,
+      "lastModifiedDate" : "2022-10-27T08:51:40.767+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-04T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

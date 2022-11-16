@@ -1,0 +1,123 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5730008,
+  "nom" : {
+    "libelleFr" : "Service Economie Local"
+  },
+  "identifier" : "SITRA2_STR_5730008",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-03-01T10:22:25.097+0000",
+    "dateModification" : "2022-10-17T13:41:46.913+0000",
+    "dateExportModification" : "2022-10-17T13:41:46.925+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "VITROLLES TOURISME Point info",
+      "dateCreation" : "2020-11-26T13:15:13.649+0000",
+      "dateModification" : "2022-10-24T08:49:52.006+0000",
+      "id" : 2138,
+      "siteWeb" : "http://www.vitrolles13.fr"
+    },
+    "signalerUnProblemeMails" : [ "pascale.campo@ville-vitrolles13.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 87017761,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 77 91 40"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 87017781,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "economie.locale@ville-vitrolles13.fr"
+      },
+      "observation" : { }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Arcades des Citeaux",
+      "adresse2" : "Bât l'Azzuréen Centre Urbain",
+      "codePostal" : "13127",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4528
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.250274, 43.447120 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4528
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18916831,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "FAVIER",
+    "prenom" : "Sébastien",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  } ],
+  "informationsStructure" : {
+    "sigle" : "DGA vie Citoyenne-Développement Urbain-Direction de l'économie emploi"
+  },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

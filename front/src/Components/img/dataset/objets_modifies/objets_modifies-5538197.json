@@ -1,0 +1,258 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538197,
+  "nom" : {
+    "libelleFr" : "Musée Maurice Pezet, musée d'histoire locale",
+    "libelleEn" : "Musée Maurice Pezet, musée d'histoire locale",
+    "libelleEs" : "Musée Maurice Pezet, musée d'histoire locale",
+    "libelleIt" : "Musée Maurice Pezet, musée d'histoire locale",
+    "libelleDe" : "Musée Maurice Pezet, musée d'histoire locale",
+    "libelleNl" : "Musée Maurice Pezet, musée d'histoire locale"
+  },
+  "identifier" : "SITRA2_PCU_5538197",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:17:27.297+0000",
+    "dateModification" : "2020-11-02T16:19:51.482+0000",
+    "dateExportModification" : "2021-06-06T19:50:07.907+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628110,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 95 21"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223250
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Situé dans la Chapelle des Pénitents, il contient des témoignages préhistoriques et protohistoriques de la région d'Eygalières : documents tirés des archives communales et départementales du Moyen-Age et de l'époque moderne. Exposition d'anciennes photographies et d'anciens outils agricoles.\nSurface de l'exposition permanente : 200",
+      "libelleEn" : "Located in the Chapel of Penitents, it contains prehistoric and protohistoric evidence from the Eygalières region, including documents taken from communal and departmental archives dating from the Middle Ages and the modern era. Exhibition of old photographs and old agricultural tools.",
+      "libelleEs" : "Situado en la Capilla de los Penitentes, contiene testimonios prehistóricos y protohistóricos de la región de Eygalières: documentos sacados de los archivos municipales y departamentales de la Edad Media y de la época moderna. Exposición de antiguas fotografías y de antiguas herramientas agrícolas.",
+      "libelleIt" : "Situato nella Cappella dei Penitenti, contiene delle testimonianze preistoriche e protostoriche della regione di Eygalières: documenti ricavati dagli archivi comunali e dipartimentali medievali e dell'epoca moderna. Mostra di antiche fotografie e di antichi strumenti agricoli.",
+      "libelleDe" : "Das in der Chapelle des Pénitents befindliche Museum zeigt prähistorische und frühgeschichtliche Zeugnisse der Region um Eygalières: Dokumente aus den Archiven der Kommune und des Departements aus der Zeit des Mittelalters und der frühen Neuzeit. Ausstellung von alten Fotos und alten landwirtschaftlichen Werkzeugen.",
+      "libelleNl" : "Dit museum is gelegen in de Chapelle des Pénitents (kapel van de boetelingen) en staat in het teken van de pre- en protohistorie in de streek van Eygalières: documenten uit de gemeentelijke en departementale archieven uit de middeleeuwen en de moderne tijd. Expositie van oude foto's en landbouwwerktuigen."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Vieux village",
+      "codePostal" : "13810",
+      "bureauDistribution" : "EYGALIERES",
+      "commune" : {
+        "id" : 4445
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.955474, 43.763806 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4445
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Parking municipal près du stade)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636499,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "AYMES",
+    "prenom" : "Jean Marie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 456
+    }
+  }, {
+    "identifiant" : 17636500,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DELAGE",
+    "prenom" : "Christiane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8489249,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000700_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits réservés."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/2/8258293.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/2/8258293-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/2/8258293-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/2/8258293-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 13985,
+      "hauteur" : 200,
+      "largeur" : 200,
+      "lastModifiedDate" : "2020-07-23T17:20:47.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 1,
+    "capaciteMaxAccueil" : 40
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000700"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OTI Saint Rémy de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintremy-de-provence.com"
+    }
+  } ]
+}

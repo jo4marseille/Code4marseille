@@ -1,0 +1,309 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5592099,
+  "nom" : {
+    "libelleFr" : "Visite guidée de l'usine moderne Rampal Latour",
+    "libelleEn" : "Visite guidée de l'usine moderne Rampal Latour",
+    "libelleIt" : "Visite guidée de l'usine moderne Rampal Latour",
+    "libelleDe" : "Visite guidée de l'usine moderne Rampal Latour",
+    "libelleNl" : "Visite guidée de l'usine moderne Rampal Latour"
+  },
+  "identifier" : "SITRA2_EVE_5592099",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-03T10:55:24.606+0000",
+    "dateModification" : "2022-11-05T15:02:36.633+0000",
+    "dateExportModification" : "2022-11-05T15:02:42.951+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Salon de Provence",
+      "dateCreation" : "2020-02-14T10:43:25.088+0000",
+      "dateModification" : "2022-10-24T08:49:43.996+0000",
+      "id" : 1989,
+      "siteWeb" : "http://www.visitsalondeprovence.com/"
+    },
+    "signalerUnProblemeMails" : [ "m.quaglia@visitsalondeprovence.com", "projet@visitsalondeprovence.com", "s.kheloufi@visitsalondeprovence.com", "v.bailly@visitsalondeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 81055164,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.rampal-latour.fr/visite-usine-moderne"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236826
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visitez la savonnerie Rampal-Latour"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "En 1907, la savonnerie Rampal Latour ouvrait ses portes à Salon de Provence. Plus de 100 ans plus tard, la savonnerie continue à faire vivre la tradition du savon de Marseille, et s'agrandit avec la construction d'une seconde usine de production à Salon de Provence.\r\n\r\nPlongez dans l'univers de la fabrication du savon de Marseille à travers la visite de notre usine moderne, inaugurée en 2016. Pas à pas, vous découvrirez l'histoire d'une tradition qui n'a jamais cessé d'innover. Des ateliers de fabrications repensés pour préserver l'authenticité des produits et intégrer nos préoccupation de respect de l'homme et de la Nature. Avec notre guide, vous découvrirez l'histoire du métier de maître savonniers, les ateliers de fabrication de nos shampooings et gel-douche mais également notre atelier de fabrication du savon de Marseille. Découverte hors du commun entre chaudrons, méthode traditionnelle et innovation pour répondre à nos attentes d'aujourd'hui. Entre tradition et innovation, toujours avec respect et passion. Venez partager avec nous cette aventure, et l'envie profonde de faire rayonner le savon de Marseille et l'art de vivre provençal."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Savonnerie moderne Rampal Latour",
+      "codePostal" : "13300",
+      "commune" : {
+        "id" : 4514
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.086604, 43.640506 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4514
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Parking privé",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 22/10 au 06/11/2022 \r\nDu Mercredi au Samedi à 11H et 15H\r\n\r\nDu 07/11 au 16/12/2022 \r\nLe mercredi et Le samedi à 11H et 15H\r\n\r\nDu 17/12/2022 au 02/01/2023\r\nDu mardi au samedi à 11H, 14H, 15H, 16H et 17H",
+      "libelleEn" : "From 22/10 to 06/11/2022 \r\nOpening hours on Wednesday and Saturday between 11 am and 12 pm and between 3 pm and 4 pm.\r\n\r\nFrom 07/11 to 16/12/2022 \r\nOpening hours on Wednesday and Saturday between 11 am and 12 pm and between 3 pm and 4 pm.\r\n\r\nFrom 17/12/2022 to 02/01/2023, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 22/10 al 06/11/2022 \r\nHorarios de apertura los miércoles y sábado de 11 a 12 y de 15 a 16.\r\n\r\nDel 07/11 al 16/12/2022 \r\nHorarios de apertura los miércoles y sábado de 11 a 12 y de 15 a 16.\r\n\r\nDel 17/12/2022 al 02/01/2023, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 22/10 al 06/11/2022 \r\nOrari di apertura il mercoledì e sabato dalle 11 alle 12 e dalle 15 alle 16.\r\n\r\nDal 07/11 al 16/12/2022 \r\nOrari di apertura il mercoledì e sabato dalle 11 alle 12 e dalle 15 alle 16.\r\n\r\nDal 17/12/2022 al 02/01/2023, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 22/10 bis 06/11/2022 \r\nÖffnungszeiten jeden Mittwoch und Samstag von 11 Uhr bis 12 Uhr und von 15 Uhr bis 16 Uhr.\r\n\r\nVom 07/11 bis 16/12/2022 \r\nÖffnungszeiten jeden Mittwoch und Samstag von 11 Uhr bis 12 Uhr und von 15 Uhr bis 16 Uhr.\r\n\r\nVom 17/12/2022 bis 02/01/2023, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 22/10 tot en met 06/11/2022 \r\nOpeningstijden op woensdag en zaterdag van 11.00 tot en met 12.00 u en van 15.00 tot en met 16.00 u.\r\n\r\nVan 07/11 tot en met 16/12/2022 \r\nOpeningstijden op woensdag en zaterdag van 11.00 tot en met 12.00 u en van 15.00 tot en met 16.00 u.\r\n\r\nVan 17/12/2022 tot en met 02/01/2023, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 22/10 до 06/11/2022 \r\nЧасы открытия на среда и суббота с 11h до 12h и с 15h до 16h.\r\n\r\nС 07/11 до 16/12/2022 \r\nЧасы открытия на среда и суббота с 11h до 12h и с 15h до 16h.\r\n\r\nС 17/12/2022 до 02/01/2023, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 10月22日 到 2022年11月6日 \r\n开放时间 上 星期三 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\r\n\r\n从 11月7日 到 2022年12月16日 \r\n开放时间 上 星期三 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\r\n\r\n从 2022年12月17日 到 2023年1月2日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 22/10 a 06/11/2022 \r\nOuverture na quarta-feira e sábado de 11h a  12h e de 15h a  16h.\r\n\r\nDe 07/11 a 16/12/2022 \r\nOuverture na quarta-feira e sábado de 11h a  12h e de 15h a  16h.\r\n\r\nDe 17/12/2022 a 02/01/2023, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "22/10 から 06/11/2022 まで \r\n開館時間 水曜日 と 土曜日 に 11 午前 と 12 午後 の間 と 3 午後 と 4 午後 の間.\r\n\r\n07/11 から 16/12/2022 まで \r\n開館時間 水曜日 と 土曜日 に 11 午前 と 12 午後 の間 と 3 午後 と 4 午後 の間.\r\n\r\n17/12/2022 から 02/01/2023 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19478338,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-06",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24704379
+    }, {
+      "identifiant" : 24704415,
+      "dateDebut" : "2022-11-07",
+      "dateFin" : "2022-12-16",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24704415
+    }, {
+      "identifiant" : 24704428,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2023-01-02",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24704428
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14779557,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Rampal Latour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/83/15160229.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/83/15160229-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/83/15160229-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/83/15160229-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "RAMPAL LATOUR - usine moderne - entrée 2 N&B",
+      "taille" : 1386863,
+      "hauteur" : 2000,
+      "largeur" : 2000,
+      "lastModifiedDate" : "2022-11-05T15:02:41.771+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14779556,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Rampal Latour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/83/15160228.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/83/15160228-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/83/15160228-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/83/15160228-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/83/15160228-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "RAMPAL LATOUR - usine moderne - chaudron couleur",
+      "taille" : 6000261,
+      "hauteur" : 3605,
+      "largeur" : 3869,
+      "lastModifiedDate" : "2022-11-05T15:02:36.874+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14779558,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Rampal Latour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/83/15160230.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/83/15160230-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/83/15160230-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/83/15160230-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "RAMPAL LATOUR - visite - groupe dans le patio",
+      "taille" : 1227538,
+      "hauteur" : 1152,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2022-11-05T15:02:40.790+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-12", "2022-11-16", "2022-11-19", "2022-11-23", "2022-11-26", "2022-11-30", "2022-12-03", "2022-12-07", "2022-12-10", "2022-12-14", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2310
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS002268"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Salon de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.visitsalondeprovence.com"
+    }
+  } ]
+}

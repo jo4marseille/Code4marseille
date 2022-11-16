@@ -1,0 +1,264 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6239853,
+  "nom" : {
+    "libelleFr" : "Exposition \"Crash poli\" au Polaris"
+  },
+  "identifier" : "SITRA2_EVE_6239853",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-24T08:07:09.320+0000",
+    "dateModification" : "2022-10-24T09:35:17.305+0000",
+    "dateExportModification" : "2022-10-24T09:35:18.012+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79235513,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.polariscentredart@ampmetropole.fr"
+      }
+    }, {
+      "identifiant" : 79235511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 17 10"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5529877
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition au Polaris Centre d'Art de Magali Daniaux et Cédric Pigot.\r\n\r\nAvec cette exposition, Polaris centre d’art est partenaire de la manifestation Paréidolie - La Saison du Dessin."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce duo d’artistes transforme la matière, tels des alchimistes : collages, échantillonnages, cut-up sont au centre de leur pratique. Artistes de terrain, une partie importante de leur travail est dédiée à la recherche, à la prise en compte\r\ndu territoire dans lequel ils opèrent et de ses populations. Leurs inspirations viennent de la liérature, de la recherche scientifique, des technologies, de petits détails qui retiennent leur atteention, d’observations du monde les entourant, de ressentis, d’interrogations.\r\n\r\nLa confrontation des points de vue, des modes opératoires, le partage des connaissances sont cruciaux et riches, notamment entre disciplines.\r\nLeur collaboration avec des archéologues, chercheurs en neuro-cognitivité, ingénieurs ou architectes ont élargi leur univers et leurs créations.\r\n\r\nUne œuvre de ce couple d’artistes est entrée dans la collection de l’artothèque en 2021."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1669
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1670
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Polaris Centre d'Art",
+      "adresse1" : "Place Patricia Tranchand",
+      "adresse2" : "Forum des Carmes",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Situé dans le centre ville\r\n\r\nGare Routière : Arrêt de bus à 0.7km\r\nDépartemental 5 : Route départementale à 3km\r\nMarseille Provence (Marignane) : Aéroport/Aérodrome à 40km\r\nA55 (En venant de Marseille) : Sortie autoroute à 15km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.988021, 43.512902 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15436
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538991
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6301726
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6239982
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 05/11/2022 au 28/01/2023, tous les jours.",
+      "libelleEn" : "From 05/11/2022 to 28/01/2023, daily.",
+      "libelleEs" : "Del 05/11/2022 al 28/01/2023, todos los dias.",
+      "libelleIt" : "Dal 05/11/2022 al 28/01/2023, ogni giorno.",
+      "libelleDe" : "Vom 05/11/2022 bis 28/01/2023, täglich.",
+      "libelleNl" : "Van 05/11/2022 tot en met 28/01/2023, iedere dag.",
+      "libelleRu" : "С 05/11/2022 до 28/01/2023, ежедневно.",
+      "libelleZh" : "从 2022年11月5日 到 2023年1月28日, 日常.",
+      "libellePtBR" : "De 05/11/2022 a 28/01/2023, todos os dias.",
+      "libelleJa" : "05/11/2022 から 28/01/2023 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24146785,
+      "dateDebut" : "2022-11-05",
+      "dateFin" : "2023-01-28",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24569893
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14516649,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/249/14875073.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/249/14875073-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/249/14875073-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/249/14875073-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Polaris Expo",
+      "taille" : 76155,
+      "hauteur" : 526,
+      "largeur" : 526,
+      "lastModifiedDate" : "2022-10-24T09:35:17.401+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Polaris Centre d'Art"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-28T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

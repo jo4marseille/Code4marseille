@@ -1,0 +1,388 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 6277595,
+  "nom" : {
+    "libelleFr" : "Pass 2 Musées Pagnol"
+  },
+  "identifier" : "SITRA2_ACT_6277595",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-29T09:17:32.434+0000",
+    "dateModification" : "2022-10-18T15:22:55.620+0000",
+    "dateExportModification" : "2022-10-18T15:23:04.539+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537417,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 03 49 98"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 70537424,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@tourisme-paysdaubagne.fr"
+      }
+    }, {
+      "identifiant" : 70537425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.tourisme-paysdaubagne.fr"
+      }
+    }, {
+      "identifiant" : 91710382,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/tourismepaysdaubagne/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228513
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pass 2 musées à prix tout doux."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Entrée au Petit Monde de Marcel Pagnol et entrée à la Maison natale de Marcel Pagnol."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13400",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.566424, 43.292846 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PACKAGE_OBJET",
+      "libelleFr" : "Cette offre \"tout compris\" propose...",
+      "libelleEn" : "This “all-inclusive” offer features...",
+      "libelleEs" : "Esta oferta «todo incluido» ofrece...",
+      "libelleIt" : "Quest’offerta “tutto incluso” propone...",
+      "libelleDe" : "Dieses „All-inclusive“-Angebot bietet ... an.",
+      "libelleNl" : "Deze \"all-inclusive\"-aanbieding biedt ...",
+      "libelleRu" : "По тарифу «всё включено» предлагается...",
+      "libelleZh" : "此“全包”优惠提供",
+      "libellePtBR" : "Esta oferta “all inclusive” propõe ...",
+      "libelleJa" : "この「全込み」オファーが提供するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539373
+      }
+    }, {
+      "type" : "PACKAGE_OBJET",
+      "libelleFr" : "Cette offre \"tout compris\" propose...",
+      "libelleEn" : "This “all-inclusive” offer features...",
+      "libelleEs" : "Esta oferta «todo incluido» ofrece...",
+      "libelleIt" : "Quest’offerta “tutto incluso” propone...",
+      "libelleDe" : "Dieses „All-inclusive“-Angebot bietet ... an.",
+      "libelleNl" : "Deze \"all-inclusive\"-aanbieding biedt ...",
+      "libelleRu" : "По тарифу «всё включено» предлагается...",
+      "libelleZh" : "此“全包”优惠提供",
+      "libellePtBR" : "Esta oferta “all inclusive” propõe ...",
+      "libelleJa" : "この「全込み」オファーが提供するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538098
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022.\nFermé lundi et dimanche.\nToute l'année du mardi au samedi 9h-12h30 / 14h-18h.",
+      "libelleEn" : "From 01/01 to 31/12/2022.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 01/01 al 31/12/2022.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 01/01 до 31/12/2022.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 01/01 a 31/12/2022.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "01/01 から 31/12/2022 まで.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24395443,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Toute l'année du mardi au samedi 9h-12h30 / 14h-18h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24528479
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 5 €\nEnfant : 3 € (De 6 à 16 ans).\n\n Gratuit pour les moins de 6 ans.",
+      "libelleEn" : "Adult: 5 €\nChild: 3 €.\n\n Free entry for children < 6 years.",
+      "libelleEs" : "Adulto: 5 €\nNiño: 3 €.\n\n Gratuito para los niños menores de 6 años.",
+      "libelleIt" : "Adulto: 5 €\nBambino: 3 €.\n\n Gratuito per i bambini di età inferiore a 6 anni.",
+      "libelleDe" : "Erwachsene: 5 €\nKinder: 3 €.\n\n Kostenlos für Kinder unter 6 Jahren.",
+      "libelleNl" : "Volwassene: € 5\nKind: € 3.\n\n Gratis voor kinderen onder de 6 jaar.",
+      "libelleRu" : "Взрослый человек : 5 €\nРебенок : 3 €.\n\n Бесплатно для лицам младше 6 лет.",
+      "libelleZh" : "成人 : 5 €\n儿童 : 3 €.\n\n 儿童 < 6 岁自由进入.",
+      "libellePtBR" : "Adulto: 5 €\nCriança: 3 €.\n\n Gratuito para menores de 6 anos.",
+      "libelleJa" : "大人: 5 €\n子供: 3 €.\n\n 子供 < 6 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13692981,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : { },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1733
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "De 6 à 16 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1734
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 6
+    }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14449435,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Pass 2 Musées"
+    },
+    "legende" : {
+      "libelleFr" : "Pass 2 Musées Marcel Pagnol"
+    },
+    "copyright" : {
+      "libelleFr" : "@2DG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/205/14798195.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/205/14798195-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/205/14798195-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/205/14798195-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Sans titre",
+      "taille" : 3188112,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-10-18T15:22:58.547+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14449272,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Manon des Sources"
+    },
+    "legende" : {
+      "libelleFr" : "Diorama Manon des Sources du Petit Monde Marcel Pagnol"
+    },
+    "copyright" : {
+      "libelleFr" : "@DanielScaturro"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/204/14798033.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/204/14798033-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/204/14798033-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/204/14798033-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/204/14798033-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Manon",
+      "taille" : 2584613,
+      "hauteur" : 2448,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2022-10-18T15:23:02.750+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14449347,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Entrée de la Maison Natale de Marcel Pagnol"
+    },
+    "legende" : {
+      "libelleFr" : "Entrée de la Maison natale de Marcel Pagnol"
+    },
+    "copyright" : {
+      "libelleFr" : "@2DG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/205/14798108.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/205/14798108-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/205/14798108-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/205/14798108-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/205/14798108-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_4633",
+      "taille" : 4956662,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2022-10-18T15:22:55.841+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsActivite" : {
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 3770
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5552918
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5552918
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

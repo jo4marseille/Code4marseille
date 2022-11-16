@@ -1,0 +1,564 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5868119,
+  "nom" : {
+    "libelleFr" : "Sur le chemin d’En Doume",
+    "libelleEn" : "On the way to En-Doume"
+  },
+  "identifier" : "SITRA2_EVE_5868119",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-12T10:49:12.012+0000",
+    "dateModification" : "2022-11-08T09:17:31.155+0000",
+    "dateExportModification" : "2022-11-08T23:12:52.782+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816574,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33695755098"
+      }
+    }, {
+      "identifiant" : 97816575,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marseilleoriginal@gmail.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5862976
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5862976
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Si le littoral attire maintenant marseillais ou visiteurs, \"aller en Doume\" était une véritable expédition pour rejoindre un port hostile et marginal. Benjamin, guide-conférencier et habitant du quartier, vous propose de découvrir les villages…",
+      "libelleEn" : "If the southern coastline became fancy and held peoplefrom everywhere \"to go to Doume\" was a real expedition until the 19th century to reach a hostile small harbour.\n\nBenjamin, guide-lecturer and resident, takes you to discover the villages that have…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Depuis l'abbaye de Saint-Victor jusqu'à l'Eglise d'Endoume, nous parcourerons l'ancien chemin des chèvres qui menait à la mer. Dans ce Marseille authentique, nous découvrirons ensemble architectures, histoires, sociologie et personnages de ses quartiers.\n\nDe l'abbaye Saint-Victor, ses nécropoles et carrière antique, au coeur du village d'Endoume, nous observerons comment villas cossues de Bompard, côtoie des demeures plus modestes à Saint-Lambert. L'exploration du \"Rocher\" de Samatan et du village de pêche, devenu trendy, du Vallon des Auffes nous fera saisir une pointe d'exotisme.\n\nUne véritable immersion dans un Marseille trop méconnu mais qui a gardé tout son charme et son originalité."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Sur le chemin d'en doume \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. Une activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Square Bertie Albrecht",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Face à l'Abbaye de Saint-Victor\nBus 54, 55, 61, 80, 81.\nPlace Saint-Victor, Parking Indigo Marseille Vieux Port La Criée, Parking Q-Park Pharo",
+        "libelleEn" : "In front of Saint-Victor Abbey\nBus 54, 55, 61, 80, 81 (Saint-Victor bus stop)\nParking Indigo La Criée, Q-Park Pharo"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.365270, 43.290600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 4306
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nÀ prendre avec soi :\nChaussures confortables, adaptées à la marche urbaine\n\nEau et chapeau en été, vêtements chauds en hiver (et jours de mistral)\nInformations importantes :\nParcours de difficulté moyenne, escaliers nombreux empêchant l’accessibilité PMR\n\nRecommandé à partir de 8 ans\n\nRéservation obligatoire ;\n\nAnimaux de compagnie non autorisés (sauf chien accompagnant)",
+      "libelleEn" : "\nTo take with you:\nComfortable shoes for urban walking\n\nWater and hat in summer, warm clothes in winter (and windy days)\nImportant information:\nFrom 8 years old\n\nLot of steps, complicated for person with reduced mobility\n\nNo pets (except guide dog)"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716823,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716823
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Liste tarif normal : 12,00 EUR",
+      "libelleEn" : "Liste tarif normal : 12,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Entrées aux sites et musées payants",
+      "libelleEn" : "\nNot included: Museum entrances"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915421,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5862976
+      },
+      "nom" : "Benjamin Potet",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993127,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/sur-le-chemin-d-en-doume"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16636
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813127,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/232/15198392.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/232/15198392-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/232/15198392-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/232/15198392-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03f85ea4eb328697214-cropped600-400",
+      "taille" : 136623,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:31.952+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813128,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/232/15198393.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/232/15198393-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/232/15198393-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/232/15198393-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03eaab4ccb064583531-cropped600-400",
+      "taille" : 126842,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:32.266+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813129,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/232/15198394.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/232/15198394-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/232/15198394-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/232/15198394-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03eb4adbc8014248705-cropped600-400",
+      "taille" : 117202,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:31.294+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813130,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/232/15198395.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/232/15198395-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/232/15198395-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/187/232/15198395-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60be08598e6da766082205-cropped600-400",
+      "taille" : 135904,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:31.628+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813131,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/232/15198396.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/232/15198396-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/232/15198396-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/232/15198396-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03ec6ac8f2778642687-cropped600-400",
+      "taille" : 64114,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:33.288+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813132,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/232/15198397.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/232/15198397-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/232/15198397-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/232/15198397-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03e9f94314193274636-cropped600-400",
+      "taille" : 161688,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:33.603+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813133,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/232/15198398.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/232/15198398-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/232/15198398-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/232/15198398-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03ed3cb7d3370798437-cropped600-400",
+      "taille" : 111039,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:32.586+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813134,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/232/15198399.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/232/15198399-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/232/15198399-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/232/15198399-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03f7d95df8213057648-cropped600-400",
+      "taille" : 118855,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:32.964+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813135,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "legende" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "copyright" : {
+      "libelleFr" : "Sur le chemin d’En Doume",
+      "libelleEn" : "On the way to En-Doume"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/232/15198400.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/232/15198400-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/232/15198400-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/232/15198400-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60e03fb7de955636152828-cropped600-400",
+      "taille" : 164785,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:17:33.942+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 10.0,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 16,
+        "dateMaj" : 1667919702791
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "180797",
+        "product_supplier_id" : "38143",
+        "sku" : "T-GU14-194535",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

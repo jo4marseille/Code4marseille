@@ -1,0 +1,257 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6303495,
+  "nom" : {
+    "libelleFr" : "Le Musée Estrine hors les murs"
+  },
+  "identifier" : "SITRA2_EVE_6303495",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-19T14:16:16.600+0000",
+    "dateModification" : "2022-10-19T14:21:58.357+0000",
+    "dateExportModification" : "2022-10-19T14:22:10.774+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84719910,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 54 01",
+        "en" : "00 33 4 90 54 54 01",
+        "de" : "00 33 4 90 54 54 01"
+      }
+    }, {
+      "identifiant" : 84721076,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@mairie-du-paradou.fr"
+      }
+    }, {
+      "identifiant" : 84721111,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mairie-du-paradou.fr/"
+      }
+    }, {
+      "identifiant" : 99857339,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/LeParadoucommune/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5681966
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour célébrer Le Pays d’Arles capitale provençale de la culture 2022, le musée Estrine propose d’investir des lieux identifiés sur le territoire pour déployer sa collection sur des thématiques choisies avec les responsables des institutions accueillantes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée hors les murs à la Mairie du Paradou du 24 octobre au 11 novembre.\r\nDécouvrez une sélection de lithographies, dessins et peintures issus de la collection du Musée Estrine, dans le hall de la mairie du Paradou ainsi que la salle du conseil, du 24 octobre au 11 novembre 2022.\r\n\r\nAndré Marchand, portraits et paysages de Provence au Musée Auguste Chabaud, Graveson — Du 29 octobre 2022 au 5 février 2023\r\nL'exposition présentera une série de dessins et de peintures d’André Marchand qui illustre son lien profond avec la Provence, les Alpilles, la Montagnette. Comme Auguste Chabaud avant lui, l’œuvre de Marchand est imprégnée de la figure de l’Arlésienne, des paysages des Alpilles de la culture provençale. Ces sujets récurrents témoignent du lien indéfectible qui unit le peintre à ce territoire, partie intégrante de sa vie et son œuvre. Cette exposition se tiendra au musée Auguste Chabaud à Graveson du 29 octobre 2022 au 5 février 2023.­"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Mairie du Paradou",
+      "adresse1" : "Place Charloun Rieu",
+      "codePostal" : "13520",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4479
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.784056, 43.718600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4479
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 24/10 au 11/11/2022 \nOuverture le lundi, mardi, mercredi et vendredi de 8h30 à 12h et de 14h à 17h. Le jeudi de 8h30 à 12h.",
+      "libelleEn" : "From 24/10 to 11/11/2022 \nOpening hours on Monday, Tuesday, Wednesday and Friday between 8.30 am and 12 pm and between 2 pm and 5 pm. On Thursday between 8.30 am and 12 pm.",
+      "libelleEs" : "Del 24/10 al 11/11/2022 \nHorarios de apertura los lunes, martes, miércoles y viernes de 8:30 a 12 y de 14 a 17. Los jueves de 8:30 a 12.",
+      "libelleIt" : "Dal 24/10 al 11/11/2022 \nOrari di apertura il lunedì, martedì, mercoledì e venerdì dalle 8:30 alle 12 e dalle 14 alle 17. Il giovedì dalle 8:30 alle 12.",
+      "libelleDe" : "Vom 24/10 bis 11/11/2022 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch und Freitag von 8.30 Uhr bis 12 Uhr und von 14 Uhr bis 17 Uhr. Jeden Donnerstag von 8.30 Uhr bis 12 Uhr.",
+      "libelleNl" : "Van 24/10 tot en met 11/11/2022 \nOpeningstijden op maandag, dinsdag, woensdag en vrijdag van 8.30 tot en met 12.00 u en van 14.00 tot en met 17.00 u. Op donderdag van 8.30 tot en met 12.00 u.",
+      "libelleRu" : "С 24/10 до 11/11/2022 \nЧасы открытия на понедельник, вторник, среда и пятница с 8h30 до 12h и с 14h до 17h. На четверг с 8h30 до 12h.",
+      "libelleZh" : "从 10月24日 到 2022年11月11日 \n开放时间 上 星期一, 星期二, 星期三 和 星期五 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时 之间. 上 星期四 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 24/10 a 11/11/2022 \nOuverture na segunda-feira, terça-feira, quarta-feira e sexta-feira de 8h30 a  12h e de 14h a  17h. Na quinta-feira de 8h30 a  12h.",
+      "libelleJa" : "24/10 から 11/11/2022 まで \n開館時間 月曜日, 火曜日, 水曜日 と 金曜日 に 8.30 午前 と 12 午後 の間 と 2 午後 と 5 午後 の間. 木曜日 に 8.30 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24537464,
+      "dateDebut" : "2022-10-24",
+      "dateFin" : "2022-11-11",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24537464
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14462068,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Estrine hors les murs à la mairie de Paradou"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Estrine"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/5/14812531.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/5/14812531-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/5/14812531-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/115/5/14812531-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Hors les murs",
+      "taille" : 64577,
+      "hauteur" : 570,
+      "largeur" : 1555,
+      "lastModifiedDate" : "2022-10-19T14:21:58.985+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14462067,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Estrine hors les murs à la mairie de Paradou"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Estrine"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/5/14812530.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/5/14812530-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/5/14812530-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/5/14812530-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "311638288_652199899741606_4145940625353413820_n",
+      "taille" : 219247,
+      "hauteur" : 1200,
+      "largeur" : 849,
+      "lastModifiedDate" : "2022-10-19T14:21:58.473+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Mairie du Paradou"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

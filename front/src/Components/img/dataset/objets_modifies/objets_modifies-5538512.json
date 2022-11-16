@@ -1,0 +1,310 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538512,
+  "nom" : {
+    "libelleFr" : "Site et grottes de Calès",
+    "libelleEn" : "Cirque de Calès",
+    "libelleEs" : "Cirque de Calès",
+    "libelleIt" : "Cirque de Calès",
+    "libelleDe" : "Cirque de Calès",
+    "libelleNl" : "Cirque de Calès"
+  },
+  "identifier" : "SITRA2_PCU_5538512",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:45:16.547+0000",
+    "dateModification" : "2021-07-30T12:18:24.287+0000",
+    "dateExportModification" : "2022-09-05T08:52:07.630+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70521725,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 76 51 76 22"
+      }
+    }, {
+      "identifiant" : 70521726,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "calessaintdenis@free.fr"
+      }
+    }, {
+      "identifiant" : 70521727,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.cales-lamanon.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225995
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Après avoir emprunté la Calade (chemin de pierre), on entre dans le cirque par une enceinte fortifiée aussi bien côté nord que sud."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "A l'intérieur, on peut découvrir à la base des deux falaises est et ouest, 58 des 116 grottes troglodytes recencées dans le site de Calès. Initialement, ces grottes ont été créées en extrayant des blocs de pierres nécessaires à la construction du château féodal (qui surplombait le cirque). Elles ont été transformées ensuite en habitat troglodyte pour héberger la population vivant dans ce cirque sous la tutelle du seigneur (jusqu'à 220 personnes). On peut voir des anneaux de suspension, des silos, des larmiers à l'extérieur, des trous de poutres). Un fléchage couleur vert vous permet de découvrir le Cirque de Calès. Départ 100 m derrière l'église du village. Vous pouvez poursuivre votre promenade en découvrant l'église de Saint-Denis de Calès, et les ruines des chapelles Ste-Marie et St-Jean.\r\n\r\n[Actuellement fermé au public pour cause de travaux]"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Association Calès-Saint-Denis",
+      "adresse2" : "2 Place De l'Eglise",
+      "codePostal" : "13113",
+      "bureauDistribution" : "LAMANON",
+      "commune" : {
+        "id" : 4460
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.082171, 43.703985 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4460
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 153
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5557782
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "LE SITE DE CALES EST FERME suite à deux éboulements dans \"la colline de Calès\". L'arrêté municipal du 20 mars 2017 :\r\n\"l'accès au SITE DE CALES : les grottes troglodytiques, la statue de la Vierge, l'église Saint-Denis, les chapelles Saint-Jean, est INTERDIT à toute personne quelque soit son moyen de déplacement (à pied, à vélo, en véhicule motorisé etc...)\".\r\nLa fermeture du site est pour une durée indéterminée, certainement jusqu'à mi 2022.\r\nSource de l'information :\tMairie de Calès",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Fermé temporairement.",
+      "libelleEn" : "Closed temporarily.",
+      "libelleEs" : "Cerrado temporalmente.",
+      "libelleIt" : "Temporaneamente chiusa.",
+      "libelleDe" : "Vorübergehend geschlossen.",
+      "libelleNl" : "Tijdelijk gesloten.",
+      "libelleRu" : "Учреждение временно не работает.",
+      "libelleZh" : "机构暂时关闭.",
+      "libellePtBR" : "Fechado temporariamente.",
+      "libelleJa" : "一時閉鎖中."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 6176
+    } ],
+    "fermeTemporairement" : "FERME_TEMPORAIREMENT"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 23313
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636744,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "PROUTIERE",
+    "prenom" : "Yolande",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81735802,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 76 51 76 22"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8487593,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001224_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits réservés."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/252/8256637.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/252/8256637-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/252/8256637-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/252/8256637-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 46936,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T16:51:59.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3505
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001224"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

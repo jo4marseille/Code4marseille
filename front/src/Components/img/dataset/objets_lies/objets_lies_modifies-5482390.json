@@ -1,0 +1,163 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5482390,
+  "nom" : {
+    "libelleFr" : "Alpilium",
+    "libelleEn" : "Alpilium",
+    "libelleIt" : "Alpilium",
+    "libelleDe" : "Alpilium",
+    "libelleNl" : "Alpilium"
+  },
+  "identifier" : "SITRA2_STR_5482390",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-07T05:48:12.032+0000",
+    "dateModification" : "2022-09-02T12:22:41.164+0000",
+    "dateExportModification" : "2022-09-02T12:22:41.282+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77204805,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 70 37"
+      }
+    }, {
+      "identifiant" : 102843761,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 29 19 69 78"
+      }
+    }, {
+      "identifiant" : 77204806,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-srdp.fr"
+      }
+    }, {
+      "identifiant" : 102843848,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mairie-saintremydeprovence.com/que-faire-a-saint-remy/envie-de-culture/alpilium/"
+      }
+    }, {
+      "identifiant" : 102843867,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/alpiliumsaisonculturelle"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue Marechal De Lattre de Tassigny",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.842447, 43.793048 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18590282,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Dollé",
+    "prenom" : "Sophie",
+    "moyensCommunication" : [ {
+      "identifiant" : 85149129,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 70 37"
+      }
+    } ]
+  }, {
+    "identifiant" : 21255456,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Lagadec",
+    "prenom" : "Marc"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

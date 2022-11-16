@@ -1,0 +1,215 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293383,
+  "nom" : {
+    "libelleFr" : "Bas les masques - Laëti de flo"
+  },
+  "identifier" : "SITRA2_EVE_6293383",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T09:24:10.481+0000",
+    "dateModification" : "2022-10-12T09:31:13.788+0000",
+    "dateExportModification" : "2022-10-24T07:41:31.231+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92834412,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.espace-carteblanche.com/galerie-art-marseille/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5943160
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L’espace Carte Blanche est avant tout l’atelier et lieu de création de l’artiste Laëti de Flo."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Laëti de flo s’expose à la galerie Espace Carte Blanche jusqu’au 10 Novembre pour présenter sa nouvelle série d’œuvres sur le thème des masques. Elle vous propose également de découvrir ou redécouvrir son univers pictural.\r\n\r\nFemme et artiste du XXIe siècle, bien ancrée dans sa région, elle puise son inspiration dans les couleurs et la lumière du littoral, qu’elles lui inspirent : ondes marines ou abstraction poétique… Depuis des années elle travaille également beaucoup avec le Moyen-Orient où l’artiste’ expose régulièrement. \"Je m’invente un monde où rien n’est grave, où l’on ne médit plus, où l’on est libre de s’envoler même sans ailes.\" Bienvenu dans son jardin stellaire. Entre fleurs et astres, mer et ciel, ses champs de constellations spectaculaires sont un rafraichissement pictural qui nous fait perdre les lois de l’apesanteur.\r\n\r\nDans ce lieu irréel, à l’abri, la figuration du songe est à l’œuvre. C’est à travers son prisme, que l’art de Laëti de Flo nous propose une clef de l’univers et de nos questions humaines, sa peinture est un hymne à la joie où nous pouvons reposer nos yeux fatigués. C’est une évasion spontanée de l’esprit, un jardin d’Eden, un hymne à la joie.\r\n\r\nVernissage mardi 18 octobre à partir de 18 h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Espace Carte Blanche",
+      "adresse1" : "27 rue de Lodi",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.386070, 43.290840 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 18/10 au 10/11/2022.\nFermé le dimanche.\nDu lundi au vendredi de 10h à 12h30 et de 14h30 à 18h\r\nSamedi sur rendez-vous.",
+      "libelleEn" : "From 18/10 to 10/11/2022.\nClosed on Sunday.",
+      "libelleEs" : "Del 18/10 al 10/11/2022.\nCerrado los domingo.",
+      "libelleIt" : "Dal 18/10 al 10/11/2022.\nChiuso la domenica.",
+      "libelleDe" : "Vom 18/10 bis 10/11/2022.\nSonntag geschlossen.",
+      "libelleNl" : "Van 18/10 tot en met 10/11/2022.\nZondag gesloten.",
+      "libelleRu" : "С 18/10 до 10/11/2022.\nНе работает воскресенье.",
+      "libelleZh" : "从 10月18日 到 2022年11月10日.\n星期日 关闭.",
+      "libellePtBR" : "De 18/10 a 10/11/2022.\nFechado em domingo.",
+      "libelleJa" : "18/10 から 10/11/2022 まで.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24481237,
+      "dateDebut" : "2022-10-18",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : {
+        "libelleFr" : "Du lundi au vendredi de 10h à 12h30 et de 14h30 à 18h\r\nSamedi sur rendez-vous"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24481237
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14373523,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bas les masques - Laëti de flo"
+    },
+    "legende" : {
+      "libelleFr" : "Bas les masques - Laëti de flo"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Phoenix, Format 90×116 cm, Technique mixte et feuille d’or - Bas les masques - Laëti de flo -  L'Espace Carte Blanche"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/116/14709765.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/116/14709765-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/116/14709765-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/116/14709765-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "bas masques expo",
+      "taille" : 232996,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-12T09:31:13.883+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Espace Carte Blanche"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

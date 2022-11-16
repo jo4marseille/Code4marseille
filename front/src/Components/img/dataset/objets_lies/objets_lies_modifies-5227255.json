@@ -1,0 +1,346 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5227255,
+  "nom" : {
+    "libelleFr" : "La Criée - Théâtre National de Marseille",
+    "libelleEn" : "Théâtre National  La Criée",
+    "libelleEs" : "Théâtre National  La Criée",
+    "libelleIt" : "Théâtre National  La Criée",
+    "libelleDe" : "Théâtre National  La Criée",
+    "libelleNl" : "Théâtre National  La Criée"
+  },
+  "identifier" : "SITRA2_STR_5227255",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T14:13:50.462+0000",
+    "dateModification" : "2022-11-07T07:49:11.227+0000",
+    "dateExportModification" : "2022-11-07T07:49:11.752+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70527218,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 54 70 54"
+      },
+      "observation" : {
+        "libelleFr" : "billetterie"
+      }
+    }, {
+      "identifiant" : 70527219,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 08"
+      }
+    }, {
+      "identifiant" : 70527220,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 03"
+      }
+    }, {
+      "identifiant" : 70527221,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 00"
+      },
+      "observation" : {
+        "libelleFr" : "administration"
+      }
+    }, {
+      "identifiant" : 70527222,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 70527224,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "b.duprat@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 70527226,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 70527227,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.forumsirius.fr/orion/lacriee.phtml?kld=1"
+      }
+    }, {
+      "identifiant" : 88328078,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/lacriee"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "3319008520001",
+      "codeApeNaf" : "923A"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "30 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367938, 43.292532 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19146700,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "RENUCCI",
+    "prenom" : "Robin",
+    "titre" : { },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98816397,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "direction@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 104955387,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 03"
+      }
+    } ]
+  }, {
+    "identifiant" : 19146692,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DUPRAT",
+    "prenom" : "Béatrice",
+    "titre" : {
+      "libelleFr" : "Responsable communication"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98816429,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "b.duprat@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 98816436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 35"
+      }
+    } ]
+  }, {
+    "identifiant" : 20666858,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "COURAULT",
+    "prenom" : "Hélène",
+    "titre" : {
+      "libelleFr" : "Directrice de production"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98816484,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "h.courault@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 98816497,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 08"
+      }
+    } ]
+  }, {
+    "identifiant" : 20666873,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MADELIN",
+    "prenom" : "Alexandre",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 98816535,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "a.madelin@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 98816536,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 08"
+      }
+    } ]
+  }, {
+    "identifiant" : 20985028,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BREUILLARD",
+    "prenom" : "Solène",
+    "titre" : {
+      "libelleFr" : "Assistante de communication"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100756090,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "s.breuillard@theatre-lacriee.com"
+      }
+    }, {
+      "identifiant" : 100756097,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 17 80 32"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

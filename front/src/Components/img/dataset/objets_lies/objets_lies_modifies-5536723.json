@@ -1,0 +1,523 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5536723,
+  "nom" : {
+    "libelleFr" : "Café Borély",
+    "libelleEn" : "Café Borély",
+    "libelleIt" : "Café Borély",
+    "libelleDe" : "Café Borély",
+    "libelleNl" : "Café Borély"
+  },
+  "identifier" : "SITRA2_RES_5536723",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T07:30:20.667+0000",
+    "dateModification" : "2022-04-08T15:00:42.024+0000",
+    "dateExportModification" : "2022-11-08T15:54:12.403+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79594487,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 22 46 87"
+      }
+    }, {
+      "identifiant" : 79594488,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@cafeborely.fr"
+      }
+    }, {
+      "identifiant" : 88813532,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://fr-fr.facebook.com/Caf%C3%A9-Bor%C3%A9ly-119922778196051/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5220755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Ariel Lorin a ouvert le Café Borély, un lieu romantique dans lequel il a implanté son concept de la ferme à l'assiette, ses menus bio et ses produits de saison."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Son talent et Son goût pour la cuisine, associés à l'idée qu'on pouvait la pratiquer différemment, L'ont décidé à créer une activité de traiteur (artisan culinaire mobile) avec une démarche comme exigence.\r\n\r\nIl place le produit au coeur de mon travail. Avant de cuisiner, je recherche auprès de différents producteurs les produits les plus nobles, les plus frais, les plus sains. Ce travail d'approvisionnement minutieux et rigoureux est essentiel.\r\n\r\n\r\n\r\nChaque dimanche brunch, du \"traditionnel british\" de 11h à 15h."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Le Café Borély privilégie un approvisionnement en produits frais et locaux, des produits issus de l'agriculture biologique ou paysanne, des circuits courts. Une cuisine saine qui varie au fil des saisons."
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1593
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 4137
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Château Borély",
+      "adresse2" : "134 Avenue Clot-Bey",
+      "codePostal" : "13008",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383141, 43.257256 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539334
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1177
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1217
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 5540
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6062
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/01 au 31/12/2022, tous les mardis, mercredis, jeudis, vendredis, samedis et dimanches de 10h à 18h.",
+      "libelleEn" : "From 03/01 to 31/12/2022, every Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday between 10 am and 6 pm.",
+      "libelleEs" : "Del 03/01 al 31/12/2022, todos los martes, miércoles, jueves, viernes, sábados y domingos de 10 a 18.",
+      "libelleIt" : "Dal 03/01 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì, sabati e domeniche dalle 10 alle 18.",
+      "libelleDe" : "Vom 03/01 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 10 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 03/01 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag van 10.00 tot en met 18.00 u.",
+      "libelleRu" : "С 03/01 до 31/12/2022, каждый вторники, среды, четверги, пятницы, субботы и воскресенья с 10h до 18h.",
+      "libelleZh" : "从 1月3日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五, 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 03/01 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos de 10h a  18h.",
+      "libelleJa" : "03/01 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 10 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21563355,
+      "dateDebut" : "2022-01-03",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23086496
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12923005,
+      "dateDebut" : "2022-01-03",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 30.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1501
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1285
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5839567,
+      "nom" : "TheFork La Fourchette",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89468682,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://module.thefork.com/fr_FR/module/54861-3522b"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16643
+  }, {
+    "id" : 16901
+  }, {
+    "id" : 16903
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17629897,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "LORIN",
+    "prenom" : "Ariel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12137544,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Café Borély Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Terrasse"
+    },
+    "copyright" : {
+      "libelleFr" : "©Le Café Borély"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/252/12254314.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/252/12254314-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/252/12254314-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/252/12254314-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "232227450_468768167897935_771119185474640204_n",
+      "taille" : 944724,
+      "hauteur" : 1365,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2022-01-14T11:43:39.032+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12137542,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Café Borély Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Plat"
+    },
+    "copyright" : {
+      "libelleFr" : "©Le Café Borély"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/252/12254312.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/252/12254312-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/252/12254312-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/252/12254312-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "123020534_1491917777663204_8305879807284203638_n",
+      "taille" : 94524,
+      "hauteur" : 960,
+      "largeur" : 720,
+      "lastModifiedDate" : "2022-01-14T11:43:38.595+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12137543,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Café Borély Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Logo"
+    },
+    "copyright" : {
+      "libelleFr" : "©Le Café Borély"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/252/12254313.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/252/12254313-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/252/12254313-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/252/12254313-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "212249946_444569873651098_6418101546075461831_n",
+      "taille" : 231199,
+      "hauteur" : 945,
+      "largeur" : 945,
+      "lastModifiedDate" : "2022-01-14T11:43:40.057+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12137548,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Café Borély Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Salle"
+    },
+    "copyright" : {
+      "libelleFr" : "©Café Borély"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/252/12254318.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/252/12254318-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/252/12254318-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/252/12254318-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "51910918_1017388161782837_3647111937990328320_n",
+      "taille" : 58686,
+      "hauteur" : 720,
+      "largeur" : 960,
+      "lastModifiedDate" : "2022-01-14T11:43:40.510+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1259
+    } ],
+    "nombreSallesReunionEquipees" : 3
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2995
+    }, {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2996
+    } ],
+    "classementsGuides" : [ {
+      "elementReferenceType" : "RestaurationClassementGuide",
+      "id" : 6418
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    }, {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2887
+    } ],
+    "capacite" : {
+      "nombreSalles" : 1,
+      "nombreMaximumCouverts" : 50,
+      "nombreCouvertsTerrasse" : 20
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST001615"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.3,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 368,
+        "dateMaj" : 1667919437650
+      }
+    } ]
+  } ]
+}

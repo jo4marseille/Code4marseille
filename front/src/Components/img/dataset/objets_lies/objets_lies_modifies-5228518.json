@@ -1,0 +1,228 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228518,
+  "nom" : {
+    "libelleFr" : "Maison du Tourisme de Lambesc"
+  },
+  "identifier" : "SITRA2_STR_5228518",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:23:50.209+0000",
+    "dateModification" : "2022-05-30T12:18:58.377+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Bureau municipal du Tourisme de Lambesc",
+      "dateCreation" : "2020-12-03T09:26:21.649+0000",
+      "dateModification" : "2022-11-03T11:45:21.917+0000",
+      "id" : 2145,
+      "siteWeb" : "https://www.lambesc.fr/ma-ville/decouvrez-lambesc/bureau-municipal-de-tourisme/"
+    },
+    "signalerUnProblemeMails" : [ "anne.vasserot-merle@lambesc.fr", "eric.bavay@lambesc.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537469,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 62"
+      }
+    }, {
+      "identifiant" : 70537470,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@lambesc.fr"
+      }
+    }, {
+      "identifiant" : 70537471,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lambesc.fr/ma-ville/decouvrez-lambesc/bureau-municipal-de-tourisme/"
+      }
+    }, {
+      "identifiant" : 99598382,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Accueil13410"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2 Avenue de la Résistance",
+      "codePostal" : "13410",
+      "commune" : {
+        "id" : 4461
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.262402, 43.655368 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4461
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20361709,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Bavay",
+    "prenom" : "Eric",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 97019764,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 62"
+      }
+    }, {
+      "identifiant" : 97019783,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "eric.bavay@lambesc.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20361718,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Vasserot-Merle",
+    "prenom" : "Anne",
+    "titre" : {
+      "libelleFr" : "Référente Apidae"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 97019879,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 62"
+      }
+    }, {
+      "identifiant" : 97019886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "Anne.Vasserot-Merle@lambesc.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20361727,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Ramond",
+    "prenom" : "Fabienne",
+    "titre" : {
+      "libelleFr" : "Elue au Tourisme"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99598407,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "Fabienne.Ramond@lambesc.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

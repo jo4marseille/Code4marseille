@@ -1,0 +1,327 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6020487,
+  "nom" : {
+    "libelleFr" : "Bière et charcuterie !",
+    "libelleEn" : "Beer and charcuterie",
+    "libelleEs" : "Bière et charcuterie !",
+    "libelleIt" : "Bière et charcuterie !",
+    "libelleDe" : "Bière et charcuterie !",
+    "libelleNl" : "Bière et charcuterie !",
+    "libelleRu" : "Bière et charcuterie !",
+    "libelleZh" : "Bière et charcuterie !",
+    "libellePtBR" : "Bière et charcuterie !",
+    "libelleJa" : "Bière et charcuterie !"
+  },
+  "identifier" : "SITRA2_EVE_6020487",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-01-28T11:14:49.242+0000",
+    "dateModification" : "2022-03-24T13:34:50.988+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 96194940,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 67 45 05 06"
+      }
+    }, {
+      "identifiant" : 96194941,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "event@aquaemaltae.com"
+      }
+    }, {
+      "identifiant" : 96194942,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aquaemaltae.com"
+      }
+    }, {
+      "identifiant" : 89611402,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/aquaemaltae"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5218597
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour 2022, Aquae Maltae vous invite tous les vendredis à venir déguster une succulente bière artisanale bio, accompagnée de bonne charcuterie faite par Raphaël Chiappero."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Certaines de ses préparations contiennent quelques verres des bières de la brasserie. Saurez-vous les reconnaître ?\r\nVenez partager un moment chaleureux entourés de vos amis ou de votre famille. La Malteam se fera toujours un plaisir de vous conseiller et de vous trouver une bière qui vous correspond !"
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Aquae Maltae - Brasserie de Provence",
+      "adresse1" : "Rue De l'Ancienne Minoterie",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.435536, 43.535035 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5537308
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 5996
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 28/01 au 31/12/2022, tous les vendredis de 19h à 22h.",
+      "libelleEn" : "From 28/01 to 31/12/2022, every Friday between 7 pm and 10 pm.",
+      "libelleEs" : "Del 28/01 al 31/12/2022, todos los viernes de 19 a 22.",
+      "libelleIt" : "Dal 28/01 al 31/12/2022, tutti i venerdì dalle 19 alle 22.",
+      "libelleDe" : "Vom 28/01 bis 31/12/2022, jeden Freitag von 19 Uhr bis 22 Uhr.",
+      "libelleNl" : "Van 28/01 tot en met 31/12/2022, elke vrijdag van 19.00 tot en met 22.00 u.",
+      "libelleRu" : "С 28/01 до 31/12/2022, каждый пятницы с 19h до 22h.",
+      "libelleZh" : "从 1月28日 到 2022年12月31日, 每星期五 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 28/01 a 31/12/2022, todas as sextas-feiras de 19h a  22h.",
+      "libelleJa" : "28/01 から 31/12/2022 まで, 毎金曜日 7 午後 と 10 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22582985,
+      "dateDebut" : "2022-01-28",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "19:00:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22582985
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5408
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5868
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6284
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20249616,
+    "referent" : true,
+    "nom" : "Meynial",
+    "prenom" : "germain",
+    "moyensCommunication" : [ {
+      "identifiant" : 96194943,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "germain@aquaemaltae.com"
+      }
+    }, {
+      "identifiant" : 96194944,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 67 45 05 06"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12284399,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Léa Beauchet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/145/12423458.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/145/12423458-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/145/12423458-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/145/12423458-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Illustration_sans_titre",
+      "taille" : 755701,
+      "hauteur" : 1080,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-01-28T13:50:31.651+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-14", "2022-10-21", "2022-10-28", "2022-11-04", "2022-11-11", "2022-11-18", "2022-11-25", "2022-12-02", "2022-12-09", "2022-12-16", "2022-12-23", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2121
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Aquae Maltae - Brasserie de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

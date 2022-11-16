@@ -1,0 +1,136 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223759,
+  "nom" : {
+    "libelleFr" : "Abbaye Saint Michel de Frigolet",
+    "libelleEn" : "Abbaye Saint Michel de Frigolet",
+    "libelleEs" : "Abbaye Saint Michel de Frigolet",
+    "libelleIt" : "Abbaye Saint Michel de Frigolet",
+    "libelleDe" : "Abbaye Saint Michel de Frigolet",
+    "libelleNl" : "Abbaye Saint Michel de Frigolet"
+  },
+  "identifier" : "SITRA2_STR_5223759",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:14:16.842+0000",
+    "dateModification" : "2020-11-25T12:48:08.629+0000",
+    "dateExportModification" : "2022-05-20T08:57:02.593+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Communauté d'agglomération Arles Crau Camargue Montagnette (ACCM)",
+      "dateCreation" : "2020-10-27T15:36:13.685+0000",
+      "dateModification" : "2022-10-24T08:49:31.113+0000",
+      "id" : 2118
+    },
+    "signalerUnProblemeMails" : [ "e.dejean@agglo-accm.fr", "i.bindoni@agglo-accm.fr", "i.filaseta@agglo-accm.fr", "m.graziani@agglo-accm.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70514743,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 12 78 40 90"
+      }
+    }, {
+      "identifiant" : 70514744,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 70 07"
+      }
+    }, {
+      "identifiant" : 70514745,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 79 23"
+      }
+    }, {
+      "identifiant" : 70514746,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "abbaye@frigolet.com"
+      }
+    }, {
+      "identifiant" : 70514747,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.frigolet.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13150",
+      "commune" : {
+        "id" : 4519
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4519
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6142170
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,252 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466598,
+  "nom" : {
+    "libelleFr" : "Cérémonie du 11 Novembre",
+    "libelleEn" : "November 11th Ceremony",
+    "libelleEs" : "Ceremonia del 11 de noviembre",
+    "libelleIt" : "Cerimonia dell'11 novembre",
+    "libelleDe" : "11. November Zeremonie",
+    "libelleNl" : "11 november ceremonie"
+  },
+  "identifier" : "SITRA2_EVE_5466598",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:49:33.576+0000",
+    "dateModification" : "2022-10-12T09:59:30.357+0000",
+    "dateExportModification" : "2022-10-12T09:59:30.951+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071567,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 24 35 35"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Châteaurenard"
+      }
+    }, {
+      "identifiant" : 77071571,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.chateaurenard.com"
+      }
+    }, {
+      "identifiant" : 87951691,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://fr-fr.facebook.com/villede.chateaurenard/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466099
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cérémonie du 11 Novembre"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "11h : Rendez-vous devant la Maison du Combattant, Avenue Marx Dormoy.\r\nLevée des couleurs. Départ du défilé vers le cimetière (cours Carnot - av du 4 septembre - av Dr Perrier).\r\n11h20 : Allocutions au cimetière. Dépôt de gerbes au monument aux morts et\r\nchant de la Marseillaise\r\n12h : Apéritif à l'école Pic Chabaud.",
+      "libelleEn" : "Meet in front of the fighter's house at 11:00 a.m.",
+      "libelleEs" : "Nos vemos frente a la casa del luchador a las 11:00 a.m.",
+      "libelleIt" : "Ci vediamo davanti alla casa del combattente alle 11:00.",
+      "libelleDe" : "Treffen Sie sich um 11:00 Uhr vor dem Haus des Kämpfers.",
+      "libelleNl" : "Ontmoet in de voorkant van de Fighter huis op 11:00 a.m."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Maison du Combattant",
+      "adresse1" : "16 Avenue Marx Dormoy",
+      "codePostal" : "13160",
+      "commune" : {
+        "id" : 4438
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.856428, 43.883788 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4438
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 11h.",
+      "libelleEn" : "Friday 11 November 2022 at 11 am.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 11.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 11.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 11 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 11.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 11h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  11h.",
+      "libelleJa" : "金曜日 11 11月 2022 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24481845,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24481845
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PARTICIPATION_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Participation libre.",
+      "libelleEn" : "Free to participate.",
+      "libelleEs" : "Participación libre.",
+      "libelleIt" : "Partecipazione libera.",
+      "libelleDe" : "Teilnahme frei.",
+      "libelleNl" : "Vrije bijdrage.",
+      "libelleRu" : "��ход свободный.",
+      "libelleZh" : "自由参加.",
+      "libellePtBR" : "Participação livre.",
+      "libelleJa" : "参加無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14373971,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CC jackmac34 - Pixabay"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/117/14710213.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/117/14710213-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/117/14710213-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/117/14710213-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DrapeauFrançais©jackmac34",
+      "taille" : 227565,
+      "hauteur" : 835,
+      "largeur" : 1280,
+      "lastModifiedDate" : "2022-10-12T09:59:30.449+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Maison du Combattant"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT086498"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

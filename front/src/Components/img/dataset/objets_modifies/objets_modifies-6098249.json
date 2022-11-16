@@ -1,0 +1,239 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6098249,
+  "nom" : {
+    "libelleFr" : "Brocante déballage au rond-point du Prado"
+  },
+  "identifier" : "SITRA2_EVE_6098249",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-04-25T14:23:00.450+0000",
+    "dateModification" : "2022-11-08T14:59:30.521+0000",
+    "dateExportModification" : "2022-11-08T14:59:31.870+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5470777
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Art Collection Organisation propose tous les jeudis une brocante devant l'immeuble du Grand pavois, au rond-point du Prado."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Rond-point du Prado  devant le Grand Pavois et Mistigriff",
+      "codePostal" : "13008",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.391091, 43.272377 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 06/01 au 29/12/2022, tous les jeudis de 8h à 18h.",
+      "libelleEn" : "From 06/01 to 29/12/2022, every Thursday between 8 am and 6 pm.",
+      "libelleEs" : "Del 06/01 al 29/12/2022, todos los jueves de 8 a 18.",
+      "libelleIt" : "Dal 06/01 al 29/12/2022, tutti i giovedì dalle 8 alle 18.",
+      "libelleDe" : "Vom 06/01 bis 29/12/2022, jeden Donnerstag von 8 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 06/01 tot en met 29/12/2022, elke donderdag van 8.00 tot en met 18.00 u.",
+      "libelleRu" : "С 06/01 до 29/12/2022, каждый четверги с 8h до 18h.",
+      "libelleZh" : "从 1月6日 到 2022年12月29日, 每星期四 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 06/01 a 29/12/2022, todas as quintas-feiras de 8h a  18h.",
+      "libelleJa" : "06/01 から 29/12/2022 まで, 毎木曜日 8 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23190166,
+      "dateDebut" : "2022-01-06",
+      "dateFin" : "2022-12-29",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 24725035
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16642
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14825941,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Vide-grenier Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Vide-grenier"
+    },
+    "copyright" : {
+      "libelleFr" : "CM Office de Tourisme Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/31/15212399.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/31/15212399-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/31/15212399-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/31/15212399-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Vide grenier 2",
+      "taille" : 325059,
+      "hauteur" : 952,
+      "largeur" : 1278,
+      "lastModifiedDate" : "2022-11-08T14:59:31.156+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14825991,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Vide-grenier Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Vide-grenier Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "CM Office de Tourisme Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/31/15212473.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/31/15212473-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/31/15212473-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/31/15212473-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Vide grenier 3",
+      "taille" : 241285,
+      "hauteur" : 949,
+      "largeur" : 820,
+      "lastModifiedDate" : "2022-11-08T14:59:30.647+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2062
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2127
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Rond-point du Prado  devant le Grand Pavois et Mistigriff"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-29T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

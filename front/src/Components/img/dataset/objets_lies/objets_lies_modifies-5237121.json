@@ -1,0 +1,111 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5237121,
+  "nom" : {
+    "libelleFr" : "Galerie Territoires Partagés",
+    "libelleEn" : "Galerie Territoires Partagés",
+    "libelleIt" : "Galerie Territoires Partagés",
+    "libelleDe" : "Galerie Territoires Partagés",
+    "libelleNl" : "Galerie Territoires Partagés"
+  },
+  "identifier" : "SITRA2_STR_5237121",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-05T09:45:01.212+0000",
+    "dateModification" : "2021-04-20T07:23:46.169+0000",
+    "dateExportModification" : "2022-06-26T16:10:08.887+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70647807,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 51 21 61 85"
+      }
+    }, {
+      "identifiant" : 70647808,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "artccessible@gmail.com"
+      }
+    }, {
+      "identifiant" : 70647809,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.artccessible-territoires-partages.blogspot.fr/"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "81 Rue De la Loubière",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

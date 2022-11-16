@@ -1,0 +1,113 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223232,
+  "nom" : {
+    "libelleFr" : "Musée René Verrier",
+    "libelleEn" : "Musée René Verrier",
+    "libelleIt" : "Musée René Verrier",
+    "libelleDe" : "Musée René Verrier",
+    "libelleNl" : "Musée René Verrier"
+  },
+  "identifier" : "SITRA2_STR_5223232",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:56:57.182+0000",
+    "dateModification" : "2020-10-23T13:13:28.062+0000",
+    "dateExportModification" : "2022-11-06T17:40:16.006+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513097,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 21 79 99"
+      }
+    }, {
+      "identifiant" : 70513098,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "asphcr@laposte.net"
+      }
+    }, {
+      "identifiant" : 70513099,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://asphcr13.blogspot.fr/"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Saint-Anne",
+      "codePostal" : "13360",
+      "commune" : {
+        "id" : 4497
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4497
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

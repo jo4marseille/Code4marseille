@@ -1,0 +1,229 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309376,
+  "nom" : {
+    "libelleFr" : "Seuil - Clément Edouard"
+  },
+  "identifier" : "SITRA2_EVE_6309376",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T09:19:50.959+0000",
+    "dateModification" : "2022-10-26T12:53:46.894+0000",
+    "dateExportModification" : "2022-10-26T12:53:47.055+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104581738,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.gmem.org/saison/seuil"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463748
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez \"Seuil\" de Clément Edouard."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Seuil est une invitation à visiter un interstice, un entre deux mondes, en explorant l’apprentissage d’un nouveau langage et en tissant des liens avec les populations minérales, végétales et imaginaires.\r\n\r\nEntre un passé affreux et édénique et un futur apocalyptique et salvateur, ces mouvements et rencontres créent une zone d’échange commune, où puiser les ressources de la métamorphose.\r\n\r\nL’imaginaire est ici convoqué par la voix (acoustique et diffusée) et par une multi-diffusion (physique et osseuse, spatialisée, de proximité), créant des espaces d’écoutes et de perceptions propres à perturber notre mental, à nous maintenir dans un état hypnagogique (entre éveil et sommeil), à convoquer un Nous plus vaste.\r\n\r\nConception, composition : Clément Edouard\r\nScénographe, collaboration artistique : Mélina Faka\r\nCréation lumière : Guillaume Cousin\r\nVoix : Marie Nachury, Anne Davienne, Viviane Balsiger, Gilles Poizat, Antoine Mermet et Greg Gilg\r\nAccompagnement et conseil hypnotique : Marie Lisel\r\nAccompagnement et conseil neuro-scientifique : Fabien Perrin\r\nConseil et développement informatique musicale : Julien Bayle\r\nChargée de production : Laura Zeguers\r\n\r\nDans le cadre de Chroniques - la Biennale des Imaginaires Numériques.\r\n[6 représentations de 25 minutes]"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Friche Belle de Mai",
+      "adresse1" : "41 rue Jobin",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.389944, 43.310141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5678344
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022.\nÀ 17h, 18h, 19h, 21h, 22h et 23h.",
+      "libelleEn" : "Thursday 10 November 2022.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022.",
+      "libelleIt" : "Giovedì 10 novembre 2022.",
+      "libelleDe" : "Donnerstag, den 10. November 2022.",
+      "libelleNl" : "Donderdag 10 november 2022.",
+      "libelleRu" : "Четверг 10 ноября 2022.",
+      "libelleZh" : "2022年11月10日, 星期四.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022.",
+      "libelleJa" : "木曜日 10 11月 2022."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24598558,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : {
+        "libelleFr" : "à 17h, 18h, 19h, 21h, 22h et 23h"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24601697
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Sur inscription\r\nDans la limite des places disponibles.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Sur inscription\r\nDans la limite des places disponibles"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14573910,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Seuil - Clément Edouard"
+    },
+    "legende" : {
+      "libelleFr" : "Seuil - Clément Edouard"
+    },
+    "copyright" : {
+      "libelleFr" : "Seuil - Clément Edouard - GMEM"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/231/14935991.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/231/14935991-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/231/14935991-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/231/14935991-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "seuil",
+      "taille" : 40808,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-26T12:43:41.015+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2223
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Friche Belle de Mai"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,164 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228829,
+  "nom" : {
+    "libelleFr" : "Théâtre de Pertuis, du Luberon et Val de Durance",
+    "libelleEn" : "Théâtre de Pertuis, du Luberon et Val de Durance",
+    "libelleIt" : "Théâtre de Pertuis, du Luberon et Val de Durance",
+    "libelleDe" : "Théâtre de Pertuis, du Luberon et Val de Durance",
+    "libelleNl" : "Théâtre de Pertuis, du Luberon et Val de Durance"
+  },
+  "identifier" : "SITRA2_STR_5228829",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T08:40:01.527+0000",
+    "dateModification" : "2021-08-26T10:04:52.122+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Pertuis",
+      "dateCreation" : "2020-10-05T11:51:36.468+0000",
+      "dateModification" : "2022-07-26T09:15:58.380+0000",
+      "id" : 2097,
+      "siteWeb" : "http://www.ville-pertuis.fr"
+    },
+    "signalerUnProblemeMails" : [ "contact@tourisme-pertuis.fr", "dgambari@tourisme-pertuis.fr", "pleale@tourisme-pertuis.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540677,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 73 53"
+      }
+    }, {
+      "identifiant" : 70540678,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 56 37"
+      }
+    }, {
+      "identifiant" : 70540679,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredepertuis@mairie-pertuis.fr"
+      }
+    }, {
+      "identifiant" : 70540680,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ville-pertuis.fr"
+      }
+    }, {
+      "identifiant" : 91514840,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 07 36 37 89"
+      },
+      "observation" : {
+        "libelleFr" : "Mme Sebastiani"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "90 Boulevard Victor Hugo",
+      "codePostal" : "84120",
+      "commune" : {
+        "id" : 34282
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 34282
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19595755,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "SEBASTIANI",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 91514901,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 07 36 37 89"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 311231
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4645641
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4784556
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853837
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5916395
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6140533
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,1363 @@
+{
+  "type" : "DEGUSTATION",
+  "id" : 4612070,
+  "nom" : {
+    "libelleFr" : "Château Val Joanis",
+    "libelleEn" : "Château Val Joanis",
+    "libelleEs" : "Château Val Joanis",
+    "libelleIt" : "Château Val Joanis",
+    "libelleDe" : "Weingut Château Val Joanis",
+    "libelleNl" : "Château Val Joanis"
+  },
+  "identifier" : "SITRA2_DEG_4612070",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2016-12-15T13:53:45.501+0000",
+    "dateModification" : "2022-04-01T08:38:34.610+0000",
+    "dateExportModification" : "2022-10-26T14:55:32.177+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Pertuis",
+      "dateCreation" : "2020-10-05T11:51:36.468+0000",
+      "dateModification" : "2022-07-26T09:15:58.380+0000",
+      "id" : 2097,
+      "siteWeb" : "http://www.ville-pertuis.fr"
+    },
+    "signalerUnProblemeMails" : [ "contact@tourisme-pertuis.fr", "dgambari@tourisme-pertuis.fr", "pleale@tourisme-pertuis.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 38358812,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.val-joanis.com"
+      }
+    }, {
+      "identifiant" : 96774357,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magasin@val-joanis.com"
+      }
+    }, {
+      "identifiant" : 96774381,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 88 40"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 4612069
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Château Val Joanis à Pertuis. Domaine viticole et oléicole. Producteur, dégustation d'huiles d'olive de Provence et de vins AOC Luberon. Visite des jardins remarquables.",
+      "libelleEn" : "Château Val Joanis in Pertuis. Vineyard and olive growing domaine. Producer, Provence olive oil and PDO AOC Luberon wine tasting. Visit the remarkable gardens.",
+      "libelleDe" : "Der Schloss Val Joanis wurde auf den Ruinen einer ehemaligen römischen Villa gebaut."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Château Val Joanis est situé sur l'emplacement d'une ancienne villa romaine.\r\n\r\nNiché au pied du Grand Luberon, le Château Val Joanis s’étend sur 400 ha dans un écrin de verdure préservé qui se répartissent de manière équilibrée entre vignes, pinèdes et oliviers.\r\n\r\nLe Château Val Joanis possède 120 ha de vignes sur l’appellation Luberon. Elles sont implantés sur les crêtes caillouteuses et les coteaux argilo-calcaires bénéficiant d’un ensoleillement optimum et des nuits fraîches de cette région de la Provence intérieure. \r\n\r\nVisite du jardin remarquable et du domaine : 3€. \r\n\r\nDégustation gratuite des vins du domaine dans notre boutique.\r\n\r\nAccepte les visites de groupes sur RDV : 60 personnes maximum.",
+      "libelleEn" : "Val Joanis castle was built on the vestiges of an ancient Roman villa.\r\n\r\nThe property stretches on 400 hectares of vineyard, pine forest and olive grove. The 120 ha “AOC Luberon” (Luberon PDO) certified vineyard is planted on stony ridges and chalky clay hillsides and benefits from the optimum sunshine and the cool nights of the Provencal inland.\r\n\r\nRemarkable garden: 3€.\r\n\r\nFree wine tasting in our shop.",
+      "libelleDe" : "Das Schloss Val Joanis umfasst 400ha Weinberge, Kiefernwälder und Olivenhaine.\r\n\r\nDie AOC Luberon Weine sind auf steinigem oder ton- und kalkhaltigem Untergrund gepflanzt und profitieren von der optimalen Sonnenbestrahlung und den kühlen Nächten der inneren Provence.\r\n\r\n3€ Eintritt und Weinverkostung der eigenen Weine in der Boutique."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1597
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1604
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1624
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2404 Route de Villelaure",
+      "adresse2" : "D973",
+      "codePostal" : "84120",
+      "commune" : {
+        "id" : 34282
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.468788, 43.711316 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 34282
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 153
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 169
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 176
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 187
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 192
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 195
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 199
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3978
+    } ]
+  },
+  "liens" : {
+    "complement" : {
+      "libelleFr" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nPIPn-eLZ9w?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 4664122
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3906319
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3337498
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3917680
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 4598100
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3033090
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3337506
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3337511
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3906375
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3426113
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 4679064
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 3905950
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 4612072
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3426183
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3892820
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 4664085
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 4597368
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3384191
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 3426306
+      }
+    }, {
+      "type" : "ADRESSE_UTILE",
+      "libelleFr" : "Adresse utile",
+      "libelleEn" : "Useful address",
+      "libelleEs" : "Dirección útil",
+      "libelleIt" : "Indirizzi utili",
+      "libelleDe" : "Nützliche Adresse",
+      "libelleNl" : "Handig adres",
+      "libelleRu" : "Полезный адрес",
+      "libelleZh" : "实用地址",
+      "libellePtBR" : "Endereço útil",
+      "libelleJa" : "便利なアドレス",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 4598047
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 821
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1300
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 767
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 781
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 916
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1024
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1130
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1138
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 3747
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 4618
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 4770
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 643
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 691
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 3910
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3652
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/03, tous les lundis, mardis, mercredis, jeudis et vendredis.\nService call and collect uniquement au 0490798840 ou à magasin@val-joanis.com.\n\nDu 01/04 au 30/09 \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 13h et de 15h à 19h.\n\nDu 01/10 au 31/12 \nOuverture le mardi, mercredi, jeudi, vendredi et samedi de 10h à 12h30 et de 14h à 17h.\nFermeture exceptionnelle le 25 décembre.",
+      "libelleEn" : "From 01/01 to 31/03, every Monday, Tuesday, Wednesday, Thursday and Friday.\n\nFrom 01/04 to 30/09 \nOpening hours on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 1 pm and between 3 pm and 7 pm.\n\nFrom 01/10 to 31/12 \nOpening hours on Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 12.30 pm and between 2 pm and 5 pm.\nClosed exceptionally on December 25th.",
+      "libelleEs" : "Del 01/01 al 31/03, todos los lunes, martes, miércoles, jueves y viernes.\n\nDel 01/04 al 30/09 \nHorarios de apertura los lunes, martes, miércoles, jueves, viernes y sábado de 10 a 13 y de 15 a 19.\n\nDel 01/10 al 31/12 \nHorarios de apertura los martes, miércoles, jueves, viernes y sábado de 10 a 12:30 y de 14 a 17.\nSe cierra, excepcionalmente el 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 31/03, tutti i lunedì, martedì, mercoledì, giovedì e venerdì.\n\nDal 01/04 al 30/09 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 13 e dalle 15 alle 19.\n\nDal 01/10 al 31/12 \nOrari di apertura il martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 12:30 e dalle 14 alle 17.\nChiusura eccezionale il 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 31/03, jeden Montag, Dienstag, Mittwoch, Donnerstag und Freitag.\n\nVom 01/04 bis 30/09 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 13 Uhr und von 15 Uhr bis 19 Uhr.\n\nVom 01/10 bis 31/12 \nÖffnungszeiten jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 12.30 Uhr und von 14 Uhr bis 17 Uhr.\nAusnahmsweise geschlossen am 25. Dezember.",
+      "libelleNl" : "Van 01/01 tot en met 31/03, elke maandag, dinsdag, woensdag, donderdag en vrijdag.\n\nVan 01/04 tot en met 30/09 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 13.00 u en van 15.00 tot en met 19.00 u.\n\nVan 01/10 tot en met 31/12 \nOpeningstijden op dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 12.30 u en van 14.00 tot en met 17.00 u.\nBij uitzondering gesloten op 25 december.",
+      "libelleRu" : "С 01/01 до 31/03, каждый понедельники, вторники, среды, четверги и пятницы.\n\nС 01/04 до 30/09 \nЧасы открытия на понедельник, вторник, среда, четверг, пятница и суббота с 10h до 13h и с 15h до 19h.\n\nС 01/10 до 31/12 \nЧасы открытия на вторник, среда, четверг, пятница и суббота с 10h до 12h30 и с 14h до 17h.\nВ порядке исключения не работает 25 декабря.",
+      "libelleZh" : "从 1月1日 到 3月31日, 每星期一, 星期二, 星期三, 星期四 和 星期五.\n\n从 4月1日 到 9月30日 \n开放时间 上 星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\n\n从 10月1日 到 12月31日 \n开放时间 上 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间 和 小时小时 和 小时小时 之间.\n在 12月25日 例外关闭.",
+      "libellePtBR" : "De 01/01 a 31/03, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras e sextas-feiras.\n\nDe 01/04 a 30/09 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  13h e de 15h a  19h.\n\nDe 01/10 a 31/12 \nOuverture na terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  12h30 e de 14h a  17h.\nFechamento excepcional em 25 de dezembro.",
+      "libelleJa" : "01/01 から 31/03 まで, 毎月曜日, 火曜日, 水曜日, 木曜日 と 金曜日.\n\n01/04 から 30/09 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 1 午後 の間 と 3 午後 と 7 午後 の間.\n\n01/10 から 31/12 まで \n開館時間 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 12.30 午後 の間 と 2 午後 と 5 午後 の間.\n12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 438
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22495912,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-03-31",
+      "complementHoraire" : {
+        "libelleFr" : "Service call and collect uniquement au 0490798840 ou à magasin@val-joanis.com"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22699971
+    }, {
+      "identifiant" : 13054065,
+      "dateDebut" : "2022-04-01",
+      "dateFin" : "2022-09-30",
+      "complementHoraire" : { },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22699972
+    }, {
+      "identifiant" : 22495897,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22699973
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "- Visite du domaine et des jardins remarquables : 3€ par personne.\r\n\r\n- Visite de groupe sur demande.",
+      "libelleEn" : "- Visit the wine estate and the remarkable garden for €3 per person.\r\n\r\n- Tour for groups upon request.",
+      "libelleDe" : "- Besichtigung des Weinguts und des Gartens für 3€ pro Kopf. \r\n\r\n- Gruppenführung auf Nachfrage."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "- Visite du domaine et des jardins remarquables : 3€ par personne.\r\n\r\n- Visite de groupe sur demande.",
+      "libelleEn" : "- Visit the wine estate and the remarkable garden for €3 per person.\r\n\r\n- Tour for groups upon request.",
+      "libelleDe" : "- Besichtigung des Weinguts und des Gartens für 3€ pro Kopf. \r\n\r\n- Gruppenführung auf Nachfrage."
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6239211,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 4612069
+      },
+      "nom" : "Château Val Joanis",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 38358809,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 90 79 20 77"
+        }
+      }, {
+        "identifiant" : 38358811,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "info@val-joanis.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 10234
+  }, {
+    "id" : 12889
+  }, {
+    "id" : 12890
+  }, {
+    "id" : 12891
+  }, {
+    "id" : 13197
+  }, {
+    "id" : 13250
+  }, {
+    "id" : 15590
+  } ],
+  "contacts" : [ {
+    "identifiant" : 13519035,
+    "referent" : true,
+    "nom" : "Joanis",
+    "prenom" : "Val",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 40478479,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 79 20 77"
+      }
+    }, {
+      "identifiant" : 40478483,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@val-joanis.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12162884,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Soirée Sunset Vigneron"
+    },
+    "copyright" : {
+      "libelleFr" : "Luberon Sud Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/112/12284095.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/112/12284095-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/112/12284095-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/112/12284095-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Sunsets Vignerons Val Joanis (40 sur 59)",
+      "taille" : 399524,
+      "hauteur" : 1267,
+      "largeur" : 1900,
+      "lastModifiedDate" : "2022-01-17T14:59:06.659+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12162882,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Luberon Sud Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/112/12284093.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/112/12284093-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/112/12284093-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/112/12284093-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC01189",
+      "taille" : 2456475,
+      "hauteur" : 1267,
+      "largeur" : 1900,
+      "lastModifiedDate" : "2022-01-17T14:59:04.816+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246135,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : {
+      "libelleFr" : "Header"
+    },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/166/7054890.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/166/7054890-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/166/7054890-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/166/7054890-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "VIGNES-50",
+      "taille" : 917708,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12162881,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Luberon Sud Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/112/12284092.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/112/12284092-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/112/12284092-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/112/12284092-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC01152",
+      "taille" : 2115765,
+      "hauteur" : 1267,
+      "largeur" : 1900,
+      "lastModifiedDate" : "2022-01-17T14:59:05.719+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246136,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Logo Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Portrait"
+    },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/166/7054891.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/166/7054891-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/166/7054891-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/166/7054891-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "logo val joanis",
+      "taille" : 15142,
+      "hauteur" : 468,
+      "largeur" : 500,
+      "lastModifiedDate" : "2019-12-13T16:10:35.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246137,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/166/7054892.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/166/7054892-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/166/7054892-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/166/7054892-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "VIGNES-08",
+      "taille" : 528306,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246138,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Coll.Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits gérés Coll.Val Joanis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/166/7054893.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/166/7054893-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/166/7054893-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/166/7054893-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "w_val_joanis_01",
+      "taille" : 266253,
+      "hauteur" : 683,
+      "largeur" : 1024,
+      "lastModifiedDate" : "2019-12-13T16:10:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246139,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/166/7054894.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/166/7054894-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/166/7054894-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/166/7054894-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "JARDINS-19",
+      "taille" : 896804,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246140,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Coll.Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits gérés Coll.Val Joanis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/166/7054895.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/166/7054895-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/166/7054895-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/166/7054895-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "w_val_joanis_04",
+      "taille" : 121323,
+      "hauteur" : 683,
+      "largeur" : 1024,
+      "lastModifiedDate" : "2019-12-13T16:10:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246141,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/166/7054896.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/166/7054896-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/166/7054896-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/48/166/7054896-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "VIGNES-16",
+      "taille" : 860004,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246142,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/166/7054897.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/166/7054897-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/166/7054897-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/166/7054897-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "PHOTO GUIDE 2",
+      "taille" : 1155074,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246143,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Coll.Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits gérés Coll.Val Joanis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/166/7054898.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/166/7054898-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/166/7054898-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/166/7054898-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "w_val_joanis_02",
+      "taille" : 223576,
+      "hauteur" : 683,
+      "largeur" : 1024,
+      "lastModifiedDate" : "2019-12-13T16:10:30.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246144,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "logo Jardin remarquable"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/166/7054899.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/166/7054899-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/166/7054899-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/166/7054899-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "logo-jardin-remarquable_reference",
+      "taille" : 27927,
+      "hauteur" : 600,
+      "largeur" : 484,
+      "lastModifiedDate" : "2019-12-13T16:10:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246145,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/166/7054900.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/166/7054900-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/166/7054900-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/166/7054900-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CAVES-01",
+      "taille" : 598140,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:29.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246146,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Val Joanis Pertuis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/166/7054901.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/166/7054901-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/166/7054901-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/166/7054901-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CHAIX-04",
+      "taille" : 728130,
+      "hauteur" : 829,
+      "largeur" : 1244,
+      "lastModifiedDate" : "2019-12-13T16:10:30.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 7246147,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château Val Joanis"
+    },
+    "legende" : {
+      "libelleFr" : "Coll.Val Joanis"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits gérés Coll.Val Joanis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/166/7054902.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/166/7054902-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/166/7054902-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/166/7054902-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "w_val_joanis_03",
+      "taille" : 118768,
+      "hauteur" : 1024,
+      "largeur" : 719,
+      "lastModifiedDate" : "2019-12-13T16:10:28.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipeesPour" : [ {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1239
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1240
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1241
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1242
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1243
+    } ],
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1244
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1246
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1250
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1251
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1252
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1255
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1256
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1257
+    }, {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1261
+    } ],
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1235
+    } ],
+    "sallesHebergement" : [ {
+      "elementReferenceType" : "SalleHebergement",
+      "id" : 1231
+    }, {
+      "elementReferenceType" : "SalleHebergement",
+      "id" : 1232
+    } ],
+    "nombreSallesReunionEquipees" : 2,
+    "capaciteMaxAccueil" : 390,
+    "nombreSallesModulables" : 2
+  },
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "dureeMoyenneVisiteGroupe" : 60,
+    "dureeMoyenneVisiteIndividuelle" : 50,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 486
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 489
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 492
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 494
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 311231
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4645641
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4784556
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853837
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5916395
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6140533
+  } ],
+  "datesOuverture" : [ "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2024-01-01", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-29", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2023-04-01", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-29", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-12", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-19", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-26", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-03", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-10", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-17", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-24", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-31", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-07", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-14", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-21", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-28", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-04", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-11", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-18", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-25", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2024-04-01", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-29", "2024-04-30", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-06", "2024-05-07", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-13", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-20", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-27", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-03", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-10", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-17", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-24", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-07-01", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-08", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-15", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-22", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-29", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-05", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-12", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-19", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-26", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-02", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-09", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-16", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-23", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-09-30", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25" ],
+  "informationsDegustation" : {
+    "aoc" : true,
+    "labelsChartesQualite" : [ {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 4464
+    }, {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 4471
+    }, {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 4954
+    }, {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 6425
+    } ],
+    "charteQualite" : {
+      "libelleFr" : "Charte Inter Rhône : « Rendez Vous Terroirs », La cave Découverte, Distinction Oenotourisme, Label Vignobles et Découvertes",
+      "libelleEn" : "Distinction Wine Tourism, Label Vineyards and Discoveries",
+      "libelleEs" : "Distinción enoturismo, Etiquetar viñedos y descubrimientos",
+      "libelleIt" : "Distinzione del turismo del vino, Etichetta Vigneti e Scoperte",
+      "libelleDe" : "Auszeichnung Wein Tourismus, Label Weinberge und Entdeckungen",
+      "libelleNl" : "Onderscheid wijntoerisme, Label wijngaarden en ontdekkingen",
+      "libelleRu" : "Отличие Винного Туризма, Яркие виноградники и открытия",
+      "libelleZh" : "区分葡萄酒旅游, 标签葡萄园和发现",
+      "libellePtBR" : "C, Distinção vinho",
+      "libelleJa" : "Distinction Oenotourisme（ワインツーリズム識別）ラベル, Vignobles et Découvertes（ブドウ園と発見）ラベル"
+    },
+    "aopAocIgps" : [ {
+      "elementReferenceType" : "AopAocIgp",
+      "id" : 4388
+    } ],
+    "aocDescriptif" : {
+      "libelleFr" : "AOP Luberon",
+      "libellePtBR" : "AOP Luberon"
+    },
+    "typesProduit" : [ {
+      "elementReferenceType" : "DegustationTypeProduit",
+      "id" : 3020
+    } ],
+    "statutsExploitant" : [ {
+      "elementReferenceType" : "DegustationStatutExploitant",
+      "id" : 3026
+    }, {
+      "elementReferenceType" : "DegustationStatutExploitant",
+      "id" : 3038
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.4,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 86,
+        "dateMaj" : 1666706512956
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,266 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6043790,
+  "nom" : {
+    "libelleFr" : "Séances de Cinéma"
+  },
+  "identifier" : "SITRA2_EVE_6043790",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-25T11:43:37.221+0000",
+    "dateModification" : "2022-11-05T15:15:19.889+0000",
+    "dateExportModification" : "2022-11-05T15:15:20.071+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Roque d'Anthéron",
+      "dateCreation" : "2020-11-04T10:41:06.262+0000",
+      "dateModification" : "2022-10-24T08:49:39.510+0000",
+      "id" : 2121,
+      "siteWeb" : "http://www.laroquedantheron-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "benedicte.roussy@ville-laroquedantheron.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97181229,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0442507074"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6023459
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228539
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Deux ou trois séances tous les jeudis soirs"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous serez installés confortablement dans de vrais fauteuils de cinéma."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Centre Sportif et Culturel Marcel Pagnol",
+      "adresse1" : "Esplanade du Pijoret",
+      "codePostal" : "13640",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4495
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.308902, 43.714175 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4495
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3652
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3654
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3657
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3661
+    } ],
+    "nombrePersonnesEnFauteuilRoulantAccueilliesSimultanement" : 4
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les jeudis de 18h30 à 23h.",
+      "libelleEn" : "All year round, every Thursday between 6.30 pm and 11 pm.",
+      "libelleEs" : "Todo el año, todos los jueves de 18:30 a 23.",
+      "libelleIt" : "Tutto l'anno, tutti i giovedì dalle 18:30 alle 23.",
+      "libelleDe" : "Ganzjährig, jeden Donnerstag von 18.30 Uhr bis 23 Uhr.",
+      "libelleNl" : "Het hele jaar, elke donderdag van 18.30 tot en met 23.00 u.",
+      "libelleRu" : "В течение всего года, каждый четверги с 18h30 до 23h.",
+      "libelleZh" : "全年, 每星期四 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Todo o ano, todas as quintas-feiras de 18h30 a  23h.",
+      "libelleJa" : "オールシーズン, 毎木曜日 6.30 午後 と 11 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22781004,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "18:30:00",
+      "horaireFermeture" : "23:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 24704590
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "6 €\r\nTarif enfant : 4 €."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "6 €\r\nTarif enfant : 4 €"
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12573727,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Façade CSC Marcel Pagnol"
+    },
+    "legende" : {
+      "libelleFr" : "La salle des fêtes se transforme tous les jeudis en salle de cinéma."
+    },
+    "copyright" : {
+      "libelleFr" : "Bénédicte Roussy"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/12755997.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/12755997-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/12755997-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/12755997-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20210512_124731",
+      "taille" : 3212156,
+      "hauteur" : 3000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2022-02-25T14:00:58.215+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12573766,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Salle des fêtes"
+    },
+    "legende" : {
+      "libelleFr" : "Le confort d'une salle de cinéma."
+    },
+    "copyright" : {
+      "libelleFr" : "Amoretti"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/164/12756036.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/164/12756036-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/164/12756036-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/164/12756036-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "FWA_DS_0738",
+      "taille" : 2939520,
+      "hauteur" : 4333,
+      "largeur" : 6500,
+      "lastModifiedDate" : "2022-02-25T14:00:53.557+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29", "2023-01-05", "2023-01-12", "2023-01-19", "2023-01-26", "2023-02-02", "2023-02-09", "2023-02-16", "2023-02-23", "2023-03-02", "2023-03-09", "2023-03-16", "2023-03-23", "2023-03-30", "2023-04-06", "2023-04-13", "2023-04-20", "2023-04-27", "2023-05-04", "2023-05-11", "2023-05-18", "2023-05-25", "2023-06-01", "2023-06-08", "2023-06-15", "2023-06-22", "2023-06-29", "2023-07-06", "2023-07-13", "2023-07-20", "2023-07-27", "2023-08-03", "2023-08-10", "2023-08-17", "2023-08-24", "2023-08-31", "2023-09-07", "2023-09-14", "2023-09-21", "2023-09-28", "2023-10-05", "2023-10-12", "2023-10-19", "2023-10-26", "2023-11-02", "2023-11-09", "2023-11-16", "2023-11-23", "2023-11-30", "2023-12-07", "2023-12-14", "2023-12-21", "2023-12-28", "2024-01-04", "2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21", "2024-03-28", "2024-04-04", "2024-04-11", "2024-04-18", "2024-04-25", "2024-05-02", "2024-05-09", "2024-05-16", "2024-05-23", "2024-05-30", "2024-06-06", "2024-06-13", "2024-06-20", "2024-06-27", "2024-07-04", "2024-07-11", "2024-07-18", "2024-07-25", "2024-08-01", "2024-08-08", "2024-08-15", "2024-08-22", "2024-08-29", "2024-09-05", "2024-09-12", "2024-09-19", "2024-09-26", "2024-10-03", "2024-10-10", "2024-10-17", "2024-10-24", "2024-10-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Centre Sportif et Culturel Marcel Pagnol"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

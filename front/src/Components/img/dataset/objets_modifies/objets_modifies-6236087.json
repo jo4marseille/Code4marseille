@@ -1,0 +1,274 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6236087,
+  "nom" : {
+    "libelleFr" : "Exposition ornithologique"
+  },
+  "identifier" : "SITRA2_EVE_6236087",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-18T11:43:14.395+0000",
+    "dateModification" : "2022-08-18T11:50:41.890+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512479,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 73 09 54"
+      }
+    }, {
+      "identifiant" : 91181656,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "urgonia.mediation@orgon.fr"
+      }
+    }, {
+      "identifiant" : 70512480,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.musee-urgonia.fr"
+      }
+    }, {
+      "identifiant" : 96025178,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/MuseeUrgonia/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222961
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition mettant en valeur les oiseaux de la Provence"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Venez découvrir le travail de Daniel Boccabella, photographe diplômé. Passionné de photographie, d’ornithologie, de faune et de flore depuis plus de 7 ans, il est membre de la Lpo (Ligue de protection des oiseaux), de la SNPN (Société nationale de protection de la nature) et de l’ASPAS (Association pour la protection des animaux sauvages). Il parcourt sur son temps libre notre belle région entre La Crau, La Camargue et les Alpilles, afin de capter, par la photographie, la beauté de la faune et de la flore sauvage avec un amour tout particulier pour les oiseaux. Son chemin est jalonné de belles rencontres humaines et professionnelles lui permettant d’approfondir chaque jour ses connaissances en ornithologie.\r\nÀ travers cette exposition vous pourrez partir à la découverte des oiseaux de notre belle région grâce aux photographies prises de ce passionné d’ornithologie."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Urgonia",
+      "adresse1" : "Chemin des Aires",
+      "codePostal" : "13660",
+      "commune" : {
+        "id" : 4478
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.037560, 43.790725 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4478
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 17/09 au 31/12/2022 de 10h à 17h30 sauf les 1er novembre, 11 novembre et 25 décembre.\nFermé le dimanche.",
+      "libelleEn" : "From 17/09 to 31/12/2022 between 10 am and 5.30 pm except on November 1st, November 11th and December 25th.\nClosed on Sunday.",
+      "libelleEs" : "Del 17/09 al 31/12/2022 de 10 a 17:30 excepto los días 1er de noviembre, 11 de noviembre y 25 de diciembre.\nCerrado los domingo.",
+      "libelleIt" : "Dal 17/09 al 31/12/2022 dalle 10 alle 17:30 tranne 1° novembre, 11 novembre e 25 dicembre.\nChiuso la domenica.",
+      "libelleDe" : "Vom 17/09 bis 31/12/2022 von 10 Uhr bis 17.30 Uhr (außer 1. November, 11. Dezember und 25. Dezember).\nSonntag geschlossen.",
+      "libelleNl" : "Van 17/09 tot en met 31/12/2022 van 10.00 tot en met 17.30 u m.u.v. 1er november, 11 november en 25 december.\nZondag gesloten.",
+      "libelleRu" : "С 17/09 до 31/12/2022 с 10h до 17h30 кроме 1 ноября, 11 ноября и 25 декабря.\nНе работает воскресенье.",
+      "libelleZh" : "从 9月17日 到 2022年12月31日 小时小时 和 小时小时分钟  之间 不包括 11月1日, 11月11日 和 12月25日.\n星期日 关闭.",
+      "libellePtBR" : "De 17/09 a 31/12/2022 de 10h a  17h30 exceto em 1º de novembro, 11 de novembro e 25 de dezembro.\nFechado em domingo.",
+      "libelleJa" : "17/09 から 31/12/2022 まで 10 午前 と 5.30 午後 の間 11月1日, 11月11日 と 12月25日 を除き.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24113856,
+      "dateDebut" : "2022-09-17",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "17:30:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24113856
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "LUNDI_PAQUES"
+    }, {
+      "dateSpeciale" : "ASCENSION"
+    }, {
+      "dateSpeciale" : "LUNDI_PENTECOTE"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "HUIT_MAI"
+    }, {
+      "dateSpeciale" : "QUATORZE_JUILLET"
+    }, {
+      "dateSpeciale" : "QUINZE_AOUT"
+    }, {
+      "dateSpeciale" : "PREMIER_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "ONZE_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21199402,
+    "referent" : true
+  }, {
+    "identifiant" : 19295677,
+    "referent" : false,
+    "titre" : {
+      "libelleFr" : "Musée Urgonia"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 89264396,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 73 09 54"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13787802,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/247/14022443.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/247/14022443-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/247/14022443-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/247/14022443-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Affiche-boccabella-presentation",
+      "taille" : 1858634,
+      "hauteur" : 2572,
+      "largeur" : 1807,
+      "lastModifiedDate" : "2022-08-18T11:50:42.009+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2064
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Urgonia"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

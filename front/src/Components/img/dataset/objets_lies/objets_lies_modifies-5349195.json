@@ -1,0 +1,142 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5349195,
+  "nom" : {
+    "libelleFr" : "Mairie",
+    "libelleEn" : "Mairie",
+    "libelleIt" : "Mairie",
+    "libelleDe" : "Mairie",
+    "libelleNl" : "Mairie"
+  },
+  "identifier" : "SITRA2_STR_5349195",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-09-17T13:47:08.896+0000",
+    "dateModification" : "2022-06-23T14:10:14.570+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Roque d'Anthéron",
+      "dateCreation" : "2020-11-04T10:41:06.262+0000",
+      "dateModification" : "2022-10-24T08:49:39.510+0000",
+      "id" : 2121,
+      "siteWeb" : "http://www.laroquedantheron-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "benedicte.roussy@ville-laroquedantheron.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 73675894,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 95 70 70"
+      }
+    }, {
+      "identifiant" : 73675896,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@ville-laroquedantheron.fr"
+      }
+    }, {
+      "identifiant" : 73675897,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ville-laroquedantheron.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue de l'Europe Unie",
+      "codePostal" : "13640",
+      "commune" : {
+        "id" : 4495
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.307778, 43.715145 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4495
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18849068,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Pauvarel",
+    "prenom" : "Carole",
+    "titre" : {
+      "libelleFr" : "Directrice de la Culture"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 97163272,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0442507235"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,795 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537912,
+  "nom" : {
+    "libelleFr" : "Place de la Libération",
+    "libelleEn" : "Place de la Libération",
+    "libelleEs" : "Place de la Libération",
+    "libelleIt" : "Place de la Libération",
+    "libelleDe" : "Place de la Libération",
+    "libelleNl" : "Place de la Libération",
+    "libelleRu" : "Place de la Libération",
+    "libelleZh" : "Place de la Libération",
+    "libellePtBR" : "Place de la Libération",
+    "libelleJa" : "Place de la Libération"
+  },
+  "identifier" : "SITRA2_PCU_5537912",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:58:23.495+0000",
+    "dateModification" : "2022-08-12T12:55:43.893+0000",
+    "dateExportModification" : "2022-10-18T12:49:22.939+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 83679703,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 90"
+      },
+      "observation" : {
+        "libelleFr" : "Direction culturelle"
+      }
+    }, {
+      "identifiant" : 83679704,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Direction culturelle"
+      }
+    }, {
+      "identifiant" : 83679705,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Art, Histoire et Archéologie"
+      }
+    }, {
+      "identifiant" : 83679706,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service Art, Histoire et Archéologie"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Place piétonne, lieu du premier marché en 1359.",
+      "libelleEn" : "Pedestrian square, place of the first market in 1359.",
+      "libelleEs" : "Plaza peatonal, lugar del primer mercado en 1359.",
+      "libelleDe" : "Fußgängerzone, Ort des ersten Marktes im Jahre 1359."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au centre, une fontaine érigée en 1881, pour célébrer l'arrivée de l'eau douce dans la ville depuis La Durance\r\n\r\nLa célèbre place devient piste de danse en été, pour les \"Danses au Miiroir\", soirées Milonga et toutes danses les mardis, jeudis et samedis.\r\nCafés et restaurants bordent la place.",
+      "libelleEn" : "In the Center, a fountain erected in 1881, to celebrate the arrival of fresh water in the city from the Durance\r\n\r\nThe famous place becomes a dance floor in summer, for the \"dances in the Miiroir\", milonga evenings and all dances on Tuesdays, Thursdays and Saturdays.\r\n\r\nCafes and restaurants border the square.",
+      "libelleEs" : "En el centro, una fuente erigida en 1881, para celebrar la llegada del agua dulce a la ciudad desde La Durance.\r\n\r\nLa famosa plaza se convierte en una pista de baile en verano, para \"Miiroir Dances\", noches de milonga y todos los bailes los martes, jueves y sábados.\r\nCafés y restaurantes se alinean en la plaza.",
+      "libelleDe" : "In der Mitte wurde 1881 ein Brunnen errichtet, um die Ankunft von Süßwasser aus La Durance in der Stadt zu feiern\r\n\r\nDer berühmte Platz wird im Sommer zur Tanzfläche für die \"Danses au Miiroir\", Milonga-Abende und alle Tänze dienstags, donnerstags und samstags.\r\nCafés und Restaurants säumen den Platz."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse3" : "Quartier de L'Île",
+      "codePostal" : "13500",
+      "bureauDistribution" : "MARTIGUES",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.054286, 43.404702 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 181
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 191
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 197
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 5449
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538692
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538416
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538988
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4219
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18308730,
+    "referent" : true,
+    "nom" : "Culturelle",
+    "prenom" : "Direction",
+    "titre" : {
+      "libelleFr" : "Quai Lucien Toulmond - La cour de l'Île"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86959729,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Edith Anastasiou - Directrice"
+      }
+    }, {
+      "identifiant" : 93007908,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "dc@ville-martigues.fr"
+      }
+    }, {
+      "identifiant" : 83648168,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 90"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83648964,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83650240,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 78"
+      },
+      "observation" : {
+        "libelleFr" : "David DELEYE (Coordinateur de l’Action Culturelle)"
+      }
+    }, {
+      "identifiant" : 83650241,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "david.deleye@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "David DELEYE (Coordinateur de l’Action Culturelle)"
+      }
+    }, {
+      "identifiant" : 83652927,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 75"
+      },
+      "observation" : {
+        "libelleFr" : "Santillane SABOURET (ART DE RUE)"
+      }
+    }, {
+      "identifiant" : 83652928,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "santillane.sabouret@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Santillane SABOURET (ART DE RUE)"
+      }
+    }, {
+      "identifiant" : 83652929,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 75"
+      },
+      "observation" : {
+        "libelleFr" : "Caroline FANCELLO (cirque)"
+      }
+    }, {
+      "identifiant" : 83652930,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "caroline.fancello@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Caroline FANCELLO (cirque)"
+      }
+    }, {
+      "identifiant" : 83652957,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 77"
+      },
+      "observation" : {
+        "libelleFr" : "Nathalie HUYGHE (adm dir cult)"
+      }
+    }, {
+      "identifiant" : 83652958,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nathalie.huyghe@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Nathalie HUYGHE (adm dir cult)"
+      }
+    }, {
+      "identifiant" : 83653140,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 90"
+      },
+      "observation" : {
+        "libelleFr" : "Sébastien GARGUILO (ciné plein air)"
+      }
+    }, {
+      "identifiant" : 83653145,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sebastien.garguilo@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Sébastien GARGUILO (ciné plein air)"
+      }
+    }, {
+      "identifiant" : 90086917,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "isabelle.marteau@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Isabelle Marteau-Resp com DC"
+      }
+    }, {
+      "identifiant" : 96067690,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 92"
+      },
+      "observation" : {
+        "libelleFr" : "Isabelle Marteau-Resp com DC"
+      }
+    }, {
+      "identifiant" : 90086927,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 89"
+      },
+      "observation" : {
+        "libelleFr" : "Florent Piquer resp adm DC"
+      }
+    }, {
+      "identifiant" : 100730670,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 76"
+      },
+      "observation" : {
+        "libelleFr" : "MONZON Chouchane-Administration du spectacle, Ecoresponsabilité des événements culturels"
+      }
+    }, {
+      "identifiant" : 100730671,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chouchane.monzon@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "MONZON Chouchane-Administration du spectacle, Ecoresponsabilité des événements culturels"
+      }
+    } ]
+  }, {
+    "identifiant" : 18309385,
+    "referent" : false,
+    "nom" : "Art, Histoire et Archéologie",
+    "prenom" : "Service",
+    "titre" : {
+      "libelleFr" : "14 quai Aristide Briand"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83653059,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653060,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653071,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 95"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653072,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magali.gouiran@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653083,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 71"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 83653084,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "emmanuelle.achilli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 89792418,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 24 00 24 14"
+      },
+      "observation" : {
+        "libelleFr" : "Sylviane Allivons-Chapelle l'Annonciade"
+      }
+    }, {
+      "identifiant" : 103445971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nais.paoli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Naïs Paoli - Médiatrice culturelle"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13732652,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place de la Libération"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/239/13954878.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/239/13954878-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/239/13954878-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/239/13954878-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Pl de la Libé - OTC Martigues- K.Koudad (1)",
+      "taille" : 4666024,
+      "hauteur" : 3120,
+      "largeur" : 4160,
+      "lastModifiedDate" : "2022-08-12T12:55:44.035+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732644,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place de la Libération"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/239/13954870.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/239/13954870-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/239/13954870-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/239/13954870-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Pl de la Libé - OTC Martigues- K.Koudad (3)",
+      "taille" : 4754717,
+      "hauteur" : 3120,
+      "largeur" : 4160,
+      "lastModifiedDate" : "2022-08-12T12:55:53.428+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732642,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place de la Libération"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/239/13954868.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/239/13954868-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/239/13954868-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/239/13954868-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 493644,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-08-12T12:55:52.411+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732651,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Fontaine place de la Libération"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/239/13954877.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/239/13954877-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/239/13954877-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/239/13954877-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Place de la Libération rénovée et Fontaine - K.Koudad OT Martigues (9)",
+      "taille" : 3697850,
+      "hauteur" : 3000,
+      "largeur" : 4000,
+      "lastModifiedDate" : "2022-08-12T12:55:47.062+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732653,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place de la Libération"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/239/13954880.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/239/13954880-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/239/13954880-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/239/13954880-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Pl de la Libé - OTC Martigues- K.Koudad (4)",
+      "taille" : 3619044,
+      "hauteur" : 3120,
+      "largeur" : 4160,
+      "lastModifiedDate" : "2022-08-12T12:55:49.591+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3516
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 4857
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3265
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000091"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Martigues"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.martigues-tourisme.com"
+    }
+  } ]
+}

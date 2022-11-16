@@ -1,0 +1,245 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5472340,
+  "nom" : {
+    "libelleFr" : "Commémoration de l'Armistice de 1918",
+    "libelleEn" : "Commémoration de l'Armistice de 1918",
+    "libelleEs" : "Commémoration de l'Armistice de 1918",
+    "libelleIt" : "Commémoration de l'Armistice de 1918",
+    "libelleDe" : "Commémoration de l'Armistice de 1918",
+    "libelleNl" : "Commémoration de l'Armistice de 1918",
+    "libelleRu" : "Commémoration de l'Armistice de 1918",
+    "libelleZh" : "Commémoration de l'Armistice de 1918",
+    "libellePtBR" : "Commémoration de l'Armistice de 1918",
+    "libelleJa" : "Commémoration de l'Armistice de 1918"
+  },
+  "identifier" : "SITRA2_EVE_5472340",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-05T07:18:48.561+0000",
+    "dateModification" : "2022-11-05T08:15:08.495+0000",
+    "dateExportModification" : "2022-11-05T08:15:08.629+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Bureau municipal du Tourisme de Lambesc",
+      "dateCreation" : "2020-12-03T09:26:21.649+0000",
+      "dateModification" : "2022-11-03T11:45:21.917+0000",
+      "id" : 2145,
+      "siteWeb" : "https://www.lambesc.fr/ma-ville/decouvrez-lambesc/bureau-municipal-de-tourisme/"
+    },
+    "signalerUnProblemeMails" : [ "anne.vasserot-merle@lambesc.fr", "eric.bavay@lambesc.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 90084257,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 50"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5859593
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La ville de Lambesc commémore la fin de la Guerre de 1914-1918."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Rassemblement à 10h45 place des Héros et Martyrs puis défilé jusqu'au mémorial, place du Parage derrière la mairie.\r\nDébut de la cérémonie à 11h, discours et remises de gerbes, suivis d'un vin d'honneur à la Salle des Associations."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place des Héros et Martyrs",
+      "adresse1" : "Place des Héros et Martyrs",
+      "codePostal" : "13410",
+      "bureauDistribution" : "LAMBESC",
+      "commune" : {
+        "id" : 4461
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.262881, 43.652691 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4461
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 10h45.",
+      "libelleEn" : "Friday 11 November 2022 at 10.45 am.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 10:45.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 10:45.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 10.45 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 10.45 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 10h45.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  10h45.",
+      "libelleJa" : "金曜日 11 11月 2022 10.45 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 438
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19989197,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "10:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24702599
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14109707,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT074525_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Lambesc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/209/14405976.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/209/14405976-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/209/14405976-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/209/14405976-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 130337,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-20T13:56:15.154+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nomLieu" : "Place des Héros et Martyrs"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT074525"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "BMT Lambesc"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.lambesc.fr"
+    }
+  } ]
+}

@@ -1,0 +1,237 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5557007,
+  "nom" : {
+    "libelleFr" : "Les Amis de la fondation Vasarely",
+    "libelleEn" : "Association Les Amis de la fondation de Vasarely",
+    "libelleIt" : "Association des Amis de la fondation de Vasarely",
+    "libelleDe" : "Association des Amis de la fondation de Vasarely",
+    "libelleNl" : "Association des Amis de la fondation de Vasarely"
+  },
+  "identifier" : "SITRA2_COS_5557007",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T19:50:31.587+0000",
+    "dateModification" : "2020-12-18T07:02:55.749+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80114304,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "amisdelafondation@vasarely.net"
+      }
+    }, {
+      "identifiant" : 80114305,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/vasarely.net"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5348059
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "En liens étroits avec la fondation, L'association des Amis de la fondation Vasarely, créée par Pierre Vasarely, petit-fils et légataire universel de l'artiste, se donne pour objectif d'assurer l'héritage moral du Maître et, en respectant ses volontés, de faciliter l'approche culturelle de son oeuvre.\r\n\r\nAssociée aux activités de la fondation, l'association des Amis de la fondation Vasarely propose à ses adhérents, et à un très large public, des conférences, des rencontres, des colloques, des voyages.\r\n\r\nToutes activités destinées à mieux faire connaître l'oeuvre de Victor Vasarely mais, aussi, celles de ses successeurs dans la création artistique contemporaine"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 Avenue Marcel Pagnol",
+      "adresse2" : "Jas de Bouffan",
+      "codePostal" : "13090",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.424960, 43.520830 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 8531548,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV006496_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Peter Willi  Gamma Rapho"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/166/8300273.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/166/8300273-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/166/8300273-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/166/8300273-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 83540,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-25T14:05:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8531549,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV006496_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Daniel Frasnay  akg-images"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/166/8300274.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/166/8300274-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/166/8300274-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/166/8300274-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 114336,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-25T14:05:07.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8531550,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV006496_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Fondation VASARELY"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/166/8300275.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/166/8300275-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/166/8300275-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/166/8300275-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 67404,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-25T14:05:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4012
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4017
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13DIV006496"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

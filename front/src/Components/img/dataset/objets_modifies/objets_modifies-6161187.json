@@ -1,0 +1,478 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6161187,
+  "nom" : {
+    "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+  },
+  "identifier" : "SITRA2_EVE_6161187",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-07T22:16:37.541+0000",
+    "dateModification" : "2022-11-08T09:22:13.536+0000",
+    "dateExportModification" : "2022-11-08T23:15:28.685+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100163980,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+336 98 21 08 29"
+      }
+    }, {
+      "identifiant" : 100163981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "imagesonetcompagnie@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5808070
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5808070
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Repas itinérant des saveurs du monde dans le marché de Noailles. \n\nJe vous propose un voyage repas dégusté de boutiques en boutiques. Chaque lieu est une rencontre avec celui qui nous accueille. A vivre et à partager en petit groupe, une expérience…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Balade repas des cuisines du monde dans le marché de Noailles.\n\nJe vous propose un parcours gustatif et géo-poétique, un voyage dans les saveurs du monde.\n\nCette balade nous transporte des Hautes Alpes à Tunis, Hanoï, Cap Vert, Sénégal et Auteroche et aussi Djibouti et Oran.\n\nLe repas est dégusté de boutique en boutique.\n\nLe menu est composé de dégustations entrées, plats et desserts. La balade gourmande se termine dans un café avec les desserts du monde collectés dans les boutiques de Noailles.\n\nChaque lieu est une rencontre avec celui qui nous accueille, avec son récit de vie, une pincée de poésie ou de musique. \n\nPendant la période du Covid, nous resterons à l'exterieur de certaines boutiques. A vivre et à partager en petit groupe, une expérience de saveurs poétiques, de rencontres et d’humour."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre engagement : \"Balade gourmande marché de Noailles\"  est une activité bas carbone. \r\nEn choisissant cette prestation, vous limitez considérablement votre impact environnemental.\r\n\r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "5 Cours Saint-Louis",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Devant la chapellerie\nTram T1 arrêt Noailles, T2 Noailles - T3 Cours Saint Louis - Métro 1 Vieux-Port - Métro 2 Noailles\nParking Charles de Gaule, parking Centre Bourse, Cours Jean Ballard, Parking Mairie"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.378370, 43.296000 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nAux dates fixes, l'activité démarre à partir de 4 personnes. Merci de prévenir en cas de problèmes de retards ou d'annulation."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716944,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716944
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915529,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5808070
+      },
+      "nom" : "Image Son et Compagnie B. Sire",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993472,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/balade-gourmande-dans-le-marche-de-noailles"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813448,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/233/15198713.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/233/15198713-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/233/15198713-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/233/15198713-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6053290498473747640704-cropped600-400",
+      "taille" : 102261,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:17.114+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813449,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/233/15198714.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/233/15198714-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/233/15198714-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/233/15198714-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-605356746ed39608615063-cropped600-400",
+      "taille" : 67275,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:16.356+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813450,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/233/15198715.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/233/15198715-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/233/15198715-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/233/15198715-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6053570113592454211395-cropped600-400",
+      "taille" : 54763,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:16.733+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813451,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/252/233/15198716.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/252/233/15198716-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/252/233/15198716-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/252/233/15198716-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-605357139b6d1744882063-cropped600-400",
+      "taille" : 75527,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:18.020+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813452,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/233/15198717.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/233/15198717-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/233/15198717-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/233/15198717-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-605357828bd2c783822713-cropped600-400",
+      "taille" : 104284,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:18.298+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813453,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/233/15198718.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/233/15198718-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/233/15198718-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/233/15198718-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-605359c10ac51925371668-cropped600-400",
+      "taille" : 98506,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:17.397+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813454,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/233/15198719.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/233/15198719-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/233/15198719-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/233/15198719-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-605359d936012873688072-cropped600-400",
+      "taille" : 68664,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:17.679+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813455,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "legende" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade gourmande marché de Noailles - Benedicte Sire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/0/234/15198720.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/0/234/15198720-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/0/234/15198720-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/0/234/15198720-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-60535a24703ec373293666-cropped600-400",
+      "taille" : 87916,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:18.601+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2205
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "171599",
+        "product_supplier_id" : "36874",
+        "sku" : "T-IM33-184638",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

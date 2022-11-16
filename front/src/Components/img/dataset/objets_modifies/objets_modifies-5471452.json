@@ -1,0 +1,283 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5471452,
+  "nom" : {
+    "libelleFr" : "Terres de Provence - Halle des producteurs",
+    "libelleEn" : "Terres de Provence - Halle des producteurs",
+    "libelleIt" : "Marché : Terres de Provence",
+    "libelleDe" : "Marché : Terres de Provence",
+    "libelleNl" : "Marché : Terres de Provence"
+  },
+  "identifier" : "SITRA2_EVE_5471452",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T14:38:14.527+0000",
+    "dateModification" : "2022-06-08T10:00:20.942+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 90138657,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.agglo-paysdaix.fr/economie/agriculture/halle-terres-de-provence.html"
+      }
+    }, {
+      "identifiant" : 90139971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/halledeproducteursdeterresdeprovence"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466880
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Initié par le Pays d’Aix et 8 partenaires européens dans le cadre de l’appel à projets européen Rururbal, ce point de vente en demi-gros de fruits et légumes soutient l’agriculture locale, privilégie le lien social et réduit l’impact sur l’environnement"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Halle réunit des producteurs sélectionnés par le Pays d’Aix et la Chambre d’agriculture des Bouches-du-Rhône. Elle répond à l’exigence de qualité et de traçabilité en matière alimentaire exprimés par les consommateurs\r\n\r\nLes producteurs locaux de la Halle Terres de Provence s'installent pour une nouvelle saison sous un chapiteau de 750 m² installé à Plan de Campagne. Les exploitations et produits vendus sont contrôlés. De plus, les prix affichés sont en moyenne inférieur de moins 20% à ceux pratiqués dans la grande distribution.\r\n\r\nCe concept de vente directe contribue à diminuer la dépense énergétique et l’émission de gaz à effet de serre. Les produits vendus ne parcourent en effet que 40 km en moyenne entre leur lieu de production et la Halle et nécessitent moins d’emballage grâce au système de vente à la cagette. Les consommateurs qui recourent à ce mode d’achat économe participent ainsi à la préservation de l’environnement, mais aussi au maintien de l’activité agricole sur le territoire. Et grâce au chiffre d’affaires réalisé, certains producteurs ont pu améliorer significativement leur situation économique, étendre leur surface de production, et pour certains créer des emplois."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Plan de Campagne - Avenue centrale de Plan de Campagne, face à Conforama au dernier rond point en allant vers les Pennes Mirabeau.",
+      "codePostal" : "13170",
+      "commune" : {
+        "id" : 4482
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.352083, 43.415056 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4482
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 17/05 au 31/12/2022, tous les lundis, mercredis et vendredis de 17h à 19h.",
+      "libelleEn" : "From 17/05 to 31/12/2022, every Monday, Wednesday and Friday between 5 pm and 7 pm.",
+      "libelleEs" : "Del 17/05 al 31/12/2022, todos los lunes, miércoles y viernes de 17 a 19.",
+      "libelleIt" : "Dal 17/05 al 31/12/2022, tutti i lunedì, mercoledì e venerdì dalle 17 alle 19.",
+      "libelleDe" : "Vom 17/05 bis 31/12/2022, jeden Montag, Mittwoch und Freitag von 17 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 17/05 tot en met 31/12/2022, elke maandag, woensdag en vrijdag van 17.00 tot en met 19.00 u.",
+      "libelleRu" : "С 17/05 до 31/12/2022, каждый понедельники, среды и пятницы с 17h до 19h.",
+      "libelleZh" : "从 5月17日 到 2022年12月31日, 每星期一, 星期三 和 星期五 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 17/05 a 31/12/2022, todas as segundas-feiras, quartas-feiras e sextas-feiras de 17h a  19h.",
+      "libelleJa" : "17/05 から 31/12/2022 まで, 毎月曜日, 水曜日 と 金曜日 5 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21353197,
+      "dateDebut" : "2022-05-17",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 23548500
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5112859,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5466880
+      },
+      "nom" : "Aix-Marseille Provence Métropole - Territoire Pays d'Aix",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 80573375,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 23 86 10"
+        }
+      }, {
+        "identifiant" : 80573376,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "m.saj@bouches-du-rhone.chambagri.fr"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 10417858,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/149/10196273.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/149/10196273-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/149/10196273-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/149/10196273-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "halle",
+      "taille" : 144270,
+      "hauteur" : 1215,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-07-05T15:03:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-10-12", "2022-10-14", "2022-10-17", "2022-10-19", "2022-10-21", "2022-10-24", "2022-10-26", "2022-10-28", "2022-10-31", "2022-11-02", "2022-11-04", "2022-11-07", "2022-11-09", "2022-11-11", "2022-11-14", "2022-11-16", "2022-11-18", "2022-11-21", "2022-11-23", "2022-11-25", "2022-11-28", "2022-11-30", "2022-12-02", "2022-12-05", "2022-12-07", "2022-12-09", "2022-12-12", "2022-12-14", "2022-12-16", "2022-12-19", "2022-12-21", "2022-12-23", "2022-12-26", "2022-12-28", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2083
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT028749"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

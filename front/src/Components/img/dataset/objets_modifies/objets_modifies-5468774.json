@@ -1,0 +1,268 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5468774,
+  "nom" : {
+    "libelleFr" : "Marché Belle de Mai",
+    "libelleEn" : "Marché Belle de Mai",
+    "libelleIt" : "Marché Belle de Mai",
+    "libelleDe" : "Marché Belle de Mai",
+    "libelleNl" : "Marché Belle de Mai"
+  },
+  "identifier" : "SITRA2_EVE_5468774",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:59:02.788+0000",
+    "dateModification" : "2022-03-21T13:50:54.764+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77079212,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://decouvrir-marseille.marseille.fr/#"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5350442
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le marché de la Belle de Mai est un petit marché très agréable."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le marché de la Belle de Mai est un petit marché très agréable. \r\n\r\nInformations pratiques :\r\n\r\nMarché alimentaire : du lundi au samedi\r\nMarché forain : lundi, mercredi, vendredi et samedi\r\nMarché aux fleurs : le jeudi"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Place Bernard Cadenat",
+      "adresse1" : "Place Bernard Cadenat",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.387095, 43.312158 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les lundis, mardis, mercredis, jeudis, vendredis et samedis de 8h à 13h sauf les 1er janvier, 1er mai et 25 décembre.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 8 am and 1 pm except on January 1st, May 1st and December 25th.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los lunes, martes, miércoles, jueves, viernes y sábados de 8 a 13 excepto los días 1er de enero, 1er de mayo y 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i lunedì, martedì, mercoledì, giovedì, venerdì e sabati dalle 8 alle 13 tranne 1° gennaio, 1° maggio e 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 8 Uhr bis 13 Uhr (außer 1. Januar, 1. Mai und 25. Dezember).",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 8.00 tot en met 13.00 u m.u.v. 1 januari, 1 mei en 25 december.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый понедельники, вторники, среды, четверги, пятницы и субботы с 8h до 13h кроме 1 января, 1 мая и 25 декабря.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间 不包括 1月1日, 5月1日 和 12月25日.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 8h a  13h exceto em 1º de janeiro, 1º de maio e 25 de dezembro.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 8 午前 と 1 午後 の間 1月1日, 5月1日 と 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22332292,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22946337
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16640
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9384186,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché Belle de Mai"
+    },
+    "copyright" : {
+      "libelleFr" : "Pixabay License"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/123/9140993.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/123/9140993-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/123/9140993-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/123/9140993-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marche alimentaire2 pixabay",
+      "taille" : 440534,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-01-19T12:08:46.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2124
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2188
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Place Bernard Cadenat"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT025049"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

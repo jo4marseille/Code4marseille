@@ -1,0 +1,114 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5499227,
+  "nom" : {
+    "libelleFr" : "Promenades dans les calanques avec JM Nardini",
+    "libelleEn" : "Jean-Marc Nardini",
+    "libelleIt" : "Jean-Marc Nardini",
+    "libelleDe" : "Jean-Marc Nardini",
+    "libelleNl" : "Jean-Marc Nardini"
+  },
+  "identifier" : "SITRA2_STR_5499227",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-04-01T04:35:59.060+0000",
+    "dateModification" : "2021-04-08T12:05:38.620+0000",
+    "dateExportModification" : "2022-07-01T09:29:25.106+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77711632,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 77 07 83 36"
+      }
+    }, {
+      "identifiant" : 77711633,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marseillecalanques@sfr.fr"
+      }
+    }, {
+      "identifiant" : 77711634,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.marseillecalanques.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "442 105 151 00017",
+      "codeApeNaf" : "7990Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "19 Boulevard Du Chalet",
+      "codePostal" : "13009",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4539
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4539
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

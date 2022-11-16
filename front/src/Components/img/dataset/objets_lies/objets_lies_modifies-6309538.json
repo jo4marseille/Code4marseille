@@ -1,0 +1,296 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309538,
+  "nom" : {
+    "libelleFr" : "A la recherche de la musique de l'Antiquité"
+  },
+  "identifier" : "SITRA2_EVE_6309538",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T10:49:16.006+0000",
+    "dateModification" : "2022-10-27T07:14:47.935+0000",
+    "dateExportModification" : "2022-10-27T07:14:49.818+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104586232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 03"
+      }
+    }, {
+      "identifiant" : 104586233,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104586234,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      }
+    }, {
+      "identifiant" : 104586235,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Projection-débat : Projection, suivie d’un échange avec le réalisateur"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Une captivante enquête archéologique sur la trace des mélodies perdues qui rythmaient la vie des civilisations antiques. La musique, sacrée et profane, fut omniprésente dans les civilisations grecque, égyptienne et romaine de l'Antiquité, comme en attestent de fragiles vestiges retrouvés sur le pourtour de la Méditerranée. Mais les chants, les rythmes, les mélodies ont sombré dans l'oubli.\r\n\r\nDepuis trente ans, grâce à l'apport des nouvelles technologies numériques, une discipline en plein essor, l'archéologie musicale, ressuscite des fragments de ce continent sonore englouti. Dans les pas de différents chercheurs, ce documentaire de Bernard George fait résonner ces sonorités retrouvées à partir d'indices parcellaires, des cités grecques d’Anatolie au temple égyptien de Dendérah, de Delphes à Pompéi.\r\n\r\nDocumentaire (2021) - 54 mn - Production : ARTE France, O2B Films, Minimal Films, Cosmote TV, CNRS Images\r\n\r\nInformations pratiques\r\n> Auditorium du musée\r\n> Gratuit dans la limite des places disponibles"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée départemental Arles antique",
+      "adresse1" : "Avenue Jean Monnet",
+      "adresse2" : "Presqu'Ile du Cirque Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616866, 43.672526 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 25 novembre 2022 à 18h30.",
+      "libelleEn" : "Friday 25 November 2022 at 6.30 pm.",
+      "libelleEs" : "Viernes, 25 de noviembre de 2022 a 18:30.",
+      "libelleIt" : "Venerdì 25 novembre 2022 alle 18:30.",
+      "libelleDe" : "Freitag, den 25. November 2022 um 18.30 Uhr.",
+      "libelleNl" : "Vrijdag 25 november 2022 om 18.30 u.",
+      "libelleRu" : "Пятница 25 ноября 2022  до 18h30.",
+      "libelleZh" : "2022年11月25日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 25 Novembro 2022 para  18h30.",
+      "libelleJa" : "金曜日 25 11月 2022 6.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24600105,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "horaireOuverture" : "18:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24600105
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21495081,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104586236,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104586237,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14575234,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Documentaire musique antiquite"
+    },
+    "copyright" : {
+      "libelleFr" : " © B. George"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/236/14937300.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/236/14937300-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/236/14937300-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/236/14937300-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Docu_MusiqueAntiquitÃ© (c) B. Georges_0",
+      "taille" : 259387,
+      "hauteur" : 539,
+      "largeur" : 432,
+      "lastModifiedDate" : "2022-10-27T07:14:48.060+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-25" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-25T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

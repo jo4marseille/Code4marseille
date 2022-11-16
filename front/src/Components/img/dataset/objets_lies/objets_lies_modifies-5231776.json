@@ -1,0 +1,521 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5231776,
+  "nom" : {
+    "libelleFr" : "Francis Mallmann en Provence",
+    "libelleEn" : "Mallmann",
+    "libelleIt" : "Mallmann",
+    "libelleDe" : "Mallmann",
+    "libelleNl" : "Mallmann"
+  },
+  "identifier" : "SITRA2_RES_5231776",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-03T07:47:34.341+0000",
+    "dateModification" : "2022-05-19T13:49:10.659+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70569511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 37 37"
+      }
+    }, {
+      "identifiant" : 70569512,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 70569513,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://chateau-la-coste.com/restaurant-mallmann/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "79831259100018FR"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 4881871
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Francis Mallmann, grand chef reconnu en Amérique du Sud propose au Chateau La Coste une cuisine aux feux où le côté rustique du feu et l'expérience gastronomique du chef donne un goût unique à la cuisine."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les gourmets peuvent ainsi découvrir un dôme de feu où bœuf, porc, poissons et légumes sont suspendus pour cuire doucement et s’imprégner des arômes subtils de fumée.\r\nCette générosité se retrouve également dans l’assiette à travers une carte haute en saveurs. Sous la houlette du Chef argentin, attaché à respecter chaque produit et à le sublimer par une cuisson extrêmement précise, le restaurant offre une cuisine de caractère, ambassadrice de l’esprit de Château La Coste, naturel, enflammé et intemporel."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2750 Route De La Cride",
+      "codePostal" : "13610",
+      "bureauDistribution" : "LE PUY SAINTE REPARADE",
+      "commune" : {
+        "id" : 4491
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.419403, 43.636020 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4491
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538077
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5537089
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5231977
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "HOTELLERIE",
+        "id" : 5218514
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking privé",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20982197,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert du mercredi au vendredi soir, Samedi midi et soir, et Dimanche midi."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      } ],
+      "identifiantTechnique" : 23378341
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "A la carte : de 65 à 150 €.\n",
+      "libelleEn" : "A la carte: 65 to 150 €.\n",
+      "libelleEs" : "A la carta: de 65 a 150 €.\n",
+      "libelleIt" : "A scelta: da 65 a 150 €.\n",
+      "libelleDe" : "Nach der Karte: von 65 bis 150 €.\n",
+      "libelleNl" : "A la carte: € 65 tot en met € 150.\n",
+      "libelleRu" : "По карте : с 65 до  150 €.\n",
+      "libelleZh" : "菜单 : 从 65 到  150 €.\n",
+      "libellePtBR" : "A la carte: de 65 a 150 €.\n",
+      "libelleJa" : "アラカルト: 65 から 150 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12078324,
+      "dateDebut" : "2021-05-19",
+      "dateFin" : "2021-09-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 65.00,
+        "maximum" : 150.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1501
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16548
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10016320,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_1_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/66/9781879.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/66/9781879-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/66/9781879-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/66/9781879-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 967466,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10016321,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_2_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/66/9781880.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/66/9781880-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/66/9781880-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/66/9781880-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 842350,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:51.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10016322,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_3_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/66/9781881.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/66/9781881-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/66/9781881-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/66/9781881-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 815302,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10016323,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_4_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/66/9781882.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/66/9781882-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/66/9781882-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/66/9781882-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 707689,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:53.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10016324,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_5_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/66/9781883.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/66/9781883-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/66/9781883-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/66/9781883-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 358481,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10016325,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13REST002840_6_HD.jpg"
+    },
+    "legende" : { },
+    "copyright" : {
+      "libelleFr" : "Château La Coste - Francis Mallmann - (c)RichardHaughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/66/9781884.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/66/9781884-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/66/9781884-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/66/9781884-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 478174,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-20T08:14:55.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsRestauration" : {
+    "chef" : "Francis Mallmann",
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2984
+    } ],
+    "classementsGuides" : [ {
+      "elementReferenceType" : "RestaurationClassementGuide",
+      "id" : 2964
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    } ],
+    "capacite" : {
+      "nombreSalles" : 30,
+      "nombreCouvertsTerrasse" : 50
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1582102,
+      "annee" : 2021,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST002840"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "SI Le Puy Sainte Réparade"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.si-lepuy.fr"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.0,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 232,
+        "dateMaj" : 1633888654906
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,247 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228564,
+  "nom" : {
+    "libelleFr" : "Office de tourisme des Baux-de-Provence",
+    "libelleEn" : "Tourist Office of Les Baux-de-Provence",
+    "libelleEs" : "Office de Tourisme des Baux de Provence",
+    "libelleIt" : "Office de Tourisme des Baux de Provence",
+    "libelleDe" : "Fremdenverkehrsamt of Les Baux-de-Provence",
+    "libelleNl" : "Office de Tourisme des Baux de Provence"
+  },
+  "identifier" : "SITRA2_STR_5228564",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:25:31.175+0000",
+    "dateModification" : "2022-05-03T09:23:36.538+0000",
+    "dateExportModification" : "2022-05-03T09:23:36.664+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537811,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 34 39"
+      }
+    }, {
+      "identifiant" : 70537813,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@lesbauxdeprovence.com"
+      }
+    }, {
+      "identifiant" : 70537820,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lesbauxdeprovence.com"
+      }
+    }, {
+      "identifiant" : 88559206,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/LesBauxTourisme/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "42887791400013",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Maison du Roy",
+      "adresse2" : "Rue Porte Mage",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "L'Office de tourisme des Baux-de-Provence est situé à l'entrée du village piéton."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.795556, 43.745000 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19188265,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Barral",
+    "prenom" : "Stepanka",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 88557787,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "direction.tourisme@lesbauxdeprovence.com"
+      }
+    }, {
+      "identifiant" : 88557834,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 16 81 84 71"
+      }
+    } ]
+  }, {
+    "identifiant" : 19188266,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Brummelhuis",
+    "prenom" : "Bernadette",
+    "moyensCommunication" : [ {
+      "identifiant" : 88557921,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bernadettebrummelhuis@lesbauxdeprovence.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 19188267,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Houdan",
+    "prenom" : "Benjamin",
+    "moyensCommunication" : [ {
+      "identifiant" : 88557972,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "benjamin.houdan@lesbauxdeprovence.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 19188268,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Chochua",
+    "prenom" : "Tata",
+    "moyensCommunication" : [ {
+      "identifiant" : 88558017,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tata.chochua@lesbauxdeprovence.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 20438857,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Roman",
+    "prenom" : "Vanessa",
+    "moyensCommunication" : [ {
+      "identifiant" : 97546316,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "Vanessa.roman@lesbauxdeprovence.com"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,307 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6067287,
+  "nom" : {
+    "libelleFr" : "Rendez-vous des tout-petits “Lire, chanter et jouer avec bébé”"
+  },
+  "identifier" : "SITRA2_EVE_6067287",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-23T10:38:32.886+0000",
+    "dateModification" : "2022-11-02T12:40:48.992+0000",
+    "dateExportModification" : "2022-11-02T12:40:49.144+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97949798,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 67 01"
+      }
+    }, {
+      "identifiant" : 77077845,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 52 65"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468384
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venez lire, chanter, jouer avec votre bébé à la médiathèque d’Entressen."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Livres à toucher, livres aux illustrations colorées, comptines, jeux de doigts, il y aura de quoi stimuler la curiosité de votre tout-petit et l’amuser. Il pourra partir à la découverte de ces livres et faire de nouvelles expériences.\r\n\r\nUn moment de plaisir et d’éveil à partager avec votre bébé !\r\nPour les 0-3 ans."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Le port du masque pour les personnes de plus de 12 ans\n- Le port du masque pour les enfants de moins de 12 ans accompagnés relève de la responsabilité des adultes : il demeure indispensable pour accéder physiquement aux pôles jeunesse.\n le lavage des mains à l'entrée de l'établissement est obligatoire\n le nombre d'ordinateurs en libre accès est réduit avec un limitateur électronique de la connexion permettant une cession de 30 mn."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Médiathéque jeunesse Entressen",
+      "adresse1" : "La Buissoniere",
+      "adresse2" : "7 rue des intimes",
+      "adresse3" : "04 90 50 67 01",
+      "codePostal" : "13800",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.935815, 43.591643 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 17469
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "ageMin" : 84,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 9h45.\n\nSamedi 26 novembre 2022 à 9h45.",
+      "libelleEn" : "Wednesday 9 November 2022 at 9.45 am.\n\nSaturday 26 November 2022 at 9.45 am.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 9:45.\n\nSábado, 26 de noviembre de 2022 a 9:45.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 9:45.\n\nSabato 26 novembre 2022 alle 9:45.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 9.45 Uhr.\n\nSamstag, den 26. November 2022 um 9.45 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 9.45 u.\n\nZaterdag 26 november 2022 om 9.45 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 9h45.\n\nСуббота 26 ноября 2022  до 9h45.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时分钟.\n\n2022年11月26日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  9h45.\n\nSábado 26 Novembro 2022 para  9h45.",
+      "libelleJa" : "水曜日 9 11月 2022 9.45 午前 に.\n\n土曜日 26 11月 2022 9.45 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22963123,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "09:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24678185
+    }, {
+      "identifiant" : 24626901,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "09:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24678186
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6380370,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5227649
+      },
+      "nom" : "Médiathèque",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70528608,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 11 28 40"
+        }
+      }, {
+        "identifiant" : 70528609,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "scomm@mediathequeouestprovence.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "contacts" : [ {
+    "identifiant" : 20513582,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "PÔLE JEUNESSE",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 462
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14609293,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/121/14973417.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/121/14973417-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/121/14973417-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/121/14973417-diaporama.png",
+      "extension" : "png",
+      "fileName" : "RDV_des_tout-petits_ENTRESSEN",
+      "taille" : 405248,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-27T13:55:29.145+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5879
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2210
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2238
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2308
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Médiathéque jeunesse Entressen"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT117013"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Istres"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.istres.fr"
+    }
+  } ]
+}

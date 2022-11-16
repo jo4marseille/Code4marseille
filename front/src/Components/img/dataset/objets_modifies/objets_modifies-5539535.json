@@ -1,0 +1,235 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539535,
+  "nom" : {
+    "libelleFr" : "Le Grenier du Soldat",
+    "libelleEn" : "The Soldier's Attic",
+    "libelleEs" : "El granero del soldado",
+    "libelleIt" : "Le Grenier du Soldat",
+    "libelleDe" : "Der Dachboden des Soldaten",
+    "libelleNl" : "Le Grenier du Soldat"
+  },
+  "identifier" : "SITRA2_PCU_5539535",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T15:20:11.207+0000",
+    "dateModification" : "2022-02-24T07:54:59.537+0000",
+    "dateExportModification" : "2022-02-24T07:54:59.910+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Salon de Provence",
+      "dateCreation" : "2020-02-14T10:43:25.088+0000",
+      "dateModification" : "2022-10-24T08:49:43.996+0000",
+      "id" : 1989,
+      "siteWeb" : "http://www.visitsalondeprovence.com/"
+    },
+    "signalerUnProblemeMails" : [ "m.quaglia@visitsalondeprovence.com", "projet@visitsalondeprovence.com", "s.kheloufi@visitsalondeprovence.com", "v.bailly@visitsalondeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79675745,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 56 23 07"
+      }
+    }, {
+      "identifiant" : 79675746,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeliberation@free.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223073
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Récupérer, entretenir et sauvegarder le matériel militaire.",
+      "libelleEn" : "Recover, maintain and safeguard military equipment.",
+      "libelleEs" : "Recuperar, mantener y salvaguardar el equipo militar.",
+      "libelleDe" : "Bergung, Pflege und Sicherung von Militärmaterial."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Création du musée de la libération de la Provence. \r\nVisites sur rendez-vous.",
+      "libelleEn" : "Creation of the museum of the liberation of Provence. \r\nVisits by appointment.",
+      "libelleEs" : "Creación del museo de la liberación de Provenza. \r\nVisitas con cita previa.",
+      "libelleDe" : "Einrichtung des Museums zur Befreiung der Provence. \r\nBesuche nach Vereinbarung."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Château du Pigeonnier",
+      "adresse2" : "5 Rue Daniel Kinet",
+      "adresse3" : "Quartier Pont d'Avignon",
+      "codePostal" : "13300",
+      "bureauDistribution" : "SALON DE PROVENCE",
+      "commune" : {
+        "id" : 4514
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.092944, 43.647197 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4514
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17644354,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MARTIN",
+    "prenom" : "Emilie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81736178,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 56 23 07"
+      }
+    }, {
+      "identifiant" : 81736179,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeliberation@free.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8487674,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000052_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/252/8256718.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/252/8256718-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/252/8256718-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/252/8256718-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 193703,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-23T16:53:38.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3399
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3426
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000052"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Salon de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.visitsalondeprovence.com"
+    }
+  } ]
+}

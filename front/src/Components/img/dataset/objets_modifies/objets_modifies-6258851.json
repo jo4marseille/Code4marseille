@@ -1,0 +1,225 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6258851,
+  "nom" : {
+    "libelleFr" : "Exposition de peintures et sculptures"
+  },
+  "identifier" : "SITRA2_EVE_6258851",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-12T08:29:22.328+0000",
+    "dateModification" : "2022-10-19T07:23:11.424+0000",
+    "dateExportModification" : "2022-10-19T07:23:12.568+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Marignane",
+      "dateCreation" : "2020-02-11T08:56:27.494+0000",
+      "dateModification" : "2022-10-24T08:49:40.006+0000",
+      "id" : 1985,
+      "siteWeb" : "http://www.tourisme-marignane.com/"
+    },
+    "signalerUnProblemeMails" : [ "officedetourisme@ville-marignane.fr", "ot-direction@ville-marignane.fr", "ot-promotion@ville-marignane.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512829,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 31 12 98"
+      }
+    }, {
+      "identifiant" : 70512831,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museemarignane.tradition@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223094
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Chantal Jamet, artiste peintre, et Gérard Lopez, sculpteur exposent leurs œuvres au musée d'arts et traditions populaires Albert Reynaud aux heures d'ouverture.\r\nVernissage : samedi 5 novembre à 11h30."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée d'arts et traditions populaires Albert Reynaud",
+      "adresse1" : "14 rue Covet",
+      "codePostal" : "13700",
+      "commune" : {
+        "id" : 4465
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.215119, 43.417311 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4465
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 02/11 au 24/11/2022.\nFermé le dimanche.\nHoraires d'ouverture : \r\n- Du lundi au vendredi de 9h à 12h et de 14h à 17h. - Samedi de 9h à 12h.",
+      "libelleEn" : "From 02/11 to 24/11/2022.\nClosed on Sunday.",
+      "libelleEs" : "Del 02/11 al 24/11/2022.\nCerrado los domingo.",
+      "libelleIt" : "Dal 02/11 al 24/11/2022.\nChiuso la domenica.",
+      "libelleDe" : "Vom 02/11 bis 24/11/2022.\nSonntag geschlossen.",
+      "libelleNl" : "Van 02/11 tot en met 24/11/2022.\nZondag gesloten.",
+      "libelleRu" : "С 02/11 до 24/11/2022.\nНе работает воскресенье.",
+      "libelleZh" : "从 11月2日 到 2022年11月24日.\n星期日 关闭.",
+      "libellePtBR" : "De 02/11 a 24/11/2022.\nFechado em domingo.",
+      "libelleJa" : "02/11 から 24/11/2022 まで.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24270885,
+      "dateDebut" : "2022-11-02",
+      "dateFin" : "2022-11-24",
+      "complementHoraire" : {
+        "libelleFr" : "Horaires d'ouverture : \r\n- Du lundi au vendredi de 9h à 12h et de 14h à 17h. - Samedi de 9h à 12h."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24530178
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21289953,
+    "referent" : true,
+    "nom" : "Musée d'arts et traditions populaires Albert Reynaud"
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14453538,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Exposition de peintures et sculptures"
+    },
+    "legende" : {
+      "libelleFr" : "Affiche"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Marignane"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/225/14803237.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/225/14803237-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/225/14803237-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/225/14803237-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "11-02 au 24 Exposition Musée A. Reynaud",
+      "taille" : 340020,
+      "hauteur" : 2339,
+      "largeur" : 1654,
+      "lastModifiedDate" : "2022-10-19T07:23:11.514+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2252
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Musée d'arts et traditions populaires Albert Reynaud"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-24T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

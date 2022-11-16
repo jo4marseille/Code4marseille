@@ -1,0 +1,301 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 6290874,
+  "nom" : {
+    "libelleFr" : "Initiation au dessin académique"
+  },
+  "identifier" : "SITRA2_ACT_6290874",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T09:57:50.325+0000",
+    "dateModification" : "2022-10-10T10:00:51.146+0000",
+    "dateExportModification" : "2022-10-10T10:01:03.739+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.ginoux@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104000732,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 48"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation"
+      }
+    }, {
+      "identifiant" : 104000733,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation par téléphone"
+      }
+    }, {
+      "identifiant" : 104000734,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation par téléphone"
+      }
+    }, {
+      "identifiant" : 104000735,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://fr-fr.facebook.com/museedepartementalarlesantique/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation par téléphone"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un atelier d'initiation au dessin académique proposé par Anastasia Tetrel, artiste, peintre, illustratrice."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cet atelier propose à ceux qui le souhaite, une initiation à la théorie et à la pratique du dessin académique à partir de l’observation des sculptures antiques. A l’image des enseignements classiques des grandes écoles d’art, la sculpture en ronde bosse permet d’aborder les proportions, la théorie du clair-obscur, la gestion des valeurs du gris dans le dessin, ainsi que les techniques de dessin des grands maîtres (crayon blanc et au crayon italien sur papier gris). Ces trois séances de 3 heures peuvent aussi bien être une première approche ludique et conviviale du dessin académique, que constituer une préparation aux concours d’entrée aux écoles d’art.  \r\n\r\nPar l’artiste peintre, illustratrice, graveur, Anastassia Tétrel\r\n\r\nInformations pratiques\r\n> Tarif : 8 € – Réservation obligatoire au 04 13 31 51 48 (du lundi au vendredi de 08h à 12h et de 13h à 16h)\r\n> Adolescents de 11 à 18 ans\r\n> 3 séances de 3h les mercredi 26, jeudi 27 et vendredi 28 octobre."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Musée Départemental Arles antique",
+      "adresse2" : "Presqu'île du Cirque-Romain BP 205",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.615578, 43.671828 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 26 octobre 2022 de 14h à 17h.\n\nJeudi 27 octobre 2022 de 14h à 17h.\n\nVendredi 28 octobre 2022 de 14h à 17h.",
+      "libelleEn" : "Wednesday 26 October 2022 between 2 pm and 5 pm.\n\nThursday 27 October 2022 between 2 pm and 5 pm.\n\nFriday 28 October 2022 between 2 pm and 5 pm.",
+      "libelleEs" : "Miércoles, 26 de octubre de 2022 de 14 a 17.\n\nJueves, 27 de octubre de 2022 de 14 a 17.\n\nViernes, 28 de octubre de 2022 de 14 a 17.",
+      "libelleIt" : "Mercoledì 26 ottobre 2022 dalle 14 alle 17.\n\nGiovedì 27 ottobre 2022 dalle 14 alle 17.\n\nVenerdì 28 ottobre 2022 dalle 14 alle 17.",
+      "libelleDe" : "Mittwoch, den 26. Oktober 2022 von 14 Uhr bis 17 Uhr.\n\nDonnerstag, den 27. Oktober 2022 von 14 Uhr bis 17 Uhr.\n\nFreitag, den 28. Oktober 2022 von 14 Uhr bis 17 Uhr.",
+      "libelleNl" : "Woensdag 26 oktober 2022 van 14.00 tot en met 17.00 u.\n\nDonderdag 27 oktober 2022 van 14.00 tot en met 17.00 u.\n\nVrijdag 28 oktober 2022 van 14.00 tot en met 17.00 u.",
+      "libelleRu" : "Среда 26 октября 2022  с 14h до 17h.\n\nЧетверг 27 октября 2022  с 14h до 17h.\n\nПятница 28 октября 2022  с 14h до 17h.",
+      "libelleZh" : "2022年10月26日, 星期三   小时小时 和 小时小时 之间.\n\n2022年10月27日, 星期四   小时小时 和 小时小时 之间.\n\n2022年10月28日, 星期五   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 26 Outubro 2022 de 14h a  17h.\n\nQuinta-feira 27 Outubro 2022 de 14h a  17h.\n\nSexta-feira 28 Outubro 2022 de 14h a  17h.",
+      "libelleJa" : "水曜日 26 10月 2022 2 午後 と 5 午後 の間.\n\n木曜日 27 10月 2022 2 午後 と 5 午後 の間.\n\n金曜日 28 10月 2022 2 午後 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24463761,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-10-26",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24463796
+    }, {
+      "identifiant" : 24463762,
+      "dateDebut" : "2022-10-27",
+      "dateFin" : "2022-10-27",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24463797
+    }, {
+      "identifiant" : 24463763,
+      "dateDebut" : "2022-10-28",
+      "dateFin" : "2022-10-28",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24463798
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13726760,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-10-28"
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21406695,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104000736,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104000737,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14350790,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "INITIATION AU DESSIN ACADÉMIQUE"
+    },
+    "copyright" : {
+      "libelleFr" : "MDAA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/15/14683989.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/15/14683989-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/15/14683989-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/85/15/14683989-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Sans titre",
+      "taille" : 48460,
+      "hauteur" : 653,
+      "largeur" : 879,
+      "lastModifiedDate" : "2022-10-10T09:57:30.490+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-26", "2022-10-27", "2022-10-28" ],
+  "informationsActivite" : {
+    "prestataireActivites" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538010
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538010
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-10-28T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

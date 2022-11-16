@@ -1,0 +1,384 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5564247,
+  "nom" : {
+    "libelleFr" : "Association Cathédrale Vivante",
+    "libelleEn" : "Association Cathédrale Vivante",
+    "libelleEs" : "Association Cathédrale Vivante",
+    "libelleIt" : "Association Cathédrale Vivante",
+    "libelleDe" : "Association Cathédrale Vivante",
+    "libelleNl" : "Association Cathédrale Vivante"
+  },
+  "identifier" : "SITRA2_COS_5564247",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T22:42:16.614+0000",
+    "dateModification" : "2022-02-11T09:47:51.312+0000",
+    "dateExportModification" : "2022-10-07T14:37:03.550+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 96689631,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "acvpdt@gmail.com"
+      }
+    }, {
+      "identifiant" : 96689632,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/pg/cathedralevivanteaix/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "51992710700010",
+      "codeApeNaf" : "9499Z"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6031661
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visites guidées de la Cathédrale."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Organisateur de conférence les samedis de Saint Sauveur.\r\n\r\nContribue à la sauvegarde et à l'embellissement de la cathédrale et de participer à l'accueil et à l'information des visiteurs pour les mener vers une sensibilité de leur héritage historique et religieux."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "34 Place Des Martyrs de la Résistance",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447656, 43.531401 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538432
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6289407
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022 de 10h à 12h.\nEt de 14h à 17h.\r\nVisites le dimanche uniquement l’après midi de 14h à 17h.\r\nPas de visite lors des mariages et obsèques.",
+      "libelleEn" : "From 01/01 to 31/12/2022 between 10 am and 12 pm.",
+      "libelleEs" : "Del 01/01 al 31/12/2022 de 10 a 12.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022 dalle 10 alle 12.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022 von 10 Uhr bis 12 Uhr.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022 van 10.00 tot en met 12.00 u.",
+      "libelleRu" : "С 01/01 до 31/12/2022 с 10h до 12h.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 01/01 a 31/12/2022 de 10h a  12h.",
+      "libelleJa" : "01/01 から 31/12/2022 まで 10 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22680097,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "et de 14h à 17h.\r\nVisites le dimanche uniquement l’après midi de 14h à 17h.\r\nPas de visite lors des mariages et obsèques."
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22680097
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20317347,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Mercier",
+    "prenom" : "Jean-Jacques",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 96689674,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "jjymeaa@gmail.com"
+      }
+    }, {
+      "identifiant" : 96689675,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 07 52 47 52"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8538362,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013025_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne - Labo photo Ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/193/8307066.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/193/8307066-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/193/8307066-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/193/8307066-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 974021,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-26T04:15:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8538363,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013025_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne - Labo photo Ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/193/8307067.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/193/8307067-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/193/8307067-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/193/8307067-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 876946,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-26T04:15:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8538364,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013025_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne - Labo photo Ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/193/8307068.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/193/8307068-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/193/8307068-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/193/8307068-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 700953,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-26T04:15:11.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8538365,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4013025_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC Carbonne - Labo photo Ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/193/8307069.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/193/8307069-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/193/8307069-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/193/8307069-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 688677,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-26T04:15:09.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4012
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4017
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1896512,
+      "annee" : 2022,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4013025"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

@@ -1,0 +1,227 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6301726,
+  "nom" : {
+    "libelleFr" : "Rencontre autour de l'expo crash poli"
+  },
+  "identifier" : "SITRA2_EVE_6301726",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-18T11:54:42.765+0000",
+    "dateModification" : "2022-10-18T11:58:58.034+0000",
+    "dateExportModification" : "2022-10-20T14:09:51.078+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79235511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 17 10"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5529877
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Rencontre – échange avec Clémence Seurat autour de l’Oeuvre de Magali Daniaux et Cédric Pigot sous le prisme environnemental."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Polaris Centre d'Art",
+      "adresse1" : "Place Patricia Tranchand",
+      "adresse2" : "Forum des Carmes",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Situé dans le centre ville\r\n\r\nGare Routière : Arrêt de bus à 0.7km\r\nDépartemental 5 : Route départementale à 3km\r\nMarseille Provence (Marignane) : Aéroport/Aérodrome à 40km\r\nA55 (En venant de Marseille) : Sortie autoroute à 15km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.988021, 43.512902 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15436
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538991
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6239853
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 1er décembre 2022 à 18h.",
+      "libelleEn" : "Thursday 1st of December 2022 at 6 pm.",
+      "libelleEs" : "Jueves, 1 de diciembre de 2022 a 18.",
+      "libelleIt" : "Giovedì 1° dicembre 2022 alle 18.",
+      "libelleDe" : "Donnerstag, den 1. Dezember 2022 um 18 Uhr.",
+      "libelleNl" : "Donderdag 1 december 2022 om 18.00 u.",
+      "libelleRu" : "Четверг 1-й декабря 2022 до 18h.",
+      "libelleZh" : "2022年12月1日, 星期四 在 小时小时.",
+      "libellePtBR" : "Quinta-feira 1º Dezembro 2022 para  18h.",
+      "libelleJa" : "木曜日 1st of 12月 2022 6 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24525210,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "horaireOuverture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24525210
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14443821,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/180/14791799.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/180/14791799-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/180/14791799-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/180/14791799-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "index",
+      "taille" : 2938,
+      "hauteur" : 92,
+      "largeur" : 92,
+      "lastModifiedDate" : "2022-10-18T11:58:58.118+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-12-01" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Polaris Centre d'Art"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-01T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

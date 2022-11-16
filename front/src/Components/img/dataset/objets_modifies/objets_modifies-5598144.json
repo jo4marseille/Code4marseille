@@ -1,0 +1,340 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5598144,
+  "nom" : {
+    "libelleFr" : "Escape Game au Musée Raimu",
+    "libelleEn" : "Escape Game au Musée raimu",
+    "libelleIt" : "Escape Game au Musée raimu",
+    "libelleDe" : "Escape Game au Musée raimu",
+    "libelleNl" : "Escape Game au Musée raimu"
+  },
+  "identifier" : "SITRA2_EVE_5598144",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-09T04:22:48.228+0000",
+    "dateModification" : "2022-06-02T13:06:51.164+0000",
+    "dateExportModification" : "2022-06-02T13:06:51.343+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Marignane",
+      "dateCreation" : "2020-02-11T08:56:27.494+0000",
+      "dateModification" : "2022-10-24T08:49:40.006+0000",
+      "id" : 1985,
+      "siteWeb" : "http://www.tourisme-marignane.com/"
+    },
+    "signalerUnProblemeMails" : [ "officedetourisme@ville-marignane.fr", "ot-direction@ville-marignane.fr", "ot-promotion@ville-marignane.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512364,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 41 52 10"
+      }
+    }, {
+      "identifiant" : 70512365,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeraimu@yahoo.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222926
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Malle Escape Game au Musée Raimu : une expérience originale !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vivez une expérience au musée Raimu \r\nTout au long de l'année, participez à la Malle Escape Game, la malle des souvenirs du petit Jules....\r\nLe principe est très simple :\r\n- Une équipe de 4 à 6 aventuriers, de 7 à 107 ans... (couples, familles, groupes d'amis...)\r\n- Une Malle fermée, placée dans la salle de projection,\r\n- Une mission : réussir à ouvrir cette Malle puis résoudre une énigme en fouillant et déjouant des épreuves avec stratégie, logique et rigolade ! Et surtout donner une réponse afin de pouvoir \"sortir\" du musée !\r\n\r\nPour les moins joueurs, découvrez le Musée Raimu, consacré à l'acteur de renom situé à Marignane en Provence. Dans une belle villa bourgeoise, Isabelle Nohain-Raimu partage et fait vivre aux visiteurs un moment d'émotion aux travers de très nombreux documents originaux.\r\nElle y dévoile des moments forts de la carrière d'acteur de théâtre et de cinéma mais aussi la vie intime de son grand-père.\r\nC'est la spécificité attachante de ce lieu qui pourtant n'oublie pas la modernité : murs d'images, bornes interactives, projections de films..."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Raimu",
+      "adresse1" : "27 Cours Mirabeau",
+      "codePostal" : "13700",
+      "bureauDistribution" : "MARIGNANE",
+      "commune" : {
+        "id" : 4465
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.216647, 43.416340 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4465
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public  au Parc Camoin à 20 mètres, gratuit.",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "nombrePersonnesMinimum" : 4,
+    "tailleGroupeMax" : 6
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les lundis, mercredis, jeudis, vendredis, samedis et dimanches sauf les 1er janvier, Lundi de Pâques, Jeudi de l'Ascension, Lundi de Pentecôte, 1er mai, 8 mai, 14 juillet, 15 août, 1er novembre, 11 novembre et 25 décembre.\nLe matin à 10h et 11h ainsi que l'après-midi à 14h30 et 15h30. Le dimanche uniquement l'après-midi.\r\nFermé le mardi, la dernière quinzaine de novembre et la 1ère semaine de janvier.\r\nDurée du jeu : 45mn environ.",
+      "libelleEn" : "All year round, every Monday, Wednesday, Thursday, Friday, Saturday and Sunday except on January 1st, Easter Monday, Feast of the Ascension, Whit Monday, May 1st, May 8th, July 14th, August 15th, November 1st, November 11th and December 25th.",
+      "libelleEs" : "Todo el año, todos los lunes, miércoles, jueves, viernes, sábados y domingos excepto los días 1er de enero, lunes de Pascua, Ascension, lunes de Pentecostés, 1er de mayo, 8 de mayo, 14 de julio, 15 de agosto, 1er de noviembre, 11 de noviembre y 25 de diciembre.",
+      "libelleIt" : "Tutto l'anno, tutti i lunedì, mercoledì, giovedì, venerdì, sabati e domeniche tranne 1° gennaio, Lunedì di Pasqua, Ascensione, Lunedì di Pentecoste, 1° maggio, 8 maggio, 14 luglio, 15 agosto, 1° novembre, 11 novembre e 25 dicembre.",
+      "libelleDe" : "Ganzjährig, jeden Montag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag (außer 1. Januar, Ostermontag, Himmelfahrt, Pfingstmontag, 1. Mai, 8. Mai, 14. Juli, 15. August, 1. November, 11. Dezember und 25. Dezember).",
+      "libelleNl" : "Het hele jaar, elke maandag, woensdag, donderdag, vrijdag, zaterdag en zondag m.u.v. 1 januari, Paasmaandag, Hemelvaartsdag, Tweede Pinksterdag, 1 mei, 8 mei, 14 juli, 15 augustus, 1er november, 11 november en 25 december.",
+      "libelleRu" : "В течение всего года, каждый понедельники, среды, четверги, пятницы, субботы и воскресенья кроме 1 января, Пасхальный понедельник, Вознесение, Духов день, 1 мая, 8 мая, 14 июля, 15 августа, 1 ноября, 11 ноября и 25 декабря.",
+      "libelleZh" : "全年, 每星期一, 星期三, 星期四, 星期五, 星期六 和 星期日 不包括 1月1日, 复活节星期一, 耶稣升天节, 圣灵降临节, 5月1日, 5月8日, 7月14日, 8月15日, 11月1日, 11月11日 和 12月25日.",
+      "libellePtBR" : "Todo o ano, todas as segundas-feiras, quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos exceto em 1º de janeiro, Páscoa, Ascensão de Nossa Senhora, Pentecostes, 1º de maio, 8 de maio, 14 de julho, 15 de agosto, 1º de novembro, 11 de novembro e 25 de dezembro.",
+      "libelleJa" : "オールシーズン, 毎月曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 1月1日, イースターマンデー, キリストの昇天, 聖霊降臨節の月曜日, 5月1日, 5月8日, 7月14日, 8月15日, 11月1日, 11月11日 と 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22853867,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Le matin à 10h et 11h ainsi que l'après-midi à 14h30 et 15h30. Le dimanche uniquement l'après-midi.\r\nFermé le mardi, la dernière quinzaine de novembre et la 1ère semaine de janvier.\r\nDurée du jeu : 45mn environ."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23498551
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "LUNDI_PAQUES"
+    }, {
+      "dateSpeciale" : "ASCENSION"
+    }, {
+      "dateSpeciale" : "LUNDI_PENTECOTE"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "HUIT_MAI"
+    }, {
+      "dateSpeciale" : "QUATORZE_JUILLET"
+    }, {
+      "dateSpeciale" : "QUINZE_AOUT"
+    }, {
+      "dateSpeciale" : "PREMIER_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "ONZE_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Le jeu est gratuit mais l'entrée du musée est payante.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Le jeu est gratuit mais l'entrée du musée est payante."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "complement" : {
+      "libelleFr" : "Réservation obligatoire au 04 42 41 52 10"
+    }
+  },
+  "contacts" : [ {
+    "identifiant" : 20439650,
+    "referent" : true,
+    "nom" : "Musée Raimu"
+  }, {
+    "identifiant" : 20439653,
+    "referent" : false,
+    "nom" : "Office de Tourisme de Marignane"
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12708159,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Escape Game"
+    },
+    "legende" : {
+      "libelleFr" : "Malle devant le musée"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de Tourisme de Marignane"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/218/12901024.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/218/12901024-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/218/12901024-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/218/12901024-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Escape Game ",
+      "taille" : 250706,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-03-18T10:52:55.999+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12708160,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Escape Game"
+    },
+    "legende" : {
+      "libelleFr" : "Image"
+    },
+    "copyright" : {
+      "libelleFr" : "Site internet - Image autorisée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/218/12901025.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/218/12901025-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/218/12901025-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/218/12901025-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "escape game resizé",
+      "taille" : 178453,
+      "hauteur" : 1040,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-03-18T10:52:55.560+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-02", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-27", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-06", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-13", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-20", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-27", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-03", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-17", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-24", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-04-30", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-15", "2023-05-17", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-22", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-28", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-04", "2023-06-05", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-11", "2023-06-12", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-18", "2023-06-19", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-25", "2023-06-26", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-02", "2023-07-03", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-09", "2023-07-10", "2023-07-12", "2023-07-13", "2023-07-15", "2023-07-16", "2023-07-17", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-23", "2023-07-24", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-30", "2023-07-31", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-06", "2023-08-07", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-13", "2023-08-14", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-20", "2023-08-21", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-27", "2023-08-28", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-03", "2023-09-04", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-10", "2023-09-11", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-17", "2023-09-18", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-24", "2023-09-25", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2023-10-01", "2023-10-02", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-08", "2023-10-09", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-15", "2023-10-16", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-29", "2023-10-30", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-12", "2023-11-13", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-24", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2023-12-31", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-07", "2024-01-08", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-14", "2024-01-15", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-21", "2024-01-22", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-28", "2024-01-29", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-04", "2024-02-05", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-11", "2024-02-12", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-18", "2024-02-19", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-03", "2024-03-04", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-10", "2024-03-11", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-17", "2024-03-18", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-24", "2024-03-25", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-03-31", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-07", "2024-04-08", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-14", "2024-04-15", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-21", "2024-04-22", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-28", "2024-04-29", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-05", "2024-05-06", "2024-05-10", "2024-05-11", "2024-05-12", "2024-05-13", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-19", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-26", "2024-05-27", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-02", "2024-06-03", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-09", "2024-06-10", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-16", "2024-06-17", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-23", "2024-06-24", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-06-30", "2024-07-01", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-07", "2024-07-08", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-15", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-21", "2024-07-22", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-28", "2024-07-29", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-04", "2024-08-05", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-11", "2024-08-12", "2024-08-14", "2024-08-16", "2024-08-17", "2024-08-18", "2024-08-19", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-25", "2024-08-26", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-01", "2024-09-02", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-08", "2024-09-09", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-15", "2024-09-16", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-22", "2024-09-23", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-09-29", "2024-09-30", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-06", "2024-10-07", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-13", "2024-10-14", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-27", "2024-10-28", "2024-10-30", "2024-10-31", "2024-11-02", "2024-11-03" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Raimu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS004074"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marignane"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-marignane.com/"
+    }
+  } ]
+}

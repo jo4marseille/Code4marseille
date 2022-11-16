@@ -1,0 +1,118 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222980,
+  "nom" : {
+    "libelleFr" : "Musée Provençal",
+    "libelleEn" : "Musée Provençal",
+    "libelleEs" : "Musée Provençal",
+    "libelleIt" : "Musée Provençal",
+    "libelleDe" : "Musée Provençal",
+    "libelleNl" : "Musée Provençal"
+  },
+  "identifier" : "SITRA2_STR_5222980",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:45:39.782+0000",
+    "dateModification" : "2021-11-24T12:04:02.337+0000",
+    "dateExportModification" : "2022-07-01T09:08:10.469+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512545,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 22 78 65 80"
+      }
+    }, {
+      "identifiant" : 70512549,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lemuseeprovencal@gmail.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "78295698100016",
+      "codeApeNaf" : "925C",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "5 Place Des Héros",
+      "adresse2" : "Château-Gombert",
+      "codePostal" : "13013",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4543
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.438768, 43.352269 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4543
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

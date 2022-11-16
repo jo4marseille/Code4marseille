@@ -1,0 +1,372 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537840,
+  "nom" : {
+    "libelleFr" : "Musée Martin Duby",
+    "libelleEn" : "Musée Martin Duby",
+    "libelleEs" : "Musée Martin Duby",
+    "libelleIt" : "Musée Martin Duby",
+    "libelleDe" : "Musée Martin Duby",
+    "libelleNl" : "Musée Martin Duby"
+  },
+  "identifier" : "SITRA2_PCU_5537840",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:54:41.548+0000",
+    "dateModification" : "2022-10-27T13:13:35.793+0000",
+    "dateExportModification" : "2022-10-27T13:13:36.078+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79626984,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 72 84 29"
+      }
+    }, {
+      "identifiant" : 79626985,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museemartinduby@gmail.com"
+      }
+    }, {
+      "identifiant" : 79626986,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-auriol.fr"
+      }
+    }, {
+      "identifiant" : 79626987,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/Tresordauriol"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130007400013",
+      "codeApeNaf" : "751A"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223030
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Musée Martin Duby doit son nom à Joseph Martin Duby, conseiller municipal à Auriol, peintre, collectionneur et initiateur du Musée.\r\nIl se situe dans un bâtiment qui fut à partir de 1555 loge à grains puis halle à grains en 1689. De 1759 à 1969 ce lieu accueillit l'hôtel de ville. C'est à partir de 1994 que sous l'impulsion de nombreux auriolais le Musée fut créé.\r\nLe fond de collection est très éclectique : oeuvres d'art d'artistes locaux, faïences, outils et objets anciens, santons.\r\nLa collection est composée de legs, dons et acquisitions.\r\nUne salle est consacrée au trésor d'Auriol.\nSurface de l'exposition permanente : 150\nSurface de l'exposition temporaire : 50",
+      "libelleEn" : "The Martin Duby museum, concerning art and popular traditions, offers regular temporary exhibitions of quality."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Augustine Dupuy",
+      "codePostal" : "13390",
+      "bureauDistribution" : "AURIOL",
+      "commune" : {
+        "id" : 4418
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.632510, 43.369833 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4418
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 826
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 582
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking autocar(À proximité)\nParking privé\nParking public(Dans le village)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19373914,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "horaireOuverture" : "19:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24617812
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636337,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BOUCHET-FALCO",
+    "prenom" : "Pascale",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81747805,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 04 41 34"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8491103,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000341_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "A la Croisée des Arts Auriolais"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/10/8260147.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/10/8260147-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/10/8260147-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/10/8260147-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 44554,
+      "hauteur" : 400,
+      "largeur" : 300,
+      "lastModifiedDate" : "2020-07-23T17:48:40.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491104,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000341_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "A la Croisée des Arts Auriolais"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/10/8260148.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/10/8260148-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/10/8260148-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/10/8260148-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 40487,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:48:39.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1259
+    } ],
+    "nombreSallesReunionEquipees" : 3,
+    "capaciteMaxAccueil" : 20
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3453
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2020-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000341"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

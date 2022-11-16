@@ -1,0 +1,344 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5827781,
+  "nom" : {
+    "libelleFr" : "Tour privé en minibus - journée",
+    "libelleEn" : "Private tour minibus - full day"
+  },
+  "identifier" : "SITRA2_EVE_5827781",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-04T07:55:52.642+0000",
+    "dateModification" : "2022-01-14T08:12:08.142+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    }, {
+      "identifiant" : 70537348,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 11 61"
+      }
+    }, {
+      "identifiant" : 89299119,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaix@aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5471888
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Offrez vous un tour privé de 8h, choisissez votre destination :  Cote d'Azur, Luberon, Camargue, Lavande, Marseille, Sainte-Victoire, Les Baux-de-Provence, les gorges du Verdon... Contactez nous !",
+      "libelleEn" : "A 8 hours private tour! choose your destination (Luberon, Lavender fields, Arles, Marseille, Les Baux-de-Provence...) and your date. Feel free to contact us !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Contactez notre équipe à l'accueil de l'Office de Tourisme pour vérifier la disponibilité, choisissez votre destination et votre date, c'est vous qui décidez !! On s'occupe du reste...",
+      "libelleEn" : "Contact our Tourist Office team to check the availability, choose your destination and your arrival, we'll do the rest and the best for you !"
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Au départ de l'Office de Tourisme",
+      "adresse1" : "300 avenue Giuseppe Verdi",
+      "adresse2" : "BP 40106",
+      "codePostal" : "13090",
+      "bureauDistribution" : "Aix-en-Provence",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444349, 43.526025 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 16674
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "AU_DEPART_DE",
+      "libelleFr" : "Se trouve au départ de...",
+      "libelleEn" : "Is located at the start of...",
+      "libelleEs" : "Se encuentra en el inicio de...",
+      "libelleIt" : "Si trova alla partenza di...",
+      "libelleDe" : "Befindet sich beim Start von ...",
+      "libelleNl" : "Bevindt zich bij het vertrekpunt van ...",
+      "libelleRu" : "Находится при выезде из...",
+      "libelleZh" : "位于起点",
+      "libellePtBR" : "Se encontra na saída de ...",
+      "libelleJa" : "の出発地は",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5547667
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "nombrePersonnesMinimum" : 1,
+    "tailleGroupeMax" : 8
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.\nSur demande et réservation.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.\nOn request and reservation.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21104903,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Sur demande et réservation",
+        "libelleEn" : "On request and reservation"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22477741
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5827509,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5349089
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence - à supp",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89299113,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/tour-prive-en-mini-bus-journee-pour-1-a-8-personnes.html",
+          "en" : "https://booking.aixenprovencetourism.com/private-tour-mini-bus-full-day-1-to-8-people.html"
+        }
+      }, {
+        "identifiant" : 89299115,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 16 11 61"
+        }
+      }, {
+        "identifiant" : 89299116,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "resaix@aixenprovencetourism.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 10195189,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "C. FASSANARO"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/36/9970724.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/36/9970724-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/36/9970724-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/36/9970724-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "mini bus full",
+      "taille" : 163378,
+      "hauteur" : 533,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-04T08:51:17.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10194760,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/34/9970296.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/34/9970296-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/34/9970296-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/34/9970296-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "mini bus full2",
+      "taille" : 192857,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-04T08:03:45.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2117
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Au départ de l'Office de Tourisme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,216 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6314620,
+  "nom" : {
+    "libelleFr" : "NendoMarket"
+  },
+  "identifier" : "SITRA2_EVE_6314620",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T14:45:55.530+0000",
+    "dateModification" : "2022-11-07T15:24:14.123+0000",
+    "dateExportModification" : "2022-11-07T15:24:14.268+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104831261,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/nendo-galerie/nendomarket"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6314565
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Poursuivant dans une volonté de questionner les modes d’exposition de la céramique, Nendo Galerie présente NendoMarket."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Nelly Bonnand Enzo Bosse Marie Ducaté Safia Hijos Kiho Kang Louise Nicollon des Abbayes Clément Petibon Hugo Saby Laurin Schaub.\r\n\r\nPoursuivant dans une volonté de questionner les modes d’exposition de la céramique, Nendo Galerie présente NendoMarket.\r\n Ainsi que le titre le laisse penser, c’est bien une allusion à l’univers, à l’esthétique et à l’organisation même des supermarchés et autres supérettes qui est ici mise en avant.\r\n\r\n Alignées sur des étagères métalliques, dans un souci de les considérer sans hiérarchie et dans une optique la plus neutre possible, les œuvres s’imposent par leur qualité et leur diversité plus que par des artifices de mise en scène – même si force est de reconnaître que ce postulat, inhabituel dans une galerie, peut lui-même être perçu telle une forme de mise en scène !\r\n\r\n Les neuf artistes invités l’ont été pour la pertinence de leur vocabulaire, la qualité de leurs recherches mais aussi l’hétérogénéité et le contraste de leurs pratiques les unes en regard des autres.\r\n\r\n NendoMarket s’offre en somme tel le lieu d’une grande variété de produits… comme au supermarché !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Nendo Galerie",
+      "adresse1" : "31 rue Sylvabelle",
+      "codePostal" : "13006",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.377099, 43.288804 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/11 au 24/12/2022.\nFermé lundi, mardi et dimanche.\nOuvert du mercredi au samedi de 11h à 13h et de 14h à 19h, et sur rdv. .",
+      "libelleEn" : "From 03/11 to 24/12/2022.\nClosed Monday, Tuesday and Sunday.",
+      "libelleEs" : "Del 03/11 al 24/12/2022.\nCerrado lunes, martes y domingo.",
+      "libelleIt" : "Dal 03/11 al 24/12/2022.\nChiuso lunedì, martedì e domenica.",
+      "libelleDe" : "Vom 03/11 bis 24/12/2022.\nMontag, Dienstag und Sonntag geschlossen.",
+      "libelleNl" : "Van 03/11 tot en met 24/12/2022.\nMaandag, dinsdag en zondag gesloten.",
+      "libelleRu" : "С 03/11 до 24/12/2022.\nНе работает понедельник, вторник и воскресенье.",
+      "libelleZh" : "从 11月3日 到 2022年12月24日.\n星期一, 星期二 和 星期日 关闭.",
+      "libellePtBR" : "De 03/11 a 24/12/2022.\nFechado em segunda-feira, terça-feira e domingo.",
+      "libelleJa" : "03/11 から 24/12/2022 まで.\n月曜日, 火曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24680491,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-12-24",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert du mercredi au samedi de 11h à 13h et de 14h à 19h, et sur rdv. ."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24715218
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14729097,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "NendoMarket"
+    },
+    "copyright" : {
+      "libelleFr" : "NendoMarket - Galerie Nendo"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/121/15104422.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/121/15104422-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/121/15104422-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/121/15104422-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 11-02-22 at 03.52 PM",
+      "taille" : 244974,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-11-02T14:54:13.454+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Nendo Galerie"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-24T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,147 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5467026,
+  "nom" : {
+    "libelleFr" : "Mairie d'Aureille",
+    "libelleEn" : "Mairie d'Aureille",
+    "libelleEs" : "Mairie d'Aureille",
+    "libelleIt" : "Mairie d'Aureille",
+    "libelleDe" : "Mairie d'Aureille",
+    "libelleNl" : "Mairie d'Aureille",
+    "libelleRu" : "Mairie d'Aureille",
+    "libelleZh" : "Mairie d'Aureille",
+    "libellePtBR" : "Mairie d'Aureille",
+    "libelleJa" : "Mairie d'Aureille"
+  },
+  "identifier" : "SITRA2_STR_5467026",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:04:27.188+0000",
+    "dateModification" : "2022-06-01T10:13:52.481+0000",
+    "dateExportModification" : "2022-06-01T10:13:52.582+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77073803,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 59 92 01",
+        "en" : "00 33 4 90 59 92 01",
+        "de" : "00 33 4 90 59 92 01"
+      }
+    }, {
+      "identifiant" : 77073805,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@mairie-aureille.fr"
+      }
+    }, {
+      "identifiant" : 77073806,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "adjoints-mairie-aureille@wanadoo.fr"
+      }
+    }, {
+      "identifiant" : 77073807,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aureille.fr/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130006600019",
+      "codeApeNaf" : "751A"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de Ville",
+      "adresse2" : "2 avenue Mistral",
+      "codePostal" : "13930",
+      "commune" : {
+        "id" : 4417
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.948759, 43.706500 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4417
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20829657,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Escoffier",
+    "prenom" : "Lionel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 469
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

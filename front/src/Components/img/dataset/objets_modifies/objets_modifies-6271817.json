@@ -1,0 +1,282 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6271817,
+  "nom" : {
+    "libelleFr" : "Quand on arrive en ville",
+    "libelleEn" : "Quand on arrive en ville",
+    "libelleEs" : "Quand on arrive en ville",
+    "libelleIt" : "Quand on arrive en ville",
+    "libelleDe" : "Quand on arrive en ville",
+    "libelleNl" : "Quand on arrive en ville",
+    "libelleRu" : "Quand on arrive en ville",
+    "libelleZh" : "Quand on arrive en ville",
+    "libellePtBR" : "Quand on arrive en ville",
+    "libelleJa" : "Quand on arrive en ville"
+  },
+  "identifier" : "SITRA2_EVE_6271817",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-24T11:10:47.399+0000",
+    "dateModification" : "2022-09-26T07:18:29.975+0000",
+    "dateExportModification" : "2022-09-26T07:18:30.742+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103528417,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 98 21 07 10"
+      }
+    }, {
+      "identifiant" : 103528418,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@galerienea.com"
+      }
+    }, {
+      "identifiant" : 103528419,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://galerienea.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6108022
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour sa 2 ème exposition, la Galerie Néa propose une sélection d'artistes contemporains aux univers originaux autour du thème de la ville. Photographie, peinture, sculpture... rendent grâce à la beauté du caractère vivant de nos univers citadins."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’art rétablit la juste beauté de notre terre et de ceux qui la peuplent, il enrichit de sens celui qui porte un regard poétique sur l’agitation urbaine de notre monde. \r\n\r\nLa galerie d’art contemporain présente une sélection d’artistes variés aux univers originaux. Peinture, photographie, sculpture, céramique, collage sont autant de mediums proposant une vision avant tout poétique et sublimée de nos espaces urbains, rendant grâce à la beauté du caractère vivant de nos univers citadins.\r\nLe regard du spectateur parcourt les photographies des passants saisis sur le vif de Blaise Thiercelin, les collages de Maria Jimena Oliveros, puzzles picturaux formant une nouvelle réalité. Le visiteur découvre également les oeuvres nostalgiques de Lilly Paint, celles sensorielles de Laurence Biaggi, inspirées du mid-century modern de Patricia Outrilla, les poteries épurées de La fille de Tipaza, les totems sacrés d'Amelie Dauteur et les mobiles captivants d'Etienne Rey.\r\nEntre posture anonyme et assumée dans son parti-pris, chaque artiste exposant de la galerie propose une balade singulière en ville, captant des instants fugitifs de vie.\r\n\r\nKarine Dubois porte passionnément Galerie Néa dans cette ville d’eau et d’art où elle vit depuis plus de 20 ans. « Je suis une « passeuse » d’art, un lien entre l’artiste et le public, une créatrice de moments de partage et d’émotions.»\r\nÉtymologiquement nea mouvement ».\r\nGalerie Néa est le fruit de son itinéraire professionnel riche en expériences variées en centre d’art et en organisation d’expositions dans des lieux dédiés."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie Néa",
+      "adresse1" : "7 rue Jaubert",
+      "codePostal" : "13100",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.449672, 43.529838 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 6108100
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 24/09 au 02/12/2022, tous les jours de 10h30 à 19h.\nVernissage le 6 octobre de 19h à 22h.",
+      "libelleEn" : "From 24/09 to 02/12/2022, daily between 10.30 am and 7 pm.",
+      "libelleEs" : "Del 24/09 al 02/12/2022, todos los dias de 10:30 a 19.",
+      "libelleIt" : "Dal 24/09 al 02/12/2022, ogni giorno dalle 10:30 alle 19.",
+      "libelleDe" : "Vom 24/09 bis 02/12/2022, täglich von 10.30 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 24/09 tot en met 02/12/2022, iedere dag van 10.30 tot en met 19.00 u.",
+      "libelleRu" : "С 24/09 до 02/12/2022, ежедневно с 10h30 до 19h.",
+      "libelleZh" : "从 9月24日 到 2022年12月2日, 日常 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 24/09 a 02/12/2022, todos os dias de 10h30 a  19h.",
+      "libelleJa" : "24/09 から 02/12/2022 まで, 毎日 10.30 午前 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24360519,
+      "dateDebut" : "2022-09-24",
+      "dateFin" : "2022-12-02",
+      "complementHoraire" : {
+        "libelleFr" : "Vernissage le 6 octobre de 19h à 22h."
+      },
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24360519
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21343182,
+    "referent" : true,
+    "nom" : "Dubois",
+    "prenom" : "karine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103528420,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@galerienea.com"
+      }
+    }, {
+      "identifiant" : 103528421,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 98 21 07 10"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14175140,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/242/14480063.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/242/14480063-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/242/14480063-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/242/14480063-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "308394292_162619563085229_626606292231850735_n",
+      "taille" : 446983,
+      "hauteur" : 1440,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2022-09-26T07:18:30.094+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Galerie Néa"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-02T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

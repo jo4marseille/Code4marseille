@@ -1,0 +1,457 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5607516,
+  "nom" : {
+    "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+  },
+  "identifier" : "SITRA2_ACT_5607516",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-22T14:43:19.999+0000",
+    "dateModification" : "2022-10-05T09:28:11.922+0000",
+    "dateExportModification" : "2022-11-08T16:59:53.150+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513123,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 52 88 32"
+      }
+    }, {
+      "identifiant" : 70513127,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museegranet-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 70513125,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "granet-reservation@mairie-aixenprovence.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223246
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Atelier découverte au Musée Granet"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Musée Granet d'Aix-en-Provence propose des ateliers pour les enfants de 4/5 ans et/ou les 6/10 ans\r\n\r\n➜ Le 8 octobre de 10h30 à 11h30 : Le bestiaire (parcours-éveil 4-5 ans).\r\nÀ travers une sélection de sculptures, les enfants observent le bestiaire imaginaire ou réel du musée.\r\n\r\n➜ Le 15 octobre de 10h30 à 12h : La nature morte (atelier 6-10 ans).\r\nAu cours de cet atelier, les enfants découvriront l'un des genres en peinture : la nature morte.\r\n\r\n➜ 12 novembre de 10h30 à 11h30 : Apprendre à observer un tableau (parcours-éveil 4-5 ans).\r\nPremière découverte des œuvres d’un musée sous forme d’une initiation au regard par le biais de petits jeux d’observation.\r\n\r\n➜ 26 novembre de 10h30 à 12h : Scènes de genre (atelier 6-10 ans).\r\nUne découverte des peintures anciennes du musée autour de ce que l'on nomme les scènes de genre. D'un tableau à l'autre, les enfants apprennent à reconnaître les caractéristiques de la scène de genre."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Granet",
+      "adresse1" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "bureauDistribution" : "Aix-en-Provence",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453064, 43.525950 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538995
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 48,
+    "ageMax" : 120,
+    "uniteAgeMin" : "ANNEE",
+    "uniteAgeMax" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 8 octobre 2022 de 10h30 à 11h30.\n\nSamedi 15 octobre 2022 de 10h30 à 12h.\n\nSamedi 12 novembre 2022 de 10h30 à 11h30.\n\nSamedi 26 novembre 2022 de 10h30 à 12h.",
+      "libelleEn" : "Saturday 8 October 2022 between 10.30 am and 11.30 am.\n\nSaturday 15 October 2022 between 10.30 am and 12 pm.\n\nSaturday 12 November 2022 between 10.30 am and 11.30 am.\n\nSaturday 26 November 2022 between 10.30 am and 12 pm.",
+      "libelleEs" : "Sábado, 8 de octubre de 2022 de 10:30 a 11:30.\n\nSábado, 15 de octubre de 2022 de 10:30 a 12.\n\nSábado, 12 de noviembre de 2022 de 10:30 a 11:30.\n\nSábado, 26 de noviembre de 2022 de 10:30 a 12.",
+      "libelleIt" : "Sabato 8 ottobre 2022 dalle 10:30 alle 11:30.\n\nSabato 15 ottobre 2022 dalle 10:30 alle 12.\n\nSabato 12 novembre 2022 dalle 10:30 alle 11:30.\n\nSabato 26 novembre 2022 dalle 10:30 alle 12.",
+      "libelleDe" : "Samstag, den 8. Oktober 2022 von 10.30 Uhr bis 11.30 Uhr.\n\nSamstag, den 15. Oktober 2022 von 10.30 Uhr bis 12 Uhr.\n\nSamstag, den 12. November 2022 von 10.30 Uhr bis 11.30 Uhr.\n\nSamstag, den 26. November 2022 von 10.30 Uhr bis 12 Uhr.",
+      "libelleNl" : "Zaterdag 8 oktober 2022 van 10.30 tot en met 11.30 u.\n\nZaterdag 15 oktober 2022 van 10.30 tot en met 12.00 u.\n\nZaterdag 12 november 2022 van 10.30 tot en met 11.30 u.\n\nZaterdag 26 november 2022 van 10.30 tot en met 12.00 u.",
+      "libelleRu" : "Суббота 8 октября 2022  с 10h30 до 11h30.\n\nСуббота 15 октября 2022  с 10h30 до 12h.\n\nСуббота 12 ноября 2022  с 10h30 до 11h30.\n\nСуббота 26 ноября 2022  с 10h30 до 12h.",
+      "libelleZh" : "2022年10月8日, 星期六   小时小时分钟  和 小时小时分钟  之间.\n\n2022年10月15日, 星期六   小时小时分钟  和 小时小时 之间.\n\n2022年11月12日, 星期六   小时小时分钟  和 小时小时分钟  之间.\n\n2022年11月26日, 星期六   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Sábado 8 Outubro 2022 de 10h30 a  11h30.\n\nSábado 15 Outubro 2022 de 10h30 a  12h.\n\nSábado 12 Novembro 2022 de 10h30 a  11h30.\n\nSábado 26 Novembro 2022 de 10h30 a  12h.",
+      "libelleJa" : "土曜日 8 10月 2022 10.30 午前 と 11.30 午前 の間.\n\n土曜日 15 10月 2022 10.30 午前 と 12 午後 の間.\n\n土曜日 12 11月 2022 10.30 午前 と 11.30 午前 の間.\n\n土曜日 26 11月 2022 10.30 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24254036,
+      "dateDebut" : "2022-10-08",
+      "dateFin" : "2022-10-08",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435627
+    }, {
+      "identifiant" : 24282110,
+      "dateDebut" : "2022-10-15",
+      "dateFin" : "2022-10-15",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435628
+    }, {
+      "identifiant" : 24435669,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435669
+    }, {
+      "identifiant" : 24435671,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24435671
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Enfant (6-10 ans) : 5 €.\n\n\nRéservation obligatoire.",
+      "libelleEn" : "Child (6-10 years): 5 €.\n",
+      "libelleEs" : "Niño (6-10 años): 5 €.\n",
+      "libelleIt" : "Bambino (6-10 anni): 5 €.\n",
+      "libelleDe" : "Kinder (6-10 Jahren): 5 €.\n",
+      "libelleNl" : "Kind (6-10 jaar): € 5.\n",
+      "libelleRu" : "Ребенок (6-10 лет) : 5 €.\n",
+      "libelleZh" : "儿童 (6-10 岁) : 5 €.\n",
+      "libellePtBR" : "Criança (6-10 anos): 5 €.\n",
+      "libelleJa" : "子供 (6-10 歳): 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Réservation obligatoire"
+    },
+    "periodes" : [ {
+      "identifiant" : 13337165,
+      "dateDebut" : "2022-10-08",
+      "dateFin" : "2022-11-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1734
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionEnfantAgeMin" : 6,
+      "conditionEnfantAgeMax" : 10
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5185763,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5223246
+      },
+      "nom" : "Musée Granet",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70513125,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "granet-reservation@mairie-aixenprovence.fr"
+        }
+      }, {
+        "identifiant" : 97405395,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 52 87 97"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Réservation obligatoire"
+    }
+  },
+  "contacts" : [ {
+    "identifiant" : 18756362,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Staïner",
+    "prenom" : "Véronique",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86083374,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "4 42 52 88 43"
+      }
+    }, {
+      "identifiant" : 86085503,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "StainerV@mairie-aixenprovence.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8468809,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "legende" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/179/8238029.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/179/8238029-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/179/8238029-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/179/8238029-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "13PT002410_1_HD",
+      "taille" : 1079415,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-22T15:16:00.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8468810,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "legende" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/179/8238030.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/179/8238030-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/179/8238030-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/179/8238030-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "13PT002410_2_HD",
+      "taille" : 1571554,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-22T15:15:58.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8468811,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "legende" : {
+      "libelleFr" : "Ateliers et parcours thématiques - Les enfants au musée Granet"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/179/8238031.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/179/8238031-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/179/8238031-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/179/8238031-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "13PT002410_3_HD",
+      "taille" : 1583661,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-22T15:16:01.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-12", "2022-11-26" ],
+  "informationsActivite" : {
+    "nomLieu" : "Musée Granet",
+    "dureeSeance" : 90,
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 4598
+    } ],
+    "prestataireActivites" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538995
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538995
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13PT002410"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 1282,
+        "dateMaj" : 1667920229993
+      }
+    } ]
+  } ]
+}

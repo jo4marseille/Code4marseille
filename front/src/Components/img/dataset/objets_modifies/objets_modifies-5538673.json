@@ -1,0 +1,520 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538673,
+  "nom" : {
+    "libelleFr" : "Musée Suffren et du Vieux Saint-Cannat",
+    "libelleEn" : "Musée Suffren et du Vieux Saint-Cannat",
+    "libelleEs" : "Musée Suffren et du Vieux Saint-Cannat",
+    "libelleIt" : "Musée Suffren et du Vieux Saint-Cannat",
+    "libelleDe" : "Musée Suffren et du Vieux Saint-Cannat",
+    "libelleNl" : "Musée Suffren et du Vieux Saint-Cannat"
+  },
+  "identifier" : "SITRA2_PCU_5538673",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T20:35:13.968+0000",
+    "dateModification" : "2021-10-06T10:18:25.333+0000",
+    "dateExportModification" : "2022-10-17T12:22:40.683+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79632147,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 82 02"
+      }
+    }, {
+      "identifiant" : 79632148,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 57 23 36"
+      }
+    }, {
+      "identifiant" : 86722767,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ville-saint-cannat.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223230
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le musée de Suffren et du vieux Saint-Cannat, originellement installé dans la demeure natale du Bailli du Suffren est aujourd'hui implanté à l'Espace Suffren, à Saint-Cannat",
+      "libelleEn" : "The Museum of Suffren and Old Saint-Cannat, originally established in the Bailli du Suffren's birth place is now housed in the Espace Suffren, in Saint-Cannat"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée est composé de deux collections principales. La première sur Pierre-André de Suffren, dit \" Le Bailli de Suffren \", marin français aux nombreux titres (vice-amiral, bailli et commandeur de l'Ordre de Saint-Jérusalem) et à la renommée française et internationale. \r\nLa seconde porte sur l'histoire, le patrimoine et les arts et traditions populaires de la ville de Saint-Cannat, à laquelle s'est ajouté des costumes et vêtements provençaux, une galerie de peintures ainsi que des objets et outils religieux.\r\n\r\nLe musée propose des visites guidées de ses espaces d'exposition les samedis et dimanches, ainsi qu'une programmation culturelle variée (expositions, concours ...).\r\nSurface de l'exposition permanente : 70\r\nSurface de l'exposition temporaire : 70",
+      "libelleEn" : "The museum is made up of two main collections. The first is on Pierre-André de Suffren, known as the 'Bailli de Suffren', a French mariner with multiple titles (vice admiral, bailiff and commander of the Order of Saint John of Jerusalem) renowned across France and overseas. \r\n\r\nThe second collection focuses on the history, heritage and popular arts and traditions of the town of Saint-Cannat, as well as Provençal costumes and clothes, with a gallery of paintings and religious objects and tools.\r\n\r\nThe museum organises guided tours of the exhibition areas, as well as a varied cultural programme (exhibitions, contests, etc.)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Espace Suffren",
+      "adresse2" : "3 Avenue Pasteur",
+      "codePostal" : "13760",
+      "bureauDistribution" : "SAINT CANNAT",
+      "commune" : {
+        "id" : 4502
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Le musée est situé à l'Espace Suffren avenue Pasteur, entrée par la Place Jean Jaurès\r\nAccès limité à 30 personnes."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.296409, 43.621667 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4502
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 606
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Place Gambetta, place J.Jaurès, place Suffren)\r\nParking\r\nParking autocar(À proximité)\r\nGarage pour vélo",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10/2021 au 30/04/2022, le 1er dimanche du mois de 15h à 18h.\nFermetures exceptionnelles les 1er janvier et 25 décembre.\n\nDu 01/05 au 30/09/2022, tous les jeudis de 15h à 18h.\nFermeture exceptionnelle le 1er mai.",
+      "libelleEn" : "From 01/10/2021 to 30/04/2022, 1st Sunday of the month between 3 pm and 6 pm.\nClosed exceptionally on January 1st and December 25th.\n\nFrom 01/05 to 30/09/2022, every Thursday between 3 pm and 6 pm.\nClosed exceptionally on May 1st.",
+      "libelleEs" : "Del 01/10/2021 al 30/04/2022, el 1er domingo de mes de 15 a 18.\nSe cierra, excepcionalmente los días 1er de enero y 25 de diciembre.\n\nDel 01/05 al 30/09/2022, todos los jueves de 15 a 18.\nSe cierra, excepcionalmente el 1er de mayo.",
+      "libelleIt" : "Dal 01/10/2021 al 30/04/2022, la 1° domenica del mese dalle 15 alle 18.\nChiusura eccezionale 1° gennaio e 25 dicembre.\n\nDal 01/05 al 30/09/2022, tutti i giovedì dalle 15 alle 18.\nChiusura eccezionale il 1° maggio.",
+      "libelleDe" : "Vom 01/10/2021 bis 30/04/2022, jeden 1. Sonntag des Monats von 15 Uhr bis 18 Uhr.\nAusnahmsweise geschlossen am 1. Januar und 25. Dezember.\n\nVom 01/05 bis 30/09/2022, jeden Donnerstag von 15 Uhr bis 18 Uhr.\nAusnahmsweise geschlossen am 1. Mai.",
+      "libelleNl" : "Van 01/10/2021 tot en met 30/04/2022, op de 1ste zondag van de maand van 15.00 tot en met 18.00 u.\nBij uitzondering gesloten op 1 januari en 25 december.\n\nVan 01/05 tot en met 30/09/2022, elke donderdag van 15.00 tot en met 18.00 u.\nBij uitzondering gesloten op 1 mei.",
+      "libelleRu" : "С 01/10/2021 до 30/04/2022, 1-й воскресенье месяца с 15h до 18h.\nВ порядке исключения не работает 1 января и 25 декабря.\n\nС 01/05 до 30/09/2022, каждый четверги с 15h до 18h.\nВ порядке исключения не работает 1 мая.",
+      "libelleZh" : "从 2021年10月1日 到 2022年4月30日, 本月 于 第一天 星期日  小时小时 和 小时小时 之间.\n在 1月1日 和 12月25日 例外关闭.\n\n从 5月1日 到 2022年9月30日, 每星期四 小时小时 和 小时小时 之间.\n在 5月1日 例外关闭.",
+      "libellePtBR" : "De 01/10/2021 a 30/04/2022, as 1º domingo do mês de 15h a  18h.\nFechamentos excepcionais em 1º de janeiro e 25 de dezembro.\n\nDe 01/05 a 30/09/2022, todas as quintas-feiras de 15h a  18h.\nFechamento excepcional em 1º de maio.",
+      "libelleJa" : "01/10/2021 から 30/04/2022 まで, 月の1日 日曜日 3 午後 と 6 午後 の間.\n1月1日 と 12月25日 は特別休業.\n\n01/05 から 30/09/2022 まで, 毎木曜日 3 午後 と 6 午後 の間.\n5月1日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21890330,
+      "dateDebut" : "2021-10-01",
+      "dateFin" : "2022-04-30",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_MOIS",
+      "tousLesAns" : false,
+      "ouverturesJourDuMois" : [ {
+        "jourDuMois" : "D_1ER",
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 21890330
+    }, {
+      "identifiant" : 21890348,
+      "dateDebut" : "2022-05-01",
+      "dateFin" : "2022-09-30",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 21890348
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5617149,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5519580
+      },
+      "nom" : "Espace Suffren",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 86723295,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 57 23 36"
+        }
+      }, {
+        "identifiant" : 86723317,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 50 82 02"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 17637046,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "KLEIN",
+    "prenom" : "Jean-Claude",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84967425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 82 00"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9195660,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000663_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/143/8949621.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/143/8949621-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/143/8949621-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/143/8949621-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 35559,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-10T05:08:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195661,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000663_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/143/8949622.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/143/8949622-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/143/8949622-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/143/8949622-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 42896,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-10T05:08:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195662,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000663_3_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/143/8949623.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/143/8949623-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/143/8949623-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/143/8949623-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 36540,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-10T05:08:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195663,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000663_4_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/143/8949624.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/143/8949624-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/143/8949624-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/143/8949624-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 28980,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-10T05:08:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9195664,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000663_5_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/143/8949625.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/143/8949625-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/143/8949625-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/143/8949625-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 24166,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-10T05:08:09.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 4,
+    "capaciteMaxAccueil" : 50
+  },
+  "visites" : {
+    "visitable" : false,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3226
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-09-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1803
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1818
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000663"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

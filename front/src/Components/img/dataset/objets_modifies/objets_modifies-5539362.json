@@ -1,0 +1,183 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539362,
+  "nom" : {
+    "libelleFr" : "Les Mines de Saint Savournin",
+    "libelleEn" : "Les Mines de Saint Savournin",
+    "libelleIt" : "Les Mines de Saint Savournin",
+    "libelleDe" : "Les Mines de Saint Savournin",
+    "libelleNl" : "Les Mines de Saint Savournin"
+  },
+  "identifier" : "SITRA2_PCU_5539362",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:55:44.819+0000",
+    "dateModification" : "2020-10-23T13:14:03.495+0000",
+    "dateExportModification" : "2022-11-06T18:00:04.662+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79673460,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 04 64 03"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224234
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Saint-Savournin est une des nombreuses communes qui compose le bassin houiller de Provence dont Gardanne est peut-être la plus emblématique, avec la fermeture du dernier puits de mine en février 2003. Ce bassin s'étend de l'Étang de Berre à l'ouest jusqu'à la vallée de l'Arc vers Trets à l'Est, en passant par les Chaînes de l'Estaque, de l'Etoile et de l'Huveaune au Sud. \r\nDès le XVIe siècle, on trouve des carrières de charbon à Saint-Savournin. À la fin du XVIIe siècle, le lignite est mieux exploité et sert entre autres pour les cimenteries et autres fabriques de tuileries, savonneries, ou raffineries. On l'utilise aussi pour le chauffage des fours à Chaux, notamment sur la zone de la Valdonne, en contrebas de la Valentine, sur la route de la Bouilladisse. Vers 1790, on compte près de trois cents ouvriers travaillant dans les mines de Saint-Savournin. \r\nAu XVIIIe siècle, le charbon était acheminé à Marseille à dos de mulets. Deux itinéraires furent utilisés, par le sentier du Terme (l'actuelle route d'Allauch après Cadolive) ou plus long mais plus sûr, par l'ancien chemin d'Aix-en-Provence qui atteignait Aubagne en passant par la vallée de l'Huveaune. En 1863, une ligne de chemin de fer est construite entre Aubagne et La Barque (commune actuelle de Fuveau) pour desservir les mines. En 1868, une voie est ouverte entre Aubagne et Valdonne, où une gare y est construite en 1870. Ce train transportera aussi des voyageurs jusqu'en 1939 et sera définitivement supprimé en 1960. \r\n\r\nLes principaux puits sont creusés entre le XIXe et le XXe siècle : \r\nLe puits Dubreuil en 1820 (profondeur de 70 mètres). \r\nLe puits Saint-Pierre en 1842 (56 mètres). \r\nLe puits Castellane en 1844 (150 mètres). \r\nLe puits Léonie en 1866 (203 mètres). \r\nLe puits Saint-Joseph en 1866 (193 mètres). \r\nLe puits Notre-Dame-du-Château en 1871 (250 mètres). \r\nLe puits Armand en 1891 et fermé définitivement en 1954. \r\nLe puits Germain est inauguré en 1927 (600 mètres) et fermé en 1961."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13119",
+      "bureauDistribution" : "SAINT SAVOURNIN",
+      "commune" : {
+        "id" : 4512
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.524600, 43.412358 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4512
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488429,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000009_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/255/8257473.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/255/8257473-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/255/8257473-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/255/8257473-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 173785,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-23T17:05:57.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3483
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000009"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

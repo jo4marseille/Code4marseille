@@ -1,0 +1,248 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6269585,
+  "nom" : {
+    "libelleFr" : "Préparez Noël à Méjanes"
+  },
+  "identifier" : "SITRA2_EVE_6269585",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-22T12:46:47.802+0000",
+    "dateModification" : "2022-10-04T07:27:50.271+0000",
+    "dateExportModification" : "2022-10-06T14:06:04.560+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70479220,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 10 62"
+      },
+      "observation" : {
+        "libelleFr" : "Contact manade et animations taurines"
+      }
+    }, {
+      "identifiant" : 70479223,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mejanes-camargue.fr"
+      }
+    }, {
+      "identifiant" : 70479222,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "camargue@mejanes.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5219204
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour préparer Noël, le Domaine de Méjanes vous accueille.le temps d'un week-end."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Deux journées aux saveurs de noël avec des animations équestres et taurines à l'accès gratuit, un marché provençal de noël, un grand loto,... et l'occasion de belles balades à cheval, à poney ou à bord du Petit Train, d'une visite du Musée Paul Ricard et d'un séjour dans les hébergements confortables nichés au coeur du domaine."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Domaine de Méjanes",
+      "adresse1" : "Méjanes en Camargue",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.546547, 43.575005 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5933017
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du samedi 3 au dimanche 4 décembre 2022 à 10h.",
+      "libelleEn" : "From Saturday 3 to Sunday 4 December 2022 at 10 am.",
+      "libelleEs" : "Del sábado, 3 al domingo, 4 de diciembre de 2022 a 10.",
+      "libelleIt" : "Dal sabato 3 a domenica 4 dicembre 2022 alle 10.",
+      "libelleDe" : "Von Samstag, den 3. bis Sonntag, den 4. Dezember 2022 um 10 Uhr.",
+      "libelleNl" : "Zaterdag 3 tot en met zondag 4 december 2022 om 10.00 u.",
+      "libelleRu" : "С суббота 3 до воскресенье 4 декабря 2022  до 10h.",
+      "libelleZh" : "从 星期六 到 2022年12月4日, 星期日   在 小时小时.",
+      "libellePtBR" : "De Sábado 3 a Domingo 4 Dezembro 2022 para  10h.",
+      "libelleJa" : "土曜日 3 から 日曜日 4 12月 2022 まで 10 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24345890,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-04",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24425361
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14295962,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine de Méjanes"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/24/14620850.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/24/14620850-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/24/14620850-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/24/14620850-diaporama.png",
+      "extension" : "png",
+      "fileName" : "méjan",
+      "taille" : 46005,
+      "hauteur" : 1263,
+      "largeur" : 1567,
+      "lastModifiedDate" : "2022-10-04T07:26:14.456+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-03", "2022-12-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2082
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2230
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Domaine de Méjanes"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-04T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

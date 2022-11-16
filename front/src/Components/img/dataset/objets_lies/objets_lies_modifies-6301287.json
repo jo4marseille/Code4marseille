@@ -1,0 +1,315 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6301287,
+  "nom" : {
+    "libelleFr" : "Taotie",
+    "libelleEn" : "Taotie",
+    "libelleEs" : "Taotie",
+    "libelleIt" : "Taotie",
+    "libelleDe" : "Taotie",
+    "libelleNl" : "Taotie",
+    "libelleRu" : "Taotie",
+    "libelleZh" : "Taotie",
+    "libellePtBR" : "Taotie",
+    "libelleJa" : "Taotie"
+  },
+  "identifier" : "SITRA2_EVE_6301287",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-18T08:10:39.871+0000",
+    "dateModification" : "2022-11-07T14:30:13.282+0000",
+    "dateExportModification" : "2022-11-07T14:30:15.159+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537350,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovencetourism.com",
+        "en" : "https://www.aixenprovencetourism.com/en/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5523934
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Taotie est un projet d’installation automatisée, une machine qui produit des images en mouvement en projetant des ombres. Il tire ses influences du pré-cinéma, notamment de la fantasmagorie du XVIIIe siècle, dont il est une\r\nréinterprétation technologique.",
+      "libelleEn" : "Taotie is an automated installation project - a machine producing moving\r\nimages by projecting shadows. The project draws its influences from pre-cinema, notably 18th century phantasmagoria, of which it is a contemporary\r\nand technological reinterpretation."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La nuit a toujours été l’espace-temps du repos et du sommeil, mais ce modèle semble aujourd’hui bouleversé. La mise en réseau du monde par le haut débit, la décentralisation de l’économie, la rapidité des centres de distribution et leur livraison en moins de 24 heures, l’adoption du télétravail en période de pandémie, poussent vers un modèle orienté vers une fragmentation du temps d’activité, une désynchronisation du corps avec la société et avec ce qu’elle produit. L’aboutissement spatial de cette logique d’activité continue est la \"Dark Factory\", une usine sombre automatisée dans laquelle la lumière naturelle et artificielle est superflue, puisque personne n’y travaille.\r\nTaotie interroge les implications sociales et environnementales de ce nouveau paradigme productiviste en proposant une performance automatique continue et immersive dans les entrailles d’un de ces espaces hermétiques.",
+      "libelleEn" : "Taotie is an automated installation project - a machine producing moving images by projecting shadows from a modular model based on automated factories and distribution centers. The project draws its influences from pre-cinema, notably 18th century phantasmagoria, of which it is a contemporary and technological reinterpretation.\r\nThe night has always been the space-time of rest and sleep, but this model seems to be disrupted today. The instant connectivity of the world through high-speed internet, the decentralisation of the economy, the speed of distribution centers and their delivery in less than 24 hours, the adoption of teleworking in times of the pandemic, are pushing towards a model oriented towards a fragmentation of activity time, a desynchronisation of the body with society and with what it produces. The spatial outcome of this logic of continuous activity is the ‘Dark Factory’, an automated factory in which natural and artificial light is superfluous, as no one works there."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le lieu 9",
+      "adresse1" : "Office de Tourisme d'Aix-en-Provence",
+      "adresse2" : "300, Avenue Giuseppe Verdi",
+      "adresse3" : "Les Allées Boîte postale 40160",
+      "codePostal" : "13605",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444386, 43.525840 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 15691
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5522925
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 14/11/2022 au 21/01/2023, tous les mercredis, jeudis, vendredis et samedis de 14h à 18h.",
+      "libelleEn" : "From 14/11/2022 to 21/01/2023, every Wednesday, Thursday, Friday and Saturday between 2 pm and 6 pm.",
+      "libelleEs" : "Del 14/11/2022 al 21/01/2023, todos los miércoles, jueves, viernes y sábados de 14 a 18.",
+      "libelleIt" : "Dal 14/11/2022 al 21/01/2023, tutti i mercoledì, giovedì, venerdì e sabati dalle 14 alle 18.",
+      "libelleDe" : "Vom 14/11/2022 bis 21/01/2023, jeden Mittwoch, Donnerstag, Freitag und Samstag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 14/11/2022 tot en met 21/01/2023, elke woensdag, donderdag, vrijdag en zaterdag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 14/11/2022 до 21/01/2023, каждый среды, четверги, пятницы и субботы с 14h до 18h.",
+      "libelleZh" : "从 2022年11月14日 到 2023年1月21日, 每星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 14/11/2022 a 21/01/2023, todas as quartas-feiras, quintas-feiras, sextas-feiras e sábados de 14h a  18h.",
+      "libelleJa" : "14/11/2022 から 21/01/2023 まで, 毎水曜日, 木曜日, 金曜日 と 土曜日 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24522501,
+      "dateDebut" : "2022-11-14",
+      "dateFin" : "2023-01-21",
+      "complementHoraire" : { },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24714095
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14806436,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Thomas Garnier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/203/15190910.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/203/15190910-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/203/15190910-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/203/15190910-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "taotie",
+      "taille" : 335887,
+      "hauteur" : 1800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T14:30:13.456+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14806438,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Thomas Garnier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/203/15190912.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/203/15190912-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/203/15190912-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/203/15190912-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "taotie3",
+      "taille" : 145076,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T14:30:14.133+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14806437,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Thomas Garnier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/203/15190911.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/203/15190911-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/203/15190911-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/203/15190911-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "taotie2",
+      "taille" : 304077,
+      "hauteur" : 1800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T14:30:14.545+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2303
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Le lieu 9"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-21T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

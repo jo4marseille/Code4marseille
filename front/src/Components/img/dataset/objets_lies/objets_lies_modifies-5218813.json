@@ -1,0 +1,144 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5218813,
+  "nom" : {
+    "libelleFr" : "Souleïado - Musée du Tissu Provençal",
+    "libelleEn" : "Souleïado",
+    "libelleEs" : "Souleïado",
+    "libelleIt" : "Souleïado",
+    "libelleDe" : "Souleïado",
+    "libelleNl" : "Souleïado"
+  },
+  "identifier" : "SITRA2_STR_5218813",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-03-29T15:44:28.679+0000",
+    "dateModification" : "2020-11-25T12:48:59.436+0000",
+    "dateExportModification" : "2022-05-20T08:57:02.593+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Communauté d'agglomération Arles Crau Camargue Montagnette (ACCM)",
+      "dateCreation" : "2020-10-27T15:36:13.685+0000",
+      "dateModification" : "2022-10-24T08:49:31.113+0000",
+      "id" : 2118
+    },
+    "signalerUnProblemeMails" : [ "e.dejean@agglo-accm.fr", "i.bindoni@agglo-accm.fr", "i.filaseta@agglo-accm.fr", "m.graziani@agglo-accm.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70477070,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 08 80"
+      }
+    }, {
+      "identifiant" : 70477071,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 91 01 08"
+      }
+    }, {
+      "identifiant" : 70477072,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee@souleiado.com"
+      }
+    }, {
+      "identifiant" : 70477073,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://souleiado-lemusee.com/"
+      }
+    }, {
+      "identifiant" : 70477074,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.souleiado.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "78568029000013",
+      "codeApeNaf" : "182E",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "39 Rue Charles Demery",
+      "codePostal" : "13150",
+      "commune" : {
+        "id" : 4519
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4519
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6142170
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,286 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 6284921,
+  "nom" : {
+    "libelleFr" : "Atelier vitrail"
+  },
+  "identifier" : "SITRA2_ACT_6284921",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-04T08:26:16.919+0000",
+    "dateModification" : "2022-10-04T08:32:33.849+0000",
+    "dateExportModification" : "2022-11-08T14:59:24.910+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70517953,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 64 17"
+      }
+    }, {
+      "identifiant" : 70517955,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "abbaye-de-montmajour@monuments-nationaux.fr"
+      }
+    }, {
+      "identifiant" : 70517956,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://montmajour.monuments-nationaux.fr/fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224853
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Et si vous veniez réaliser votre vitrail à Montmajour ?"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les mercredi 26 octobre et 2 novembre l’abbaye de Montmajour invite le jeune public à partir de 7 ans, à découvrir le travail du verre et l’art du vitrail. Chaque participant sera invité à réaliser son vitrail et à repartir avec à la fin de l’atelier. Les ateliers seront animés par Clotilde Gontel.\r\n\r\nAttention le nombre de place est limité, alors n’hésitez plus et venez découvrir l’art du vitrail à Montmajour !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Abbaye de Montmajour",
+      "adresse1" : "Route De Fontvieille",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.717352, 43.649312 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538303
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 26/10 au 02/11/2022 \nOuverture le mercredi de 10h15 à 12h15 et de 14h à 16h.",
+      "libelleEn" : "From 26/10 to 02/11/2022 \nOpening hours on Wednesday between 10.15 am and 12.15 pm and between 2 pm and 4 pm.",
+      "libelleEs" : "Del 26/10 al 02/11/2022 \nHorarios de apertura los miércoles de 10:15 a 12:15 y de 14 a 16.",
+      "libelleIt" : "Dal 26/10 al 02/11/2022 \nOrari di apertura il mercoledì dalle 10:15 alle 12:15 e dalle 14 alle 16.",
+      "libelleDe" : "Vom 26/10 bis 02/11/2022 \nÖffnungszeiten jeden Mittwoch von 10.15 Uhr bis 12.15 Uhr und von 14 Uhr bis 16 Uhr.",
+      "libelleNl" : "Van 26/10 tot en met 02/11/2022 \nOpeningstijden op woensdag van 10.15 tot en met 12.15 u en van 14.00 tot en met 16.00 u.",
+      "libelleRu" : "С 26/10 до 02/11/2022 \nЧасы открытия на среда с 10h15 до 12h15 и с 14h до 16h.",
+      "libelleZh" : "从 10月26日 到 2022年11月2日 \n开放时间 上 星期三 小时小时分钟  和 小时小时分钟  之间 和 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 26/10 a 02/11/2022 \nOuverture na quarta-feira de 10h15 a  12h15 e de 14h a  16h.",
+      "libelleJa" : "26/10 から 02/11/2022 まで \n開館時間 水曜日 に 10.15 午前 と 12.15 午後 の間 と 2 午後 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24426153,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-11-02",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24426202
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 8 €\nEnfant : 4 €.\n",
+      "libelleEn" : "Adult: 8 €\nChild: 4 €.\n",
+      "libelleEs" : "Adulto: 8 €\nNiño: 4 €.\n",
+      "libelleIt" : "Adulto: 8 €\nBambino: 4 €.\n",
+      "libelleDe" : "Erwachsene: 8 €\nKinder: 4 €.\n",
+      "libelleNl" : "Volwassene: € 8\nKind: € 4.\n",
+      "libelleRu" : "Взрослый человек : 8 €\nРебенок : 4 €.\n",
+      "libelleZh" : "成人 : 8 €\n儿童 : 4 €.\n",
+      "libellePtBR" : "Adulto: 8 €\nCriança: 4 €.\n",
+      "libelleJa" : "大人: 8 €\n子供: 4 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13708422,
+      "dateDebut" : "2022-10-26",
+      "dateFin" : "2022-11-02",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1733
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1734
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14297030,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "cnmh"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/28/14621923.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/28/14621923-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/28/14621923-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/28/14621923-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/28/14621923-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "ATELIER VITRAIL 26 10 2022",
+      "taille" : 1227588,
+      "hauteur" : 6664,
+      "largeur" : 4713,
+      "lastModifiedDate" : "2022-10-04T08:32:33.984+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Abbaye de Montmajour",
+    "dureeSeance" : 120,
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ],
+    "prestataireActivites" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538303
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538303
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-02T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.1,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 668,
+        "dateMaj" : 1667918690468
+      }
+    } ]
+  } ]
+}

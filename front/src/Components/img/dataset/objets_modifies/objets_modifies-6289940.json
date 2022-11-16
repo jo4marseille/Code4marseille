@@ -1,0 +1,322 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6289940,
+  "nom" : {
+    "libelleFr" : "Urbain dans Saison 1-Episode 1",
+    "libelleEn" : "Urbain dans Saison 1-Episode 1",
+    "libelleEs" : "Urbain dans Saison 1-Episode 1",
+    "libelleIt" : "Urbain dans Saison 1-Episode 1",
+    "libelleDe" : "Urbain dans Saison 1-Episode 1",
+    "libelleNl" : "Urbain dans Saison 1-Episode 1",
+    "libelleRu" : "Urbain dans Saison 1-Episode 1",
+    "libelleZh" : "Urbain dans Saison 1-Episode 1",
+    "libellePtBR" : "Urbain dans Saison 1-Episode 1",
+    "libelleJa" : "Urbain dans Saison 1-Episode 1"
+  },
+  "identifier" : "SITRA2_EVE_6289940",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-07T15:18:13.313+0000",
+    "dateModification" : "2022-10-17T08:35:08.664+0000",
+    "dateExportModification" : "2022-10-17T08:35:09.411+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103958039,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    }, {
+      "identifiant" : 103958040,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 103958041,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lafontainedargent.com/florian-lex-du-27-au-29-octobre-2022"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230856
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Saison 1 Épisode 1 c’est le premier \"vrai\" spectacle d’Urbain bien connu de la scène de stand-up dont il fait partie depuis 7 ans maintenant"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un peu cynique, un peu alcoolique, un peu geek, un peu con aussi parfois, finalement c’est juste l’histoire d’un trentenaire normal qui a décidé de monter à Paris parce qu’il savait pas trop quoi faire de sa vie, et qui a décidé de répondre aux trop nombreuses questions qui se posaient par des blagues. Le seul truc qu’il sait vraiment faire finalement."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Fontaine d'Argent - Théâtre d'humour",
+      "adresse1" : "5 Rue Fontaine d'Argent",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453377, 43.527750 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729787
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du mercredi 9 au jeudi 10 novembre 2022 à 21h.",
+      "libelleEn" : "From Wednesday 9 to Thursday 10 November 2022 at 9 pm.",
+      "libelleEs" : "Del miércoles, 9 al jueves, 10 de noviembre de 2022 a 21.",
+      "libelleIt" : "Dal mercoledì 9 a giovedì 10 novembre 2022 alle 21.",
+      "libelleDe" : "Von Mittwoch, den 9. bis Donnerstag, den 10. November 2022 um 21 Uhr.",
+      "libelleNl" : "Woensdag 9 tot en met donderdag 10 november 2022 om 21.00 u.",
+      "libelleRu" : "С среда 9 до четверг 10 ноября 2022  до 21h.",
+      "libelleZh" : "从 星期三 到 2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "De Quarta-feira 9 a Quinta-feira 10 Novembro 2022 para  21h.",
+      "libelleJa" : "水曜日 9 から 木曜日 10 11月 2022 まで 9 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24455723,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24511629
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 21 €.\n",
+      "libelleEn" : "Full price: 21 €.\n",
+      "libelleEs" : "Tarifa completa: 21 €.\n",
+      "libelleIt" : "Tarrifa intera: 21 €.\n",
+      "libelleDe" : "Voller Preis: 21 €.\n",
+      "libelleNl" : "Vol tarief: € 21.\n",
+      "libelleRu" : "Полную цену : 21 €.\n",
+      "libelleZh" : "全额 : 21 €.\n",
+      "libellePtBR" : "Tarifa inteira: 21 €.\n",
+      "libelleJa" : "通常料金: 21 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13722547,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 21.00,
+        "maximum" : 21.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6843706,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230856
+      },
+      "nom" : "La Fontaine d'Argent - Théâtre d'humour",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 103958036,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lafontainedargent.com/urbain-les-9-et-10-novembre-2022"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21401577,
+    "referent" : true,
+    "moyensCommunication" : [ {
+      "identifiant" : 103958037,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 103958038,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14429206,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Fontaine d'Argent"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/116/14775489.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/116/14775489-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/116/14775489-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/116/14775489-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "urbain",
+      "taille" : 448995,
+      "hauteur" : 1691,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-17T08:35:08.754+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "La Fontaine d'Argent - Théâtre d'humour"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

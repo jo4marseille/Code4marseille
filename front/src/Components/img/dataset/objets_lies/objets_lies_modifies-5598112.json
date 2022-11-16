@@ -1,0 +1,124 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5598112,
+  "nom" : {
+    "libelleFr" : "CPPVA (Conservatoire provençal du patrimoine de vehicules anciens)",
+    "libelleEn" : "CPPVA (Conservatoire provencal du patrimoine de vehicules anciens)",
+    "libelleIt" : "CPPVA (Conservatoire provencal du patrimoine de vehicules anciens)",
+    "libelleDe" : "CPPVA (Conservatoire provencal du patrimoine de vehicules anciens)",
+    "libelleNl" : "CPPVA (Conservatoire provencal du patrimoine de vehicules anciens)"
+  },
+  "identifier" : "SITRA2_STR_5598112",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-09T04:21:45.505+0000",
+    "dateModification" : "2021-04-16T08:55:07.067+0000",
+    "dateExportModification" : "2022-06-18T16:20:15.315+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 81282887,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 10 39 24 22"
+      }
+    }, {
+      "identifiant" : 81282888,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@cppva.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "487 636 631 00011",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Gare SNCF de la Barque",
+      "adresse2" : "chemin de la Bergerie",
+      "codePostal" : "13710",
+      "bureauDistribution" : "FUVEAU",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.548044, 43.470073 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18980274,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "SARETTO",
+    "prenom" : "Luc",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

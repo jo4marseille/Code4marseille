@@ -1,0 +1,248 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228537,
+  "nom" : {
+    "libelleFr" : "Office de tourisme Carry le Rouet",
+    "libelleEn" : "Maison du tourisme Carry le Rouet",
+    "libelleEs" : "Maison du tourisme Carry le Rouet",
+    "libelleIt" : "Maison du tourisme Carry le Rouet",
+    "libelleDe" : "Maison du tourisme Carry le Rouet",
+    "libelleNl" : "Maison du tourisme Carry le Rouet"
+  },
+  "identifier" : "SITRA2_STR_5228537",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:24:44.879+0000",
+    "dateModification" : "2022-11-02T14:59:23.822+0000",
+    "dateExportModification" : "2022-11-02T14:59:23.995+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Carry-le-Rouet",
+      "dateCreation" : "2020-10-01T12:13:22.314+0000",
+      "dateModification" : "2022-10-24T08:49:36.330+0000",
+      "id" : 2094,
+      "siteWeb" : "http://www.otcarrylerouet.fr"
+    },
+    "signalerUnProblemeMails" : [ "asmarangon@mairie-carrylerouet.fr", "mdominguezloza@mairie-carrylerouet.fr", "oolivierdallard@mairie-carrylerouet.fr", "scoutsouras@mairie-carrylerouet.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537597,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 13 20 36"
+      }
+    }, {
+      "identifiant" : 70537601,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 52 03"
+      }
+    }, {
+      "identifiant" : 70537602,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@otcarrylerouet.fr"
+      }
+    }, {
+      "identifiant" : 70537608,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.otcarrylerouet.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "11-13 Route Bleue",
+      "adresse2" : "Le Port",
+      "codePostal" : "13620",
+      "commune" : {
+        "id" : 4432
+      }
+    },
+    "geolocalisation" : {
+      "altitude" : 5,
+      "complement" : {
+        "libelleFr" : "MARSEILLE PROVENCE : Aéroport/Aérodrome à 15km\r\nA55 : Sortie autoroute à 2km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.153899, 43.331011 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4432
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 195
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 200
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 191
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18744638,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Devos",
+    "prenom" : "Frank",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86010690,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fdevos@mairie-carrylerouet.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18744709,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Coutsouras",
+    "prenom" : "Sabine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86011168,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 13 20 36"
+      }
+    } ]
+  }, {
+    "identifiant" : 18744712,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DOMINGUEZ LOZA",
+    "prenom" : "Mandine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 86011182,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 13 20 36"
+      }
+    } ]
+  }, {
+    "identifiant" : 18744713,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "OLIVIER DALLARD",
+    "prenom" : "Odile",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86011206,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 13 20 36"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,123 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222957,
+  "nom" : {
+    "libelleFr" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleEn" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleEs" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleIt" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleDe" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleNl" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleRu" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleZh" : "Exposition privée : Crèche du Mas Grichaud",
+    "libellePtBR" : "Exposition privée : Crèche du Mas Grichaud",
+    "libelleJa" : "Exposition privée : Crèche du Mas Grichaud"
+  },
+  "identifier" : "SITRA2_STR_5222957",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:45:15.905+0000",
+    "dateModification" : "2022-11-07T09:05:09.379+0000",
+    "dateExportModification" : "2022-11-07T09:05:09.513+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512469,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 94 13 94"
+      }
+    }, {
+      "identifiant" : 70512470,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://mas.de.grichaud.free.fr/"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Mas grichaud",
+      "adresse2" : "2252 Chemin des écoles",
+      "adresse3" : "La Crau",
+      "codePostal" : "13160",
+      "commune" : {
+        "id" : 4438
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.822592, 43.856242 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4438
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19090960,
+    "referent" : true,
+    "titre" : {
+      "libelleFr" : "Crèche du Mas Grichaud"
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

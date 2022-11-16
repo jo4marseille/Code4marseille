@@ -1,0 +1,684 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5484537,
+  "nom" : {
+    "libelleFr" : "3 bis f, lieu d'arts contemporains",
+    "libelleEn" : "3 bis F, lieu d'arts contemporains",
+    "libelleEs" : "3bisF, lieu d'arts contemporains",
+    "libelleIt" : "3bisF, lieu d'arts contemporains",
+    "libelleDe" : "3bisF, lieu d'arts contemporains",
+    "libelleNl" : "3bisF, lieu d'arts contemporains"
+  },
+  "identifier" : "SITRA2_LOI_5484537",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-10T05:37:20.100+0000",
+    "dateModification" : "2022-10-17T12:19:15.965+0000",
+    "dateExportModification" : "2022-11-04T15:51:56.632+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77076908,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    }, {
+      "identifiant" : 77076911,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@3bisf.com"
+      }
+    }, {
+      "identifiant" : 77076913,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.3bisf.com"
+      }
+    }, {
+      "identifiant" : 79708795,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 3755
+      },
+      "coordonnees" : {
+        "fr" : "https://twitter.com/3bisflieudarts"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468112
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venir au 3 bis f, c’est œuvrer pour la traversée du mur, prendre en compte les différences, agir pour le décloisonnement, accepter et cultiver sa propre étrangeté."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dédié aux arts contemporains et situé dans l'hôpital psychiatrique Montperrin à Aix-en-Provence, le 3 bis f développe depuis 1983 un lieu de création en spectacle vivant et en arts visuels. Chaque année des artistes et compagnies sont invités à développer des projets dans le cadre de résidences de recherche ou de création pour le lieu. \r\nPar des temps de rencontres avec les artistes - expositions, spectacles, rencontres - le 3 bis f offre à tous un espace de partage et de mixité entre art, psychiatrie et citoyenneté.",
+      "libelleEn" : "Dedicated to the contemporary arts and located in the Montperrin psychiatric hospital in Aix-en-Provence, the 3 bis f has been a venue for performing and visual arts since 1983. Each year, artists and theatre companies are invited to develop projects as part of research and creation residences at the venue. \r\n\r\nDuring encounters with the artists – exhibitions, performance, talks – the 3 bis f aims to share and combine art, psychiatry and citizenship."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6252
+      },
+      "description" : {
+        "libelleFr" : "Le ministère de la Culture a attribué le Label « Centre d’art contemporain d’intérêt national » (CACIN) au 3 bis f."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôpital Montperrin",
+      "adresse2" : "109 Avenue Du Petit Barthélémy",
+      "codePostal" : "13617",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.438490, 43.522785 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6044116
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6297216
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6300462
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "ACTIVITE",
+        "id" : 6300581
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6300618
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "ACTIVITE",
+        "id" : 6300851
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6315542
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 5592
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking gratuit avec code d'accès sur demande",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 02/01 au 31/12/2022.\nFermé lundi et dimanche.\nFermeture exceptionnelle le 25 décembre.",
+      "libelleEn" : "From 02/01 to 31/12/2022.\nClosed Monday and Sunday.\nClosed exceptionally on December 25th.",
+      "libelleEs" : "Del 02/01 al 31/12/2022.\nCerrado lunes y domingo.\nSe cierra, excepcionalmente el 25 de diciembre.",
+      "libelleIt" : "Dal 02/01 al 31/12/2022.\nChiuso lunedì e domenica.\nChiusura eccezionale il 25 dicembre.",
+      "libelleDe" : "Vom 02/01 bis 31/12/2022.\nMontag und Sonntag geschlossen.\nAusnahmsweise geschlossen am 25. Dezember.",
+      "libelleNl" : "Van 02/01 tot en met 31/12/2022.\nMaandag en zondag gesloten.\nBij uitzondering gesloten op 25 december.",
+      "libelleRu" : "С 02/01 до 31/12/2022.\nНе работает понедельник и воскресенье.\nВ порядке исключения не работает 25 декабря.",
+      "libelleZh" : "从 1月2日 到 2022年12月31日.\n星期一 和 星期日 关闭.\n在 12月25日 例外关闭.",
+      "libellePtBR" : "De 02/01 a 31/12/2022.\nFechado em segunda-feira e domingo.\nFechamento excepcional em 25 de dezembro.",
+      "libelleJa" : "02/01 から 31/12/2022 まで.\n月曜日 と 日曜日 は休み.\n12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20171732,
+      "dateDebut" : "2022-01-02",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24514432
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5681401,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5468112
+      },
+      "nom" : "3 bis f, lieu d'arts contemporains",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77076913,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.3bisf.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17219929,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 445
+    },
+    "nom" : "LEBERT",
+    "prenom" : "Jasmine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  }, {
+    "identifiant" : 17219930,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GRAGEZ-BOTELLA",
+    "prenom" : "Marie-Louise",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85104188,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    } ]
+  }, {
+    "identifiant" : 17219931,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ZUGMEYER",
+    "prenom" : "Oriane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85104189,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 49 54"
+      }
+    }, {
+      "identifiant" : 85104190,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "oriane.zugmeyer@3bisf.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9220417,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1030473_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC LETT"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/241/8974761.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/241/8974761-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/241/8974761-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/241/8974761-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1367999,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:09:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220418,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1030473_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC LETT"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/241/8974762.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/241/8974762-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/241/8974762-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/241/8974762-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 341328,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:09:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220419,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1030473_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JC LETT"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/241/8974763.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/241/8974763-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/241/8974763-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/241/8974763-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 335509,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:09:05.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220420,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1030473_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Guillaume Loiseau"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/241/8974764.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/241/8974764-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/241/8974764-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/241/8974764-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 354197,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:09:06.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220421,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1030473_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Aliette Cosset"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/241/8974765.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/241/8974765-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/241/8974765-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/241/8974765-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 387473,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:09:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 11857398,
+    "link" : true,
+    "type" : "INSTAGRAM",
+    "nom" : {
+      "libelleFr" : "Instagram",
+      "libelleEn" : "Instagram"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.instagram.com/3bisf/"
+    }, {
+      "locale" : "en",
+      "url" : "https://www.instagram.com/3bisf/"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1253
+    } ]
+  },
+  "visites" : {
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3345
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3207
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1030473"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ],
+  "prestationsList" : [ {
+    "type" : "ACTIVITE",
+    "id" : 6300581
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6300851
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.3,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 29,
+        "dateMaj" : 1664963467827
+      }
+    } ]
+  } ]
+}

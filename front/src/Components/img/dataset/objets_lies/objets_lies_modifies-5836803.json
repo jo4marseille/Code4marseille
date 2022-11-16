@@ -1,0 +1,300 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5836803,
+  "nom" : {
+    "libelleFr" : "Découverte du tui shou sur Dinosaur'Istres"
+  },
+  "identifier" : "SITRA2_ACT_5836803",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-11T14:08:14.882+0000",
+    "dateModification" : "2022-08-11T08:14:19.278+0000",
+    "dateExportModification" : "2022-10-30T06:21:58.752+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 38 96"
+      }
+    }, {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découverte du TUI-SHOU, spécifique au Tai Chi Chuan, ce travail à deux de « poussée des mains » s'effectue à courte distance et en contact constant avec le partenaire"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il permet de développer la synchronisation, le sens du toucher et du regard intérieur, de relâcher les articulations et les muscles, afin d'être à l'écoute de la force et des intentions du partenaire, pour mieux absorber ses assauts et ne pas être déséquilibré.\r\nIci, pas de saisie mais une sensation d'unité et d'observation subtile de son enracinement et de celui de son partenaire. Les gestes lents et élégants du Tai chi chuan seront également pratiqués pendant cette séance.\r\n\r\nAvec Gilles Wery président d'Istres Sport Tai Chi Chuan et 2eme Duan FAEMC"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Dinosaur'Istres",
+      "adresse2" : "Colline du Castellan",
+      "adresse3" : "Chemin du Castellan",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "GARE SNCF : Gare ferroviaire à 1.5km\r\nArrêt bus Sainte Catherine : Arrêt de bus à 0.1km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.990200, 43.518141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15495
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5227671
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3737
+    } ],
+    "ageMin" : 216,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 20 août 2022 de 9h à 10h30.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "Saturday 20 August 2022 between 9 am and 10.30 am.\n\nSubject to favorable weather.",
+      "libelleEs" : "Sábado, 20 de agosto de 2022 de 9 a 10:30.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Sabato 20 agosto 2022 dalle 9 alle 10:30.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Samstag, den 20. August 2022 von 9 Uhr bis 10.30 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Zaterdag 20 augustus 2022 van 9.00 tot en met 10.30 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "Суббота 20 августа 2022  с 9h до 10h30.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "2022年8月20日, 星期六   小时小时 和 小时小时分钟  之间.\n\n需天气良好.",
+      "libellePtBR" : "Sábado 20 Agosto 2022 de 9h a  10h30.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "土曜日 20 8月 2022 9 午前 と 10.30 午前 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21166352,
+      "dateDebut" : "2022-07-08",
+      "dateFin" : "2022-07-08",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "10:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24071344
+    }, {
+      "identifiant" : 23345474,
+      "dateDebut" : "2022-08-20",
+      "dateFin" : "2022-08-20",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "10:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24071346
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "5€."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "5€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5842907,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99822672,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/decouverte-du-tui-shu-sur-dinosaur-istres.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "réservations obligatoires"
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Dinosaur'Istres",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1866
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-08-20T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 59,
+        "dateMaj" : 1666705573628
+      }
+    } ]
+  } ]
+}

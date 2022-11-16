@@ -1,0 +1,611 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466286,
+  "nom" : {
+    "libelleFr" : "Jazz sur la Ville",
+    "libelleEn" : "Jazz sur la ville 2e édition",
+    "libelleEs" : "Jazz sur la ville 2e édition",
+    "libelleIt" : "Jazz sur la ville 2e édition",
+    "libelleDe" : "Jazz sur la ville 2e édition",
+    "libelleNl" : "Jazz sur la ville 2e édition"
+  },
+  "identifier" : "SITRA2_EVE_5466286",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:40:42.417+0000",
+    "dateModification" : "2022-10-18T13:13:22.003+0000",
+    "dateExportModification" : "2022-11-07T12:54:44.272+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77072219,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://jazzsurlaville.org/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466285
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Jazz sur la Ville, rendez-vous incontournable."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cap sur la 16e édition\r\n\r\nLe collectif d'organisateurs qui compose Jazz sur la Ville prépare l'édition 2022 d'un événement fédérateur et unique en France. Jazz sur la Ville défend les couleurs du jazz bien au-delà de Marseille pour rayonner sur tout le territoire de notre Région, proposant un programme incitant à la découverte, encourageant les publics à pousser les portes de lieux culturels en tout genre.\r\n \r\nLa programmation éclectique raconte une belle histoire de collaboration. Plus d'une vingtaine de programmateurs se sont réunis pour entraîner nos oreilles le long des sillons creusés par le jazz, au travers des musiques du monde, du swing, du blues, des musiques improvisées  traversant des sonorités allant du Bal Musette aux pulsations électroniques.\r\n\r\nNous vous proposerons des expositions, films, lectures musicales, masterclasses,…  des concerts à vivre en direct et parfois à suivre autrement grâce aux concerts retransmission en streaming, sur les réseaux sociaux, ou sur les ondes radiophoniques.\r\n\r\nL’équipe de Jazz sur la Ville",
+      "libelleEn" : "This event allows you to explore the city and discover the different facets of jazz in Marseille.\r\n\r\n‘Jazz sur la Ville’ is an independent collective composed of different musicians, concert halls, producers, and jazz lovers.\r\n\r\nJazz sur la Ville takes place in more than 20 locations with more than 40 events involving 140 artists!\r\n\r\nJazz in all its glory with echoes from Europe, Africa, and the United States, and styles ranging from hard bop to electro.\r\n\r\nFor the complete programme in French visit : jazzsurlaville.fr\r\n\r\nOn the programme at the Cité de la musique:\r\n\r\n4 November at 9pm, the Gilles Alamel Trio\r\n20 November at 9pm, the Maxime Bender 4-tet\r\n21 November at 9pm, the Jaak Lutsoja Quintette\r\n\r\nAt the Dock des Suds:\r\n\r\n15 November at 7pm, Emir A3"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Nombreux lieux culturels et salles de spectacles à Marseille et dans la région.",
+      "codePostal" : "13055",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.375500, 43.301608 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6226099
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6268598
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6268628
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6268763
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6268737
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6275818
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6275839
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6275868
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6275877
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6276033
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6281814
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310065
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6293881
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310350
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310389
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310407
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310429
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310457
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310493
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6310505
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6293206
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6293239
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6293254
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/11 au 04/12/2022, tous les jours.",
+      "libelleEn" : "From 03/11 to 04/12/2022, daily.",
+      "libelleEs" : "Del 03/11 al 04/12/2022, todos los dias.",
+      "libelleIt" : "Dal 03/11 al 04/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 03/11 bis 04/12/2022, täglich.",
+      "libelleNl" : "Van 03/11 tot en met 04/12/2022, iedere dag.",
+      "libelleRu" : "С 03/11 до 04/12/2022, ежедневно.",
+      "libelleZh" : "从 11月3日 到 2022年12月4日, 日常.",
+      "libellePtBR" : "De 03/11 a 04/12/2022, todos os dias.",
+      "libelleJa" : "03/11 から 04/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20115026,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-12-04",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24526609
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14444644,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Visuel Sarah Buscail - Jazz sur la Ville - Collectif Jazz sur la Ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Visuel Sarah Buscail - Jazz sur la Ville - Collectif Jazz sur la Ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/151/183/14792599.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/151/183/14792599-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/151/183/14792599-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/151/183/14792599-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "jazz",
+      "taille" : 99578,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-18T13:13:22.103+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Nombreux lieux culturels et salles de spectacles à Marseille et dans la région."
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-04T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV065295"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

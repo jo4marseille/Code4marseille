@@ -1,0 +1,211 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6191780,
+  "nom" : {
+    "libelleFr" : "Le Mauvais Œil 62 : Officina Arara"
+  },
+  "identifier" : "SITRA2_EVE_6191780",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-01T08:58:10.626+0000",
+    "dateModification" : "2022-09-23T08:38:03.026+0000",
+    "dateExportModification" : "2022-10-07T16:20:42.848+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100913228,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lafriche.org/agenda/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463068
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un laboratoire d’activité psychotrope et d’inflammation sonico-visuelle.\r\nUne proposition de Le Dernier Cri."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Collectif fondé en 2010, basé dans une ruelle de Porto, c’est \"un laboratoire d’activité psychotrope et d’inflammation sonico-visuelle, équipé pour travailler en sérigraphie sur la mécanique authentique de sa Brutemberg\".\r\n\r\nIls se présentent comme un espace d’expérimentation autour de la production d’affiches, de livres et autres créations, cherchant à établir une relation directe, continue et ininterrompue entre l’acte de dessin et l’impression de multiples.\r\n\r\nAu fil des ans, elle a fait frissonner les frontières, créant des partenariats ombilicaux avec différentes tribus de graphistes et d’activistes barbares, parmi eux : Novo Doba- Festival (RS), Le Dernier Cri (FR), Salon Mirage (BE) Monstre Festival (CH), MAGA, Oficinas do Convento, Crack-Fumetti Dirompenti Festival ! (IT), HSHCrew (FR), Soopa, Sonoscopy, Atelier Logicofobista, Stripburger (SL), Es.Col.A, Terratreme, Gutter Fest (ES), P.A, Favela, Turbina, Linha de Sombra, Tenderete Festival (ES).\r\n\r\n(Collectif invité au sein du projet Turbulator)\r\n\r\nUne proposition de Le Dernier Cri."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Friche Belle de Mai",
+      "adresse1" : "41 rue Jobin",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.389944, 43.310141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 10/09 au 21/11/2022 \nOuverture le lundi, mardi, mercredi, jeudi et vendredi de 10h à 12h et de 14h à 17h. Le samedi et dimanche de 14h à 18h.",
+      "libelleEn" : "From 10/09 to 21/11/2022 \nOpening hours on Monday, Tuesday, Wednesday, Thursday and Friday between 10 am and 12 pm and between 2 pm and 5 pm. On Saturday and Sunday between 2 pm and 6 pm.",
+      "libelleEs" : "Del 10/09 al 21/11/2022 \nHorarios de apertura los lunes, martes, miércoles, jueves y viernes de 10 a 12 y de 14 a 17. Los sábado y domingo de 14 a 18.",
+      "libelleIt" : "Dal 10/09 al 21/11/2022 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì e venerdì dalle 10 alle 12 e dalle 14 alle 17. Il sabato e domenica dalle 14 alle 18.",
+      "libelleDe" : "Vom 10/09 bis 21/11/2022 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag und Freitag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 17 Uhr. Jeden Samstag und Sonntag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 10/09 tot en met 21/11/2022 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag en vrijdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 17.00 u. Op zaterdag en zondag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 10/09 до 21/11/2022 \nЧасы открытия на понедельник, вторник, среда, четверг и пятница с 10h до 12h и с 14h до 17h. На суббота и воскресенье с 14h до 18h.",
+      "libelleZh" : "从 9月10日 到 2022年11月21日 \n开放时间 上 星期一, 星期二, 星期三, 星期四 和 星期五 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间. 上 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 10/09 a 21/11/2022 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira e sexta-feira de 10h a  12h e de 14h a  17h. Na sábado e domingo de 14h a  18h.",
+      "libelleJa" : "10/09 から 21/11/2022 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日 と 金曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 5 午後 の間. 土曜日 と 日曜日 に 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23766216,
+      "dateDebut" : "2022-09-10",
+      "dateFin" : "2022-11-21",
+      "complementHoraire" : { },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24351945
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14144703,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Mauvais Œil 62 : Officina Arara"
+    },
+    "legende" : {
+      "libelleFr" : "Le Mauvais Œil 62 : Officina Arara"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Mauvais Œil 62 : Officina Arara - Le Dernier Cri - Friche Belle de Mai"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/109/14445868.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/109/14445868-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/109/14445868-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/109/14445868-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "mauvais",
+      "taille" : 107457,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-09-23T08:38:03.157+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Friche Belle de Mai"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-21T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

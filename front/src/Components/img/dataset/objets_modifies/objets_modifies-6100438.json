@@ -1,0 +1,236 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6100438,
+  "nom" : {
+    "libelleFr" : "Klem"
+  },
+  "identifier" : "SITRA2_EVE_6100438",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-04-27T12:10:26.417+0000",
+    "dateModification" : "2022-09-28T06:39:18.741+0000",
+    "dateExportModification" : "2022-09-28T06:39:18.906+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 98848663,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/lemakeda/events/"
+      }
+    }, {
+      "identifiant" : 77015619,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lemakeda.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463821
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Rendez-vous le 11 novembre au Makeda avec Klem."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Klem c’est un rap d’émotion intense à l’univers mélancolique, qui dépeint ses états d’âmes et ses douleurs. A seulement 20 ans, il se démarque avec un rap très technique et mélodieux, des paroles tranchantes et sans filtre. Un sens du texte et de la mélancolie qui font de Klem, l’artiste au sad rap le plus streamé de sa génération. Klem écrit dans sa chambre depuis des années, sa sincérité bouleverse son public et révèle une vraie proximité entre l’artiste et ses abonnés."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Makeda",
+      "adresse1" : "103 Rue Ferrari",
+      "codePostal" : "13005",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.391787, 43.293280 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 20h.",
+      "libelleEn" : "Friday 11 November 2022 at 8 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 20.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 20.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 20 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 20.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 20h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  20h.",
+      "libelleJa" : "金曜日 11 11月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23204567,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : { },
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24383462
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 22,04 €.\n\n\nL'adhésion à Orizon Sud est valable un an, elle vous donne accès à un tarif réduit.",
+      "libelleEn" : "Full price: 22.04 €.\n",
+      "libelleEs" : "Tarifa completa: 22,04 €.\n",
+      "libelleIt" : "Tarrifa intera: 22,04 €.\n",
+      "libelleDe" : "Voller Preis: 22,04 €.\n",
+      "libelleNl" : "Vol tarief: € 22,04.\n",
+      "libelleRu" : "Полную цену : 22,04 €.\n",
+      "libelleZh" : "全额 : 22.04 €.\n",
+      "libellePtBR" : "Tarifa inteira: 22,04 €.\n",
+      "libelleJa" : "通常料金: 22.04 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "L'adhésion à Orizon Sud est valable un an, elle vous donne accès à un tarif réduit."
+    },
+    "periodes" : [ {
+      "identifiant" : 13182176,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 22.04,
+        "maximum" : 22.04,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12889410,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Klem"
+    },
+    "legende" : {
+      "libelleFr" : "Klem"
+    },
+    "copyright" : {
+      "libelleFr" : "Klem - Makeda - Association Orizon Sud"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/140/13077577.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/140/13077577-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/140/13077577-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/140/13077577-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "makeda klem",
+      "taille" : 44139,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-04-27T12:19:03.132+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2139
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Makeda"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

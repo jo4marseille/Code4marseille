@@ -1,0 +1,404 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863813,
+  "nom" : {
+    "libelleFr" : "Marchés et villages du Luberon M7",
+    "libelleEn" : "Market & Villages in Luberon M7"
+  },
+  "identifier" : "SITRA2_EVE_5863813",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-07T10:36:31.132+0000",
+    "dateModification" : "2022-11-08T09:27:08.540+0000",
+    "dateExportModification" : "2022-11-08T23:13:40.263+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816671,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+3304 90 14 70 00"
+      }
+    }, {
+      "identifiant" : 97816672,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bonjour.provence@alafrancaise.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Appréciez cette excursion dédiée aux marchés provençaux ainsi qu'à certains villages du Parc Naturel Régional du Luberon.Vous serez en temps libre pour découvrir les marchés typiques de Provence.",
+      "libelleEn" : "Tour through the hilltop villages which overlook the valley of Luberon for centuries and which were mentioned in Peter Mayle's book 'A year in Provence'."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Découvrez les marchés provençaux pour sentir l’atmosphère unique qui se dégage de ces étals colorés ! Admirez les stands des producteurs et découvrez les meilleures spécialités régionales. Olives fraîches, tapenade, huile d’olive, lavande… odeurs et saveurs seront au rendez-vous.\n\nBaladez-vous dans les villages typiquement provençaux que l’équipe vous fera découvrir. Tout au long de la journée, vous aurez un aperçu des richesses de la Provence.\n\nLe mardi uniquement : balade dans le village des Gordes pour le marché.\n\nDe mi-juin à mi-juillet : arrêt à l’Abbaye de Sénanque pour profiter des champs de lavande.\n\nMarché de Roussillon le jeudi, marché de Lourmarin le vendredi et marché de l'Isle sur la Sorgue le dimanche.\n\nTemps libre pour le déjeuner durant la journée.\n\nCertains jours , un arrêt à Aix en Provence est possible pour récupérer des passagers.",
+      "libelleEn" : "Discover the Provençal markets to feel the unique atmosphere that emanates from these colorful stalls!\n\nAdmire the stands of producers and discover the best regional specialties. Fresh olives, tapenade, olive oil, lavender... smells and flavors will be there.\n\nStroll through the typical Provençal villages that your tour guide will show you around. Throughout the day, you will have an overview of the wealth of Provence.\n\nFree time for lunch (not included) on your own during the tour.\n\nOn Tuesday only : stop in the village of Gordes for market day (photo stop only the other days)\n\nFrom mid June to mid-July : photo stop at Senanque Abbey to picture lavender.\n\nOn Thursday : market in Roussillon\n\nOn Friday : market in Lourmarin\n\nOn Sunday : market in l'Isle sur la Sorgue\n\nPlease note that on certain days, a quick drive through Aix-en-Provence to pick up and drop off passengers may be included."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "38 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nMetro arrêt = Vieux Port- Bus N° 82 et 83 - arrêt Théâtre de la Criée",
+        "libelleEn" : "\nMetro station stop = Vieux Port- Bus N° 82 and 83 - stops Théâtre de la Criée"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367380, 43.292400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRendez-vous devant l'hôtel Radisson Blu (38 quai Rive Neuve)",
+      "libelleEn" : "\nImportant information:\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).Please be ready 10 minutes before the departure of the tour."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716862,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716862
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Individual Ticket : 130,00 EUR",
+      "libelleEn" : "Individual Ticket : 130,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Transport en minibus climatisé avec chauffeur\nNon compris : Le déjeuner\nLes entrées des sites et monuments",
+      "libelleEn" : "Included: Transportation with an 8 seater minivan with a driver/guide\nNot included: Lunch"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915455,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5236755
+      },
+      "nom" : "Tylène Transport Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993244,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/market-villages-in-luberon"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813234,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "legende" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "copyright" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/233/15198499.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/233/15198499-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/233/15198499-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/233/15198499-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e21f7a9e2a023979155-cropped600-400-dpl-5e6128b999061",
+      "taille" : 117711,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:09.790+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813235,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "legende" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "copyright" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/233/15198500.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/233/15198500-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/233/15198500-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/233/15198500-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e221a2ec65478800445-cropped600-400-dpl-5e6128b9c990e",
+      "taille" : 114121,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:10.905+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813236,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "legende" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "copyright" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/233/15198501.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/233/15198501-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/233/15198501-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/233/15198501-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e223e36371606471632-cropped600-400-dpl-5e6128ba02cf4",
+      "taille" : 71555,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:11.228+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813237,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "legende" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "copyright" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/233/15198502.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/233/15198502-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/233/15198502-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/233/15198502-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e2279e6e14598727839-cropped600-400-dpl-5e6128ba3344c",
+      "taille" : 133366,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:10.156+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813238,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "legende" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "copyright" : {
+      "libelleFr" : "Marchés et villages du Luberon M7",
+      "libelleEn" : "Market & Villages in Luberon M7"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/233/15198503.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/233/15198503-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/233/15198503-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/233/15198503-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e22a1375bb117417963-cropped600-400-dpl-5e6128ba62c6e",
+      "taille" : 77787,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:10.609+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144523",
+        "product_supplier_id" : "32302",
+        "sku" : "T-TY50-155308",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,594 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6277116,
+  "nom" : {
+    "libelleFr" : "Biennale des Imaginaires Numériques - parcours nocturne inédit d’œuvres en espace public"
+  },
+  "identifier" : "SITRA2_EVE_6277116",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-28T14:38:05.285+0000",
+    "dateModification" : "2022-10-11T12:15:13.762+0000",
+    "dateExportModification" : "2022-11-07T15:59:23.850+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103672579,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.chroniques.org"
+      }
+    }, {
+      "identifiant" : 103672580,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/BiennaleChroniques/"
+      }
+    }, {
+      "identifiant" : 103672581,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://chroniques.org/event/parcours-dinstallations-aix-en-provence/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5523934
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les 11 et 12 novembre, la Biennale des Imaginaires Numériques ouvre ses expositions à Aix-en-Provence et propose un parcours nocturne inédit d’œuvres en espace public dans le centre ville d'Aix-en-Provence."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce parcours nocturne réunit des installations lumineuses, des œuvres interactives et un mapping. Durant deux soirées exceptionnelles, petits et grands pourront ainsi découvrir les aurores boréales de Dan Acher, le nuage de lumière de Caitlind R.C Brown et Wayne Garrett, la créature flottante du Quiet Ensemble, les bras lumineux de Chevalvert, la lune de Luke Jerram, les paysages souples d’Ulysse Lefort et Tryphème, le globe fusain de Karina Smigla-Bobinski, les sculptures cinétiques d’Etienne Rey et les images en 360° de Nicolas Clauss.\r\n\r\nPlacée cette année sous la thématique de la Nuit, la Biennale réunit plus de 80 artistes qui nous invitent à construire des imaginaires, observer et questionner notre rapport à la nuit dans un monde altéré et conditionné par les nouvelles technologies. Après le Québec et Taiwan, la Belgique (Wallonie - Bruxelles - Flandre) sera à l’honneur de cette 3e édition."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Divers lieux à Aix-en-Provence",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444209, 43.525953 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 17136
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318858
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318884
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318902
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318949
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6319005
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6319025
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au samedi 12 novembre 2022 de 18h à 22h.",
+      "libelleEn" : "From Friday 11 to Saturday 12 November 2022 between 6 pm and 10 pm.",
+      "libelleEs" : "Del viernes, 11 al sábado, 12 de noviembre de 2022 de 18 a 22.",
+      "libelleIt" : "Dal venerdì 11 a sabato 12 novembre 2022 dalle 18 alle 22.",
+      "libelleDe" : "Von Freitag, den 11. bis Samstag, den 12. November 2022 von 18 Uhr bis 22 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zaterdag 12 november 2022 van 18.00 tot en met 22.00 u.",
+      "libelleRu" : "С пятница 11 до суббота 12 ноября 2022  с 18h до 22h.",
+      "libelleZh" : "从 星期五 到 2022年11月12日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De Sexta-feira 11 a Sábado 12 Novembro 2022 de 18h a  22h.",
+      "libelleJa" : "金曜日 11 から 土曜日 12 11月 2022 まで 6 午後 と 10 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24390895,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24473697
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21360702,
+    "referent" : true,
+    "nom" : "Muron",
+    "prenom" : "Léa",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103672582,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lea.muron@snzn.org"
+      }
+    }, {
+      "identifiant" : 103672583,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 78 64 60 71"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14216244,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Cloud - Caitlind R.C BROWN & Wayne GARRETT "
+    },
+    "copyright" : {
+      "libelleFr" : "Doug Wong"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/168/14526586.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/168/14526586-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/168/14526586-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/168/14526586-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/168/14526586-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "CloudPhoto1_Doug_Wong",
+      "taille" : 2166734,
+      "hauteur" : 1776,
+      "largeur" : 2661,
+      "lastModifiedDate" : "2022-09-29T09:29:56.567+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216245,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Unshapped - Quiet Ensemble"
+    },
+    "copyright" : {
+      "libelleFr" : "Cecilia-Diaz-Betz_for_LLUM-Barcelona"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/168/14526587.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/168/14526587-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/168/14526587-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/168/14526587-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "M5A1621Cecilia-Diaz-Betz_for_LLUM-Barcelona-1440x960",
+      "taille" : 262610,
+      "hauteur" : 960,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2022-09-29T09:29:58.834+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216246,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Agora - Nicolas Clauss"
+    },
+    "copyright" : {
+      "libelleFr" : "Nicolas Clauss"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/168/14526588.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/168/14526588-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/168/14526588-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/168/14526588-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/124/168/14526588-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Nicolas Clauss_Agora(s)iMMERSIVE 360-1",
+      "taille" : 2715896,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2022-09-29T09:29:59.695+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216247,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Borealis - Dan Acher"
+    },
+    "copyright" : {
+      "libelleFr" : "David Solm"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/168/14526589.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/168/14526589-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/168/14526589-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/168/14526589-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Capture dâeÌcran 2022-09-28 aÌ 16.21.05",
+      "taille" : 1741114,
+      "hauteur" : 777,
+      "largeur" : 1167,
+      "lastModifiedDate" : "2022-09-29T09:30:03.466+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216248,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Far Away - Chevalvert"
+    },
+    "copyright" : {
+      "libelleFr" : "Chevalvert"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/168/14526590.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/168/14526590-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/168/14526590-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/126/168/14526590-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Far-Away-photo-4",
+      "taille" : 1569753,
+      "hauteur" : 1076,
+      "largeur" : 1912,
+      "lastModifiedDate" : "2022-09-29T09:30:06.644+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216249,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Fluide - Etienne Rey"
+    },
+    "copyright" : {
+      "libelleFr" : "Etienne Rey"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/168/14526591.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/168/14526591-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/168/14526591-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/168/14526591-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/168/14526591-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "FLUIDE_E_REY-0014",
+      "taille" : 6404629,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2022-09-29T09:30:10.728+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216250,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Paysage Souple - Tryphème et Ulysse Lefort"
+    },
+    "copyright" : {
+      "libelleFr" : "Ulysse Lefort"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/168/14526592.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/168/14526592-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/168/14526592-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/168/14526592-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Ulysse Lefort - Mapping Madeleine 2022",
+      "taille" : 3229577,
+      "hauteur" : 1080,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-09-29T09:30:15.083+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216251,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Museum of the Moon - Luke Jerram"
+    },
+    "copyright" : {
+      "libelleFr" : "James Billings "
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/168/14526593.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/168/14526593-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/168/14526593-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/168/14526593-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Capture dâeÌcran 2022-09-28 aÌ 16.27.14",
+      "taille" : 1951583,
+      "hauteur" : 772,
+      "largeur" : 1166,
+      "lastModifiedDate" : "2022-09-29T09:30:17.591+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14216252,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ADA - Karina Smigla Bobinski"
+    },
+    "copyright" : {
+      "libelleFr" : "Karina Smigla Bobinski"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/168/14526594.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/168/14526594-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/168/14526594-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/168/14526594-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/168/14526594-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "ADA-space",
+      "taille" : 532407,
+      "hauteur" : 1892,
+      "largeur" : 3360,
+      "lastModifiedDate" : "2022-09-29T09:30:19.666+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14216253,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Programme Biennale des Imaginaires Numériques #3"
+    },
+    "copyright" : {
+      "libelleFr" : "Biennale des Imaginaires Numériques"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/131/168/14526595/PROGRAMME_BIN_22.pdf",
+      "extension" : "pdf",
+      "fileName" : "PROGRAMME_BIN_22",
+      "taille" : 3478742,
+      "lastModifiedDate" : "2022-09-29T09:30:22.078+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3832
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nbVisiteursAttendu" : 60000,
+    "nomLieu" : "Divers lieux à Aix-en-Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

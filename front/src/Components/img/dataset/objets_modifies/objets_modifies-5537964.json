@@ -1,0 +1,476 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537964,
+  "nom" : {
+    "libelleFr" : "Le Musée de l'aviation",
+    "libelleEn" : "Le Musée de l'aviation",
+    "libelleIt" : "Le Musée de l'aviation",
+    "libelleDe" : "Le Musée de l'aviation",
+    "libelleNl" : "Le Musée de l'aviation"
+  },
+  "identifier" : "SITRA2_PCU_5537964",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:01:27.085+0000",
+    "dateModification" : "2021-06-17T08:09:01.898+0000",
+    "dateExportModification" : "2022-09-05T08:52:12.613+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512226,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 60 52 16 34"
+      }
+    }, {
+      "identifiant" : 70512227,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 15 32 63"
+      }
+    }, {
+      "identifiant" : 70512229,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeaviation@orange.fr"
+      }
+    }, {
+      "identifiant" : 70512230,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://musee-aviation-saint-victoret.fr/"
+      }
+    }, {
+      "identifiant" : 85036899,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 34 59 16"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "479 512 709 00011"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222891
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venez découvrir le Musée de l'aviation de Saint-Victoret, Unique dans la région!"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Musée de l'aviation, créé en 2005, se développe grâce au travail des bénévoles issus en grande majorité du monde aéronautique, mais surtout partageant la même passion. La collection grandissante permet aux visiteurs de mieux approcher les aéronefs, conçus et fabriqués pour la plupart dans l'usine Eurocopter, distante de seulement quelques kilomètres. Les salles de visionnage et de maquettes sont aussi l'occasion d'approfondir la découvert, un espace vidéo enfant,et une boutique souvenir\r\n\r\nLe musée est ouvert tous les jours (sauf dimanche) de 9h à 12h. Visite guidée commentée par des bénévoles retraités (Airbus, aviation...)\r\n\r\nLa Municipalité, porteuse du projet, ne compte pas en rester là et sollicite les entreprises aéronautiques, les différents états-majors des Armées pour obtenir d'autres appareils à exposer au grand public.\r\n\r\nAujourd'hui, le musée abrite de nombreux avions tels que Mirage III, Fouga Magister, Paris Morane-Saulnier, Robin, Tracker, ainsi que des hélicoptères de l'ancienne gamme Eurocopter Djinn, Alouette II et III,Gazelle, Ecureuil, Dauphin, Super-Puma, une cabine de Canadair équipée, un autogire, des deltaplanes et beaucoup d'autres pièces aéronautiques.Le Musée bénéficie également d'une salle de projection de film et de salles d'exposition de plus de 5000 maquettes.\r\n\r\nDernière acquisition : Tucano, Air plume, avion type Pou du Ciel X3 Girodyne Expérimental AS350 Ecureuil EC120 (HCE COLIBRI) EC155 Dauphin Derive Fenestron motorisé AS365 Dauphin Alouette 2 Alat Simulateur d'éjection Tucano Drone ORKA et TANAN NH90 et le MIRAGE F1\r\nSurface de l'exposition permanente : 2211"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "147 Boulevard Barthélémy Abbadie",
+      "codePostal" : "13730",
+      "bureauDistribution" : "ST VICTORET",
+      "commune" : {
+        "id" : 4513
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Accès aux personnes à mobilité réduite."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.236094, 43.420084 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4513
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 613
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking autocar\r\nParking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMin" : 50
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année. Tous les jours de 9h à 12h.\nFermé le dimanche.\nVisites libres ou guidées et audio guides Français /anglais (2€).",
+      "libelleEn" : "Every day throughout the year between 9 am and 12 pm.\nClosed on Sunday.",
+      "libelleEs" : "Todo el año. Todos los dias de 9 a 12.\nCerrado los domingo.",
+      "libelleIt" : "Tutto l'anno. Tutti i giorni dalle 9 alle 12.\nChiuso la domenica.",
+      "libelleDe" : "Ganzjährig. Täglich von 9 Uhr bis 12 Uhr.\nSonntag geschlossen.",
+      "libelleNl" : "Het hele jaar door van 9.00 tot en met 12.00 u.\nZondag gesloten.",
+      "libelleRu" : "В течение всего года. Ежедневно  с 9h до 12h.\nНе работает воскресенье.",
+      "libelleZh" : "每天 小时小时 和 小时小时 之间.\n星期日 关闭.",
+      "libellePtBR" : "Todo o ano. Todos os dias de 9h a  12h.\nFechado em domingo.",
+      "libelleJa" : "年間を通して毎日 9 午前 と 12 午後 の間.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20157940,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-01-31",
+      "complementHoraire" : {
+        "libelleFr" : "visites libres ou guidées et audio guides Français /anglais (2€)"
+      },
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 21176406
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 3 € (Adulte).\n\n Gratuit pour les moins de 6 ans, les accompagnateurs guides.\n Tarif groupe à partir de 50 personnes.\n\nCarte de membre, pour l'année en cours : 10€\r\n\r\nLe prix comprend la visite des aéronefs, des modèles réduits , de la salle des maquettes, de la salle des instruments de bord, de la salle des rotors et turbines et de la salle des mannequins avec guide.",
+      "libelleEn" : "Full price: 3 €.\n\n Free entry for children < 6 years, accompanying guides.\n Group rate available for > 50 people.",
+      "libelleEs" : "Tarifa completa: 3 €.\n\n Gratuito para los niños menores de 6 años, guías turísticos.\n Tarifa grupo a partir de 50 personas.",
+      "libelleIt" : "Tarrifa intera: 3 €.\n\n Gratuito per i bambini di età inferiore a 6 anni, guide turistiche.\n Tariffa gruppi a partire da 50 persone.",
+      "libelleDe" : "Voller Preis: 3 €.\n\n Kostenlos für Kinder unter 6 Jahren, Reiseleiter.\n Gruppentarif ab 50 Personen.",
+      "libelleNl" : "Vol tarief: € 3.\n\n Gratis voor kinderen onder de 6 jaar, voor reisleiders.\n Groepstarief vanaf 50 personen.",
+      "libelleRu" : "Полную цену : 3 €.\n\n Бесплатно для лицам младше 6 лет, гиды.\n Групповой тариф, начиная с 50 человек.",
+      "libelleZh" : "全额 : 3 €.\n\n 儿童 < 6 岁, 导游人员自由进入.\n 团队价格适用于 50 人以上.",
+      "libellePtBR" : "Tarifa inteira: 3 €.\n\n Gratuito para menores de 6 anos, os guias.\n Tarifa de grupo a partir de 50 pessoas.",
+      "libelleJa" : "通常料金: 3 €.\n\n 子供 < 6 歳, 観光案内人 は入場無料.\n 団体料金利用可 > 50 人."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Carte de membre, pour l'année en cours : 10€\r\n\r\nLe prix comprend la visite des aéronefs, des modèles réduits , de la salle des maquettes, de la salle des instruments de bord, de la salle des rotors et turbines et de la salle des mannequins avec guide."
+    },
+    "periodes" : [ {
+      "identifiant" : 11624891,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-01-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "Adulte"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionsGratuite" : [ {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4257
+      } ],
+      "gratuitPourLesMoinsDe" : 6
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5086928,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5222891
+      },
+      "nom" : "Le Musée de l'aviation",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 80397815,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "09 60 52 16 34"
+        }
+      }, {
+        "identifiant" : 80397816,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "museeaviation@orange.fr"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 23313
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18570859,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DUPUY",
+    "prenom" : "Patrick",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85036917,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 15 03 54 19"
+      }
+    }, {
+      "identifiant" : 85036918,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 60 52 16 34"
+      }
+    }, {
+      "identifiant" : 85036929,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeaviation@orange.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18570865,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "TORNOR",
+    "prenom" : "Claude",
+    "titre" : {
+      "libelleFr" : "Vice-Président"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10263006,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000051_1_WEB.jpg"
+    },
+    "legende" : { },
+    "copyright" : { },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/56/10041557.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/56/10041557-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/56/10041557-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/56/10041557-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 46001,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-06-14T08:38:31.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 1,
+    "capaciteMaxAccueil" : 150
+  },
+  "visites" : {
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 482
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-30", "2023-01-31", "2024-01-01", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-29", "2024-01-30", "2024-01-31" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3438
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1598243,
+      "annee" : 2021,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000051"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

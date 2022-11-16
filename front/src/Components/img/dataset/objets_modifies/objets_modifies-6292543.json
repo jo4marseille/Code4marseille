@@ -1,0 +1,211 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6292543,
+  "nom" : {
+    "libelleFr" : "Contemplations"
+  },
+  "identifier" : "SITRA2_EVE_6292543",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-11T13:30:22.671+0000",
+    "dateModification" : "2022-11-07T15:15:25.536+0000",
+    "dateExportModification" : "2022-11-07T15:15:25.693+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104044762,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://david-pluskwa.com/jonone-contemplations/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5347896
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une cinquantaine d’œuvres est proposée pour ces « Contemplations » à la manière de JonOne, à découvrir sans modération.."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "En plein cœur de l’automne, David Pluskwa nous offre une explosion de couleurs et d’énergie en accueillant une nouvelle fois JonOne, pour un nouveau solo show exceptionnel, en hors les murs, dans un lieu inédit au cœur de Marseille.\r\n\r\nC’est avec une grande joie que nous retrouvons cet artiste qui aime tant Marseille et qui, à chacun de ses passages, laisse une empreinte artistique forte dans notre Cité.\r\n\r\nUne cinquantaine d’œuvres est proposée pour ces « Contemplations » à la manière de JonOne, à découvrir sans modération.."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie David Pluskwa Art Contemporain Hors les Murs",
+      "adresse1" : "12 rue de la République",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.370532, 43.300484 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 14/10 au 12/11/2022.\nFermé lundi et dimanche.\nDu mardi au samedi de 11h à 13h et de 14h à 18h.",
+      "libelleEn" : "From 14/10 to 12/11/2022.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 14/10 al 12/11/2022.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 14/10 al 12/11/2022.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 14/10 bis 12/11/2022.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 14/10 tot en met 12/11/2022.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 14/10 до 12/11/2022.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 10月14日 到 2022年11月12日.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 14/10 a 12/11/2022.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "14/10 から 12/11/2022 まで.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24475062,
+      "dateDebut" : "2022-10-14",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : {
+        "libelleFr" : "Du mardi au samedi de 11h à 13h et de 14h à 18h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24715050
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14365065,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "JonOne"
+    },
+    "copyright" : {
+      "libelleFr" : "JonOne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/77/14699998.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/77/14699998-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/77/14699998-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/77/14699998-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-11-22 at 03.37 PM",
+      "taille" : 554234,
+      "hauteur" : 663,
+      "largeur" : 920,
+      "lastModifiedDate" : "2022-10-11T13:40:21.524+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Galerie David Pluskwa Art Contemporain Hors les Murs"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

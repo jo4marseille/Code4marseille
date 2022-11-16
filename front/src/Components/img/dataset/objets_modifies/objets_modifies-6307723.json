@@ -1,0 +1,188 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6307723,
+  "nom" : {
+    "libelleFr" : "Cadre (Hors) Cadre"
+  },
+  "identifier" : "SITRA2_EVE_6307723",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-24T14:42:21.836+0000",
+    "dateModification" : "2022-10-24T14:48:21.249+0000",
+    "dateExportModification" : "2022-10-24T14:48:21.859+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104500344,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.instagram.com/p/Cj7cZwMoL3P/?igshid=YmMyMTA2M2Y="
+      }
+    } ]
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Artiste plasticien et architecte italien"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Flavio Borrelli est un artiste plasticien et architecte italien. Sa recherche artistique s’est développée en Italie, en Espagne, au Nouveau-Mexique, au Chili, en Arizona, et aujourd’hui en France, où se  consacre à l’expérimentation des liaisons possibles entre l’art et l’architecture à différentes échelles. \r\n\r\n « Malgré l’hétérogénéité de ma production, mes tentatives variés d’art ne partagent qu’un seul intérêt commun : l’Homme. Non pas dans le sens social ou politique, mais l’Homme en tant qu’individu primitif, armé d’intelligence, de passion et de capacité de réalisation manuelle, lié à la dimension solide, à la réalité, au concret, à la terre. L’inquiétude d’observer l’être humain, en tant qu’intégrité corps-âme-intellect, progressivement disparaître des logiques de la mécanisation et de la virtualisation -à tout prix- de la société contemporaine, donne force et direction à mon travail : solliciter des réflexions sur la liberté individuelle. \r\n\r\nCette force qui nous pousse à briser les barrières de la normalisation, des standards et de \" l’encadrement \" intellectuel, pour apprendre à s’expérimenter, à se connaître soi-même, et tracer librement le chemin de notre propre vie : libres des algorithmes informatiques, du phénomène des influenceurs, des mouvements myopes et vagabonds de masse.  L’Homme, et la capacité d’étendre jusqu’à briser son carré de liberté. »"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Atelier 59",
+      "adresse1" : "59 boulevard de la Libération",
+      "codePostal" : "13001",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.388257, 43.300128 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/11 au 10/11/2022, tous les jours.",
+      "libelleEn" : "From 03/11 to 10/11/2022, daily.",
+      "libelleEs" : "Del 03/11 al 10/11/2022, todos los dias.",
+      "libelleIt" : "Dal 03/11 al 10/11/2022, ogni giorno.",
+      "libelleDe" : "Vom 03/11 bis 10/11/2022, täglich.",
+      "libelleNl" : "Van 03/11 tot en met 10/11/2022, iedere dag.",
+      "libelleRu" : "С 03/11 до 10/11/2022, ежедневно.",
+      "libelleZh" : "从 11月3日 到 2022年11月10日, 日常.",
+      "libellePtBR" : "De 03/11 a 10/11/2022, todos os dias.",
+      "libelleJa" : "03/11 から 10/11/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24574114,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-11-10",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24574114
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14522193,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Flavio Borrelli"
+    },
+    "copyright" : {
+      "libelleFr" : "Flavio Borrelli"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/18/14881373.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/18/14881373-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/18/14881373-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/18/14881373-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "flavio",
+      "taille" : 225204,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-24T14:48:21.346+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Atelier 59"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,271 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6315542,
+  "nom" : {
+    "libelleFr" : "Session jardin | Faire avec, prendre soin, Stanislas Alaguillaume & Isabelle Jacquelin"
+  },
+  "identifier" : "SITRA2_EVE_6315542",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-03T13:17:03.872+0000",
+    "dateModification" : "2022-11-04T15:51:52.215+0000",
+    "dateExportModification" : "2022-11-04T15:51:54.438+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104862616,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    }, {
+      "identifiant" : 104862617,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservation@3bisf.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468112
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un jardin qui relie, comme une invitation à ralentir, à se reconnecter avec la nature du jardin mais aussi à la nature qui est en nous. Un jardin d’interrelations entre soi et les autres, entre le végétal, le sol, le paysage"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ateliers jardinage participatifs. \r\nDepuis l’automne 2020, la cour du 3 bis f est redevenue un jardin. Sous l’impulsion du duo de paysagistes Stanislas Alaguillaume et Isabelle Jacquelin, le projet repose sur une création collective conjuguée à leurs connaissances des jardins secs et paysages méditerranéens. Au fur et à mesure des ateliers, iels nous invitent à activer nos rêves pour cet espace commun. Tous deux collaborent régulièrement, notamment à l’École nationale du paysage ou au lycée des Calanques, au jardin des Migrations au Mucem à Marseille ou au Domaine du Rayol dans le Var. \r\n\r\nAu 3 bis f, iels mettent avec nous le jardin en mouvement : il s’agit de cultiver la diversité des êtres vivants, de recréer un sol, de recomposer une biodiversité des espèces et des espaces.\r\n\r\nFaire avec et prendre soin : tant pour le jardin que pour les jardinièr.e.s, communauté éclectique mêlant personnes hospitalisées ou en parcours de soin, soignant.e.s, habitant.e.s, artistes, citoyen.ne.s. \r\n\r\nUn jardin qui relie, comme une invitation à ralentir, à se reconnecter avec la nature du jardin mais aussi à la nature qui est en nous. Un jardin d’interrelations entre soi et les autres, entre le végétal, le sol, le paysage."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "3 bis f, lieu d'arts contemporains",
+      "adresse1" : "Hôpital Montperrin",
+      "adresse2" : "109 Avenue Du Petit Barthélémy",
+      "codePostal" : "13617",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.440408, 43.520936 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5484537
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 de 14h à 17h.\n\nMercredi 7 décembre 2022 de 14h à 17h.",
+      "libelleEn" : "Wednesday 9 November 2022 between 2 pm and 5 pm.\n\nWednesday 7 December 2022 between 2 pm and 5 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 de 14 a 17.\n\nMiércoles, 7 de diciembre de 2022 de 14 a 17.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 dalle 14 alle 17.\n\nMercoledì 7 dicembre 2022 dalle 14 alle 17.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 von 14 Uhr bis 17 Uhr.\n\nMittwoch, den 7. Dezember 2022 von 14 Uhr bis 17 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 van 14.00 tot en met 17.00 u.\n\nWoensdag 7 december 2022 van 14.00 tot en met 17.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  с 14h до 17h.\n\nСреда 7 декабря 2022  с 14h до 17h.",
+      "libelleZh" : "2022年11月9日, 星期三   小时小时 和 小时小时 之间.\n\n2022年12月7日, 星期三   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 de 14h a  17h.\n\nQuarta-feira 7 Dezembro 2022 de 14h a  17h.",
+      "libelleJa" : "水曜日 9 11月 2022 2 午後 と 5 午後 の間.\n\n水曜日 7 12月 2022 2 午後 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24688171,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24688171
+    }, {
+      "identifiant" : 24688172,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24688172
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21533777,
+    "referent" : true,
+    "nom" : "Girard",
+    "prenom" : "Laureline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104862618,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "laureline.girard@3bisf.com"
+      }
+    }, {
+      "identifiant" : 104862619,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14745496,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Marie Loizeau"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/192/15122590.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/192/15122590-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/192/15122590-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/192/15122590-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/192/15122590-QHD.jpg",
+      "extension" : "jpeg",
+      "fileName" : "jardin",
+      "taille" : 1080548,
+      "hauteur" : 3802,
+      "largeur" : 2534,
+      "lastModifiedDate" : "2022-11-04T15:51:52.371+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-12-07" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1966
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5879
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2188
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "3 bis f, lieu d'arts contemporains"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-07T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,252 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318858,
+  "nom" : {
+    "libelleFr" : "Unshaped\" de Quiet Ensemble"
+  },
+  "identifier" : "SITRA2_EVE_6318858",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T14:43:18.713+0000",
+    "dateModification" : "2022-11-07T15:38:43.460+0000",
+    "dateExportModification" : "2022-11-07T15:38:43.617+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104987292,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lamanufacture-aix.fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5523934
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Unshaped est une installation organique en mouvement continu, un paysage sous-marin, un ciel d’orage, une vague puis à nouveau un nuage, l’eau et l’air, la légèreté et l’oppression."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un orchestre de lumières flotte dans l’espace transformant les volumes de l’amphithéâtre en une sorte d’aquarium dans lequel l’eau et l’air dansent, parmi les reflets et les ombres, se multipliant et disparaissant, dans une éclipse fragmentée et stroboscopique.\r\n\r\n\"Unshaped\", une prière écrite dans un langage technologique, qui offre au visiteur la vision d’une sorte d’espace de liberté, une sorte d’aurore boréale de chambre dans une clé transcendantale mystique. Une hallucination kubrickienne, en quelque sorte, réalisée grâce au jeu fluctuant entre l’impondérabilité de la forme, jamais la même, et la dramaturgie des lumières, des stroboscopes et du son des ventilateurs, dans une vision parfois choquante et fantasmagorique."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Manufacture - Amphithéâtre",
+      "adresse1" : "Cité du Livre",
+      "adresse2" : "8-10 Rue Des Allumettes",
+      "codePostal" : "13090",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439145, 43.523930 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6277116
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 6009203
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 de 18h à 22h.\n\nSamedi 12 novembre 2022 de 14h à 22h.",
+      "libelleEn" : "Friday 11 November 2022 between 6 pm and 10 pm.\n\nSaturday 12 November 2022 between 2 pm and 10 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 de 18 a 22.\n\nSábado, 12 de noviembre de 2022 de 14 a 22.",
+      "libelleIt" : "Venerdì 11 novembre 2022 dalle 18 alle 22.\n\nSabato 12 novembre 2022 dalle 14 alle 22.",
+      "libelleDe" : "Freitag, den 11. November 2022 von 18 Uhr bis 22 Uhr.\n\nSamstag, den 12. November 2022 von 14 Uhr bis 22 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 van 18.00 tot en met 22.00 u.\n\nZaterdag 12 november 2022 van 14.00 tot en met 22.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  с 18h до 22h.\n\nСуббота 12 ноября 2022  с 14h до 22h.",
+      "libelleZh" : "2022年11月11日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月12日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 de 18h a  22h.\n\nSábado 12 Novembro 2022 de 14h a  22h.",
+      "libelleJa" : "金曜日 11 11月 2022 6 午後 と 10 午後 の間.\n\n土曜日 12 11月 2022 2 午後 と 10 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24714533,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715443
+    }, {
+      "identifiant" : 24714537,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715444
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14807528,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Quiet Ensemble"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/208/15192094.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/208/15192094-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/208/15192094-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/208/15192094-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "quiet",
+      "taille" : 184067,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T14:52:53.845+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 4526
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5651
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "La Manufacture - Amphithéâtre"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

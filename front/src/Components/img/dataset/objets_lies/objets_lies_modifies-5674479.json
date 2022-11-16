@@ -1,0 +1,142 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5674479,
+  "nom" : {
+    "libelleFr" : "Mairie de Pélissanne"
+  },
+  "identifier" : "SITRA2_STR_5674479",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-11-17T15:35:44.203+0000",
+    "dateModification" : "2022-04-07T10:00:22.364+0000",
+    "dateExportModification" : "2022-04-07T10:00:22.564+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Massif des Costes",
+      "dateCreation" : "2020-10-21T12:23:44.707+0000",
+      "dateModification" : "2022-10-24T08:49:46.051+0000",
+      "id" : 2114,
+      "siteWeb" : "http://www.ot-massifdescostes.com"
+    },
+    "signalerUnProblemeMails" : [ "accueil@massifdescostes.com", "promotion.tourisme@massifdescostes.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84354493,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 55 11 52"
+      }
+    }, {
+      "identifiant" : 84354518,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@ville-pelissanne.fr"
+      }
+    }, {
+      "identifiant" : 84354742,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "multimedia.mediatheque@ville-pelissanne.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation médiathèque"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Parc Roux de Brignoles",
+      "codePostal" : "13330",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4480
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.152040, 43.631347 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4480
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20586815,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "titre" : {
+      "libelleFr" : "04 90 55 11 52"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427363
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : {
+    "sigle" : "Hotel de Ville"
+  },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

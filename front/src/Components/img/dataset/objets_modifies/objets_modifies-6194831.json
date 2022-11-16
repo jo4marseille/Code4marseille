@@ -1,0 +1,313 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6194831,
+  "nom" : {
+    "libelleFr" : "OM Stadium Tour",
+    "libelleEn" : "OM TOUR – Visit the Orange Velodrome Stadium"
+  },
+  "identifier" : "SITRA2_EVE_6194831",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-04T22:16:05.169+0000",
+    "dateModification" : "2022-11-07T08:20:03.682+0000",
+    "dateExportModification" : "2022-11-07T08:20:08.216+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101011906,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 101011907,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découvrez les coulisses de l’Orange Vélodrome comme vous ne les avez jamais vues et plongez au cœur de l’histoire de l’Olympique de Marseille.Une expérience inédite  qui vous permettra assurément de faire le plein de souvenirs et d’émotions !",
+      "libelleEn" : "Discover the Orange Velodrome backstage as you have never seen it before and dive in the heart of Olympique de Marseille’s history."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "A travers un parcours libre et jalonné de nombreuses anecdotes et contenus originaux, accédez au vestiaire, au bord pelouse et à de nombreux lieux exclusifs. Redécouvrez les principaux trophées de votre Club et les joueurs qui ont écrit notre histoire.\n\nCes visites guidées sont destinées à la clientèle individuelle. Pour les GROUPES (A PARTIR DE 12 PERSONNES) merci de contacter le Service Groupes : groupes@marseille-tourisme.com",
+      "libelleEn" : "Discover the Orange Velodrome backstage as you have never seen it before and dive in the heart of Olympique de Marseille’s history.\n\nThrough a free course full of anecdotes and original insights, get access to OM’s changing room, pitch side and many other exclusive areas.\n\nCome and see the main trophies of our Club and the players that have written our history.An unprecedent and complete experience that will definitely bring you deep emotions and great souvenirs."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"OM Stadium Tour\" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Orange Vélodrome",
+      "adresse1" : "3 Boulevard Michelet",
+      "codePostal" : "13008",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nBus : De Castellane - ligne B1 \nMétro ligne 2 - arrêt Rond Point du Prado",
+        "libelleEn" : "\nSubway - line 2 : Stop Rond Point du Prado"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.393933, 43.269177 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    } ],
+    "lieu" : {
+      "id" : 14783
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540983
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nHoraires 10h-12h30 / 13h30-18h  (dernière entrée à 17h - heure de fermeture totale de l'accès)\nVisite libre sans créneau",
+      "libelleEn" : "\nImportant information:\nOpening hours from 10.00 am to 06.00 pm\nLast access one hour before closing"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24701626,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24701626
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6911036,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104921410,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/om-tour-visitez-le-stade-orange-velodrome"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16642
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14774646,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "OM Stadium Tour",
+      "libelleEn" : "OM TOUR – Visit the Orange Velodrome Stadium"
+    },
+    "legende" : {
+      "libelleFr" : "OM Stadium Tour",
+      "libelleEn" : "OM TOUR – Visit the Orange Velodrome Stadium"
+    },
+    "copyright" : {
+      "libelleFr" : "OM Stadium Tour",
+      "libelleEn" : "OM TOUR – Visit the Orange Velodrome Stadium"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/60/15154232.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/60/15154232-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/60/15154232-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/60/15154232-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6151d9b66eeff998864883-cropped600-400",
+      "taille" : 79121,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-07T08:20:07.372+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2296
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2361
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Orange Vélodrome"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.1,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 77,
+        "dateMaj" : 1667643791524
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144348",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-155113",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,297 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6296566,
+  "nom" : {
+    "libelleFr" : "A la tombée de la nuit",
+    "libelleEn" : "A la tombée de la nuit",
+    "libelleEs" : "A la tombée de la nuit",
+    "libelleIt" : "A la tombée de la nuit",
+    "libelleDe" : "A la tombée de la nuit",
+    "libelleNl" : "A la tombée de la nuit",
+    "libelleRu" : "A la tombée de la nuit",
+    "libelleZh" : "A la tombée de la nuit",
+    "libellePtBR" : "A la tombée de la nuit",
+    "libelleJa" : "A la tombée de la nuit"
+  },
+  "identifier" : "SITRA2_EVE_6296566",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T09:09:44.109+0000",
+    "dateModification" : "2022-10-26T13:30:25.345+0000",
+    "dateExportModification" : "2022-10-26T13:30:27.018+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77077981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 68 13"
+      }
+    }, {
+      "identifiant" : 104592591,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "21bismirabeau@departement13.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468424
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Dans le cadre de la 3e biennale des Imaginaires du numérique, l'exposition présente 4 artistes : Lucien Bitaux, Stéphanie Roland, Ief Spincemaille et Stéphane Thidet.",
+      "libelleEn" : "This exhibition explores the links between contemporary art and the science of the cosmos with the work of 3 artists (Stéphane Thidet, Stéphanie Roland and Lef Spincemaille) and Lucien Bitaux, winning artist of the platform"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "En explorant les arts visuels, les arts sonores, la thématique de la nuit réunit 4 artistes qui vous invitent à construire des imaginaires, observer et questionner notre rapport à la nuit dans un monde altéré et conditionné par les nouvelles technologies. Après le Québec et Taiwan, la Belgique (Wallonie - Bruxelles - Flandre) sera à l’honneur de cette 3ème édition.\r\n\r\nDans sa définition la plus commune, la nuit est l’espace de temps qui se situe entre le coucher et le lever du soleil. Elle est donc mouvante, puisque cet espace est plus ou moins long selon la latitude à laquelle on se situe ainsi que la période de l’année. \r\nLes œuvres de Stéphane Thidet et d’Ief Spincemaille évoquent cette question du passage et de la transition entre le jour et la nuit. D’un soleil à l’autre de Stéphane Thidet est une installation réalisée en 2016. Deux gongs vibrent et résonnent selon les fréquences émises par le soleil et captées par une antenne radio-télescopique. L’obscurité de la pièce, la présence de ces deux gongs flottant et rayonnant ainsi que les images d’éclipse produites par les ombres projetées plongent le spectateur dans une ambiance nocturne et fait référence aux imageries d’observations spatiales. \r\nAvec Nightfall, Ief Spincemaille au moyen d’un sablier rempli d'eau de couleur sombre reproduit la lumière si particulière du passage du jour à la nuit. Lorsqu'il est retourné, l'eau estompe lentement la lumière de la lampe située en dessous et plonge la salle dans le noir.\r\n\r\nVernissage de l'exposition le 11 novembre à 18h.",
+      "libelleEn" : "These artworks develop a sensory approach to astrophysical and astronomical phenomena, interpreted here through automation technologies, experimental photographic techniques and kinetic sculptures. This exhibition is a journey from nightfall to the dead of the night, and acts as an observatory of the aesthetics that emerge from the observation of the physical phenomena.\r\n\r\nOpening of the exhibition on November 11th at 6pm."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "21, bis Mirabeau - Espace culturel départemental",
+      "adresse1" : "21 Cours Mirabeau",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447971, 43.526669 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5541100
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 09/11/2022 au 22/01/2023, tous les mercredis, jeudis, vendredis, samedis et dimanches de 11h30 à 18h30.\nNocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+      "libelleEn" : "From 09/11/2022 to 22/01/2023, every Wednesday, Thursday, Friday, Saturday and Sunday between 11.30 am and 6.30 pm.\nNocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm.",
+      "libelleEs" : "Del 09/11/2022 al 22/01/2023, todos los miércoles, jueves, viernes, sábados y domingos de 11:30 a 18:30.",
+      "libelleIt" : "Dal 09/11/2022 al 22/01/2023, tutti i mercoledì, giovedì, venerdì, sabati e domeniche dalle 11:30 alle 18:30.",
+      "libelleDe" : "Vom 09/11/2022 bis 22/01/2023, jeden Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 11.30 Uhr bis 18.30 Uhr.",
+      "libelleNl" : "Van 09/11/2022 tot en met 22/01/2023, elke woensdag, donderdag, vrijdag, zaterdag en zondag van 11.30 tot en met 18.30 u.",
+      "libelleRu" : "С 09/11/2022 до 22/01/2023, каждый среды, четверги, пятницы, субботы и воскресенья с 11h30 до 18h30.",
+      "libelleZh" : "从 2022年11月9日 到 2023年1月22日, 每星期三, 星期四, 星期五, 星期六 和 星期日 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 09/11/2022 a 22/01/2023, todas as quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos de 11h30 a  18h30.",
+      "libelleJa" : "09/11/2022 から 22/01/2023 まで, 毎水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 11.30 午前 と 6.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24498774,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2023-01-22",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h",
+        "libelleEn" : "Nocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm"
+      },
+      "horaireOuverture" : "11:30:00",
+      "horaireFermeture" : "18:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24602733
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14400370,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Lucien Bitaux"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/236/14740703.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/236/14740703-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/236/14740703-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/236/14740703-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "21 bis",
+      "taille" : 103300,
+      "hauteur" : 428,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-14T09:21:44.497+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14578207,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Catherine Brossais"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/248/14940263.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/248/14940263-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/248/14940263-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/103/248/14940263-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "tombée",
+      "taille" : 428095,
+      "hauteur" : 1697,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-26T13:30:25.478+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "21, bis Mirabeau - Espace culturel départemental"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-22T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

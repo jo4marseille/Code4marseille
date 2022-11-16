@@ -1,0 +1,254 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538530,
+  "nom" : {
+    "libelleFr" : "Château de la Barben",
+    "libelleEn" : "Château de la Barben",
+    "libelleEs" : "Château de la Barben",
+    "libelleIt" : "Castello di Barben",
+    "libelleDe" : "Château de la Barben",
+    "libelleNl" : "Château de la Barben"
+  },
+  "identifier" : "SITRA2_PCU_5538530",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:48:46.563+0000",
+    "dateModification" : "2021-06-23T08:13:32.576+0000",
+    "dateExportModification" : "2022-05-12T13:44:12.006+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Massif des Costes",
+      "dateCreation" : "2020-10-21T12:23:44.707+0000",
+      "dateModification" : "2022-10-24T08:49:46.051+0000",
+      "id" : 2114,
+      "siteWeb" : "http://www.ot-massifdescostes.com"
+    },
+    "signalerUnProblemeMails" : [ "accueil@massifdescostes.com", "promotion.tourisme@massifdescostes.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79630156,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 60 22 58"
+      }
+    }, {
+      "identifiant" : 79630158,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@rochermistral.fr"
+      }
+    }, {
+      "identifiant" : 79630159,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.rochermistral.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5703230
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le château et son jardin sont classés monuments historiques depuis 1984. Leur réouverture est prévue le 1er juillet 2021 sous l'égide du projet Rocher Mistral"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ancienne forteresse du XIème siècle construite sur un piton rocheux, le château fut la propriété du Bon Roi René au XVème siècle puis des marquis de Forbin pendant 500 ans. Aménagé en château de plaisance au XVIIe siècle, il présente de magnifiques jardins à la française dessinés par Le Nôtre. \r\nTapisseries des Flandres, de Bruxelles et d'Aubusson, plafonds à la française, décors de gypserie, toiles peintes, cuirs de Cordoue, le château est entièrement décoré et meublé d'époque.\r\n\r\nL'accès au château et au jardin est possible via le parc culturel sur le thème de la Provence : Rocher Mistral. \r\n\r\nSitué à proximité du parc animalier de la Barben.",
+      "libelleEn" : "The 11th century fortress built on a rocky outcrop, the castle was the property of good King René in the 15th century and then the Marquis de Forbin for 500 years. Arranged in pleasure in the 17th century castle, it has magnificent gardens à la française designed by Le N��tre. Tapestries of Flanders, Brussels and Aubusson, ceilings to French, decorations of plaster, painted canvas, leather of Cordoba, the castle is fully decorated and furnished with time.Jumble of the castle in the old barns on Sundays.Shop at the entrance of the castle in a large vaulted room: souvenirs, objects of decoration, local products, Knights and princesses, educational games, library...Drinks, ice cream, cakes are served on a shaded terrace."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Route Du Château",
+      "codePostal" : "13330",
+      "bureauDistribution" : "LA BARBEN",
+      "commune" : {
+        "id" : 4420
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Autoroute A7 sortie Salon-de-Provence.\r\nRoute D572, entre Pélissanne et Saint-Cannat"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.193726, 43.625407 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4420
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Se rapporter aux tarifs du parc culturel  ROCHER MISTRAL"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 15590
+  }, {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10346830,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Rocher Mistral"
+    },
+    "legende" : {
+      "libelleFr" : "Château de La Barben"
+    },
+    "copyright" : {
+      "libelleFr" : "©rochermistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/126/10124914.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/126/10124914-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/126/10124914-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/126/10124914-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Château de La Barben 2 @lducrocq",
+      "taille" : 3239517,
+      "hauteur" : 3024,
+      "largeur" : 4032,
+      "lastModifiedDate" : "2021-06-23T08:13:32.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : true,
+    "complementVisite" : {
+      "libelleFr" : "Le château de la Barben et les jardins sont accessibles uniquement via le parc culturel sur le thème de la Provence : Rocher Mistral"
+    }
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427363
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 5564
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000116"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Massif des Costes"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ot-massifdescostes.com"
+    }
+  } ]
+}

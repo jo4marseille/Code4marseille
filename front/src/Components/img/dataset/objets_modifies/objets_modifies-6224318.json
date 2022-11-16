@@ -1,0 +1,215 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6224318,
+  "nom" : {
+    "libelleFr" : "Gianluigi Toccafondo - Melodramma"
+  },
+  "identifier" : "SITRA2_EVE_6224318",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-03T13:38:34.740+0000",
+    "dateModification" : "2022-08-04T08:23:54.432+0000",
+    "dateExportModification" : "2022-08-05T08:55:57.742+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77716725,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.fotokino.org"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5499395
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une sélection de tableaux créés par Gianluigi Toccafondo pour le Théâtre de l’Opéra de Rome."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’exposition « Melodramma » rassemblera une sélection de tableaux créés par Gianluigi Toccafondo pour le Théâtre de l’Opéra de Rome. L’artiste collabore depuis 2014 avec le prestigieux théâtre romain pour lequel il a réalisé les affiches des cinq dernières saisons, ainsi que des décors et costumes de certains chefs d’oeuvre de l’opéra, d’Aïda à Carmen, de Tosca à Turandot.\r\n\r\nGianluigi Toccafondo conçoit des décors, des costumes et des vidéos enveloppantes, dans lesquelles des coups de pinceaux denses et des personnages toujours changeants se mêlent sur scène à la musique et à la voix des chanteurs. Les oeuvres présentées dans « Melodramma » démontrent la capacité magistrale de l’artiste à synthétiser les formes et à faire un usage expressif de la couleur, qui réussit à restituer toute la puissance onirique de ses images en mouvement dans un seul tableau.\r\n\r\nINFOS COMPLÉMENTAIRES\r\nCommissariat de Melania Gazzotti\r\n\r\nDans le cadre de La Saison du Dessin 2022"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Studio Fotokino",
+      "adresse1" : "33 allée Léon Gambetta",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.382898, 43.299254 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 08/10 au 20/11/2022 de 14h à 18h30.\nFermé lundi et mardi.",
+      "libelleEn" : "From 08/10 to 20/11/2022 between 2 pm and 6.30 pm.\nClosed Monday and Tuesday.",
+      "libelleEs" : "Del 08/10 al 20/11/2022 de 14 a 18:30.\nCerrado lunes y martes.",
+      "libelleIt" : "Dal 08/10 al 20/11/2022 dalle 14 alle 18:30.\nChiuso lunedì e martedì.",
+      "libelleDe" : "Vom 08/10 bis 20/11/2022 von 14 Uhr bis 18.30 Uhr.\nMontag und Dienstag geschlossen.",
+      "libelleNl" : "Van 08/10 tot en met 20/11/2022 van 14.00 tot en met 18.30 u.\nMaandag en dinsdag gesloten.",
+      "libelleRu" : "С 08/10 до 20/11/2022 с 14h до 18h30.\nНе работает понедельник и вторник.",
+      "libelleZh" : "从 10月8日 到 2022年11月20日 小时小时 和 小时小时分钟  之间.\n星期一 和 星期二 关闭.",
+      "libellePtBR" : "De 08/10 a 20/11/2022 de 14h a  18h30.\nFechado em segunda-feira e terça-feira.",
+      "libelleJa" : "08/10 から 20/11/2022 まで 2 午後 と 6.30 午後 の間.\n月曜日 と 火曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24022533,
+      "dateDebut" : "2022-10-08",
+      "dateFin" : "2022-11-20",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:30:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      } ],
+      "identifiantTechnique" : 24023164
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13648880,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Gianluigi Toccafondo - Melodramma"
+    },
+    "copyright" : {
+      "libelleFr" : "Gianluigi Toccafondo - Melodramma"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/96/13852696.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/96/13852696-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/96/13852696-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/96/13852696-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 08-03-22 at 04.24 PM",
+      "taille" : 463850,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-03T14:24:48.222+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Studio Fotokino"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-20T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

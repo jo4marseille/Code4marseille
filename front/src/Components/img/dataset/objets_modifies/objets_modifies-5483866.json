@@ -1,0 +1,256 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5483866,
+  "nom" : {
+    "libelleFr" : "Marché paysan du Cours Julien",
+    "libelleEn" : "Marché paysan",
+    "libelleEs" : "Marché paysan",
+    "libelleIt" : "Marché paysan",
+    "libelleDe" : "Marché paysan",
+    "libelleNl" : "Marché paysan"
+  },
+  "identifier" : "SITRA2_EVE_5483866",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-09T11:10:35.373+0000",
+    "dateModification" : "2022-07-04T09:43:05.447+0000",
+    "dateExportModification" : "2022-07-04T09:43:05.638+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77227930,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/pages/March%C3%A9-Paysan-Cours-Julien/102156117235609"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5470631
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Sous les pergolas du cours Julien, le Marché Paysan donne rendez-vous chaque semaine aux amateurs de bonne chère."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Créé en 2001 par l'association cours Julien et l'Adear 13. Le mercredi sous les pergolas du cours Julien Le Marché Paysan donne rendez-vous chaque semaine aux amateurs de bonne chère. \r\n\r\nTous les mois, les producteurs organisent une animation autour de produits de saison issus de l'agriculture traditionnelle paysanne. Cette petite fête est une occasion de plus de dialoguer et d'échanger directement avec les producteurs, le tout dans un cadre festif et convivial.\r\n\r\nChaque mois des animations de saison."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cours Julien",
+      "adresse1" : "Cours Julien",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383512, 43.293572 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les mercredis de 8h à 13h sauf les 1er janvier, 1er mai et 25 décembre.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Wednesday between 8 am and 1 pm except on January 1st, May 1st and December 25th.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los miércoles de 8 a 13 excepto los días 1er de enero, 1er de mayo y 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i mercoledì dalle 8 alle 13 tranne 1° gennaio, 1° maggio e 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Mittwoch von 8 Uhr bis 13 Uhr (außer 1. Januar, 1. Mai und 25. Dezember).",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke woensdag van 8.00 tot en met 13.00 u m.u.v. 1 januari, 1 mei en 25 december.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый среды с 8h до 13h кроме 1 января, 1 мая и 25 декабря.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期三 小时小时 和 小时小时 之间 不包括 1月1日, 5月1日 和 12月25日.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as quartas-feiras de 8h a  13h exceto em 1º de janeiro, 1º de maio e 25 de dezembro.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎水曜日 8 午前 と 1 午後 の間 1月1日, 5月1日 と 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22333393,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 23786295
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  }, {
+    "id" : 16801
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12645965,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché paysan du Cours Julien"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/234/12839588.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/234/12839588-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/234/12839588-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/234/12839588-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cj",
+      "taille" : 187560,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-03-04T14:07:51.639+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Cours Julien"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV050835"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

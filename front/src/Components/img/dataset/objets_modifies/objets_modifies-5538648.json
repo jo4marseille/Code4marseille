@@ -1,0 +1,318 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538648,
+  "nom" : {
+    "libelleFr" : "Musée de l'école de 1950 à 1970",
+    "libelleEn" : "Museum of the school from 1950 to 1970",
+    "libelleEs" : "Museo de la escuela de 1950 a 1970",
+    "libelleIt" : "Museo della scuola dal 1950 al 1970",
+    "libelleDe" : "Museum der Schule von 1950 bis 1970",
+    "libelleNl" : "Museum van de school vanaf 1950 tot 1970"
+  },
+  "identifier" : "SITRA2_PCU_5538648",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T20:26:33.895+0000",
+    "dateModification" : "2022-06-21T12:45:08.436+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513063,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 01 81"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223221
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Musée privé de l'école de 1950 à 1970 dans l'ancienne école des Paluds de Noves."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Musée privé : Michèle Gaussier, habitante des Paluds de Noves a toujours été passionnée par le thème de l'école à l'ancienne. \r\nElle a patiemment réuni pendant des années un tas d'objets de cette époque et a reconstitué une classe dans l'ancienne école des Paluds bureaux, encriers, manuels, tableau, mappemondes, blouses, tout y est ! \r\nElle a également réuni d'autres objets des années 50-70 qui sont dans une pièce à part (robes, appareils ménagers, etc.)\r\n\r\nLes visites se font à la demande. Nul doute que Michèle saura vous faire partager sa passion.",
+      "libelleEn" : "This museum reproduced in the typical old school classes from the period between 1950 and 1970. Furniture, decorations, offices, everything is there to get back to childhood.",
+      "libelleEs" : "Este museo se reproduce en las clases de la típica vieja escuela del período entre 1950 y 1970. Muebles, decoración, oficinas, todo está allí para volver a la infancia.",
+      "libelleIt" : "Questo museo è riprodotta nelle classi tipica vecchia scuola nel periodo fra il 1950 e il 1970. Mobili, decorazioni, uffici, tutto è lì per tornare all'infanzia.",
+      "libelleDe" : "Dieses Museum reproduziert in den typischen Old-School-Klassen aus der Zeit zwischen 1950 und 1970. Möbel, Dekorationen, Büros, alles ist da, um Kindheit zurückzukehren.",
+      "libelleNl" : "Dit museum gereproduceerd in de typische oude schoolklassen uit de periode tussen 1950 en 1970. Meubilair, decoratie, kantoren, alles is aanwezig om terug te gaan naar de kindertijd."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Ancienne école",
+      "adresse2" : "Avenue de la République",
+      "adresse3" : "PALUDS",
+      "codePostal" : "13550",
+      "bureauDistribution" : "NOVES",
+      "commune" : {
+        "id" : 4477
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.902528, 43.833847 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4477
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4192
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5086915,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5223221
+      },
+      "nom" : "Musée privé de l'école de 1950 à 1970",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 80397671,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 90 95 01 81"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "contacts" : [ {
+    "identifiant" : 19388869,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Gaussier",
+    "prenom" : "Michele",
+    "titre" : {
+      "libelleFr" : "04 90 95 01 81"
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9035735,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000064_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Noves Infos Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/80/8802481.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/80/8802481-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/80/8802481-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/80/8802481-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 134139,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-11-10T05:10:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9035736,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000064_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée de l'école"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/80/8802482.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/80/8802482-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/80/8802482-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/80/8802482-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 144918,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-11-10T05:10:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9035734,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000064_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Noves Infos Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/80/8802480.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/80/8802480-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/80/8802480-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/80/8802480-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 171208,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-11-10T05:10:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9035733,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000064_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Michèle Gaussier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/80/8802479.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/80/8802479-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/80/8802479-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/80/8802479-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 108464,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-11-10T05:10:56.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3440
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000064"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

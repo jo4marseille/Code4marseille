@@ -1,0 +1,257 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538411,
+  "nom" : {
+    "libelleFr" : "Hôtel Estienne de Saint-Jean",
+    "libelleEn" : "Hôtel Estienne de Saint-Jean",
+    "libelleEs" : "Hôtel d'Estienne de Saint Jean",
+    "libelleIt" : "Hôtel d'Estienne de Saint Jean",
+    "libelleDe" : "Hôtel d'Estienne de Saint Jean",
+    "libelleNl" : "Hôtel d'Estienne de Saint Jean"
+  },
+  "identifier" : "SITRA2_PCU_5538411",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:33:34.967+0000",
+    "dateModification" : "2020-12-18T07:01:35.417+0000",
+    "dateExportModification" : "2022-11-05T11:51:42.778+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628975,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 71 74 31"
+      }
+    }, {
+      "identifiant" : 79628976,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.aixenprovence.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222871
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Cet hôtel particulier est un de trois édifices à Aix-en-Provence construit dans l'ordre colossal. \n\nL'ordonnance solennelle et sobre de la façade a été attribuée à Puget, belle porte de bois sculpté. \n\nLe vestibule conduit à un escalier à large ferronnerie. Sur l'intimité du jardin, en enfilade, un boudoir à coupole peinte soutenue par des amours de gypseries, décoration attribuée à Daret. \n\nAujourd'hui, l'ensemble abrite un musée, le musée du Vieil Aix.",
+      "libelleEn" : "This private mansion is one of three buildings in Aix-en-Provence in the colossal order.\n\nIn 1671 Joseph de Martiny, Paymaster-General of France, had work carried out in the family home of his wife, Louise-Françoise d'Estienne de Saint Jean.\n\nThe solemn and sober order of the frontage is attributed to the stone-cutter, entrepreneur and architect Louis Jaubert, his son Jean-Claude and his nephews Jean and Laurent Vallon.\n\nThe vestibule leads to a large \"vanity\" staircase in wrought iron. \n\nOverlooking the intimate garden is a suite of rooms, including is a boudoir with a painted cupola held up by moulded atlantes, and five charming little cherubs with flowers. \n\nThis structure was created by the sculptors Jean-Louis Michel and Jean Routier and the painter Jean André. \n\nListed as a Historical Monument in 1937, it now houses the Old Aix Museum and its collections evoking the traditions of Aix and its region."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "17 Rue Gaston de Saporta",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447391, 43.531205 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539049
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 8488085,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000221_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@JC Carbone"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/254/8257129.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/254/8257129-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/254/8257129-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/254/8257129-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 25109,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:00:26.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488086,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000221_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@JC Carbone"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/254/8257130.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/254/8257130-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/254/8257130-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/254/8257130-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 33507,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:00:25.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 6039
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3319
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000221"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 7.9,
+        "label" : "Bon",
+        "couleur" : "#9fbf04",
+        "nombreAvis" : 80,
+        "dateMaj" : 1667643684975
+      }
+    } ]
+  } ]
+}

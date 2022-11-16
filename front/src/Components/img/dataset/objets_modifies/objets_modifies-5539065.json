@@ -1,0 +1,249 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539065,
+  "nom" : {
+    "libelleFr" : "Le Puy Sainte Réparade",
+    "libelleEn" : "Le village du Puy Sainte Réparade",
+    "libelleIt" : "Le village du Puy Sainte Réparade",
+    "libelleDe" : "Le village du Puy Sainte Réparade",
+    "libelleNl" : "Le village du Puy Sainte Réparade"
+  },
+  "identifier" : "SITRA2_PCU_5539065",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T11:07:29.761+0000",
+    "dateModification" : "2020-07-23T17:11:05.193+0000",
+    "dateExportModification" : "2022-09-19T09:33:08.226+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79656593,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 06 97"
+      }
+    }, {
+      "identifiant" : 79656594,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ville-lepuysaintereparade.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225424
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Puy Sainte-Réparade est une commune provençale située au Nord du département des Bouches-du-Rhône.\r\n\r\n\r\nPositionnée au contact d'Aix en Provence et en bordure de la Durance, la commune est au coeur d'un territoire de transition entre l'agglomération aixoise et les communes du Luberon.\r\n\r\n\r\nLe territoire puéchen est délimité par des frontières naturelles avec à l'Ouest le massif de Rognes, au Sud la chaîne de la Trévaresse et au Nord la rivière de la Durance.\r\n\r\nLa colline de la Quiho (Quille), forteresse naturelle qui domine le village actuel, a donné son nom au Puy, \"Puech\" en provençal. \r\n\r\nUn village en mouvement : une piscine municipale rénovée, des courts de tennis, un gymnase, un boulodrome, des circuits de randonnées ou de VTT et de la pêche en Durance.\r\n\r\n\r\nA voir également le château d'Arnajon (monument historique) et l'église de l'Assomption Ste Marie.\r\n\r\n\"Sainte Réparade\" est probablement le nom déformé de \"Sainte Réparate\", sainte dont les reliques furent transférées au XIème siècle à la paroisse de \"Saint Maurice du Puy\".",
+      "libelleEn" : "Le Puy Sainte-Réparade is a Provençal village in the north of the Bouches-du-Rhône department. \r\n\r\n\r\nIts location, in contact with Aix en Provence and on the edge of the Durance, is in the centre of the area marking a transition between Greater Aix and the towns of the Lubéron. \r\n\r\n\r\nThe territory of Le Puy is enclosed by natural frontiers: the Rognes massif to the west, the Trévaresse range to the south and the Durance river to the north. \r\n\r\n\r\nThe Quilho (Keel) hill, a natural fortress overlooking the present village, gave its name to Le Puy, \"Puech\" or Hill in Provençal. \r\nIt is an active village, with a renovated municipal swimming pool, tennis courts, a gymnasium, a bowling alley, walking and cycling routes, and fishing in the Durance. \r\n\r\n\r\nSee also the Château d'Arnajon (historical monument) and the church of the Assumption of Sainte Marie. \r\n\r\n\r\n\"Sainte Réparade\" is probably a corruption of the name \"Sainte Réparate\", a saint whose relics were transferred to the parish of Saint Maurice du Puy in the 11th century."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13610",
+      "bureauDistribution" : "LE PUY SAINTE REPARADE",
+      "commune" : {
+        "id" : 4491
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.435143, 43.663029 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4491
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01/2019 au 31/12/2021, tous les jours.",
+      "libelleEn" : "From 01/01/2019 to 31/12/2021, daily.",
+      "libelleEs" : "Del 01/01/2019 al 31/12/2021, todos los dias.",
+      "libelleIt" : "Dal 01/01/2019 al 31/12/2021, ogni giorno.",
+      "libelleDe" : "Vom 01/01/2019 bis 31/12/2021, täglich.",
+      "libelleNl" : "Van 01/01/2019 tot en met 31/12/2021, iedere dag.",
+      "libelleRu" : "С 01/01/2019 до 31/12/2021, ежедневно.",
+      "libelleZh" : "从 2019年1月1日 到 2021年12月31日, 日常.",
+      "libellePtBR" : "De 01/01/2019 a 31/12/2021, todos os dias.",
+      "libelleJa" : "01/01/2019 から 31/12/2021 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19372777,
+      "dateDebut" : "2019-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 19372777
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16801
+  }, {
+    "id" : 23313
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488704,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000067_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/0/8257748.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/0/8257748-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/0/8257748-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/0/8257748-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 13076,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2020-07-23T17:11:05.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488705,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000067_2_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/0/8257749.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/0/8257749-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/0/8257749-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/0/8257749-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 12906,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2020-07-23T17:11:05.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000067"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "SI Le Puy Sainte Réparade"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.si-lepuy.fr"
+    }
+  } ]
+}

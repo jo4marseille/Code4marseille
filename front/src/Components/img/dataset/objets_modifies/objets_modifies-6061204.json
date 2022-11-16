@@ -1,0 +1,375 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6061204,
+  "nom" : {
+    "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+  },
+  "identifier" : "SITRA2_EVE_6061204",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-16T17:47:06.238+0000",
+    "dateModification" : "2022-11-08T09:24:40.068+0000",
+    "dateExportModification" : "2022-11-08T23:15:08.783+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97784588,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33675433143"
+      }
+    }, {
+      "identifiant" : 97784589,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@exitgame.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5515470
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5515470
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "PistezMarseille est un jeu de piste unique qui rassemble :\n- Une enquête policière sous la forme de 17 énigmes à résoudre !\n- Un parcours insolite dans le quartier du Panier\n- Une touche cuturelle avec des anecdotes historiques\n- Départ immédiat !…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Résolvez l’affaire du Panier percé\n\nNous sommes sur la piste d'un dangereux truand ! Aidez nous à retrouver l'endroit où il se cache. Nous avons intercepté des documents de sa part qui livreront peut-être l'information cruciale.\n\nExplorez le quartier du Panier autrement.\n\nNotre concept mêle balade, visite historique et bien sur la résolution de l’enquête à laquelle vous participez.\n\nDécouvrez ce nouveau concept de balades « améliorées » : Le parcours dure environ 2h30. Vous découvrirez des endroits pittoresques de la ville, en apprendrez plus sur son histoire et bien sûr résoudrez les énigmes qui vous seront posées.\n\nAccessible à tout le monde. Si vous êtes compétiteurs, tentez d’établir un record de temps ou faites le à votre rythme en famille, comme vous voulez. Les énigmes proposées sont plus accessibles que dans nos salles et il n’y a pas de limites de temps.\n\nComment se déroule le jeu de piste ?\n\nLe démarrage se fait depuis l'Office de Tourisme, situé en bas de la Canebière. Il vous sera remis sur place un « kit » d’enquêteurs contenant divers objets (des pièces à conviction).\n\nCe kit est offert et contient notamment un carnet qui vous guidera au travers du parcours dans le quartier du Panier. Muni du carnet servant de guide, chassez le suspect dans la ville. 17 énigmes sont à résoudre tout en découvrant la cité Phocéenne.\n\nVous êtes accuellis au début et à la fin. Vous êtes en autonomie pendant le parcours, vous pouvez donc évoluer à l’allure que vous souhaitez. Les énigmes portent uniquement sur les façades / monuments rencontrés en chemin. Une fois à l’issue de la balade, avec suffisamment de réponses aux énigmes vous pourrez identifier avec certitude le coupable !\n\nBonne enquête, ouvrez l'oeil !"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"L'affaire Panier percé\" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "codePostal" : "13211",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Rendez-vous au comptoir de l'Office pour récupérer votre matériel."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.376110, 43.296100 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nLes énigmes sont de difficulté normale / corsée. Elles sont conçues pour les adultes et ados à partir de 9 ans. Les enfants de moins de 9 vous accompagnent gratuitement car les énigmes sont un peu trop difficiles pour eux.\n\nRécupérez le matériel à l'Office de Tourisme de Marseille pour un départ immédiat."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716928,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716928
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Tous le matériel d'enquêteur, même pas besoin de téléphone."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Tous le matériel d'enquêteur, même pas besoin de téléphone."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915517,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5515470
+      },
+      "nom" : "Exit Game live escape room",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993434,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/l-affaire-panier-perce-escape-game-en-exterieur"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813411,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "legende" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "copyright" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/233/15198676.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/233/15198676-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/233/15198676-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/233/15198676-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61bb5f4b00803623231926-cropped600-400",
+      "taille" : 63491,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:44.571+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813412,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "legende" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "copyright" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/233/15198677.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/233/15198677-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/233/15198677-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/233/15198677-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61bb5c315f7c4870765944-cropped600-400",
+      "taille" : 85221,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:44.940+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813413,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "legende" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "copyright" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/233/15198678.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/233/15198678-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/233/15198678-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/233/15198678-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61bb5c87ae1a4164495528-cropped600-400",
+      "taille" : 73149,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:43.424+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813414,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "legende" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "copyright" : {
+      "libelleFr" : "L'affaire Panier percé - Escape game en extérieur !"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/233/15198679.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/233/15198679-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/233/15198679-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/233/15198679-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61bb5ce457769549825769-cropped600-400",
+      "taille" : 97183,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:44.113+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 34,
+        "dateMaj" : 1667919111400
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "198225",
+        "product_supplier_id" : "39137",
+        "sku" : "T-EX57-213372",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

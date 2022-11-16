@@ -1,0 +1,410 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5468573,
+  "nom" : {
+    "libelleFr" : "Le grand marché - Textile, artisanat, brocante",
+    "libelleEn" : "The big market Textile, handicraft, antique Unpacking",
+    "libelleIt" : "Le grand marché",
+    "libelleDe" : "Le grand marché",
+    "libelleNl" : "Le grand marché"
+  },
+  "identifier" : "SITRA2_EVE_5468573",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:50:58.646+0000",
+    "dateModification" : "2022-10-27T15:01:37.064+0000",
+    "dateExportModification" : "2022-11-07T09:49:08.516+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77002296,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 90 00"
+      }
+    }, {
+      "identifiant" : 77002300,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovence.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463105
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour faire vos courses ou simplement flâner en famille, les marchés d’Aix-en-Provence vous ouvrent les bras : alimentation, fleurs, artisanat, livres anciens, brocante, poisson, textile, marché de producteurs locaux.",
+      "libelleEn" : "To make your shopping or simply stroll with the family, the Aix-en-Provence markets open their arms to you: food, flowers, crafts, old books, flea market, fish, textiles, local producers' market."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le grand marché de la ville est une véritable institution en Provence. C'est le rendez-vous traditionnel des locaux et des visiteurs. C'est un lieu de rencontres et d'échanges qui perpétue la tradition d'un commerce d'antan, devenu aujourd'hui un moyen essentiel d'approvisionnement.\r\n\r\nLe marché alimentaire permet (en fonction des saisons) de découvrir et de se fournir en fruits et légumes. Avec quelques productions locales, comme le Calisson d'Aix, le melon de Cavaillon, le fromage de chèvre, les fraises de Carpentras, les produits de la savonnerie, le miel de lavande, les sirops, les confitures, les olives et huiles d'olives d'appellation ou encore les grands vins issus des vignobles de Provence.\r\n\r\nDe nombreux artisans sont également présents et proposent de grands étals de nappes, boutis et tissus au mètre. La faïence et la poterie provençales sont très présentes sous forme d'assiettes, plats et autres ustensiles de cuisine.\r\n\r\nEnfin, les chineurs et brocanteurs proposent des objets insolites ou des accessoires dignes d'un cabinet de curiosités.\r\n\r\nLes brocanteurs sont présents sur la place des Combattants d'Afrique du Nord et le haut de l'avenue Victor Hugo. Les artisans prennent place en haut du Cours Mirabeau, dans la rue Thiers et sur la Place Verdun. Le textile est installé sur le cours Mirabeau.",
+      "libelleEn" : "The city's big market is a real institution in Provence. It's the ultimate must-visit for locals and tourists. It's a place to meet up and get together which keeps the age-old trading tradition alive and has now become an essential way of life.\r\n\r\nThe food market (subject to season) is your chance to experience and stock up on fruit and vegetables. There's also local produce such as Calisson d'Aix, Cavaillon melon, goat's cheese, Carpentras strawberries, soap, lavender honey, syrups, jam, olives, olive oils and great wine from Provence's vineyards.\r\n\r\nThere are also countless artisans selling a wide range of tablecloths, embroidery and fabric by the metre. Provencal earthenware and pottery takes pride of place with plates, dishes and other kitchen utensils.\r\n\r\nLast but not least, antique and second-hand dealers bring you unusual objects and accessories worthy of a cabinet of curiosities.\r\n\r\n - Second-hand dealers can be found on Place des Combattants en Afrique du Nord and at the top of Avenue Victor Hugo.\r\n -  Artisans are located in rue Thiers and Place Verdun and at the top of Cours Mirabeau.\r\n -  Textiles are on Cours Mirabeau."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cours Mirabeau (textile), place des Combattants d'Afrique du Nord (brocante), haut de l'avenue Victor Hugo (brocante), rue Thiers et Place Forbin (artisanat)",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.445797, 43.526356 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les mardis, jeudis et samedis de 8h30 à 13h.\n⚠ Pendant les Festivités de Noël du 12 novembre 2022 au 3 janvier 2023 ⚠ \r\n\r\n➜ Le marché textile est déplacé Avenue Giuseppe verdi (devant la FNAC) / Square du Colonel Mattei / Place Jeanne d'Arc / Place du Général de Gaulle (devant Five Guys)\r\n➜ Le marché brocante est déplacé place du Général de Gaulle (côté Apple store).",
+      "libelleEn" : "All year round, every Tuesday, Thursday and Saturday between 8.30 am and 1 pm.",
+      "libelleEs" : "Todo el año, todos los martes, jueves y sábados de 8:30 a 13.",
+      "libelleIt" : "Tutto l'anno, tutti i martedì, giovedì e sabati dalle 8:30 alle 13.",
+      "libelleDe" : "Ganzjährig, jeden Dienstag, Donnerstag und Samstag von 8.30 Uhr bis 13 Uhr.",
+      "libelleNl" : "Het hele jaar, elke dinsdag, donderdag en zaterdag van 8.30 tot en met 13.00 u.",
+      "libelleRu" : "В течение всего года, каждый вторники, четверги и субботы с 8h30 до 13h.",
+      "libelleZh" : "全年, 每星期二, 星期四 和 星期六 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Todo o ano, todas as terças-feiras, quintas-feiras e sábados de 8h30 a  13h.",
+      "libelleJa" : "オールシーズン, 毎火曜日, 木曜日 と 土曜日 8.30 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20469176,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "⚠ Pendant les Festivités de Noël du 12 novembre 2022 au 3 janvier 2023 ⚠ \r\n\r\n➜ Le marché textile est déplacé Avenue Giuseppe verdi (devant la FNAC) / Square du Colonel Mattei / Place Jeanne d'Arc / Place du Général de Gaulle (devant Five Guys)\r\n➜ Le marché brocante est déplacé place du Général de Gaulle (côté Apple store)"
+      },
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24620015
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16801
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9176143,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/69/8930800.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/69/8930800-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/69/8930800-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/69/8930800-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 992215,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:31.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176144,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/69/8930801.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/69/8930801-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/69/8930801-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/69/8930801-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1011677,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:32.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176145,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/69/8930802.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/69/8930802-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/69/8930802-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/69/8930802-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 789929,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176146,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/69/8930803.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/69/8930803-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/69/8930803-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/69/8930803-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 895503,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176147,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/69/8930804.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/69/8930804-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/69/8930804-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/69/8930804-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 995455,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:27.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176148,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/69/8930805.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/69/8930805-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/69/8930805-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/69/8930805-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1371670,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:28.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9176149,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT003899_7_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/69/8930806.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/69/8930806-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/69/8930806-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/69/8930806-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1293028,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-05T05:13:29.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-10", "2022-11-12", "2022-11-15", "2022-11-17", "2022-11-19", "2022-11-22", "2022-11-24", "2022-11-26", "2022-11-29", "2022-12-01", "2022-12-03", "2022-12-06", "2022-12-08", "2022-12-10", "2022-12-13", "2022-12-15", "2022-12-17", "2022-12-20", "2022-12-22", "2022-12-24", "2022-12-27", "2022-12-29", "2022-12-31", "2023-01-03", "2023-01-05", "2023-01-07", "2023-01-10", "2023-01-12", "2023-01-14", "2023-01-17", "2023-01-19", "2023-01-21", "2023-01-24", "2023-01-26", "2023-01-28", "2023-01-31", "2023-02-02", "2023-02-04", "2023-02-07", "2023-02-09", "2023-02-11", "2023-02-14", "2023-02-16", "2023-02-18", "2023-02-21", "2023-02-23", "2023-02-25", "2023-02-28", "2023-03-02", "2023-03-04", "2023-03-07", "2023-03-09", "2023-03-11", "2023-03-14", "2023-03-16", "2023-03-18", "2023-03-21", "2023-03-23", "2023-03-25", "2023-03-28", "2023-03-30", "2023-04-01", "2023-04-04", "2023-04-06", "2023-04-08", "2023-04-11", "2023-04-13", "2023-04-15", "2023-04-18", "2023-04-20", "2023-04-22", "2023-04-25", "2023-04-27", "2023-04-29", "2023-05-02", "2023-05-04", "2023-05-06", "2023-05-09", "2023-05-11", "2023-05-13", "2023-05-16", "2023-05-18", "2023-05-20", "2023-05-23", "2023-05-25", "2023-05-27", "2023-05-30", "2023-06-01", "2023-06-03", "2023-06-06", "2023-06-08", "2023-06-10", "2023-06-13", "2023-06-15", "2023-06-17", "2023-06-20", "2023-06-22", "2023-06-24", "2023-06-27", "2023-06-29", "2023-07-01", "2023-07-04", "2023-07-06", "2023-07-08", "2023-07-11", "2023-07-13", "2023-07-15", "2023-07-18", "2023-07-20", "2023-07-22", "2023-07-25", "2023-07-27", "2023-07-29", "2023-08-01", "2023-08-03", "2023-08-05", "2023-08-08", "2023-08-10", "2023-08-12", "2023-08-15", "2023-08-17", "2023-08-19", "2023-08-22", "2023-08-24", "2023-08-26", "2023-08-29", "2023-08-31", "2023-09-02", "2023-09-05", "2023-09-07", "2023-09-09", "2023-09-12", "2023-09-14", "2023-09-16", "2023-09-19", "2023-09-21", "2023-09-23", "2023-09-26", "2023-09-28", "2023-09-30", "2023-10-03", "2023-10-05", "2023-10-07", "2023-10-10", "2023-10-12", "2023-10-14", "2023-10-17", "2023-10-19", "2023-10-21", "2023-10-24", "2023-10-26", "2023-10-28", "2023-10-31", "2023-11-02", "2023-11-04", "2023-11-07", "2023-11-09", "2023-11-11", "2023-11-14", "2023-11-16", "2023-11-18", "2023-11-21", "2023-11-23", "2023-11-25", "2023-11-28", "2023-11-30", "2023-12-02", "2023-12-05", "2023-12-07", "2023-12-09", "2023-12-12", "2023-12-14", "2023-12-16", "2023-12-19", "2023-12-21", "2023-12-23", "2023-12-26", "2023-12-28", "2023-12-30", "2024-01-02", "2024-01-04", "2024-01-06", "2024-01-09", "2024-01-11", "2024-01-13", "2024-01-16", "2024-01-18", "2024-01-20", "2024-01-23", "2024-01-25", "2024-01-27", "2024-01-30", "2024-02-01", "2024-02-03", "2024-02-06", "2024-02-08", "2024-02-10", "2024-02-13", "2024-02-15", "2024-02-17", "2024-02-20", "2024-02-22", "2024-02-24", "2024-02-27", "2024-02-29", "2024-03-02", "2024-03-05", "2024-03-07", "2024-03-09", "2024-03-12", "2024-03-14", "2024-03-16", "2024-03-19", "2024-03-21", "2024-03-23", "2024-03-26", "2024-03-28", "2024-03-30", "2024-04-02", "2024-04-04", "2024-04-06", "2024-04-09", "2024-04-11", "2024-04-13", "2024-04-16", "2024-04-18", "2024-04-20", "2024-04-23", "2024-04-25", "2024-04-27", "2024-04-30", "2024-05-02", "2024-05-04", "2024-05-07", "2024-05-09", "2024-05-11", "2024-05-14", "2024-05-16", "2024-05-18", "2024-05-21", "2024-05-23", "2024-05-25", "2024-05-28", "2024-05-30", "2024-06-01", "2024-06-04", "2024-06-06", "2024-06-08", "2024-06-11", "2024-06-13", "2024-06-15", "2024-06-18", "2024-06-20", "2024-06-22", "2024-06-25", "2024-06-27", "2024-06-29", "2024-07-02", "2024-07-04", "2024-07-06", "2024-07-09", "2024-07-11", "2024-07-13", "2024-07-16", "2024-07-18", "2024-07-20", "2024-07-23", "2024-07-25", "2024-07-27", "2024-07-30", "2024-08-01", "2024-08-03", "2024-08-06", "2024-08-08", "2024-08-10", "2024-08-13", "2024-08-15", "2024-08-17", "2024-08-20", "2024-08-22", "2024-08-24", "2024-08-27", "2024-08-29", "2024-08-31", "2024-09-03", "2024-09-05", "2024-09-07", "2024-09-10", "2024-09-12", "2024-09-14", "2024-09-17", "2024-09-19", "2024-09-21", "2024-09-24", "2024-09-26", "2024-09-28", "2024-10-01", "2024-10-03", "2024-10-05", "2024-10-08", "2024-10-10", "2024-10-12", "2024-10-15", "2024-10-17", "2024-10-19", "2024-10-22", "2024-10-24", "2024-10-26", "2024-10-29", "2024-10-31", "2024-11-02", "2024-11-05", "2024-11-07" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2217
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2310
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Cours Mirabeau (textile), place des Combattants d'Afrique du Nord (brocante), haut de l'avenue Victor Hugo (brocante), rue Thiers et Place Forbin (artisanat)"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT003899"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

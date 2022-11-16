@@ -1,0 +1,203 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293601,
+  "nom" : {
+    "libelleFr" : "Commémoration du 11 Novembre"
+  },
+  "identifier" : "SITRA2_EVE_6293601",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T11:27:39.447+0000",
+    "dateModification" : "2022-10-12T11:33:42.563+0000",
+    "dateExportModification" : "2022-10-12T11:33:43.305+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071700,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 33 00"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Rognonas"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466133
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Commémoration du 11 Novembre à Rognonas."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un défilé avec la participation de l’Harmonie rognonaise et des enfants des écoles partira de l’espace musical « La clé des arts » (Avenue de la Libération) jusqu’au monument aux morts.\r\n\r\nCette cérémonie se clôturera par un vin d’honneur."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La clé des arts",
+      "adresse1" : "Avenue de la Libération",
+      "codePostal" : "13870",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4494
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.801165, 43.898742 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4494
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 11h.",
+      "libelleEn" : "Friday 11 November 2022 at 11 am.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 11.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 11.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 11 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 11.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 11h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  11h.",
+      "libelleJa" : "金曜日 11 11月 2022 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24482895,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24482895
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PARTICIPATION_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Participation libre.",
+      "libelleEn" : "Free to participate.",
+      "libelleEs" : "Participación libre.",
+      "libelleIt" : "Partecipazione libera.",
+      "libelleDe" : "Teilnahme frei.",
+      "libelleNl" : "Vrije bijdrage.",
+      "libelleRu" : "��ход свободный.",
+      "libelleZh" : "自由参加.",
+      "libellePtBR" : "Participação livre.",
+      "libelleJa" : "参加無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14375380,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "CC RGY23 - Pixabay"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/123/14711615.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/123/14711615-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/123/14711615-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/123/14711615-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "flag-g16a085dea_1920",
+      "taille" : 246187,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-10-12T11:33:42.661+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La clé des arts"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

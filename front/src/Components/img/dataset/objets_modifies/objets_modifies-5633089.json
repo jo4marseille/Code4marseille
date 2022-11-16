@@ -1,0 +1,379 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5633089,
+  "nom" : {
+    "libelleFr" : "Atelier de Louis Jou",
+    "libelleEn" : "Atelier de Louis Jou",
+    "libelleIt" : "Atelier de Louis Jou",
+    "libelleDe" : "Atelier de Louis Jou",
+    "libelleNl" : "Atelier de Louis Jou"
+  },
+  "identifier" : "SITRA2_PCU_5633089",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-09-08T04:15:16.906+0000",
+    "dateModification" : "2022-07-11T12:15:30.772+0000",
+    "dateExportModification" : "2022-07-11T12:15:30.976+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 82742484,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 34 17"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 82742485,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.fondationlouisjou.org"
+      }
+    }, {
+      "identifiant" : 85129008,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "jr.leroy@orange.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Fondation Louis Jou a le plaisir d’ouvrir les portes de l’atelier du maître typographe, et vous invite à une libre déambulation dans la vie et l’œuvre de l’illustre artiste des Baux-de-Provence."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "En complément, la Fondation organise une visite guidée autour de l’impression, de la typographie et de l’histoire du livre. Découvrez les techniques d’impression à travers des démonstrations de tirages à partir des presses Stanhope, premiers modèles entièrement en métal. \r\nJuillet et août, visites guidées à 15h, 16h et 17h30."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Grand Rue",
+      "codePostal" : "13520",
+      "bureauDistribution" : "LES BAUX DE PROVENCE",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "reperePlan" : "12",
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.795223, 43.743876 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 197
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 766
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/07 au 17/08/2022 de 15h à 19h.\nFermé le mardi.\n\nDu 31/08/2022 au 30/06/2023, tous les mercredis de 10h à 18h.\n\nA la demande.",
+      "libelleEn" : "From 07/07 to 17/08/2022 between 3 pm and 7 pm.\nClosed on Tuesday.\n\nFrom 31/08/2022 to 30/06/2023, every Wednesday between 10 am and 6 pm.\n\nOn demand.",
+      "libelleEs" : "Del 07/07 al 17/08/2022 de 15 a 19.\nCerrado los martes.\n\nDel 31/08/2022 al 30/06/2023, todos los miércoles de 10 a 18.\n\nBajo petición.",
+      "libelleIt" : "Dal 07/07 al 17/08/2022 dalle 15 alle 19.\nChiuso il martedì.\n\nDal 31/08/2022 al 30/06/2023, tutti i mercoledì dalle 10 alle 18.\n\nSu richiesta.",
+      "libelleDe" : "Vom 07/07 bis 17/08/2022 von 15 Uhr bis 19 Uhr.\nDienstag geschlossen.\n\nVom 31/08/2022 bis 30/06/2023, jeden Mittwoch von 10 Uhr bis 18 Uhr.\n\nAuf Anfrage.",
+      "libelleNl" : "Van 07/07 tot en met 17/08/2022 van 15.00 tot en met 19.00 u.\nDinsdag gesloten.\n\nVan 31/08/2022 tot en met 30/06/2023, elke woensdag van 10.00 tot en met 18.00 u.\n\nOp aanvraag.",
+      "libelleRu" : "С 07/07 до 17/08/2022 с 15h до 19h.\nНе работает вторник.\n\nС 31/08/2022 до 30/06/2023, каждый среды с 10h до 18h.\n\nПо требованию.",
+      "libelleZh" : "从 7月7日 到 2022年8月17日 小时小时 和 小时小时 之间.\n星期二 关闭.\n\n从 2022年8月31日 到 2023年6月30日, 每星期三 小时小时 和 小时小时 之间.\n\n需求.",
+      "libellePtBR" : "De 07/07 a 17/08/2022 de 15h a  19h.\nFechado em terça-feira.\n\nDe 31/08/2022 a 30/06/2023, todas as quartas-feiras de 10h a  18h.\n\nSob demanda.",
+      "libelleJa" : "07/07 から 17/08/2022 まで 3 午後 と 7 午後 の間.\n火曜日 は休み.\n\n31/08/2022 から 30/06/2023 まで, 毎水曜日 10 午前 と 6 午後 の間.\n\n要リクエスト."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23843062,
+      "dateDebut" : "2022-07-07",
+      "dateFin" : "2022-08-17",
+      "complementHoraire" : { },
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      } ],
+      "identifiantTechnique" : 23852343
+    }, {
+      "identifiant" : 23852363,
+      "dateDebut" : "2022-08-31",
+      "dateFin" : "2023-06-30",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 23852363
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4192
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  }, {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18156283,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "LEROY",
+    "prenom" : "Jacqueline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82742486,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.fondationlouisjou.org"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8723923,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000074_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme des Baux-de-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/121/8485135.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/121/8485135-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/121/8485135-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/121/8485135-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 765629,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-09-08T04:15:18.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8723924,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MUS000074_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme des Baux-de-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/121/8485136.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/121/8485136-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/121/8485136-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/121/8485136-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 865019,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-09-08T04:15:17.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "dureeMoyenneVisiteGroupe" : 30,
+    "dureeMoyenneVisiteIndividuelle" : 30,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 489
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-26", "2022-11-02", "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28", "2023-01-04", "2023-01-11", "2023-01-18", "2023-01-25", "2023-02-01", "2023-02-08", "2023-02-15", "2023-02-22", "2023-03-01", "2023-03-08", "2023-03-15", "2023-03-22", "2023-03-29", "2023-04-05", "2023-04-12", "2023-04-19", "2023-04-26", "2023-05-03", "2023-05-10", "2023-05-17", "2023-05-24", "2023-05-31", "2023-06-07", "2023-06-14", "2023-06-21", "2023-06-28" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-06-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000074"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Les Baux de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.lesbauxdeprovence.com"
+    }
+  } ]
+}

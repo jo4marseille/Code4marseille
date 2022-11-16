@@ -1,0 +1,375 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5635043,
+  "nom" : {
+    "libelleFr" : "Visite guidée de la Maison Ferroni",
+    "libelleEn" : "Visite spéciale à la Maion Ferroni : Elaboration de Pastis",
+    "libelleIt" : "Visite spéciale à la Maion Ferroni : Elaboration de Pastis",
+    "libelleDe" : "Visite spéciale à la Maion Ferroni : Elaboration de Pastis",
+    "libelleNl" : "Visite spéciale à la Maion Ferroni : Elaboration de Pastis"
+  },
+  "identifier" : "SITRA2_EVE_5635043",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-09-10T04:10:05.732+0000",
+    "dateModification" : "2022-07-12T08:11:44.421+0000",
+    "dateExportModification" : "2022-07-12T08:11:44.649+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 82783769,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ferroni.com"
+      }
+    }, {
+      "identifiant" : 82783770,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/MaisonFerroni/"
+      }
+    }, {
+      "identifiant" : 99270394,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 23 34 35 63"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236028
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Maison Ferroni élabore une gamme de spiritueux historique, avec un ancrage territorial fort. Ses créations sont inspirées par la Provence et Marseille."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Venez découvrir la domaine du et rentrez dans les secrets de la distillerie.\r\nVous découvrirez les techniques d'élaboration de gamme de spiritueux : pastis, rhum, whisky, liqueur, gin, vodka..."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Maison FERRONI",
+      "adresse1" : "Château des Creissauds",
+      "adresse2" : "Le Clos Rufisque",
+      "codePostal" : "13400",
+      "bureauDistribution" : "AUBAGNE",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.535773, 43.278004 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5537618
+      }
+    }, {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 6127511
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/07 au 31/08/2022 de 17h à 19h.\nFermé le vendredi.\n\nDu 01/09 au 30/09/2022, tous les mercredis, samedis et dimanches de 17h à 19h.\n\nDu 01/10 au 31/12/2022, tous les mercredis, samedis et dimanches de 16h à 18h.",
+      "libelleEn" : "From 01/07 to 31/08/2022 between 5 pm and 7 pm.\nClosed on Friday.\n\nFrom 01/09 to 30/09/2022, every Wednesday, Saturday and Sunday between 5 pm and 7 pm.\n\nFrom 01/10 to 31/12/2022, every Wednesday, Saturday and Sunday between 4 pm and 6 pm.",
+      "libelleEs" : "Del 01/07 al 31/08/2022 de 17 a 19.\nCerrado los viernes.\n\nDel 01/09 al 30/09/2022, todos los miércoles, sábados y domingos de 17 a 19.\n\nDel 01/10 al 31/12/2022, todos los miércoles, sábados y domingos de 16 a 18.",
+      "libelleIt" : "Dal 01/07 al 31/08/2022 dalle 17 alle 19.\nChiuso il venerdì.\n\nDal 01/09 al 30/09/2022, tutti i mercoledì, sabati e domeniche dalle 17 alle 19.\n\nDal 01/10 al 31/12/2022, tutti i mercoledì, sabati e domeniche dalle 16 alle 18.",
+      "libelleDe" : "Vom 01/07 bis 31/08/2022 von 17 Uhr bis 19 Uhr.\nFreitag geschlossen.\n\nVom 01/09 bis 30/09/2022, jeden Mittwoch, Samstag und Sonntag von 17 Uhr bis 19 Uhr.\n\nVom 01/10 bis 31/12/2022, jeden Mittwoch, Samstag und Sonntag von 16 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 01/07 tot en met 31/08/2022 van 17.00 tot en met 19.00 u.\nVrijdag gesloten.\n\nVan 01/09 tot en met 30/09/2022, elke woensdag, zaterdag en zondag van 17.00 tot en met 19.00 u.\n\nVan 01/10 tot en met 31/12/2022, elke woensdag, zaterdag en zondag van 16.00 tot en met 18.00 u.",
+      "libelleRu" : "С 01/07 до 31/08/2022 с 17h до 19h.\nНе работает пятница.\n\nС 01/09 до 30/09/2022, каждый среды, субботы и воскресенья с 17h до 19h.\n\nС 01/10 до 31/12/2022, каждый среды, субботы и воскресенья с 16h до 18h.",
+      "libelleZh" : "从 7月1日 到 2022年8月31日 小时小时 和 小时小时 之间.\n星期五 关闭.\n\n从 9月1日 到 2022年9月30日, 每星期三, 星期六 和 星期日 小时小时 和 小时小时 之间.\n\n从 10月1日 到 2022年12月31日, 每星期三, 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 01/07 a 31/08/2022 de 17h a  19h.\nFechado em sexta-feira.\n\nDe 01/09 a 30/09/2022, todas as quartas-feiras, sábados e domingos de 17h a  19h.\n\nDe 01/10 a 31/12/2022, todas as quartas-feiras, sábados e domingos de 16h a  18h.",
+      "libelleJa" : "01/07 から 31/08/2022 まで 5 午後 と 7 午後 の間.\n金曜日 は休み.\n\n01/09 から 30/09/2022 まで, 毎水曜日, 土曜日 と 日曜日 5 午後 と 7 午後 の間.\n\n01/10 から 31/12/2022 まで, 毎水曜日, 土曜日 と 日曜日 4 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19873320,
+      "dateDebut" : "2022-05-02",
+      "dateFin" : "2022-06-30",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23858966
+    }, {
+      "identifiant" : 23309475,
+      "dateDebut" : "2022-07-01",
+      "dateFin" : "2022-08-31",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 23858967
+    }, {
+      "identifiant" : 23309484,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-09-30",
+      "horaireOuverture" : "17:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23858968
+    }, {
+      "identifiant" : 23309502,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "16:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23858969
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6485890,
+      "nom" : "MAISON FERRONI",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99278880,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "06 23 34 35 63"
+        }
+      }, {
+        "identifiant" : 99278933,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "info@ferroni.shop"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Sur réservation"
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 8963493,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS004140_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/47/8728493.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/47/8728493-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/47/8728493-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/47/8728493-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 203721,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-10-23T07:47:26.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-10-15", "2022-10-16", "2022-10-19", "2022-10-22", "2022-10-23", "2022-10-26", "2022-10-29", "2022-10-30", "2022-11-02", "2022-11-05", "2022-11-06", "2022-11-09", "2022-11-12", "2022-11-13", "2022-11-16", "2022-11-19", "2022-11-20", "2022-11-23", "2022-11-26", "2022-11-27", "2022-11-30", "2022-12-03", "2022-12-04", "2022-12-07", "2022-12-10", "2022-12-11", "2022-12-14", "2022-12-17", "2022-12-18", "2022-12-21", "2022-12-24", "2022-12-25", "2022-12-28", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Maison FERRONI"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS004140"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

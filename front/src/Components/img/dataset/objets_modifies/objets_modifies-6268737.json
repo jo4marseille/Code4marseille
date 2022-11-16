@@ -1,0 +1,247 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6268737,
+  "nom" : {
+    "libelleFr" : "White Feet - Nasser Ben Dadoo"
+  },
+  "identifier" : "SITRA2_EVE_6268737",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-21T15:31:11.237+0000",
+    "dateModification" : "2022-11-07T12:03:53.477+0000",
+    "dateExportModification" : "2022-11-07T12:03:53.652+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77886824,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lameson.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5504675
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez Nasser Ben Dadoo à La Mesón le 11 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Welcome to Hatman\r\n\r\nNASSER BEN DADOO\r\nDerrière chaque son et chaque pulsation de Nasser Ben Dadoo, le blues surgit, comme une évidence. Car ce blues du sud n’a pas besoin de boussole pour sonder les profondeurs de l’âme. Et si sa musique charrie les tourments du Mississippi, du Delta au Jump jusqu’au Chicago blues, elle respire aussi les rythmes 6/8 africains. Son nouveau spectacle \"Blue Legacy\" remonte ainsi à l’intarissable source du blues, perpétuant sa fibre créative et transformant, de sa voix rocailleuse, la mélancolie en vibrante célébration de la vie. Avec son ouverture d’esprit et son énergie contagieuse, Nasser Ben Dadoo déjoue les clichés avec ses explorations sonores. Il faut dire que, tombé précocement dans le chaudron du blues, ce chanteur-guitariste n’a cessé de cultiver un sens aigu de l’improvisation et un goût pour les groove indomptables aux tensions rock. S’affranchissant des répertoires intemporels en défendant désormais ses propres compositions, il arpente son inépuisable terrain de jeu avec un combo de musiciens aventuriers.\r\n\r\nEn dépositaire de cette musique aux parfums d’émancipation sociale et au swing infernal, White Feet incarne ce blues moderne et voyageur. Transcendant et Intense."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Mesón",
+      "adresse1" : "52 rue Consolat",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.387830, 43.300330 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "complement" : {
+      "libelleFr" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YYCQ_7lB1iY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 20h30.\nOuverture des portes à 19h30\r\nDébut du concert à 20h30.",
+      "libelleEn" : "Friday 11 November 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 11 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24339234,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : {
+        "libelleFr" : "Ouverture des portes à 19h30\r\nDébut du concert à 20h30"
+      },
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24712156
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 12 €.\n\n\nAdhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert.",
+      "libelleEn" : "Full price: 12 €.\n",
+      "libelleEs" : "Tarifa completa: 12 €.\n",
+      "libelleIt" : "Tarrifa intera: 12 €.\n",
+      "libelleDe" : "Voller Preis: 12 €.\n",
+      "libelleNl" : "Vol tarief: € 12.\n",
+      "libelleRu" : "Полную цену : 12 €.\n",
+      "libelleZh" : "全额 : 12 €.\n",
+      "libellePtBR" : "Tarifa inteira: 12 €.\n",
+      "libelleJa" : "通常料金: 12 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert."
+    },
+    "periodes" : [ {
+      "identifiant" : 13665722,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14124844,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Nasser Ben Dadoo"
+    },
+    "legende" : {
+      "libelleFr" : "Nasser Ben Dadoo"
+    },
+    "copyright" : {
+      "libelleFr" : "Crédits - Nasser Ben Dadoo : Florian Gallenne - La Mesón"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/23/14424057.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/23/14424057-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/23/14424057-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/23/14424057-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "nasser",
+      "taille" : 64418,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-09-21T15:41:37.186+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Mesón"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

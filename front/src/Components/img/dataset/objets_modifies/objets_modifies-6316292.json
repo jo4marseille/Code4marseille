@@ -1,0 +1,216 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6316292,
+  "nom" : {
+    "libelleFr" : "52ème Anniversaire de la mort du Général de Gaulle"
+  },
+  "identifier" : "SITRA2_EVE_6316292",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-04T09:25:59.586+0000",
+    "dateModification" : "2022-11-04T10:18:58.916+0000",
+    "dateExportModification" : "2022-11-04T10:18:59.048+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537773,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 82 55"
+      }
+    }, {
+      "identifiant" : 70537776,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@saintesmaries.com"
+      }
+    }, {
+      "identifiant" : 70537777,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.saintesmaries.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228559
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "52ème Anniversaire de la mort du Général De Gaulle, cérémonie et dépôt de gerbes au Monument aux Morts à 11h30."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Av Van Gogh",
+      "adresse1" : "Monument aux Morts",
+      "codePostal" : "13460",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.428076, 43.450400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre de 11h30 à 12h.",
+      "libelleEn" : "Wednesday 9 November between 11.30 am and 12 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 11:30 a 12.",
+      "libelleIt" : "Mercoledì 9 novembre dalle 11:30 alle 12.",
+      "libelleDe" : "Mittwoch, den 9. November von 11.30 Uhr bis 12 Uhr.",
+      "libelleNl" : "Woensdag 9 november van 11.30 tot en met 12.00 u.",
+      "libelleRu" : "Среда 9 ноября с 11h30 до 12h.",
+      "libelleZh" : "11月9日, 星期三 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 9 Novembro de 11h30 a  12h.",
+      "libelleJa" : "水曜日 9 11月 11.30 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24695590,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "11:30:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 24696134
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 19073
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14763388,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/13/15142197.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/13/15142197-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/13/15142197-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/13/15142197-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "52 ème anniversaire Général de Gaulle",
+      "taille" : 9007,
+      "hauteur" : 271,
+      "largeur" : 186,
+      "lastModifiedDate" : "2022-11-04T09:38:07.382+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2023-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Av Van Gogh"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { }
+}

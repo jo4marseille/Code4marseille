@@ -1,0 +1,97 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5224272,
+  "nom" : {
+    "libelleFr" : "Hôtel de Ville de Cassis",
+    "libelleEn" : "Hôtel de Ville de Cassis",
+    "libelleEs" : "Hôtel de Ville de Cassis",
+    "libelleIt" : "Hôtel de Ville de Cassis",
+    "libelleDe" : "Hôtel de Ville de Cassis",
+    "libelleNl" : "Hôtel de Ville de Cassis"
+  },
+  "identifier" : "SITRA2_STR_5224272",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:28:10.465+0000",
+    "dateModification" : "2021-06-04T09:26:38.742+0000",
+    "dateExportModification" : "2021-12-28T14:53:33.181+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Cassis",
+      "dateCreation" : "2020-10-19T06:23:27.752+0000",
+      "dateModification" : "2022-10-24T08:49:36.803+0000",
+      "id" : 2108,
+      "siteWeb" : "https://www.ot-cassis.com"
+    },
+    "signalerUnProblemeMails" : [ "a.rick@ot-cassis.com", "cgallo@ot-cassis.com", "direction@ot-cassis.com", "evillers@ot-cassis.com", "lbaille@ot-cassis.com", "lmichelini@ot-cassis.com", "m.vallet@ot-cassis.com", "patricia@ot-cassis.com", "presse@ot-cassis.com", "sdelage@ot-cassis.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70516223,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0442183636"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Baragnon",
+      "codePostal" : "13260",
+      "commune" : {
+        "id" : 4433
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.539682, 43.213954 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4433
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,162 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5529877,
+  "nom" : {
+    "libelleFr" : "Polaris - Centre d'Art",
+    "libelleEn" : "Centre for Contemporary Art",
+    "libelleEs" : "Centre d'Art Contemporain",
+    "libelleIt" : "Centro d'arte contemporanea",
+    "libelleDe" : "Zentrum für zeitgenössische Kunst",
+    "libelleNl" : "Centre d'Art Contemporain"
+  },
+  "identifier" : "SITRA2_STR_5529877",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-12T13:32:25.177+0000",
+    "dateModification" : "2022-10-20T14:09:48.366+0000",
+    "dateExportModification" : "2022-10-20T14:09:48.509+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79235511,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 17 10"
+      }
+    }, {
+      "identifiant" : 79235512,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 98 62"
+      }
+    }, {
+      "identifiant" : 79235513,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.polariscentredart@ampmetropole.fr"
+      }
+    }, {
+      "identifiant" : 79235514,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ouestprovence.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Patricia Tranchand",
+      "codePostal" : "13800",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.987969, 43.512860 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18444991,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Joviado",
+    "prenom" : "Sandrine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84518697,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sandrine.joviado@ampmetropole.fr"
+      }
+    }, {
+      "identifiant" : 84518710,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0442551710"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

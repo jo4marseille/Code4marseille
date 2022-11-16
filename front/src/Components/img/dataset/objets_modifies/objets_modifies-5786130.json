@@ -1,0 +1,513 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5786130,
+  "nom" : {
+    "libelleFr" : "Musée Paul Ricard",
+    "libelleEn" : "Museum Paul Ricard",
+    "libelleEs" : "Museo Paul Ricard",
+    "libelleIt" : "Museo Paul Ricard",
+    "libelleDe" : "Paul-Ricard-Museum",
+    "libelleNl" : "Musée Paul Ricard",
+    "libelleRu" : "Musée Paul Ricard",
+    "libelleZh" : "Musée Paul Ricard",
+    "libellePtBR" : "Musée Paul Ricard",
+    "libelleJa" : "Musée Paul Ricard"
+  },
+  "identifier" : "SITRA2_PCU_5786130",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-04-21T08:00:35.695+0000",
+    "dateModification" : "2022-09-14T10:40:49.009+0000",
+    "dateExportModification" : "2022-10-25T18:13:36.264+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88224747,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 88 03 13 22"
+      }
+    }, {
+      "identifiant" : 88224736,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@mejanes-camargue.fr"
+      }
+    }, {
+      "identifiant" : 88224854,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://mejanes-camargue.fr/fr/musee-paul-ricard"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5786131
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "En 2021, le Musée Paul Ricard, s'install au sein du Domaine de Méjanes, et ouvre ses portes.",
+      "libelleEn" : "In 2021, the Paul Ricard Museum will open its doors at the Domaine de Méjanes.",
+      "libelleEs" : "In 2021, the Paul Ricard Museum will open its doors at the Domaine de Méjanes.",
+      "libelleDe" : "Im Jahr 2021 wird das Paul-Ricard-Museum im Bereich Mejanes eröffnet."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Musée Paul Ricard est le premier musée consacré au fabuleux destin de Paul Ricard, entrepreneur visionnaire et humaniste. L’occasion également de découvrir l’histoire du Domaine de Méjanes, étroitement liée à celle de la Camargue et de tous les camarguais.\r\n\r\nConditions d'accessibilité :\r\n\r\nBoucle magnétique\r\nMonte-personne",
+      "libelleEn" : "The Paul Ricard Museum is the first museum dedicated to the fabulous destiny of Paul Ricard, visionary and humanist entrepreneur. It is also an opportunity to discover the history of the Domaine de Méjanes, which is closely linked to that of the Camargue and all the people of the Camargue.",
+      "libelleEs" : "El Museo Paul Ricard es el primer museo dedicado al fabuloso destino de Paul Ricard, empresario visionario y humanista. También es una oportunidad para descubrir la historia del Domaine de Méjanes, que está estrechamente ligada a la de la Camarga y a la de todos los camargueses.",
+      "libelleIt" : "Nel 2021, il Museo Paul Ricard, installato all'interno del Domaine de Méjanes, aprirà le sue porte. Il primo museo dedicato al favoloso destino di Paul Ricard, imprenditore visionario e umanista. L'occasione inoltre di scoprire la storia del Domaine de Méjanes, strettamente legata a quella della Camargue e di tutti i camarguai.",
+      "libelleDe" : "Das erste Museum, das dem wunderbaren Schicksal von Paul Ricard gewidmet war, einem visionären und humanistischen Unternehmer. Die Gelegenheit auch, die Geschichte des Domain de Méjanes zu entdecken, die eng mit der der Camargue und aller Kameraden verbunden ist."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Mas de Méjanes",
+      "codePostal" : "13200",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.505864, 43.569803 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1300
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/09 au 30/10/2022, tous les samedis et dimanches de 11h à 17h.",
+      "libelleEn" : "From 03/09 to 30/10/2022, every Saturday and Sunday between 11 am and 5 pm.",
+      "libelleEs" : "Del 03/09 al 30/10/2022, todos los sábados y domingos de 11 a 17.",
+      "libelleIt" : "Dal 03/09 al 30/10/2022, tutti i sabati e domeniche dalle 11 alle 17.",
+      "libelleDe" : "Vom 03/09 bis 30/10/2022, jeden Samstag und Sonntag von 11 Uhr bis 17 Uhr.",
+      "libelleNl" : "Van 03/09 tot en met 30/10/2022, elke zaterdag en zondag van 11.00 tot en met 17.00 u.",
+      "libelleRu" : "С 03/09 до 30/10/2022, каждый субботы и воскресенья с 11h до 17h.",
+      "libelleZh" : "从 9月3日 到 2022年10月30日, 每星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 03/09 a 30/10/2022, todas as sábados e domingos de 11h a  17h.",
+      "libelleJa" : "03/09 から 30/10/2022 まで, 毎土曜日 と 日曜日 11 午前 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21945022,
+      "dateDebut" : "2022-02-05",
+      "dateFin" : "2022-03-06",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24290334
+    }, {
+      "identifiant" : 22675644,
+      "dateDebut" : "2022-04-02",
+      "dateFin" : "2022-04-10",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24290335
+    }, {
+      "identifiant" : 22675653,
+      "dateDebut" : "2022-04-11",
+      "dateFin" : "2022-05-08",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24290336
+    }, {
+      "identifiant" : 22675673,
+      "dateDebut" : "2022-05-09",
+      "dateFin" : "2022-05-22",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24290337
+    }, {
+      "identifiant" : 22675674,
+      "dateDebut" : "2022-05-26",
+      "dateFin" : "2022-05-29",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24290338
+    }, {
+      "identifiant" : 22675686,
+      "dateDebut" : "2022-06-04",
+      "dateFin" : "2022-06-26",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24290339
+    }, {
+      "identifiant" : 22675694,
+      "dateDebut" : "2022-07-02",
+      "dateFin" : "2022-08-31",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24290340
+    }, {
+      "identifiant" : 22675705,
+      "dateDebut" : "2022-09-03",
+      "dateFin" : "2022-10-30",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24290341
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 0 à 8 €.\n",
+      "libelleEn" : "Full price: 0 to 8 €.\n",
+      "libelleEs" : "Tarifa completa: de 0 a 8 €.\n",
+      "libelleIt" : "Tarrifa intera: da 0 a 8 €.\n",
+      "libelleDe" : "Voller Preis: von 0 bis 8 €.\n",
+      "libelleNl" : "Vol tarief: € 0 tot en met € 8.\n",
+      "libelleRu" : "Полную цену : с 0 до  8 €.\n",
+      "libelleZh" : "全额 : 从 0 到  8 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 0 a 8 €.\n",
+      "libelleJa" : "通常料金: 0 から 8 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12931760,
+      "dateDebut" : "2022-02-05",
+      "dateFin" : "2022-10-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 0.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  }, {
+    "id" : 19073
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12524366,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Musée Paul Ricard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/210/12702318.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/210/12702318-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/210/12702318-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/210/12702318-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cap2",
+      "taille" : 294268,
+      "hauteur" : 1125,
+      "largeur" : 1500,
+      "lastModifiedDate" : "2022-02-22T09:18:12.019+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9846374,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Michelle Ricard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/135/9602830.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/135/9602830-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/135/9602830-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/135/9602830-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Paul Ricard - Collection Association des Amis de Paul Ricard - Reproduction Interdite",
+      "taille" : 691632,
+      "hauteur" : 806,
+      "largeur" : 770,
+      "lastModifiedDate" : "2021-04-21T08:09:11.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9846376,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Michelle Ricard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/135/9602832.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/135/9602832-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/135/9602832-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/135/9602832-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "VUE-SORTIE-MUSEE",
+      "taille" : 1547489,
+      "hauteur" : 2548,
+      "largeur" : 4754,
+      "lastModifiedDate" : "2021-04-21T08:09:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9846373,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Michelle Ricard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/135/9602829.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/135/9602829-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/135/9602829-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/135/9602829-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "107555050_2947475162048155_8033360354142170622_o",
+      "taille" : 164502,
+      "hauteur" : 1741,
+      "largeur" : 1125,
+      "lastModifiedDate" : "2021-04-21T08:09:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9846375,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Michelle Ricard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/135/9602831.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/135/9602831-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/135/9602831-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/135/9602831-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "paul_ricard_12(1)",
+      "taille" : 3175300,
+      "hauteur" : 4253,
+      "largeur" : 3245,
+      "lastModifiedDate" : "2021-04-21T08:09:05.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 11628108,
+    "link" : true,
+    "type" : "CHAINE_YOUTUBE",
+    "nom" : {
+      "libelleFr" : "Le Musée Paul Ricard en vidéo",
+      "libelleEn" : "The Paul Ricard Museum in video",
+      "libelleEs" : "El Museo Paul Ricard en vídeo",
+      "libelleIt" : "Il Museo Paul Ricard in video"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.youtube.com/watch?v=y75WRs-sWh4"
+    }, {
+      "locale" : "en",
+      "url" : "https://www.youtube.com/watch?v=y75WRs-sWh4"
+    }, {
+      "locale" : "it",
+      "url" : "https://www.youtube.com/watch?v=y75WRs-sWh4"
+    }, {
+      "locale" : "es",
+      "url" : "https://www.youtube.com/watch?v=y75WRs-sWh4"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-29", "2022-10-30" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3418
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3439
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3440
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-10-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1825
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1845
+    } ]
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.0,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 10,
+        "dateMaj" : 1666704875398
+      }
+    } ]
+  } ]
+}

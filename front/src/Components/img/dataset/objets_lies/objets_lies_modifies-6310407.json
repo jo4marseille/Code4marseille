@@ -1,0 +1,241 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6310407,
+  "nom" : {
+    "libelleFr" : "Duo Andrea Caparros - Emile Mélenchon"
+  },
+  "identifier" : "SITRA2_EVE_6310407",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-27T08:47:46.339+0000",
+    "dateModification" : "2022-10-28T12:29:43.935+0000",
+    "dateExportModification" : "2022-10-28T15:16:24.184+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104626243,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://jazzsurlaville.org/evenements/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227297
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Duo Andrea Caparros - Emile Mélenchon en concert le 18 novembre, dans le cadre du festival Jazz sur la Ville."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un duo tout en nuances aux accents de la musique brésilienne.\r\n\r\nLa musique d’Andrea est le reflet de ses origines. Issue d’une mère brésilienne et d’un père musicien de jazz, c’est tout naturellement qu’elle s’empare de ces influences qui colorent son univers.\r\n\r\nAccompagnée par la guitare généreuse d’Emile et d’un loopeur, le spectre musical s’élargie pour faire place au métissage de leurs influences respectives, oscillant entre tradition et modernité, laissant place à leur talents d’improvisateurs d’instants et d’instinct.\r\n\r\nAndrea Caparros : chant\r\nEmile Mélenchon : guitare\r\n\r\nEntrée libre selon disponibilité des places."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Bibliothèque-Médiathèque Municipale de Bonneveine Léon G. Gros",
+      "adresse1" : "Centre Vie de Bonneveine",
+      "adresse2" : "Avenue Elsa Triolet",
+      "codePostal" : "13008",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4538
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.379261, 43.254304 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4538
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 18 novembre 2022 à 18h.",
+      "libelleEn" : "Friday 18 November 2022 at 6 pm.",
+      "libelleEs" : "Viernes, 18 de noviembre de 2022 a 18.",
+      "libelleIt" : "Venerdì 18 novembre 2022 alle 18.",
+      "libelleDe" : "Freitag, den 18. November 2022 um 18 Uhr.",
+      "libelleNl" : "Vrijdag 18 november 2022 om 18.00 u.",
+      "libelleRu" : "Пятница 18 ноября 2022  до 18h.",
+      "libelleZh" : "2022年11月18日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 18 Novembro 2022 para  18h.",
+      "libelleJa" : "金曜日 18 11月 2022 6 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24613012,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-11-18",
+      "horaireOuverture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24632072
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Entrée libre selon disponibilité des places.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Entrée libre selon disponibilité des places."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16643
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14600175,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Duo Andrea Caparros - Emile Mélenchon"
+    },
+    "legende" : {
+      "libelleFr" : "Jazz sur la Ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Jazz sur la Ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/85/14964120.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/85/14964120-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/85/14964120-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/85/14964120-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "jazz sur la ville",
+      "taille" : 94524,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-27T08:54:09.770+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-18" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2140
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Bibliothèque-Médiathèque Municipale de Bonneveine Léon G. Gros"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-18T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

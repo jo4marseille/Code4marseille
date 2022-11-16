@@ -1,0 +1,291 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5836510,
+  "nom" : {
+    "libelleFr" : "Yoga du rire"
+  },
+  "identifier" : "SITRA2_ACT_5836510",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-11T13:07:36.610+0000",
+    "dateModification" : "2022-05-31T09:59:15.719+0000",
+    "dateExportModification" : "2022-08-23T05:21:53.153+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 38 96"
+      }
+    }, {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La bambouseraie du domaine de Sulauze est un lieu accueillant, un grand espace de pelouse permet de s'installer de façon confortable, bien ancré sur son tapis. A l'écart, à l'abri de tous lieux de passage, vous allez pouvoir découvrir le Yoga du Rire."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Bon pour le moral et pour la santé, vous serez guidé dans cette pratique par Sylvie qui vous proposera des exercices de rire simple, sans raison, avec des respirations de yoga.\r\nUn joyeux moment en perspective !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Bambouseraie de Sulauze - Côté Réception",
+      "adresse1" : "Route D569",
+      "adresse2" : "Domaine de Sulauze",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.980671, 43.563182 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15451
+    },
+    "lieuObjetTouristique" : {
+      "type" : "DEGUSTATION",
+      "id" : 5537514
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    } ],
+    "ageMin" : 180,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 7 juillet 2022 de 11h à 12h30.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "Thursday 7 July 2022 between 11 am and 12.30 pm.\n\nSubject to favorable weather.",
+      "libelleEs" : "Jueves, 7 de julio de 2022 de 11 a 12:30.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Giovedì 7 luglio 2022 dalle 11 alle 12:30.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Donnerstag, den 7. Juli 2022 von 11 Uhr bis 12.30 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Donderdag 7 juli 2022 van 11.00 tot en met 12.30 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "Четверг 7 июля 2022  с 11h до 12h30.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "2022年7月7日, 星期四   小时小时 和 小时小时分钟  之间.\n\n需天气良好.",
+      "libellePtBR" : "Quinta-feira 7 Julho 2022 de 11h a  12h30.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "木曜日 7 7月 2022 11 午前 と 12.30 午後 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21164724,
+      "dateDebut" : "2022-07-07",
+      "dateFin" : "2022-07-07",
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "12:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454360
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "5€."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "5€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5842581,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99434138,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/yoga-du-rire-a-la-bambouseraie.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "réservations obligatoires"
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10338767,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/95/10116982.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/95/10116982-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/95/10116982-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/95/10116982-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "VISITE BAMBOUSERAIE ET FOIN DE LA CRAU AOUT 2019 (5) patio",
+      "taille" : 3090503,
+      "hauteur" : 1425,
+      "largeur" : 1900,
+      "lastModifiedDate" : "2021-06-22T07:56:51.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "La Bambouseraie de Sulauze - Côté Réception",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1866
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-07-07T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,178 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5530328,
+  "nom" : {
+    "libelleFr" : "Musée des Alpilles",
+    "libelleEn" : "Musée des Alpilles",
+    "libelleEs" : "Musée des Alpilles",
+    "libelleIt" : "Musée des Alpilles",
+    "libelleDe" : "Musée des Alpilles",
+    "libelleNl" : "Musée des Alpilles"
+  },
+  "identifier" : "SITRA2_STR_5530328",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-13T12:29:58.898+0000",
+    "dateModification" : "2022-06-09T09:46:24.623+0000",
+    "dateExportModification" : "2022-06-09T09:46:24.779+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79258042,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 68 24",
+        "en" : "00 33 4 90 92 68 24",
+        "de" : "00 33 4 90 92 68 24"
+      }
+    }, {
+      "identifiant" : 79258045,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museedesalpilles@ville-srdp.fr",
+        "en" : "museedesalpilles@ville-srdp.fr",
+        "de" : "museedesalpilles@ville-srdp.fr"
+      }
+    }, {
+      "identifiant" : 79258046,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mairie-saintremydeprovence.com/que-faire-a-saint-remy/envie-de-culture/musee-des-alpilles/",
+        "en" : "https://www.mairie-saintremydeprovence.com/que-faire-a-saint-remy/envie-de-culture/musee-des-alpilles/",
+        "de" : "https://www.mairie-saintremydeprovence.com/que-faire-a-saint-remy/envie-de-culture/musee-des-alpilles/"
+      }
+    }, {
+      "identifiant" : 96175930,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/MuseedesAlpilles",
+        "en" : "https://www.facebook.com/MuseedesAlpilles",
+        "de" : "https://www.facebook.com/MuseedesAlpilles"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Musée des Alpilles",
+      "adresse2" : "Place Favier",
+      "codePostal" : "13538",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.830953, 43.789056 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18520454,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Olier",
+    "prenom" : "Virginie",
+    "moyensCommunication" : [ {
+      "identifiant" : 84769268,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 68 24"
+      }
+    }, {
+      "identifiant" : 84769281,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museedesalpilles@mairie-saintremydeprovence.fr"
+      }
+    }, {
+      "identifiant" : 84769445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museedesalpilles.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

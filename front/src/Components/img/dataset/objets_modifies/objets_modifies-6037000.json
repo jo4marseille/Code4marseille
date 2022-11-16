@@ -1,0 +1,446 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6037000,
+  "nom" : {
+    "libelleFr" : "Visite Découverte de Cassis",
+    "libelleEn" : "Discovery tour of Cassis",
+    "libelleEs" : "Visita a Cassis",
+    "libelleIt" : "Visita guidata alla scoperta di Cassis",
+    "libelleDe" : "Entdeckungstour in Cassis"
+  },
+  "identifier" : "SITRA2_EVE_6037000",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-17T15:56:58.921+0000",
+    "dateModification" : "2022-10-25T13:59:13.405+0000",
+    "dateExportModification" : "2022-10-25T13:59:13.680+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Cassis",
+      "dateCreation" : "2020-10-19T06:23:27.752+0000",
+      "dateModification" : "2022-10-24T08:49:36.803+0000",
+      "id" : 2108,
+      "siteWeb" : "https://www.ot-cassis.com"
+    },
+    "signalerUnProblemeMails" : [ "a.rick@ot-cassis.com", "cgallo@ot-cassis.com", "direction@ot-cassis.com", "evillers@ot-cassis.com", "lbaille@ot-cassis.com", "lmichelini@ot-cassis.com", "m.vallet@ot-cassis.com", "patricia@ot-cassis.com", "presse@ot-cassis.com", "sdelage@ot-cassis.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537381,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "08 92 39 01 03"
+      }
+    }, {
+      "identifiant" : 70537385,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.ot-cassis.com"
+      }
+    }, {
+      "identifiant" : 70537383,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@ot-cassis.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228510
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cette visite est idéale pour ceux qui ne connaissent pas Cassis… et ceux qui veulent le redécouvrir",
+      "libelleEn" : "This visit is ideal for those who do not know Cassis... and those who want to rediscover it",
+      "libelleEs" : "Esta visita es ideal para los que no conocen Cassis... y los que quieren redescubrirlo",
+      "libelleIt" : "Questa visita è ideale per coloro che non conoscono Cassis... e per coloro che vogliono riscoprirla.",
+      "libelleDe" : "Diese Tour ist ideal für alle, die Cassis noch nicht kennen - und für diejenigen, die es neu entdecken wollen."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cette visite est une est une découverte du village au travers de son histoire et d'anecdotes.\r\nCette promenade vous mènera de la statue Calendal aux petites ruelles méconnues de Cassis pour découvrir ce petit village typiquement provençal. Des anecdotes viendront ponctuer le parcours.\r\nLa visite se termine par une dégustation de spécialités locales ou la découverte d'un produit local.",
+      "libelleEn" : "This visit is a discovery of the village through its history and anecdotes.\r\nThis walk will take you from the Calendal statue to the little unknown streets of Cassis to discover this small, typically Provencal village. Anecdotes will punctuate the tour.\r\nThe visit ends with a tasting of local specialities or the discovery of a local product.",
+      "libelleEs" : "Esta visita es un descubrimiento del pueblo a través de su historia y sus anécdotas.\r\nEste paseo le llevará desde la estatua del Calendal hasta las calles poco conocidas de Cassis para descubrir este pequeño pueblo típicamente provenzal. Las anécdotas puntuarán el recorrido.\r\nLa visita termina con una degustación de especialidades locales o el descubrimiento de un producto local.",
+      "libelleIt" : "Questa visita è una scoperta del villaggio attraverso la sua storia e i suoi aneddoti.\r\nQuesta passeggiata vi porterà dalla statua del Calendal alle stradine sconosciute di Cassis per scoprire questo piccolo villaggio tipicamente provenzale. Gli aneddoti punteggeranno la visita.\r\nLa visita si conclude con una degustazione di specialità locali o con la scoperta di un prodotto locale.",
+      "libelleDe" : "Dieser Rundgang ist eine Entdeckungstour durch das Dorf anhand seiner Geschichte und Anekdoten.\r\nDieser Spaziergang führt Sie von der Statue Calendal zu den kleinen, unbekannten Gassen von Cassis, um dieses kleine, typisch provenzalische Dorf zu entdecken. Anekdoten werden den Rundgang untermalen.\r\nDer Rundgang endet mit einer Kostprobe lokaler Spezialitäten oder der Entdeckung eines lokalen Produkts."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Office de Tourisme de Cassis",
+      "adresse1" : "Oustau Calendal",
+      "adresse2" : "Quai des Moulins",
+      "codePostal" : "13260",
+      "bureauDistribution" : "CASSIS",
+      "commune" : {
+        "id" : 4433
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Gare de Cassis : Gare ferroviaire à 3.5km\r\nD559 : Route départementale à 1.8km\r\nA50 / n°6 Carnoux sans péage : Sortie autoroute à 8.5km\r\nMarseille Provence : Aéroport/Aérodrome à 56km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.536957, 43.213424 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4433
+    } ],
+    "lieu" : {
+      "id" : 17487
+    },
+    "lieuObjetTouristique" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5551123
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6042733
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6044735
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10 au 31/10/2022, tous les mercredis de 14h30 à 16h.\n\nDu 01/11 au 31/12/2022, tous les mercredis de 14h30 à 16h.",
+      "libelleEn" : "From 01/10 to 31/10/2022, every Wednesday between 2.30 pm and 4 pm.\n\nFrom 01/11 to 31/12/2022, every Wednesday between 2.30 pm and 4 pm.",
+      "libelleEs" : "Del 01/10 al 31/10/2022, todos los miércoles de 14:30 a 16.\n\nDel 01/11 al 31/12/2022, todos los miércoles de 14:30 a 16.",
+      "libelleIt" : "Dal 01/10 al 31/10/2022, tutti i mercoledì dalle 14:30 alle 16.\n\nDal 01/11 al 31/12/2022, tutti i mercoledì dalle 14:30 alle 16.",
+      "libelleDe" : "Vom 01/10 bis 31/10/2022, jeden Mittwoch von 14.30 Uhr bis 16 Uhr.\n\nVom 01/11 bis 31/12/2022, jeden Mittwoch von 14.30 Uhr bis 16 Uhr.",
+      "libelleNl" : "Van 01/10 tot en met 31/10/2022, elke woensdag van 14.30 tot en met 16.00 u.\n\nVan 01/11 tot en met 31/12/2022, elke woensdag van 14.30 tot en met 16.00 u.",
+      "libelleRu" : "С 01/10 до 31/10/2022, каждый среды с 14h30 до 16h.\n\nС 01/11 до 31/12/2022, каждый среды с 14h30 до 16h.",
+      "libelleZh" : "从 10月1日 到 2022年10月31日, 每星期三 小时小时分钟  和 小时小时 之间.\n\n从 11月1日 到 2022年12月31日, 每星期三 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 01/10 a 31/10/2022, todas as quartas-feiras de 14h30 a  16h.\n\nDe 01/11 a 31/12/2022, todas as quartas-feiras de 14h30 a  16h.",
+      "libelleJa" : "01/10 から 31/10/2022 まで, 毎水曜日 2.30 午後 と 4 午後 の間.\n\n01/11 から 31/12/2022 まで, 毎水曜日 2.30 午後 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23605183,
+      "dateDebut" : "2022-07-06",
+      "dateFin" : "2022-08-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24586171
+    }, {
+      "identifiant" : 24031047,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-09-15",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24586172
+    }, {
+      "identifiant" : 24031068,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-10-31",
+      "horaireOuverture" : "14:30:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24586173
+    }, {
+      "identifiant" : 24586150,
+      "dateDebut" : "2022-11-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "14:30:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24586174
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Du 06/07 au 31/08/2022\nPlein tarif : 9 €, Enfant  : 4 €.\n\nDu 01/09 au 15/09/2022\nPlein tarif : 9 €, Enfant  : 4 €.\n\nDu 01/10 au 31/12/2022\nPlein tarif : 9 €, Enfant  : 4 €.\n\n Gratuit pour les moins de 7 ans.\n Tarif enfant accordé aux 7 - 16 ans.",
+      "libelleEn" : "From 06/07 to 31/08/2022\nFull price: 9 €, Child : 4 €.\n\nFrom 01/09 to 15/09/2022\nFull price: 9 €, Child : 4 €.\n\nFrom 01/10 to 31/12/2022\nFull price: 9 €, Child : 4 €.\n\n Free entry for children < 7 years.\n Child entry valid for 7 - 16 years.",
+      "libelleEs" : "Del 06/07 al 31/08/2022\nTarifa completa: 9 €, Niño : 4 €.\n\nDel 01/09 al 15/09/2022\nTarifa completa: 9 €, Niño : 4 €.\n\nDel 01/10 al 31/12/2022\nTarifa completa: 9 €, Niño : 4 €.\n\n Gratuito para los niños menores de 7 años.\n Tarifa niño concedida a los 7 - 16 años.",
+      "libelleIt" : "Dal 06/07 al 31/08/2022\nTarrifa intera: 9 €, Bambino : 4 €.\n\nDal 01/09 al 15/09/2022\nTarrifa intera: 9 €, Bambino : 4 €.\n\nDal 01/10 al 31/12/2022\nTarrifa intera: 9 €, Bambino : 4 €.\n\n Gratuito per i bambini di età inferiore a 7 anni.\n Tariffa bambini tra 7 e 16 anni.",
+      "libelleDe" : "Vom 06/07 bis 31/08/2022\nVoller Preis: 9 €, Kinder : 4 €.\n\nVom 01/09 bis 15/09/2022\nVoller Preis: 9 €, Kinder : 4 €.\n\nVom 01/10 bis 31/12/2022\nVoller Preis: 9 €, Kinder : 4 €.\n\n Kostenlos für Kinder unter 7 Jahren.\n Tarif Kinder von 7 - 16 Jahren.",
+      "libelleNl" : "Van 06/07 tot en met 31/08/2022\nVol tarief: € 9, Kind : € 4.\n\nVan 01/09 tot en met 15/09/2022\nVol tarief: € 9, Kind : € 4.\n\nVan 01/10 tot en met 31/12/2022\nVol tarief: € 9, Kind : € 4.\n\n Gratis voor kinderen onder de 7 jaar.\n Kindertarief voor 7 - 16 jaar.",
+      "libelleRu" : "С 06/07 до 31/08/2022\nполную цену : 9 €, Ребенок  : 4 €.\n\nС 01/09 до 15/09/2022\nполную цену : 9 €, Ребенок  : 4 €.\n\nС 01/10 до 31/12/2022\nполную цену : 9 €, Ребенок  : 4 €.\n\n Бесплатно для лицам младше 7 лет.\n Детский тариф предоставляется до 7 - 16 лет.",
+      "libelleZh" : "从 7月6日 到 2022年8月31日\n全额 : 9 €, 儿童  : 4 €.\n\n从 9月1日 到 2022年9月15日\n全额 : 9 €, 儿童  : 4 €.\n\n从 10月1日 到 2022年12月31日\n全额 : 9 €, 儿童  : 4 €.\n\n 儿童 < 7 岁自由进入.\n 儿童票适用年龄 7 - 16 岁.",
+      "libellePtBR" : "De 06/07 a 31/08/2022\nTarifa inteira: 9 €, Criança : 4 €.\n\nDe 01/09 a 15/09/2022\nTarifa inteira: 9 €, Criança : 4 €.\n\nDe 01/10 a 31/12/2022\nTarifa inteira: 9 €, Criança : 4 €.\n\n Gratuito para menores de 7 anos.\n Tarifa infantil acordada para aqueles entre 7 e 16 anos.",
+      "libelleJa" : "06/07 から 31/08/2022 まで\n通常料金: 9 €, 子供 : 4 €.\n\n01/09 から 15/09/2022 まで\n通常料金: 9 €, 子供 : 4 €.\n\n01/10 から 31/12/2022 まで\n通常料金: 9 €, 子供 : 4 €.\n\n 子供 < 7 歳 は入場無料.\n 7 - 16 歳の子供は入場可."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13549840,
+      "dateDebut" : "2022-07-06",
+      "dateFin" : "2022-08-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 9.00,
+        "maximum" : 9.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    }, {
+      "identifiant" : 13549841,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-09-15",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 9.00,
+        "maximum" : 9.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    }, {
+      "identifiant" : 13549842,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 9.00,
+        "maximum" : 9.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 7,
+      "conditionEnfantAgeMin" : 7,
+      "conditionEnfantAgeMax" : 16
+    }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12559920,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Visite Guidée Cassis"
+    },
+    "legende" : {
+      "libelleFr" : "Visite guidée dans les rues de Cassis"
+    },
+    "copyright" : {
+      "libelleFr" : "@Office de Tourisme de Cassis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/105/12741109.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/105/12741109-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/105/12741109-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/245/105/12741109-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_20210609_152952",
+      "taille" : 2320445,
+      "hauteur" : 1680,
+      "largeur" : 3648,
+      "lastModifiedDate" : "2022-02-24T11:29:57.762+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12559965,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Visite Guidée de Cassis"
+    },
+    "legende" : {
+      "libelleFr" : "Visite guidée de Cassis - Statue de Calendal"
+    },
+    "copyright" : {
+      "libelleFr" : "@Office de Tourisme de Cassis"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/106/12741153.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/106/12741153-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/106/12741153-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/106/12741153-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Web-size_visite guidée juillet",
+      "taille" : 1183035,
+      "hauteur" : 1280,
+      "largeur" : 1144,
+      "lastModifiedDate" : "2022-02-24T11:29:59.514+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "datesOuverture" : [ "2022-10-26", "2022-11-02", "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2349
+    },
+    "nomLieu" : "Office de Tourisme de Cassis"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

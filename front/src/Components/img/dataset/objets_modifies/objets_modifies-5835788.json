@@ -1,0 +1,519 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5835788,
+  "nom" : {
+    "libelleFr" : "Visite guidée en anglais des ateliers viticoles et oléicoles suivie de dégustations",
+    "libelleEn" : "Guided tour in English of the Chai and olive oil production and tasting"
+  },
+  "identifier" : "SITRA2_EVE_5835788",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-11T07:54:45.708+0000",
+    "dateModification" : "2022-03-24T13:34:44.521+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463499
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le terroir de la Sainte-Victoire au travers des vins et huiles d'olive dans un domaine unique ! Goutez 5 vins et 2 huiles d'olive.\r\nVisite en anglais",
+      "libelleEn" : "Original winery and olive mill « Terre de Mistral ». You will be welcomed warmly! Taste 5 wines and 2 olive oils.\r\nEnglish visit"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Visite commentée des ateliers viticoles et oléicoles, suivie d'une initiation à la dégustation (5 vins, 2 huiles d'olive) sous forme de jeux avec les vins et les huiles d'olive du domaine (reconnaissance d'arômes...).\r\n\r\n➜ Visite guidée en anglais\r\n➜ Dégustations incluses\r\n➜ Durée : 1h30\r\n➜ Véhicule personnel obligatoire\r\n​➜ Les animaux sont interdits \r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix--en-Provence.",
+      "libelleEn" : "Terre de Mistral, inaugurated in 2008, is the story of the meeting of two families who share the same passion for Provence, and a strong desire to communicate and disseminate their knowledge.\r\n\r\nLocated 15 km from Aix-en-Provence, facing the mythical Mont Sainte-Victoire standing as an array, this field is foremost producer of wine and olive oil.\r\n\r\nGuided tour in English of the Chai and olive oil production and tasting  (5 wines, 2 olive oils).\r\n\r\n➜ English guided visit\r\n➜ Wine & olive tasting included\r\n➜ Duration: 1h30\r\n➜ Personnal car required\r\n➜ Pets are forbidden\r\n\r\nBooking at the information desk or on the website of the Tourist Office."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Port du masque obligatoire.",
+        "libelleEn" : "Face mask required."
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Domaine Terre de Mistral",
+      "adresse1" : "Chemin du Pavillon",
+      "codePostal" : "13790",
+      "commune" : {
+        "id" : 4498
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.628550, 43.471139 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4498
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5547667
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3737
+    } ],
+    "ageMin" : 24,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 10/03/2022, tous les lundis, mercredis, jeudis et vendredis à 15h30 sauf le 21/02.\n\nDu 18/04 au 30/04/2022, tous les lundis, mercredis, jeudis et vendredis à 15h30.\n\nDu 02/05 au 31/08/2022.\nFermé le dimanche.\nLundi et samedi à 15h30\r\nDu mardi au vendredi à 11h et 15h30.\n\nDu 01/09 au 31/12/2022, tous les lundis, mercredis, jeudis et vendredis à 15h30.",
+      "libelleEn" : "From 01/01 to 10/03/2022, every Monday, Wednesday, Thursday and Friday at 3.30 pm except on 21/02.\n\nFrom 18/04 to 30/04/2022, every Monday, Wednesday, Thursday and Friday at 3.30 pm.\n\nFrom 02/05 to 31/08/2022.\nClosed on Sunday.\n\nFrom 01/09 to 31/12/2022, every Monday, Wednesday, Thursday and Friday at 3.30 pm.",
+      "libelleEs" : "Del 01/01 al 10/03/2022, todos los lunes, miércoles, jueves y viernes a 15:30 excepto el 21/02.\n\nDel 18/04 al 30/04/2022, todos los lunes, miércoles, jueves y viernes a 15:30.\n\nDel 02/05 al 31/08/2022.\nCerrado los domingo.\n\nDel 01/09 al 31/12/2022, todos los lunes, miércoles, jueves y viernes a 15:30.",
+      "libelleIt" : "Dal 01/01 al 10/03/2022, tutti i lunedì, mercoledì, giovedì e venerdì alle 15:30 tranne il 21/02.\n\nDal 18/04 al 30/04/2022, tutti i lunedì, mercoledì, giovedì e venerdì alle 15:30.\n\nDal 02/05 al 31/08/2022.\nChiuso la domenica.\n\nDal 01/09 al 31/12/2022, tutti i lunedì, mercoledì, giovedì e venerdì alle 15:30.",
+      "libelleDe" : "Vom 01/01 bis 10/03/2022, jeden Montag, Mittwoch, Donnerstag und Freitag um 15.30 Uhr (außer 21/02).\n\nVom 18/04 bis 30/04/2022, jeden Montag, Mittwoch, Donnerstag und Freitag um 15.30 Uhr.\n\nVom 02/05 bis 31/08/2022.\nSonntag geschlossen.\n\nVom 01/09 bis 31/12/2022, jeden Montag, Mittwoch, Donnerstag und Freitag um 15.30 Uhr.",
+      "libelleNl" : "Van 01/01 tot en met 10/03/2022, elke maandag, woensdag, donderdag en vrijdag om 15.30 u m.u.v. 21/02.\n\nVan 18/04 tot en met 30/04/2022, elke maandag, woensdag, donderdag en vrijdag om 15.30 u.\n\nVan 02/05 tot en met 31/08/2022.\nZondag gesloten.\n\nVan 01/09 tot en met 31/12/2022, elke maandag, woensdag, donderdag en vrijdag om 15.30 u.",
+      "libelleRu" : "С 01/01 до 10/03/2022, каждый понедельники, среды, четверги и пятницы до 15h30 кроме 21/02.\n\nС 18/04 до 30/04/2022, каждый понедельники, среды, четверги и пятницы до 15h30.\n\nС 02/05 до 31/08/2022.\nНе работает воскресенье.\n\nС 01/09 до 31/12/2022, каждый понедельники, среды, четверги и пятницы до 15h30.",
+      "libelleZh" : "从 1月1日 到 2022年3月10日, 每星期一, 星期三, 星期四 和 星期五 在 小时小时分钟  不包括 2月21日.\n\n从 4月18日 到 2022年4月30日, 每星期一, 星期三, 星期四 和 星期五 在 小时小时分钟.\n\n从 5月2日 到 2022年8月31日.\n星期日 关闭.\n\n从 9月1日 到 2022年12月31日, 每星期一, 星期三, 星期四 和 星期五 在 小时小时分钟.",
+      "libellePtBR" : "De 01/01 a 10/03/2022, todas as segundas-feiras, quartas-feiras, quintas-feiras e sextas-feiras para  15h30 exceto em 21/02.\n\nDe 18/04 a 30/04/2022, todas as segundas-feiras, quartas-feiras, quintas-feiras e sextas-feiras para  15h30.\n\nDe 02/05 a 31/08/2022.\nFechado em domingo.\n\nDe 01/09 a 31/12/2022, todas as segundas-feiras, quartas-feiras, quintas-feiras e sextas-feiras para  15h30.",
+      "libelleJa" : "01/01 から 10/03/2022 まで, 毎月曜日, 水曜日, 木曜日 と 金曜日 3.30 午後 に 21/02 を除き.\n\n18/04 から 30/04/2022 まで, 毎月曜日, 水曜日, 木曜日 と 金曜日 3.30 午後 に.\n\n02/05 から 31/08/2022 まで.\n日曜日 は休み.\n\n01/09 から 31/12/2022 まで, 毎月曜日, 水曜日, 木曜日 と 金曜日 3.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21160346,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-03-10",
+      "complementHoraire" : { },
+      "horaireOuverture" : "15:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22753804
+    }, {
+      "identifiant" : 22753811,
+      "dateDebut" : "2022-04-18",
+      "dateFin" : "2022-04-30",
+      "complementHoraire" : { },
+      "horaireOuverture" : "15:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22753811
+    }, {
+      "identifiant" : 22341057,
+      "dateDebut" : "2022-05-02",
+      "dateFin" : "2022-08-31",
+      "complementHoraire" : {
+        "libelleFr" : "Lundi et samedi à 15h30\r\nDu mardi au vendredi à 11h et 15h30"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22753805
+    }, {
+      "identifiant" : 22341112,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "15:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22753806
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateFermeture" : "2022-02-21"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 12 €, Enfant (2-12 ans) : 5 € (de 2 à 12 ans).\n",
+      "libelleEn" : "Full price: 12 €, Child (2-12 years): 5 € (2 to 12 years old).\n",
+      "libelleEs" : "Tarifa completa: 12 €, Niño (2-12 años): 5 €.\n",
+      "libelleIt" : "Tarrifa intera: 12 €, Bambino (2-12 anni): 5 €.\n",
+      "libelleDe" : "Voller Preis: 12 €, Kinder (2-12 Jahren): 5 €.\n",
+      "libelleNl" : "Vol tarief: € 12, Kind (2-12 jaar): € 5.\n",
+      "libelleRu" : "Полную цену : 12 €, Ребенок (2-12 лет) : 5 €.\n",
+      "libelleZh" : "全额 : 12 €, 儿童 (2-12 岁) : 5 €.\n",
+      "libellePtBR" : "Tarifa inteira: 12 €, Criança (2-12 anos): 5 €.\n",
+      "libelleJa" : "通常料金: 12 €, 子供 (2-12 歳): 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12755218,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "de 2 à 12 ans",
+          "libelleEn" : "2 to 12 years old"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionEnfantAgeMin" : 2,
+      "conditionEnfantAgeMax" : 12
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5841616,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228508
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89493337,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/terre-de-mistral-visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-1h30.html",
+          "en" : "https://booking.aixenprovencetourism.com/terre-de-mistral-guided-tour-in-english-of-the-chai-and-olive-oil-production-and-tasting-1h30.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Rendez vous 10mn avant le départ de la visite au domaine viticole",
+      "libelleEn" : "Meeting 10mn before at the winery"
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 10258255,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/38/10036775.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/38/10036775-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/38/10036775-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/39/38/10036775-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-166312",
+      "taille" : 195290,
+      "hauteur" : 533,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-11T08:16:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258250,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/38/10036770.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/38/10036770-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/38/10036770-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/34/38/10036770-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-113114",
+      "taille" : 73863,
+      "hauteur" : 378,
+      "largeur" : 640,
+      "lastModifiedDate" : "2021-06-11T08:16:59.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258249,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/38/10036769.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/38/10036769-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/38/10036769-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/33/38/10036769-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-113113",
+      "taille" : 133551,
+      "hauteur" : 427,
+      "largeur" : 640,
+      "lastModifiedDate" : "2021-06-11T08:16:59.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258251,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/38/10036771.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/38/10036771-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/38/10036771-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/38/10036771-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-113115",
+      "taille" : 120275,
+      "hauteur" : 640,
+      "largeur" : 480,
+      "lastModifiedDate" : "2021-06-11T08:16:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258252,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/38/10036772.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/38/10036772-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/38/10036772-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/38/10036772-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-113116",
+      "taille" : 118934,
+      "hauteur" : 426,
+      "largeur" : 640,
+      "lastModifiedDate" : "2021-06-11T08:16:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258253,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/38/10036773.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/38/10036773-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/38/10036773-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/38/10036773-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-166310",
+      "taille" : 123445,
+      "hauteur" : 666,
+      "largeur" : 500,
+      "lastModifiedDate" : "2021-06-11T08:16:58.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10258254,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine Terre de Mistral"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/38/10036774.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/38/10036774-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/38/10036774-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/38/10036774-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "800x600_visite-guidee-en-anglais-des-ateliers-viticoles-et-oleicoles-degustations-166311",
+      "taille" : 166861,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2021-06-11T08:16:58.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-24", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-31", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-07", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-14", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-21", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-28", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-05", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-12", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-19", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-26", "2022-12-28", "2022-12-29", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3717
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2271
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Domaine Terre de Mistral"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

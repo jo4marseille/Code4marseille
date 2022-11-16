@@ -1,0 +1,320 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313829,
+  "nom" : {
+    "libelleFr" : "Monstres ? contes mythologiques électriques"
+  },
+  "identifier" : "SITRA2_EVE_6313829",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T08:39:01.528+0000",
+    "dateModification" : "2022-11-02T08:50:16.490+0000",
+    "dateExportModification" : "2022-11-02T08:52:25.151+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104813250,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 48"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation"
+      }
+    }, {
+      "identifiant" : 104813251,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    }, {
+      "identifiant" : 104813252,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    }, {
+      "identifiant" : 104813253,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      },
+      "observation" : {
+        "libelleFr" : "Réservation uniquement par téléphone"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour fêter Noël le musée vous propose quatre après-midis de contes en compagnie de Pierre Padaillé, passeur d’Histoire et d’histoires (Cie Les 3 Pommes) et Vincent Brégère, musicien."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La mythologie racontée du point de vue des monstres, où l'on s'aperçoit que le monstre n'est pas forcément celui que l'on croit. Typhon, Méduse, Charybde et Sylla, l'hydre de Lerne, le lion de Némée, et les autres créatures ont enfin droit à la parole ! Ils viennent raconter leur histoire et leur destin tragique.\r\n\r\nJouets des Dieux, il sont les trophées des héros en quête de gloire. La voix des monstres prend vie dans celle du conteur et dans les sons et effets électriques du musicien.\r\n\r\nPar la Cie les 3 Pommes.\r\n\r\nInformations pratiques\r\n> À partir de 7 ans\r\n> Réservation obligatoire au 04 13 31 51 48 du lundi au vendredi de 8h à 12h et de 13h à 16h."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Départemental Arles antique",
+      "adresse1" : "Presqu'île du Cirque-Romain",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616549, 43.672413 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Lundi 19 décembre 2022 de 15h à 16h.\n\nJeudi 22 décembre 2022 de 15h à 16h.",
+      "libelleEn" : "Monday 19 December 2022 between 3 pm and 4 pm.\n\nThursday 22 December 2022 between 3 pm and 4 pm.",
+      "libelleEs" : "Lunes, 19 de diciembre de 2022 de 15 a 16.\n\nJueves, 22 de diciembre de 2022 de 15 a 16.",
+      "libelleIt" : "Lunedì 19 dicembre 2022 dalle 15 alle 16.\n\nGiovedì 22 dicembre 2022 dalle 15 alle 16.",
+      "libelleDe" : "Montag, den 19. Dezember 2022 von 15 Uhr bis 16 Uhr.\n\nDonnerstag, den 22. Dezember 2022 von 15 Uhr bis 16 Uhr.",
+      "libelleNl" : "Maandag 19 december 2022 van 15.00 tot en met 16.00 u.\n\nDonderdag 22 december 2022 van 15.00 tot en met 16.00 u.",
+      "libelleRu" : "Понедельник 19 декабря 2022  с 15h до 16h.\n\nЧетверг 22 декабря 2022  с 15h до 16h.",
+      "libelleZh" : "2022年12月19日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月22日, 星期四   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Segunda-feira 19 Dezembro 2022 de 15h a  16h.\n\nQuinta-feira 22 Dezembro 2022 de 15h a  16h.",
+      "libelleJa" : "月曜日 19 12月 2022 3 午後 と 4 午後 の間.\n\n木曜日 22 12月 2022 3 午後 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24674502,
+      "dateDebut" : "2022-12-19",
+      "dateFin" : "2022-12-19",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24674502
+    }, {
+      "identifiant" : 24674616,
+      "dateDebut" : "2022-12-22",
+      "dateFin" : "2022-12-22",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24674616
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21525828,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104813254,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104813255,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14723036,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Monstres ? Contes mythologiques électriques"
+    },
+    "copyright" : {
+      "libelleFr" : "© Cie les 3 Pommes"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/97/15098278.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/97/15098278-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/97/15098278-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/97/15098278-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Image site (35)",
+      "taille" : 75922,
+      "hauteur" : 653,
+      "largeur" : 879,
+      "lastModifiedDate" : "2022-11-02T08:50:16.631+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-19", "2022-12-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3831
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Départemental Arles antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-22T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

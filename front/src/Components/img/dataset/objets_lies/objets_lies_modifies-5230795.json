@@ -1,0 +1,388 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5230795,
+  "nom" : {
+    "libelleFr" : "Cinéma Le Mazarin",
+    "libelleEn" : "Cinéma Le Mazarin",
+    "libelleEs" : "Cinéma Mazarin",
+    "libelleIt" : "Cinéma Mazarin",
+    "libelleDe" : "Cinéma Mazarin",
+    "libelleNl" : "Cinéma Mazarin"
+  },
+  "identifier" : "SITRA2_LOI_5230795",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T16:02:05.820+0000",
+    "dateModification" : "2022-07-19T09:31:51.460+0000",
+    "dateExportModification" : "2022-09-28T08:00:05.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70562815,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "08 92 68 72 70"
+      }
+    }, {
+      "identifiant" : 70562816,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 91 16"
+      }
+    }, {
+      "identifiant" : 70562817,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@cinemazarin.com"
+      }
+    }, {
+      "identifiant" : 70562818,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lescinemasaixois.com"
+      }
+    }, {
+      "identifiant" : 79709420,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/CinemaLeMazarin/"
+      }
+    }, {
+      "identifiant" : 79709421,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/pg/LesCinemasAixoisCezanneRenoirMazarin/photos/?ref=page_internal"
+      }
+    }, {
+      "identifiant" : 79709423,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 3755
+      },
+      "coordonnees" : {
+        "fr" : "https://twitter.com/cinemasaixois"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230792
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un cinéma différent pour des cinéphiles curieux et et passionnés.",
+      "libelleEn" : "Art cinema with 3 screens."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le cinéma Le Mazarin comprend 3 salles Art & Essai, labellisées : Recherche et Découverte, Jeune public, Répertoire (de 64, 155 et 174 places) accessibles aux personnes à mobilité réduite. Les salles 1 et 3 sont équipées en boucle magnétique pour les personnes malentendantes. \r\n\r\nTous les films étrangers sont en version originale sous-titrés en français. \r\nCinéma entièrement rénové pendant l'été 2009.\r\nLocation de salles sur demande.",
+      "libelleEn" : "Foreign movies are all shown in original version with french subtitles."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "6 Rue Laroque",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Le port du masque est obligatoire dans le hall et les espaces de circulation ainsi que la désinfection des mains par l'intermédiaire de gel hydro alcoolique mis à disposition à l'entrée de chaque cinéma. Le masque n'est en revanche pas obligatoire pour tous les mineurs de moins de 11 ans.\r\n \r\nNe pas arriver trop en avance au cinéma, d'acheter si possible vos places par Internet et de privilégier le paiement sans contact sur site."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447607, 43.525511 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5537915
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022.",
+      "libelleEn" : "From 01/01 to 31/12/2022.",
+      "libelleEs" : "Del 01/01 al 31/12/2022.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022.",
+      "libelleRu" : "С 01/01 до 31/12/2022.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日.",
+      "libellePtBR" : "De 01/01 a 31/12/2022.",
+      "libelleJa" : "01/01 から 31/12/2022 まで."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19942773,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23869430
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : de 6 à 11,20 €.\n",
+      "libelleEn" : "One price: 6 to 11.20 €.\n",
+      "libelleEs" : "Tarifa única: de 6 a 11,20 €.\n",
+      "libelleIt" : "Tariffa unica: da 6 a 11,20 €.\n",
+      "libelleDe" : "Einheitspreis: von 6 bis 11,20 €.\n",
+      "libelleNl" : "Vast tarief: € 6 tot en met € 11,20.\n",
+      "libelleRu" : "Единый тариф : с 6 до  11,20 €.\n",
+      "libelleZh" : "一口价 : 从 6 到  11.20 €.\n",
+      "libellePtBR" : "Tarifa única: de 6 a 11,20 €.\n",
+      "libelleJa" : "シングルレート: 6 から 11.20 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12806987,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 11.20,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4108
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 16135824,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "ROULET",
+    "prenom" : "Franck",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10545458,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/230/10348113.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/230/10348113-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/230/10348113-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/230/10348113-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cine mazarin",
+      "taille" : 242108,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-07-21T07:23:16.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 9623539,
+    "link" : true,
+    "type" : "INSTAGRAM",
+    "nom" : {
+      "libelleFr" : "Instagram",
+      "libelleEn" : "Instagram"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "http://www.instagram.com/cinemasaixois/#"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9623540,
+    "link" : true,
+    "type" : "APPLICATION_ANDROID",
+    "nom" : {
+      "libelleFr" : "Appli Androïd",
+      "libelleEn" : "Androïd app"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://play.google.com/store/apps/details?id=com.lescinemasaixois.app"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9623542,
+    "link" : true,
+    "type" : "APPLICATION_IPHONE",
+    "nom" : {
+      "libelleFr" : "Appli IPhone",
+      "libelleEn" : "IPhone app"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://apps.apple.com/fr/app/les-cinemas-aixois/id884005898"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3206
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3338
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1001326"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

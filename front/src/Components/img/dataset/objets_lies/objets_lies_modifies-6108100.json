@@ -1,0 +1,310 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 6108100,
+  "nom" : {
+    "libelleFr" : "Galerie Nea"
+  },
+  "identifier" : "SITRA2_LOI_6108100",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-03T15:00:04.800+0000",
+    "dateModification" : "2022-09-26T07:11:22.633+0000",
+    "dateExportModification" : "2022-09-26T07:18:33.904+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103563854,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 98 21 07 10"
+      }
+    }, {
+      "identifiant" : 99018242,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@galerienea.com"
+      }
+    }, {
+      "identifiant" : 99020029,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/galerienea"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6108022
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Galerie d'art contemporain et objets uniques. Peinture, sculpture, photographie & céramique à des prix abordables pour se faire plaisir, dans un univers vintage. Une nouvelle adresse arty et cosy à Aix-en-Provence."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La galerie d’art contemporain présente une sélection d’artistes émergents et confirmés. Leurs univers et partis sont mis en lumière à travers des expositions collectives ou solo show. Le concept s’enrichit d’objets vintage pour une ambiance cosy \"comme à la maison\".\r\nPeinture, photographie, sculpture, céramique et bien d’autres techniques artistiques, se dévoilent autour de thématiques pour s’imprégner des créations, tout en se laissant captiver.\r\nLe lieu est accueillant, intuitif, spontané. Il contribue aux moments de partage, d’échanges et d’émotions. Ici la sacralité de l’art et les codes du genre sont bousculés pour mettre en lumière la création et favoriser la rencontre entre des œuvres qualitatives, abordables, et le public.\r\n\r\nKarine Dubois porte passionnément galerie Néa dans cette ville d’eau et d’art où elle vit depuis plus de 20 ans. \r\nGalerie Néa est le fruit de son itinéraire professionnel riche en expériences variées en centre d’art et en organisation d’expositions dans des lieux dédiés.\r\nÉtymologiquement Néa vient du grec et veut dire \"nouvelle\". En suédois ce prénom signifie \"en mouvement\". De jolis présages pour la galerie !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "7 rue Jaubert",
+      "codePostal" : "13100",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.446514, 43.532759 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6271817
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/05 au 31/12/2022, tous les mardis, mercredis, jeudis, vendredis et samedis.\nDe 10h30 à 13h et de 14h30 à 19h30.",
+      "libelleEn" : "From 03/05 to 31/12/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday.\nFrom 10.30am to 1pm and from 2.30pm to 7.30pm.",
+      "libelleEs" : "Del 03/05 al 31/12/2022, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 03/05 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 03/05 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 03/05 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 03/05 до 31/12/2022, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 5月3日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 03/05 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "03/05 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23248498,
+      "dateDebut" : "2022-05-03",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "De 10h30 à 13h et de 14h30 à 19h30",
+        "libelleEn" : "From 10.30am to 1pm and from 2.30pm to 7.30pm"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24365726
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20701443,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Dubois",
+    "prenom" : "Karine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99020532,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 09 54 40 24"
+      }
+    }, {
+      "identifiant" : 99020575,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@galerienea.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12938463,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Galerie Néa"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/70/13125176.gif",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/70/13125176-liste.gif",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/70/13125176-fiche.gif",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/70/13125176-diaporama.gif",
+      "extension" : "gif",
+      "fileName" : "nea",
+      "taille" : 788450,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-05-03T15:16:12.568+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3207
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3347
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { }
+}

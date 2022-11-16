@@ -1,0 +1,236 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6294439,
+  "nom" : {
+    "libelleFr" : "Exposition Stratos"
+  },
+  "identifier" : "SITRA2_EVE_6294439",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-13T08:33:43.904+0000",
+    "dateModification" : "2022-10-13T08:49:13.614+0000",
+    "dateExportModification" : "2022-11-02T15:02:40.322+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Carry-le-Rouet",
+      "dateCreation" : "2020-10-01T12:13:22.314+0000",
+      "dateModification" : "2022-10-24T08:49:36.330+0000",
+      "id" : 2094,
+      "siteWeb" : "http://www.otcarrylerouet.fr"
+    },
+    "signalerUnProblemeMails" : [ "asmarangon@mairie-carrylerouet.fr", "mdominguezloza@mairie-carrylerouet.fr", "oolivierdallard@mairie-carrylerouet.fr", "scoutsouras@mairie-carrylerouet.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77135998,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 61 31"
+      }
+    }, {
+      "identifiant" : 77135999,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "pavdesarts@gmail.com"
+      }
+    }, {
+      "identifiant" : 70537597,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 13 20 36"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5473164
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228537
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition des sculptures et peintures de l'artiste Stratos au Pavillon des Arts de Carry-le-Rouet"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les oeuvres seront visibles du 8 octobre au 9 novembre 2022"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Pavillon des Arts",
+      "adresse1" : "11-13 Route Bleue",
+      "codePostal" : "13620",
+      "bureauDistribution" : "CARRY LE ROUET",
+      "commune" : {
+        "id" : 4432
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.153778, 43.330899 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4432
+    } ],
+    "lieu" : {
+      "id" : 20609
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5519348
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 08/10 au 09/11/2022 \nOuverture le mardi, mercredi et jeudi de 10h à 12h et de 14h à 17h. Le vendredi de 10h à 12h et de 14h à 19h. Le samedi de 10h à 12h30 et de 14h à 19h.\nFermé lundi et dimanche.",
+      "libelleEn" : "From 08/10 to 09/11/2022 \nOpening hours on Tuesday, Wednesday and Thursday between 10 am and 12 pm and between 2 pm and 5 pm. On Friday between 10 am and 12 pm and between 2 pm and 7 pm. On Saturday between 10 am and 12.30 pm and between 2 pm and 7 pm.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 08/10 al 09/11/2022 \nHorarios de apertura los martes, miércoles y jueves de 10 a 12 y de 14 a 17. Los viernes de 10 a 12 y de 14 a 19. Los sábado de 10 a 12:30 y de 14 a 19.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 08/10 al 09/11/2022 \nOrari di apertura il martedì, mercoledì e giovedì dalle 10 alle 12 e dalle 14 alle 17. Il venerdì dalle 10 alle 12 e dalle 14 alle 19. Il sabato dalle 10 alle 12:30 e dalle 14 alle 19.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 08/10 bis 09/11/2022 \nÖffnungszeiten jeden Dienstag, Mittwoch und Donnerstag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 17 Uhr. Jeden Freitag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 19 Uhr. Jeden Samstag von 10 Uhr bis 12.30 Uhr und von 14 Uhr bis 19 Uhr.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 08/10 tot en met 09/11/2022 \nOpeningstijden op dinsdag, woensdag en donderdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 17.00 u. Op vrijdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 19.00 u. Op zaterdag van 10.00 tot en met 12.30 u en van 14.00 tot en met 19.00 u.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 08/10 до 09/11/2022 \nЧасы открытия на вторник, среда и четверг с 10h до 12h и с 14h до 17h. На пятница с 10h до 12h и с 14h до 19h. На суббота с 10h до 12h30 и с 14h до 19h.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 10月8日 到 2022年11月9日 \n开放时间 上 星期二, 星期三 和 星期四 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间. 上 星期五 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间. 上 星期六 小时小时 和 小时小时分钟  之间 和 小时小时 和 小时小时 之间.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 08/10 a 09/11/2022 \nOuverture na terça-feira, quarta-feira e quinta-feira de 10h a  12h e de 14h a  17h. Na sexta-feira de 10h a  12h e de 14h a  19h. Na sábado de 10h a  12h30 e de 14h a  19h.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "08/10 から 09/11/2022 まで \n開館時間 火曜日, 水曜日 と 木曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 5 午後 の間. 金曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 7 午後 の間. 土曜日 に 10 午前 と 12.30 午後 の間 と 2 午後 と 7 午後 の間.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24489589,
+      "dateDebut" : "2022-10-08",
+      "dateFin" : "2022-11-09",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24489589
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14384608,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "affiche"
+    },
+    "legende" : {
+      "libelleFr" : "exposition stratos"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme Carry"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/14722077.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/14722077-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/14722077-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/164/14722077-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "08.10 Stratos",
+      "taille" : 514411,
+      "hauteur" : 2245,
+      "largeur" : 1587,
+      "lastModifiedDate" : "2022-10-13T08:49:13.756+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Pavillon des Arts"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

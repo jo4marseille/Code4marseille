@@ -1,0 +1,286 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538350,
+  "nom" : {
+    "libelleFr" : "Chapelle Notre-Dame de la Nerthe (La Galline)",
+    "libelleEn" : "Chapelle Notre-Dame de la Nerthe (La Galline)",
+    "libelleEs" : "Chapelle Notre-Dame de la Nerthe (La Galline)",
+    "libelleIt" : "Chapelle Notre-Dame de la Nerthe (La Galline)",
+    "libelleDe" : "Chapelle Notre-Dame de la Nerthe (La Galline)",
+    "libelleNl" : "Chapelle Notre-Dame de la Nerthe (La Galline)"
+  },
+  "identifier" : "SITRA2_PCU_5538350",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:28:27.605+0000",
+    "dateModification" : "2021-06-22T13:25:36.251+0000",
+    "dateExportModification" : "2022-07-01T09:40:25.545+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628651,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 46 13 39"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224542
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "La petite chapelle de la Nerthe (Myrte, en provençal) est l'antique église d'un petit village dont il ne reste plus rien. Consacrée en 1042, elle devint par la suite un lieu de pèlerinage fort populaire à Marseille. On vient y prier la Madone à la poule (d'où son autre nom : Notre-Dame de la Galline). \r\nAccès à pied, en vélo, en voiture.\r\nMesse le premier samedi du mois à 10h.\r\nL'église est ouverte sur rendez-vous après avoir contacté M. Fouque.\r\nPèlerinage : le 8 septembre. Paul Guigou l'a peinte en 1860.",
+      "libelleEn" : "The small chapel of the \"Nerthe\"( Myrte, in provençal) is the ancient church of a small village of which nothing remains. Consecrated  in 1042, it became a very popular place of pilgrimage in Marseille. People come there to pray to the Madonna of the Hen (Hence its other name  : Notre-Dame de la Galline). \r\nAccess on foot, by bike, by car.\r\nMass on the first Saturday of the month at 10am.\r\nThe church is open by appointment after contacting Mr. Fouque.\r\nPilgrimage : September 8.\r\nPaul Guigou painted it in 1860."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin De la Nerthe",
+      "adresse2" : "L'Estaque",
+      "codePostal" : "13016",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4546
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.308660, 43.364283 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4546
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  }, {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8727610,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000051_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR Office Métropolitain de Tourisme et Congrès Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/135/8488782.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/135/8488782-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/135/8488782-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/135/8488782-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 131628,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-09-09T04:07:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8727611,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000051_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR Office Métropolitain de Tourisme et Congrès Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/135/8488783.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/135/8488783-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/135/8488783-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/135/8488783-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 173751,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-09-09T04:07:53.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8727612,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000051_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR Office Métropolitain de Tourisme et Congrès Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/135/8488784.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/135/8488784-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/135/8488784-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/135/8488784-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 76503,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-09-09T04:07:53.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8727613,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000051_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR Office Métropolitain de Tourisme et Congrès Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/135/8488785.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/135/8488785-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/135/8488785-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/135/8488785-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 135332,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-09-09T04:07:54.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3488
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3530
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3328
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000051"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

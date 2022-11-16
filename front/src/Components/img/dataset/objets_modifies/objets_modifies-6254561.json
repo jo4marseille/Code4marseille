@@ -1,0 +1,293 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6254561,
+  "nom" : {
+    "libelleFr" : "Vues sur Mer"
+  },
+  "identifier" : "SITRA2_EVE_6254561",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-07T06:57:24.584+0000",
+    "dateModification" : "2022-10-20T11:55:33.699+0000",
+    "dateExportModification" : "2022-10-20T11:55:33.879+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102991471,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museeregardsdeprovence.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223237
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "En cette rentrée 2022, le Musée de Regards de Provence présente l’exposition \"Vues sur Mer\", qui réunit 25 peintres, photographes, sculpteurs et vidéaste contemporains, du 14 septembre 2022 au 12 mars 2023."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Du 14 septembre 2022 au 12 mars 2023, Le Musée Regards de Provence présente l’exposition \"Vues sur Mer\" qui réunit 25 peintres, photographes, sculpteurs et vidéaste contemporains de la Région Sud, qui ont illustré la mer, les rivages, le littoral, les plages et des activités de bord de mer. \r\n\r\nPar des effets de jeux de lumière et d’ombre, selon les déclinaisons de la journée et les atmosphères qui s’en dégagent, les visions de la mer sont parfois empreintes de réalisme, de poésie, de fantaisie ou de revendication écologique.\r\n\r\nLes artistes, toutes générations confondues, de divers horizons mais souvent liés par leurs travaux à la Méditerranée au sens large, sont questionnés, avec leurs moyens techniques propres, sur ces limites, naturelles ou artificielles, entre la terre et l’eau. Ils mettent en lumière leurs convergences à travers la diversité de leurs approches thématiques et stylistiques.\r\n\r\nCes plasticiens sont Alfons Alt, Astrid B, Zakary Beauvois, Jean-Pierre Blanche, Julien Boullay, Éric Bourret, Benjamin Chasselon, Marc Chostakoff, Mathis Clamens, Adrian Doura, Anke Doberauer, Joséphine Vallé Franceschi, Philippe Ivanez, Yann Letestu, Jacques Lucchesi, Olivier Monge, Patrick Moquet, Philippe Ordioni, Bernard Plossu, Wilbe, Marie-Laure Sasso-Ladouce, Christian Ramade, Nicolas Rubinstein, Jean-Jacques Surian, Jean-Benoît Zimmermann.\r\n\r\nSi la plage, et les bords de mer en général, nous fascinent tant, c’est parce qu’ils constituent un spectacle en soi. C’est un microcosme, avec d’autres codes vestimentaires, un autre rapport à la pudeur et à l’impudeur que ceux qui prévalent à la ville. Dans cet espace dédié au farniente et à la douceur de vivre, tous les sens sont stimulés et Alain Corbin, l’auteur du \"Territoire du vide\", évoque même une ‘expérience poly-sensorielle’. Ici on peut jouir de la mer - presque - sans danger.\r\n\r\nLa plage se révèle être un plaisir pour ceux qui en profitent et une source d’inspiration pour les créateurs. Cette symbiose des éléments - eau, air, terre, feu - peut générer, elle aussi, des émotions artistiques. Les romans, les films et les chansons qui ont décliné, d’une manière ou d’une autre, ce sujet si délectable, ont été innombrables. En peinture, citons les plages nuageuses de Boudin, les Baigneuses de Renoir, si chatoyantes, si audacieuses, ou les jeunes nageurs solaires de Balthus et de Sorolla. Quant à Ponson, il a immortalisé les calanques marseillaises à une époque où les touristes ne les avaient pas encore envahies.\r\n\r\n\r\n••• Autour de l'exposition\r\n\r\n• Samedi 22 octobre à 15h \r\nRencontres avec des artistes de l’exposition \"Vues sur Mer\" : MarieLaure Sasso-Ladouce, Olivier Monge / MYOP, Benjamin Chasselon, Jean-Benoît Zimmermann, Philippe Ivanez, Patrick Moquet, Jean-Jacques Surian et Christian Ramade, pour révéler leur travail et leur passion et dédicacer leurs ouvrages et œuvres de petits formats en vente à la librairie-boutique-galerie.\r\n\r\n• Samedi 19 novembre à 15h \r\nRencontres avec des artistes de l’exposition \"Vues sur Mer\" : Joséphine Vallé Franceschi, Yann Letestu, Wilbe, Philippe Ordioni, Marc Chostakoff et Jacques Lucchesi, pour révéler leur travail et leur passion et dédicacer leurs ouvrages et œuvres de petits formats en vente à la librairie-boutique-galerie."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Regards de Provence",
+      "adresse1" : "Allées Regards de Provence",
+      "adresse2" : "Avenue Vaudoyer",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.363523, 43.297476 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 14/09/2022 au 12/03/2023 de 10h à 18h sauf les 1er janvier et 25 décembre.\nFermé le lundi.\nDu mardi au dimanche de 10h à 18h.",
+      "libelleEn" : "From 14/09/2022 to 12/03/2023 between 10 am and 6 pm except on January 1st and December 25th.\nClosed on Monday.",
+      "libelleEs" : "Del 14/09/2022 al 12/03/2023 de 10 a 18 excepto los días 1er de enero y 25 de diciembre.\nCerrado los lunes.",
+      "libelleIt" : "Dal 14/09/2022 al 12/03/2023 dalle 10 alle 18 tranne 1° gennaio e 25 dicembre.\nChiuso il lunedì.",
+      "libelleDe" : "Vom 14/09/2022 bis 12/03/2023 von 10 Uhr bis 18 Uhr (außer 1. Januar und 25. Dezember).\nMontag geschlossen.",
+      "libelleNl" : "Van 14/09/2022 tot en met 12/03/2023 van 10.00 tot en met 18.00 u m.u.v. 1 januari en 25 december.\nMaandag gesloten.",
+      "libelleRu" : "С 14/09/2022 до 12/03/2023 с 10h до 18h кроме 1 января и 25 декабря.\nНе работает понедельник.",
+      "libelleZh" : "从 2022年9月14日 到 2023年3月12日 小时小时 和 小时小时 之间 不包括 1月1日 和 12月25日.\n星期一 关闭.",
+      "libellePtBR" : "De 14/09/2022 a 12/03/2023 de 10h a  18h exceto em 1º de janeiro e 25 de dezembro.\nFechado em segunda-feira.",
+      "libelleJa" : "14/09/2022 から 12/03/2023 まで 10 午前 と 6 午後 の間 1月1日 と 12月25日 を除き.\n月曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24241068,
+      "dateDebut" : "2022-09-14",
+      "dateFin" : "2023-03-12",
+      "complementHoraire" : {
+        "libelleFr" : "Du mardi au dimanche de 10h à 18h"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24544877
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 7,50 €, Tarif réduit : de 3 à 6,50 €.\n",
+      "libelleEn" : "Full price: 7.50 €, Reduced price: 3 to 6.50 €.\n",
+      "libelleEs" : "Tarifa completa: 7,50 €, Precio reducido: de 3 a 6,50 €.\n",
+      "libelleIt" : "Tarrifa intera: 7,50 €, Prezzo ridotto: da 3 a 6,50 €.\n",
+      "libelleDe" : "Voller Preis: 7,50 €, Reduzierter Preis: von 3 bis 6,50 €.\n",
+      "libelleNl" : "Vol tarief: € 7,50, Korting: € 3 tot en met € 6,50.\n",
+      "libelleRu" : "Полную цену : 7,50 €, Сниженная цена : с 3 до  6,50 €.\n",
+      "libelleZh" : "全额 : 7.50 €, 减价 : 从 3 到  6.50 €.\n",
+      "libellePtBR" : "Tarifa inteira: 7,50 €, Preço reduzido: de 3 a 6,50 €.\n",
+      "libelleJa" : "通常料金: 7.50 €, 割引料金: 3 から 6.50 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13623389,
+      "dateDebut" : "2022-09-14",
+      "dateFin" : "2023-03-12",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 7.50,
+        "maximum" : 7.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 6.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13971901,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Vues sur Mer"
+    },
+    "legende" : {
+      "libelleFr" : "Vues sur Mer"
+    },
+    "copyright" : {
+      "libelleFr" : "Vues sur Mer - Musée Regards de Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/105/14248382.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/105/14248382-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/105/14248382-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/105/14248382-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "vues",
+      "taille" : 89755,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-07T07:11:17.053+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2270
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Musée Regards de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-03-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT115120"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

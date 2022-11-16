@@ -1,0 +1,182 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222869,
+  "nom" : {
+    "libelleFr" : "Muséum d'Histoire Naturelle",
+    "libelleEn" : "Museum d'Histoire Naturelle (Natural History Museum)",
+    "libelleEs" : "Muséum d'Histoire Naturelle",
+    "libelleIt" : "Museo di storia naturale",
+    "libelleDe" : "Das Museum für Naturgeschichte",
+    "libelleNl" : "Muséum d'Histoire Naturelle"
+  },
+  "identifier" : "SITRA2_STR_5222869",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:41:42.417+0000",
+    "dateModification" : "2022-08-30T12:42:23.716+0000",
+    "dateExportModification" : "2022-08-30T12:42:35.393+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512127,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 50"
+      }
+    }, {
+      "identifiant" : 70512128,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 58 21"
+      }
+    }, {
+      "identifiant" : 70512130,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museum@marseille.fr"
+      }
+    }, {
+      "identifiant" : 70512131,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fleroy@mairie-marseille.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "19133345900011",
+      "codeApeNaf" : "925C",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Palais Longchamp",
+      "adresse2" : "Boulevard De Montricher",
+      "adresse3" : "Aile droite",
+      "codePostal" : "13004",
+      "commune" : {
+        "id" : 4534
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.393551, 43.305048 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4534
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  } ],
+  "contacts" : [ {
+    "identifiant" : 21241483,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MEDARD-BLONDEL",
+    "prenom" : "Anne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 102734542,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 14 59 33"
+      }
+    }, {
+      "identifiant" : 102734559,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 87 18 32 59"
+      }
+    }, {
+      "identifiant" : 102734582,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "amedard@marseille.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

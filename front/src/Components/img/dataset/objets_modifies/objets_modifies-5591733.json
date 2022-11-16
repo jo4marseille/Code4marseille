@@ -1,0 +1,557 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5591733,
+  "nom" : {
+    "libelleFr" : "Visite libre de l'atelier de Cezanne",
+    "libelleEn" : "Cezanne's Studio - Self visit",
+    "libelleIt" : "Visite libre de l'atelier de Cezanne",
+    "libelleDe" : "Visite libre de l'atelier de Cezanne",
+    "libelleNl" : "Visite libre de l'atelier de Cezanne"
+  },
+  "identifier" : "SITRA2_EVE_5591733",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-03T09:40:59.394+0000",
+    "dateModification" : "2022-04-15T08:41:19.729+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92644309,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 21 06 53"
+      }
+    }, {
+      "identifiant" : 92644337,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "infos@atelier-cezanne.com"
+      }
+    }, {
+      "identifiant" : 92644366,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.cezanne-en-provence.com"
+      }
+    }, {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5530319
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La visite de l'Atelier de Paul Cezanne permet de découvrir l'univers de création et les objets familiers du peintre",
+      "libelleEn" : "The visit of the atelier de Cezanne allows to discover the universe of creation and the familiar objects of the painter"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Des dizaines d'œuvres, aujourd'hui conservées dans les grands musées du Monde, ont été peintes dans cet Atelier de lumière et de silence. \r\n\r\nDurée de la visite de l'Atelier de l'artiste : 30 minutes. Limitée à 19 personnes.\r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix-en-Provence.\r\n\r\nPas d'audioguide jusqu'à nouvel ordre (3€) : français, anglais, espagnol, allemand, russe, japonais, italien, chinois, néerlandais, portugais.",
+      "libelleEn" : "The Paul Cezanne's studio is a great opportunity to access his then creative and intimate environment. Dozens of works, presently in famous museums around the world, have been painted in this sacredlike, quiet sunbathed space.\r\n\r\nPlease respect your scheduled visit. Otherwise you will not be able to make up for your delay.\r\n\r\nDuration: 30 minutes. Limitation 19 people.\r\n\r\nYou can buy your ticket separately or within a package (pass)\r\nBook at the information desk or on the website of the Tourist Office."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Atelier de Cezanne",
+      "adresse1" : "9 Avenue Paul Cézanne",
+      "codePostal" : "13090",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "En voiture, au départ de l'Office de Tourisme, prendre le périphérique jusqu'à hauteur du Bd Aristide Briand, puis tourner à droite en direction de Puyricard/Hôpital, et continuer tout droit jusqu'à l'Atelier Cezanne.\r\nParking Pasteur conseillé (600 m de côte un peu raide jusqu'à l'atelier de Cezanne).\r\n\r\nAutocars de tourisme : places balisées avenue Raymond Poincaré",
+        "libelleEn" : "Car: parking Pasteur is advised.\r\nTourist coaches: marked spots on avenue Raymond Poincaré. (GPS 43°32'22 N – 5°26'47 E)"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.446409, 43.538339 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538099
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/04 au 31/05/2022, tous les jours sauf le 1er mai.\nDe 9h30 à 12h30 et de 14h à 18h\r\nVisites toutes les demi-heures.\n\nDu 01/06 au 30/09/2022, tous les jours de 9h30 à 18h.\nVisites toutes les demi-heures.\n\nDu 01/10 au 31/12/2022, tous les mardis, mercredis, jeudis, vendredis et samedis sauf le 25 décembre.\nDe 9h30 à 12h30 et de 14h à 17h\r\nVisites toutes les demi-heures.",
+      "libelleEn" : "From 01/04 to 31/05/2022, daily except on May 1st.\n\nFrom 01/06 to 30/09/2022, daily between 9.30 am and 6 pm.\n\nFrom 01/10 to 31/12/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday except on December 25th.\nFrom 9.30am to 12.30pm and from 2pm to 5pm\r\nTour every 30 minutes.",
+      "libelleEs" : "Del 01/04 al 31/05/2022, todos los dias excepto el 1er de mayo.\n\nDel 01/06 al 30/09/2022, todos los dias de 9:30 a 18.\n\nDel 01/10 al 31/12/2022, todos los martes, miércoles, jueves, viernes y sábados excepto el 25 de diciembre.",
+      "libelleIt" : "Dal 01/04 al 31/05/2022, ogni giorno tranne il 1° maggio.\n\nDal 01/06 al 30/09/2022, ogni giorno dalle 9:30 alle 18.\n\nDal 01/10 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati tranne il 25 dicembre.",
+      "libelleDe" : "Vom 01/04 bis 31/05/2022, täglich (außer 1. Mai).\n\nVom 01/06 bis 30/09/2022, täglich von 9.30 Uhr bis 18 Uhr.\n\nVom 01/10 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag (außer 25. Dezember).",
+      "libelleNl" : "Van 01/04 tot en met 31/05/2022, iedere dag m.u.v. 1 mei.\n\nVan 01/06 tot en met 30/09/2022, iedere dag van 9.30 tot en met 18.00 u.\n\nVan 01/10 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag m.u.v. 25 december.",
+      "libelleRu" : "С 01/04 до 31/05/2022, ежедневно кроме 1 мая.\n\nС 01/06 до 30/09/2022, ежедневно с 9h30 до 18h.\n\nС 01/10 до 31/12/2022, каждый вторники, среды, четверги, пятницы и субботы кроме 25 декабря.",
+      "libelleZh" : "从 4月1日 到 2022年5月31日, 日常 不包括 5月1日.\n\n从 6月1日 到 2022年9月30日, 日常 小时小时分钟  和 小时小时 之间.\n\n从 10月1日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六 不包括 12月25日.",
+      "libellePtBR" : "De 01/04 a 31/05/2022, todos os dias exceto em 1º de maio.\n\nDe 01/06 a 30/09/2022, todos os dias de 9h30 a  18h.\n\nDe 01/10 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados exceto em 25 de dezembro.",
+      "libelleJa" : "01/04 から 31/05/2022 まで, 毎日 5月1日 を除き.\n\n01/06 から 30/09/2022 まで, 毎日 9.30 午前 と 6 午後 の間.\n\n01/10 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20939623,
+      "dateDebut" : "2022-01-11",
+      "dateFin" : "2022-03-31",
+      "complementHoraire" : {
+        "libelleFr" : "de 9h30 à 12h30 et de 14h à 17h\r\nVisites toutes les demi-heures",
+        "libelleEn" : "from 9.30am to 12.30pm and from 2pm to 5pm\r\nTour every 30 minutes"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23132404
+    }, {
+      "identifiant" : 20957283,
+      "dateDebut" : "2022-04-01",
+      "dateFin" : "2022-05-31",
+      "complementHoraire" : {
+        "libelleFr" : "de 9h30 à 12h30 et de 14h à 18h\r\nVisites toutes les demi-heures"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23132405
+    }, {
+      "identifiant" : 22154957,
+      "dateDebut" : "2022-06-01",
+      "dateFin" : "2022-09-30",
+      "complementHoraire" : {
+        "libelleFr" : "Visites toutes les demi-heures"
+      },
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23132406
+    }, {
+      "identifiant" : 22154831,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "de 9h30 à 12h30 et de 14h à 17h\r\nVisites toutes les demi-heures",
+        "libelleEn" : "from 9.30am to 12.30pm and from 2pm to 5pm\r\nTour every 30 minutes"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23132407
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 6,50 €, Tarif réduit : 3,50 € (13 à 25 ans).\r\n\r\n Gratuit pour les moins de 13 ans, la presse, les accompagnateurs guides, les demandeurs d'emploi, les personnes handicapées.\r\n\r\nGratuit pour les détenteurs du City Pass Aix-en-Provence\r\nGratuit avec le Pass My Provence, Adhérent Culture du Coeur, ICOM (avec justificatif).",
+      "libelleEn" : "Full price: 6.50 €, Reduced price: 3.50 €.\r\n\r\n Free entry for children < 13 years, press, accompanying guides, Job-seeker, disabled people.",
+      "libelleEs" : "Tarifa completa: 6,50 €, Precio reducido: 3,50 €.\r\n\r\n Gratuito para los niños menores de 13 años, La prensa, guías turísticos, Los demandantes de empleo, personas discapacitadas.",
+      "libelleIt" : "Tarrifa intera: 6,50 €, Prezzo ridotto: 3,50 €.\r\n\r\n Gratuito per i bambini di età inferiore a 13 anni, giornalista, guide turistiche, Disoccupati, persone disabili.",
+      "libelleDe" : "Voller Preis: 6,50 €, Reduzierter Preis: 3,50 €.\r\n\r\n Kostenlos für Kinder unter 13 Jahren, die Presse, Reiseleiter, Arbeitssuchende, behinderte Menschen.",
+      "libelleNl" : "Vol tarief: € 6,50, Korting: € 3,50.\r\n\r\n Gratis voor kinderen onder de 13 jaar, pers, voor reisleiders, Werkzoekende, mensen met een handicap.",
+      "libelleRu" : "Полную цену : 6,50 €, Сниженная цена : 3,50 €.\r\n\r\n Бесплатно для лицам младше 13 лет, пресса, гиды, соискатели работы, инвалиды.",
+      "libelleZh" : "全额 : 6.50 €, 减价 : 3.50 €.\r\n\r\n 儿童 < 13 岁, 新闻工作者, 导游人员, 求职者, 残疾人自由进入.",
+      "libellePtBR" : "Tarifa inteira: 6,50 €, Preço reduzido: 3,50 €.\r\n\r\n Gratuito para menores de 13 anos, pressione, os guias, Procurando emprego, os deficientes.",
+      "libelleJa" : "通常料金: 6.50 €, 割引料金: 3.50 €.\r\n\r\n 子供 < 13 歳, 新聞社, 観光案内人, 求職者, 障害者 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Gratuit pour les détenteurs du City Pass Aix-en-Provence\r\nGratuit avec le Pass My Provence ICOM (avec justificatif).\r\n\r\nAudioguide Location : 3 € \r\nLes audioguides font l’objet d’une désinfection et d'une mise en quarantaine de 24h pouvant entrainer une rupture de stock au moment de votre visite (possibilité d’apporter votre propre casque avec prise mini-jack)."
+    },
+    "periodes" : [ {
+      "identifiant" : 12234510,
+      "dateDebut" : "2021-10-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 6.50,
+        "maximum" : 6.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.50,
+        "maximum" : 3.50,
+        "precisionTarif" : {
+          "libelleFr" : "13 à 25 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionsGratuite" : [ {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4255
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4257
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4772
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 5076
+      } ],
+      "gratuitPourLesMoinsDe" : 13
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5779591,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228508
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 88700883,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/atelier-de-cezanne-visite-libre.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Rendez vous sur place, 5 mn avant votre visite. Merci de respecter impérativement votre horaire de visite ; votre retard ne pourra pas être rattrapé."
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 8580386,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/79/8343456.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/79/8343456-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/79/8343456-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/79/8343456-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1151321,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:47.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8580387,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/79/8343457.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/79/8343457-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/79/8343457-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/79/8343457-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1652992,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8580385,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/79/8343455.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/79/8343455-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/79/8343455-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/79/8343455-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 766551,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:46.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8580388,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/79/8343458.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/79/8343458-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/79/8343458-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/79/8343458-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 499660,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:51.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8580389,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/79/8343459.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/79/8343459-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/79/8343459-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/79/8343459-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 980701,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:48.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8580390,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS003914_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/79/8343460.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/79/8343460-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/79/8343460-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/79/8343460-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 777249,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T13:29:49.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Atelier de Cezanne"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS003914"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

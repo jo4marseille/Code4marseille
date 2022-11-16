@@ -1,0 +1,418 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5859593,
+  "nom" : {
+    "libelleFr" : "Mairie de Lambesc"
+  },
+  "identifier" : "SITRA2_STR_5859593",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-02T13:04:45.207+0000",
+    "dateModification" : "2022-10-03T09:57:26.556+0000",
+    "dateExportModification" : "2022-10-03T09:57:26.782+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Bureau municipal du Tourisme de Lambesc",
+      "dateCreation" : "2020-12-03T09:26:21.649+0000",
+      "dateModification" : "2022-11-03T11:45:21.917+0000",
+      "id" : 2145,
+      "siteWeb" : "https://www.lambesc.fr/ma-ville/decouvrez-lambesc/bureau-municipal-de-tourisme/"
+    },
+    "signalerUnProblemeMails" : [ "anne.vasserot-merle@lambesc.fr", "eric.bavay@lambesc.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 90084257,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 50"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 98886686,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lambesc.fr/"
+      }
+    }, {
+      "identifiant" : 94113084,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 63"
+      },
+      "observation" : {
+        "libelleFr" : "Culture / Médiathèque"
+      }
+    }, {
+      "identifiant" : 94113096,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediatheque@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Médiathèque"
+      }
+    }, {
+      "identifiant" : 102955296,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://mediatheque.lambesc.fr/"
+      },
+      "observation" : {
+        "libelleFr" : "Médiathèque"
+      }
+    }, {
+      "identifiant" : 100131760,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lambesc.fr/mes-sorties/agenda/pre-reservations-en-ligne/"
+      },
+      "observation" : {
+        "libelleFr" : "Réservations Culture et Médiathèque"
+      }
+    }, {
+      "identifiant" : 94113115,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 71"
+      },
+      "observation" : {
+        "libelleFr" : "Service Communication"
+      }
+    }, {
+      "identifiant" : 94113106,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service Communication"
+      }
+    }, {
+      "identifiant" : 94113076,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 02 96"
+      },
+      "observation" : {
+        "libelleFr" : "Service Culturel"
+      }
+    }, {
+      "identifiant" : 94113126,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "carole.lorente@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service Culturel"
+      }
+    }, {
+      "identifiant" : 94879236,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 95 58"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Associations"
+      }
+    }, {
+      "identifiant" : 94113101,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "association@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Associations"
+      }
+    }, {
+      "identifiant" : 94879306,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nathalie.zignani@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Associations"
+      }
+    }, {
+      "identifiant" : 98886611,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 52"
+      },
+      "observation" : {
+        "libelleFr" : "Services Techniques"
+      }
+    }, {
+      "identifiant" : 98886621,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "services.techniques@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Services Techniques"
+      }
+    }, {
+      "identifiant" : 99221690,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 66"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Sports"
+      }
+    }, {
+      "identifiant" : 99221796,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sports@lambesc.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Sports"
+      }
+    }, {
+      "identifiant" : 99223507,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 98 53 93 32"
+      },
+      "observation" : {
+        "libelleFr" : "Service des Sports - Portable"
+      }
+    }, {
+      "identifiant" : 102956976,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 24"
+      },
+      "observation" : {
+        "libelleFr" : "Service Cadre de vie"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "21130050400019",
+      "codeApeNaf" : "8411Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de ville",
+      "adresse2" : "6 boulevard de la République",
+      "codePostal" : "13410",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4461
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.262233, 43.655051 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4461
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19417328,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Juillan",
+    "prenom" : "Marie",
+    "titre" : {
+      "libelleFr" : "Culture / Médiathèque"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 94113136,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 63"
+      }
+    }, {
+      "identifiant" : 94113137,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marie.juillan@lambesc.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20070176,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Zignani",
+    "prenom" : "Nathalie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 94879079,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 95 58"
+      }
+    }, {
+      "identifiant" : 94879114,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nathalie.zignani@lambesc.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20734367,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Liaumon",
+    "prenom" : "Delphine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 99221926,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 17 00 66"
+      }
+    }, {
+      "identifiant" : 99221930,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sports@lambesc.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

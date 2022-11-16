@@ -1,0 +1,372 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6168046,
+  "nom" : {
+    "libelleFr" : "Le chat zen"
+  },
+  "identifier" : "SITRA2_EVE_6168046",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-13T11:49:27.096+0000",
+    "dateModification" : "2022-10-05T14:13:32.795+0000",
+    "dateExportModification" : "2022-10-13T15:12:47.785+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100340130,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    }, {
+      "identifiant" : 100340131,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaflibustier@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230835
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une création Compagnie La Famille avec Alexandre Robitzer et Marine Mardellat, au Flibustier"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un Samouraï a un problème de souris dans sa cuisine !\r\nIl demande de l’aide auprès du vendeur de l’animalerie, mais après de nombreux essais aucun chat n’arrive à résoudre son soucis ; la souris est trop maligne et ne cesse de se servir dans la cuisine.\r\nDésespéré, le Samouraï parle à son ami le moine Zen, qui lui prête son chat.\r\nMais celui dort toute la journée…"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Café théâtre Le Flibustier",
+      "adresse1" : "7 Rue Des Bretons",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453385, 43.528997 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729788
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 5 octobre 2022 à 10h.\n\nMercredi 12 octobre 2022 à 10h.\n\nMercredi 19 octobre 2022 à 10h.\n\nMercredi 9 novembre 2022 à 10h.\n\nMercredi 16 novembre 2022 à 10h.\n\nMercredi 23 novembre 2022 à 10h.",
+      "libelleEn" : "Wednesday 5 October 2022 at 10 am.\n\nWednesday 12 October 2022 at 10 am.\n\nWednesday 19 October 2022 at 10 am.\n\nWednesday 9 November 2022 at 10 am.\n\nWednesday 16 November 2022 at 10 am.\n\nWednesday 23 November 2022 at 10 am.",
+      "libelleEs" : "Miércoles, 5 de octubre de 2022 a 10.\n\nMiércoles, 12 de octubre de 2022 a 10.\n\nMiércoles, 19 de octubre de 2022 a 10.\n\nMiércoles, 9 de noviembre de 2022 a 10.\n\nMiércoles, 16 de noviembre de 2022 a 10.\n\nMiércoles, 23 de noviembre de 2022 a 10.",
+      "libelleIt" : "Mercoledì 5 ottobre 2022 alle 10.\n\nMercoledì 12 ottobre 2022 alle 10.\n\nMercoledì 19 ottobre 2022 alle 10.\n\nMercoledì 9 novembre 2022 alle 10.\n\nMercoledì 16 novembre 2022 alle 10.\n\nMercoledì 23 novembre 2022 alle 10.",
+      "libelleDe" : "Mittwoch, den 5. Oktober 2022 um 10 Uhr.\n\nMittwoch, den 12. Oktober 2022 um 10 Uhr.\n\nMittwoch, den 19. Oktober 2022 um 10 Uhr.\n\nMittwoch, den 9. November 2022 um 10 Uhr.\n\nMittwoch, den 16. November 2022 um 10 Uhr.\n\nMittwoch, den 23. November 2022 um 10 Uhr.",
+      "libelleNl" : "Woensdag 5 oktober 2022 om 10.00 u.\n\nWoensdag 12 oktober 2022 om 10.00 u.\n\nWoensdag 19 oktober 2022 om 10.00 u.\n\nWoensdag 9 november 2022 om 10.00 u.\n\nWoensdag 16 november 2022 om 10.00 u.\n\nWoensdag 23 november 2022 om 10.00 u.",
+      "libelleRu" : "Среда 5 октября 2022  до 10h.\n\nСреда 12 октября 2022  до 10h.\n\nСреда 19 октября 2022  до 10h.\n\nСреда 9 ноября 2022  до 10h.\n\nСреда 16 ноября 2022  до 10h.\n\nСреда 23 ноября 2022  до 10h.",
+      "libelleZh" : "2022年10月5日, 星期三   在 小时小时.\n\n2022年10月12日, 星期三   在 小时小时.\n\n2022年10月19日, 星期三   在 小时小时.\n\n2022年11月9日, 星期三   在 小时小时.\n\n2022年11月16日, 星期三   在 小时小时.\n\n2022年11月23日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 5 Outubro 2022 para  10h.\n\nQuarta-feira 12 Outubro 2022 para  10h.\n\nQuarta-feira 19 Outubro 2022 para  10h.\n\nQuarta-feira 9 Novembro 2022 para  10h.\n\nQuarta-feira 16 Novembro 2022 para  10h.\n\nQuarta-feira 23 Novembro 2022 para  10h.",
+      "libelleJa" : "水曜日 5 10月 2022 10 午前 に.\n\n水曜日 12 10月 2022 10 午前 に.\n\n水曜日 19 10月 2022 10 午前 に.\n\n水曜日 9 11月 2022 10 午前 に.\n\n水曜日 16 11月 2022 10 午前 に.\n\n水曜日 23 11月 2022 10 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23592405,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-10-05",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438753
+    }, {
+      "identifiant" : 23592406,
+      "dateDebut" : "2022-10-12",
+      "dateFin" : "2022-10-12",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438754
+    }, {
+      "identifiant" : 23592407,
+      "dateDebut" : "2022-10-19",
+      "dateFin" : "2022-10-19",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438755
+    }, {
+      "identifiant" : 23592408,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438756
+    }, {
+      "identifiant" : 23592409,
+      "dateDebut" : "2022-11-16",
+      "dateFin" : "2022-11-16",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438757
+    }, {
+      "identifiant" : 23592410,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438758
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 9 €, Enfant : 7 €.\n",
+      "libelleEn" : "Adult: 9 €, Child: 7 €.\n",
+      "libelleEs" : "Adulto: 9 €, Niño: 7 €.\n",
+      "libelleIt" : "Adulto: 9 €, Bambino: 7 €.\n",
+      "libelleDe" : "Erwachsene: 9 €, Kinder: 7 €.\n",
+      "libelleNl" : "Volwassene: € 9, Kind: € 7.\n",
+      "libelleRu" : "Взрослый : 9 €, Ребенок : 7 €.\n",
+      "libelleZh" : "成人 : 9 €, 儿童 : 7 €.\n",
+      "libellePtBR" : "Adulto: 9 €, Criança: 7 €.\n",
+      "libelleJa" : "大人: 9 €, 子供: 7 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13353822,
+      "dateDebut" : "2022-10-05",
+      "dateFin" : "2022-11-23",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 9.00,
+        "maximum" : 9.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 7.00,
+        "maximum" : 7.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6651485,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230835
+      },
+      "nom" : "Café théâtre Le Flibustier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 101395921,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.leflibustier.net/spectacles/1-5-ans/le-chat-zen/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 20920397,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100340132,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.flibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 100340133,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13494653,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Le Flibustier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/163/13673239.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/163/13673239-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/163/13673239-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/163/13673239-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "chat",
+      "taille" : 138869,
+      "hauteur" : 1695,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-07-18T15:20:19.328+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-11-09", "2022-11-16", "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Café théâtre Le Flibustier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

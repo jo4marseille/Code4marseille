@@ -1,0 +1,377 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538566,
+  "nom" : {
+    "libelleFr" : "Musée Ciotaden",
+    "libelleEn" : "Ciotaden Museum",
+    "libelleEs" : "Museo Ciotaden",
+    "libelleIt" : "Musée Ciotaden",
+    "libelleDe" : "Ciotaden-Museum",
+    "libelleNl" : "Musée Ciotaden"
+  },
+  "identifier" : "SITRA2_PCU_5538566",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:54:22.729+0000",
+    "dateModification" : "2022-09-26T08:23:23.853+0000",
+    "dateExportModification" : "2022-09-26T08:23:24.351+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100871735,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 71 54 27"
+      }
+    }, {
+      "identifiant" : 79630525,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee@mairie-laciotat.fr"
+      }
+    }, {
+      "identifiant" : 79630526,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museeciotaden.org"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "39389403500012",
+      "codeApeNaf" : "925C"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223018
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'association des Amis du Vieux La Ciotat, qui gère ce musée, a su préserver les souvenirs du passé pour les présenter au public.",
+      "libelleEn" : "The association of the Friends of Old La Ciotat, which manages this museum, has preserved the memories of the past to present them to the public.",
+      "libelleEs" : "La asociación de los Amigos del Viejo La Ciotat, que gestiona este museo, ha conservado los recuerdos del pasado para presentarlos al público.",
+      "libelleDe" : "Der Verein \"Amis du Vieux La Ciotat\", der dieses Museum betreibt, hat die Erinnerungen an die Vergangenheit bewahrt, um sie der Öffentlichkeit zu präsentieren."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Avec ses 15 salles et plus de 1500 objets exposés, ce musée offre la découverte du patrimoine culturel, religieux, traditionnel, économique et bien sûr tout ce qui concerne l'histoire maritime, l'invention du cinématographe et la pétanque.",
+      "libelleEn" : "With its 15 rooms and more than 1500 exhibits, this museum offers the discovery of the cultural, religious, traditional and economic heritage and of course all that concerns the maritime history, the invention of the cinematograph and the game of bowls.",
+      "libelleEs" : "Con sus 15 salas y más de 1.500 objetos expuestos, este museo permite descubrir el patrimonio cultural, religioso, tradicional y económico y, por supuesto, todo lo relativo a la historia marítima, la invención del cinematógrafo y la petanca.",
+      "libelleDe" : "Mit seinen 15 Sälen und über 1500 Ausstellungsstücken bietet dieses Museum die Möglichkeit, das kulturelle, religiöse, traditionelle und wirtschaftliche Erbe zu entdecken und natürlich alles über die Geschichte der Seefahrt, die Erfindung des Kinematographen und das Boulespiel."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 quai Ganteaume",
+      "codePostal" : "13600",
+      "bureauDistribution" : "LA CIOTAT",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.609972, 43.173642 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4319
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 822
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : { },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMax" : 15
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Fermé temporairement.",
+      "libelleEn" : "Closed temporarily.",
+      "libelleEs" : "Cerrado temporalmente.",
+      "libelleIt" : "Temporaneamente chiusa.",
+      "libelleDe" : "Vorübergehend geschlossen.",
+      "libelleNl" : "Tijdelijk gesloten.",
+      "libelleRu" : "Учреждение временно не работает.",
+      "libelleZh" : "机构暂时关闭.",
+      "libellePtBR" : "Fechado temporariamente.",
+      "libelleJa" : "一時閉鎖中."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23753351,
+      "dateDebut" : "2022-03-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24203352
+    } ],
+    "fermeTemporairement" : "FERME_TEMPORAIREMENT"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 5€\r\nDe 12 à 18 ans : 3 €\r\nMoins de 12 ans : gratuit\r\nGroupe (10 personnes ou plus) : 3 €\r\nVisite guidée : + 3 € par personne.",
+      "libelleEn" : "Adults : 5 €.\r\nFrom 12 to 18 years old : 3€.\r\nLess than 12 years old : free\r\nGroup (10 people or more): 3 € per person\r\nGuided tour : + 3 € per person.",
+      "libelleEs" : "Adultos: 5 euros\r\nDe 12 a 18 años: 3 €.\r\nMenores de 12 años: gratis\r\nGrupo (10 personas o más): 3 euros\r\nVisita guiada: + 3 € por persona.",
+      "libelleDe" : "Erwachsene: 5€.\r\nVon 12 bis 18 Jahren: 3€.\r\nUnter 12 Jahren: kostenlos\r\nGruppe (10 Personen oder mehr): 3 €.\r\nGeführte Tour: + 3 € pro Person."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adulte : 5€\r\nDe 12 à 18 ans : 3 €\r\nMoins de 12 ans : gratuit\r\nGroupe (10 personnes ou plus) : 3 €\r\nVisite guidée : + 3 € par personne",
+      "libelleEn" : "Adults : 5 €.\r\nFrom 12 to 18 years old : 3€.\r\nLess than 12 years old : free\r\nGroup (10 people or more): 3 € per person\r\nGuided tour : + 3 € per person",
+      "libelleEs" : "Adultos: 5 euros\r\nDe 12 a 18 años: 3 €.\r\nMenores de 12 años: gratis\r\nGrupo (10 personas o más): 3 euros\r\nVisita guiada: + 3 € por persona",
+      "libelleDe" : "Erwachsene: 5€.\r\nVon 12 bis 18 Jahren: 3€.\r\nUnter 12 Jahren: kostenlos\r\nGruppe (10 Personen oder mehr): 3 €.\r\nGeführte Tour: + 3 € pro Person"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16903
+  }, {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636834,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "CONIL",
+    "prenom" : "Jean-Louis",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10548041,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Ciotaden"
+    },
+    "legende" : {
+      "libelleFr" : "Musée Ciotaden"
+    },
+    "copyright" : {
+      "libelleFr" : "officedetourismelaciotat"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/240/10350686.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/240/10350686-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/240/10350686-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/240/10350686-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Musé après travaux",
+      "taille" : 3766478,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2021-07-21T10:58:42.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "dureeMoyenneVisiteGroupe" : 90,
+    "dureeMoyenneVisiteIndividuelle" : 60,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    }, {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    }, {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 489
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "datesOuverture" : [ "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3398
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3424
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 5334
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3226
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000337"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT La Ciotat"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-laciotat.com"
+    }
+  } ]
+}

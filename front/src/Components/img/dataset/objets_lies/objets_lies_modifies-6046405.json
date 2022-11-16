@@ -1,0 +1,292 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 6046405,
+  "nom" : {
+    "libelleFr" : "Comment créer son potager chez soi ?"
+  },
+  "identifier" : "SITRA2_ACT_6046405",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-01T14:21:06.329+0000",
+    "dateModification" : "2022-03-14T11:04:24.706+0000",
+    "dateExportModification" : "2022-07-17T05:21:46.592+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Au cours de cette matinée sur le thème de la botanique, vous découvrirez le savoir-faire des jardiniers qui vous donneront « trucs et astuces » pour commencer votre potager. Une matinée familiale."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "9h45 : Rendez-vous sur le parking de la Maison des Associations et départ pour les jardins.\r\n10h : Présentation de l’association et découverte des jardins\r\n11h : atelier sur le rempotage, l’utilisation des engrais et information pour la réalisation d’un potager en bac.\r\n12h : collation et partage convivial."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Atelier encadré dans le respect des gestes barrières. Places limitées selon la législation en vigueur."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Association des jardiniers de Tartugues",
+      "adresse1" : "5 chemins des tartugues",
+      "codePostal" : "13800",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.977161, 43.508388 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 18222
+    },
+    "lieuObjetTouristique" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 6046428
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 21 mai 2022 de 9h45 à 12h.",
+      "libelleEn" : "Saturday 21 May 2022 between 9.45 am and 12 pm.",
+      "libelleEs" : "Sábado, 21 de mayo de 2022 de 9:45 a 12.",
+      "libelleIt" : "Sabato 21 maggio 2022 dalle 9:45 alle 12.",
+      "libelleDe" : "Samstag, den 21. Mai 2022 von 9.45 Uhr bis 12 Uhr.",
+      "libelleNl" : "Zaterdag 21 mei 2022 van 9.45 tot en met 12.00 u.",
+      "libelleRu" : "Суббота 21 мая 2022  с 9h45 до 12h.",
+      "libelleZh" : "2022年5月21日, 星期六   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Sábado 21 Maio 2022 de 9h45 a  12h.",
+      "libelleJa" : "土曜日 21 5月 2022 9.45 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22803267,
+      "dateDebut" : "2022-05-21",
+      "dateFin" : "2022-05-21",
+      "horaireOuverture" : "09:45:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22892747
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. 10 €.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "10 €"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6329359,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 97688607,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/atelier-decouverte-creer-son-potager-chez-soi.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12686348,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/131/12878810.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/131/12878810-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/131/12878810-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/131/12878810-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Potager-bio",
+      "taille" : 149401,
+      "hauteur" : 604,
+      "largeur" : 850,
+      "lastModifiedDate" : "2022-03-14T11:04:24.886+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Association des jardiniers de Tartugues",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1886
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1782
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1788
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-05-21T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

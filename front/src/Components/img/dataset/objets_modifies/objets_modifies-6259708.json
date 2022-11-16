@@ -1,0 +1,254 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6259708,
+  "nom" : {
+    "libelleFr" : "Marché paysan de la Plaine"
+  },
+  "identifier" : "SITRA2_EVE_6259708",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-13T06:43:13.748+0000",
+    "dateModification" : "2022-09-23T12:28:06.457+0000",
+    "dateExportModification" : "2022-09-23T12:28:07.150+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103155802,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marseille.fr/decouvrir-marseille/les-march%C3%A9s-de-la-ville/les-march%C3%A9s-alimentaires"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5350442
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nouveau Marché Paysan de la Plaine."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Nouveau Marché Paysan de la Plaine. \r\n\r\nUne vingtaine de producteurs locaux seront au rendez-vous sur la place Jean-Jaurès, pour vous proposer des fruits et légumes frais issus de l’agriculture locale. \r\n \r\nNord-Est de la Place (côté boulevard Chave)"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Plaine",
+      "adresse1" : "Place Jean Jaurès",
+      "codePostal" : "13005",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.386984, 43.295206 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 16/09 au 31/12/2022, tous les vendredis sauf le 25 décembre.\nPrintemps-été : 16h-20h  \r\nAutomne-hiver : 16h-19h.",
+      "libelleEn" : "From 16/09 to 31/12/2022, every Friday except on December 25th.",
+      "libelleEs" : "Del 16/09 al 31/12/2022, todos los viernes excepto el 25 de diciembre.",
+      "libelleIt" : "Dal 16/09 al 31/12/2022, tutti i venerdì tranne il 25 dicembre.",
+      "libelleDe" : "Vom 16/09 bis 31/12/2022, jeden Freitag (außer 25. Dezember).",
+      "libelleNl" : "Van 16/09 tot en met 31/12/2022, elke vrijdag m.u.v. 25 december.",
+      "libelleRu" : "С 16/09 до 31/12/2022, каждый пятницы кроме 25 декабря.",
+      "libelleZh" : "从 9月16日 到 2022年12月31日, 每星期五 不包括 12月25日.",
+      "libellePtBR" : "De 16/09 a 31/12/2022, todas as sextas-feiras exceto em 25 de dezembro.",
+      "libelleJa" : "16/09 から 31/12/2022 まで, 毎金曜日 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24277766,
+      "dateDebut" : "2022-09-16",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Printemps-été : 16h-20h  \r\nAutomne-hiver : 16h-19h"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 24354743
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14148154,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché paysan de la Plaine - Ville de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché paysan de la Plaine - Ville de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Marseille - Marché paysan de la Plaine"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/122/14449302.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/122/14449302-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/122/14449302-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/150/122/14449302-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "vdm marche paysan plaine",
+      "taille" : 93804,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-23T12:28:06.567+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-11", "2022-11-18", "2022-11-25", "2022-12-02", "2022-12-09", "2022-12-16", "2022-12-23", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Plaine"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV050835"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

@@ -1,0 +1,166 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5226693,
+  "nom" : {
+    "libelleFr" : "Observatoire de Vauvenargues",
+    "libelleEn" : "Vauvenargues Observatory",
+    "libelleEs" : "Observatoire de Vauvenargues",
+    "libelleIt" : "Observatoire de Vauvenargues",
+    "libelleDe" : "Observatoire de Vauvenargues",
+    "libelleNl" : "Observatoire de Vauvenargues"
+  },
+  "identifier" : "SITRA2_STR_5226693",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T14:03:51.179+0000",
+    "dateModification" : "2022-02-21T13:22:02.158+0000",
+    "dateExportModification" : "2022-07-15T08:28:36.879+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70525491,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 66 00 96"
+      }
+    }, {
+      "identifiant" : 70525492,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 65 10 13 74"
+      }
+    }, {
+      "identifiant" : 70525495,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.astrosurf.com/aaaov/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "44877517100011",
+      "codeApeNaf" : "913E"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "La Sinne",
+      "adresse2" : "1185 Chemin Du Puits d'Auzon",
+      "codePostal" : "13126",
+      "commune" : {
+        "id" : 4522
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.602142, 43.555284 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4522
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19022085,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Ferratfiat",
+    "prenom" : "Stéphane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 87608000,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "stephane.ferratfiat@laposte.net"
+      }
+    } ]
+  }, {
+    "identifiant" : 19022086,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Delauzin",
+    "prenom" : "Grégoire",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 87608039,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 70 62 39"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

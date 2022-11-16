@@ -1,0 +1,238 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6297432,
+  "nom" : {
+    "libelleFr" : "Vivre en colonie l’expérience coloniale photographiée en Nouvelle-Calédonie et au Vanuatu"
+  },
+  "identifier" : "SITRA2_EVE_6297432",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T16:46:33.489+0000",
+    "dateModification" : "2022-10-18T15:22:02.463+0000",
+    "dateExportModification" : "2022-10-21T15:21:30.522+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104178748,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.laphotographie-marseille.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466378
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition collective"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Une série de clichés de la vie quotidienne à la fin du XIXe siècle et au début du XXe  siècle sous les colonisations française et francobritannique ; illustration d’un «Vivre ensemble» singulier à l’ombre de la domination coloniale"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La plateforme",
+      "adresse1" : "150 chemin de la Madrague Ville",
+      "codePostal" : "13015",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4545
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.358868, 43.332747 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4545
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/11 au 30/11/2022.\nFermé lundi et dimanche.\nDu mardi au samedi de 16h à 19h.",
+      "libelleEn" : "From 19/11 to 30/11/2022.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 19/11 al 30/11/2022.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 19/11 al 30/11/2022.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 19/11 bis 30/11/2022.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 19/11 tot en met 30/11/2022.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 19/11 до 30/11/2022.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 11月19日 到 2022年11月30日.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 19/11 a 30/11/2022.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "19/11 から 30/11/2022 まで.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24503889,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-30",
+      "complementHoraire" : {
+        "libelleFr" : "du mardi au samedi de 16h à 19h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24528527
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14449376,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "VIVRE EN COLONIE L’EXPÉRIENCE COLONIALE PHOTOGRAPHIÉE EN NOUVELLE-CALÉDONIE ET AU VANUATU"
+    },
+    "copyright" : {
+      "libelleFr" : "VIVRE EN COLONIE L’EXPÉRIENCE COLONIALE PHOTOGRAPHIÉE EN NOUVELLE-CALÉDONIE ET AU VANUATU - TOUS DROITS RÉSERVÉS"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/205/14798136.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/205/14798136-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/205/14798136-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/205/14798136-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-18-22 at 05.20 PM",
+      "taille" : 196942,
+      "hauteur" : 758,
+      "largeur" : 551,
+      "lastModifiedDate" : "2022-10-18T15:22:02.567+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La plateforme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-30T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

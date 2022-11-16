@@ -1,0 +1,140 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5466033,
+  "nom" : {
+    "libelleFr" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleEn" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleEs" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleIt" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleDe" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleNl" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleRu" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleZh" : "Mairie de Saint-Rémy-de-Provence",
+    "libellePtBR" : "Mairie de Saint-Rémy-de-Provence",
+    "libelleJa" : "Mairie de Saint-Rémy-de-Provence"
+  },
+  "identifier" : "SITRA2_STR_5466033",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T07:30:32.890+0000",
+    "dateModification" : "2022-05-31T15:40:31.606+0000",
+    "dateExportModification" : "2022-05-31T15:40:31.739+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071392,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 08 10"
+      }
+    }, {
+      "identifiant" : 99837572,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@ville-srdp.fr"
+      }
+    }, {
+      "identifiant" : 99837580,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mairie-saintremydeprovence.com/"
+      }
+    }, {
+      "identifiant" : 99837591,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/VilleDeSaintRemyDeProvence"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Jules Pellissier",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.831462, 43.788519 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20829680,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Cherubini",
+    "prenom" : "Hervé"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

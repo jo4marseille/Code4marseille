@@ -1,0 +1,299 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313796,
+  "nom" : {
+    "libelleFr" : "Les racines de l'eau"
+  },
+  "identifier" : "SITRA2_EVE_6313796",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T08:12:38.056+0000",
+    "dateModification" : "2022-11-02T08:28:19.233+0000",
+    "dateExportModification" : "2022-11-02T08:28:19.441+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104811904,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 51 03"
+      }
+    }, {
+      "identifiant" : 104811905,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info.mdaa@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104811906,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arlesantique.fr/"
+      }
+    }, {
+      "identifiant" : 104811907,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/museedepartementalarlesantique"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5577884
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Spectacle théâtre d’ombre par l’Esat Les Abeilles, Simona Acerbi, plasticienne, metteuse en scène et le Musée Départemental Arles antique"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "À l’occasion de l’exposition Trésors du fond des mers et en collaboration avec Sabrina Marlier, commissaire générale de l’exposition, Simona Acerbi et le musée ont développé ce projet théâtre avec les comédiens de l’Esat Les Abeilles, autour du thème de la forêt.\r\n\r\nLa création est un conte poétique et visuel qui fait renaître une forêt immergée découverte au large de Palavas-les-flots en 2017 (découverte abordée dans l’exposition). Il y a 8000 ans, un peuple de voyageurs, chasseurs-cueilleurs, se réunissait au sein d’une forêt magique. Il assistait alors aux chants et aux murmures des arbres qui leur révélaient leurs secrets, ceux de la terre et de l’Humanité.\r\n\r\nInformations pratiques\r\n> Tout public\r\n> Dans l’auditorium du musée"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Musée Départemental Arles antique",
+      "adresse2" : "Presqu'île du Cirque-Romain BP 205",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.616007, 43.672014 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538010
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6213363
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 18 décembre 2022 \nOuverture tous les jours de 14h30 à 15h10 et de 16h à 16h40.",
+      "libelleEn" : "Sunday 18 December 2022 \nOpening hours daily between 2.30 pm and 3.10 pm and between 4 pm and 4.40 pm.",
+      "libelleEs" : "Domingo, 18 de diciembre de 2022 \nHorarios de apertura todos los dias de 14:30 a 15:10 y de 16 a 16:40.",
+      "libelleIt" : "Domenica 18 dicembre 2022 \nOrari di apertura ogni giorno dalle 14:30 alle 15:10 e dalle 16 alle 16:40.",
+      "libelleDe" : "Sonntag, den 18. Dezember 2022 \nÖffnungszeiten täglich von 14.30 Uhr bis 15.10 Uhr und von 16 Uhr bis 16.40 Uhr.",
+      "libelleNl" : "Zondag 18 december 2022 \nOpeningstijden iedere dag van 14.30 tot en met 15.10 u en van 16.00 tot en met 16.40 u.",
+      "libelleRu" : "Воскресенье 18 декабря 2022  \nЧасы открытия ежедневно с 14h30 до 15h10 и с 16h до 16h40.",
+      "libelleZh" : "2022年12月18日, 星期日   \n开放时间 日常 小时小时分钟  和 小时小时分钟  之间 和 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Domingo 18 Dezembro 2022 \nOuverture todos os dias de 14h30 a  15h10 e de 16h a  16h40.",
+      "libelleJa" : "日曜日 18 12月 2022 \n開館時間 毎日 2.30 午後 と 3.10 午後 の間 と 4 午後 と 4.40 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24674130,
+      "dateDebut" : "2022-12-18",
+      "dateFin" : "2022-12-18",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24674373
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21525592,
+    "referent" : true,
+    "nom" : "Falaschi",
+    "prenom" : "Corinne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104811908,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "corinne.falaschi@departement13.fr"
+      }
+    }, {
+      "identifiant" : 104811909,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 62 15 33 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14722817,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Compagnie LunaSol et Esat \"Les Abeilles\""
+    },
+    "copyright" : {
+      "libelleFr" : "LunaSol"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/96/15098060.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/96/15098060-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/96/15098060-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/96/15098060-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Spectacles_ESAT_lesabeilles_ArlesÂ©Compagnie Lunasol",
+      "taille" : 44385,
+      "hauteur" : 561,
+      "largeur" : 688,
+      "lastModifiedDate" : "2022-11-02T08:27:29.178+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-18" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-18T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

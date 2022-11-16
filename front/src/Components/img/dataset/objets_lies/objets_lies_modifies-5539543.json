@@ -1,0 +1,284 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539543,
+  "nom" : {
+    "libelleFr" : "Hôtel de Forbin",
+    "libelleEn" : "Hotel de Forbin",
+    "libelleEs" : "Hotel de Forbin",
+    "libelleIt" : "Hôtel de Forbin",
+    "libelleDe" : "Hôtel de Forbin",
+    "libelleNl" : "Hôtel de Forbin"
+  },
+  "identifier" : "SITRA2_PCU_5539543",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T15:21:48.183+0000",
+    "dateModification" : "2022-02-11T11:21:31.465+0000",
+    "dateExportModification" : "2022-10-17T12:22:45.487+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225518
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Construit sur les plans de Pierre Pavillon en 1656, sa large façade plate est animée par le léger ressaut de chacune des ses huit travées qu'accompagne, jusqu'à la corniche, la superposition des ordres classiques.",
+      "libelleEn" : "Built on the plans of Pierre Pavillon in 1656, its broad flat façade is enlivened by the slight projection of each of its eight bays, which is accompanied, up to the cornice, by the superposition of classical orders.",
+      "libelleEs" : "Construida según los planos de Pierre Pavillon en 1656, su amplia y plana fachada está animada por el ligero saliente de cada uno de sus ocho vanos, que va acompañado, hasta la cornisa, por la superposición de órdenes clásicos.",
+      "libelleDe" : "Das Gebäude wurde 1656 nach den Plänen von Pierre Pavillon erbaut. Seine breite, flache Fassade wird durch den leichten Vorsprung jedes seiner acht Joche belebt, die bis zum Gesims von der Überlagerung der klassischen Ordnungen begleitet werden."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Construit sur les plans de Pierre Pavillon en 1656, sa large façade plate est animée par le léger ressaut de chacune des ses huit travées qu'accompagne, jusqu'à la corniche, la superposition des ordres classiques. \r\n\r\nLe balcon, comme souvent à Aix, est resté inachevé.",
+      "libelleEn" : "Built on the plans of Pierre Pavillon in 1656, its broad flat façade is enlivened by the slight projection of each of its eight bays, which is accompanied, up to the cornice, by the superposition of classical orders. \r\n\r\nThe balcony, as is often the case in Aix, was left unfinished.",
+      "libelleEs" : "Construida según los planos de Pierre Pavillon en 1656, su amplia y plana fachada está animada por el ligero saliente de cada uno de sus ocho vanos, que se acompaña, hasta la cornisa, de la superposición de órdenes clásicos. \r\n\r\nEl balcón, como suele ocurrir en Aix, quedó inacabado.",
+      "libelleDe" : "Das Gebäude wurde 1656 nach den Plänen von Pierre Pavillon erbaut. Seine breite, flache Fassade wird durch den leichten Vorsprung jedes seiner acht Joche belebt, der bis zum Gesims von der Überlagerung der klassischen Ordnungen begleitet wird. \r\n\r\nDer Balkon blieb, wie so oft in Aix, unvollendet."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "20 Cours Mirabeau",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.448539, 43.526530 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538184
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8487437,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000229_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/251/8256481.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/251/8256481-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/251/8256481-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/225/251/8256481-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 872514,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T16:49:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8487438,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000229_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/251/8256482.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/251/8256482-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/251/8256482-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/251/8256482-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 872990,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T16:49:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8487439,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000229_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Nina Mercurio"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/251/8256483.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/251/8256483-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/251/8256483-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/251/8256483-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 959552,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T16:49:11.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8487440,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000229_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Nina Mercurio"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/251/8256484.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/251/8256484-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/251/8256484-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/251/8256484-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1027171,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T16:49:10.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 6039
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3319
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000229"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

@@ -1,0 +1,245 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5564050,
+  "nom" : {
+    "libelleFr" : "Mairie de Ceyreste",
+    "libelleEn" : "Mairie de Ceyreste",
+    "libelleEs" : "Mairie de Ceyreste",
+    "libelleIt" : "Mairie de Ceyreste",
+    "libelleDe" : "Mairie de Ceyreste",
+    "libelleNl" : "Mairie de Ceyreste"
+  },
+  "identifier" : "SITRA2_COS_5564050",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T22:37:31.441+0000",
+    "dateModification" : "2020-12-18T07:56:11.912+0000",
+    "dateExportModification" : "2022-09-02T03:01:26.902+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85231262,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 83 77 10"
+      }
+    }, {
+      "identifiant" : 85231265,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 71 48 94"
+      }
+    }, {
+      "identifiant" : 85231263,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ceyreste.fr"
+      }
+    }, {
+      "identifiant" : 85231264,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie.de.ceyreste@wanadoo.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5693459
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les Ceyrestens, avec raison, heureux et fiers de leur vieille histoire, aiment leur petite ville et son nom, qui, il y a deux mille ans, était déjà si réputé"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Aussi chérissent-ils l'étranger qui vient visiter Ceyreste. Pour eux, il n'est pas d'hôte importun. A Ceyreste celui qui y va y reste. \r\n\r\nLa commune s'étend sur 22,6 km² et compte 4 253 habitants depuis le dernier recensement de la population datant de 2005. Avec une densité de 188,1 habitants par km², Ceyreste a connu une nette hausse de 17% de sa population par rapport à 1999.\r\nEntourée par les communes de La Ciotat, Roquefort-la-Bédoule et Saint-Cyr-sur-Mer, Ceyreste est située à 5 km au nord-est de la Ciotat la plus grande ville à proximité.",
+      "libelleEn" : "The people of Ceyreste, who with reason are happy and proud of their ancient history, love their village and its name which, two thousand years ago, already had a reputation for hospitality.  For Ceyrestians, there is no such thing as an unwelcome guest - he who comes to Ceyreste, stays"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Mairie de Ceyreste",
+      "adresse1" : "Place Général de Gaulle",
+      "codePostal" : "13600",
+      "bureauDistribution" : "ceyreste",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4434
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.631692, 43.214061 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4434
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5593783
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5480307
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 9247109,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Ceyreste"
+    },
+    "legende" : {
+      "libelleFr" : "Ceyreste"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie de Ceyreste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/95/9002984.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/95/9002984-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/95/9002984-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/95/9002984-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ceyreste",
+      "taille" : 9824,
+      "hauteur" : 225,
+      "largeur" : 225,
+      "lastModifiedDate" : "2020-12-18T07:56:12.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4013
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4028
+    } ],
+    "nomLieu" : "Mairie de Ceyreste"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4004723"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

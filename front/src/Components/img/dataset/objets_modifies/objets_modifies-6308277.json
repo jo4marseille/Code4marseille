@@ -1,0 +1,249 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6308277,
+  "nom" : {
+    "libelleFr" : "Une irritation"
+  },
+  "identifier" : "SITRA2_EVE_6308277",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-25T09:55:31.938+0000",
+    "dateModification" : "2022-10-25T10:09:49.642+0000",
+    "dateExportModification" : "2022-10-26T09:10:23.735+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104527289,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.letetard.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227268
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Loin d’être un fataliste comme on le pourrait croire, Thomas Bernhard fascine par l’énergie revigorante qui se dégage de son œuvre, on en sort rechargé."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "C'est au contact de la société artistique Viennoise qu'il s'était juré de fuir il y a trente ans que Thomas Bernhard, spectateur passif d'un dîner chez les Auersberger, déclenche son intarissable monologue intérieur.\r\n\r\nPorté par les saillies musicales du pianiste Jérôme Mathevon, notre narrateur déplie sa pensée comme un origami aux mille strates, laissant échapper ça et là, les fulgurances qui le caractérisent: haine de l'Autriche, dissection du mensonge sous toutes ses formes, urgence d'écrire - tout est affaire de survie pour ce personnage joyeusement acariâtre.\r\n\r\nSa soif de vérité finit par le remettre lui-même en question car au fond, n'appartient-il pas toujours à cette société artistique qu'il abhorre ?\r\n\r\nD’après Thomas Bernhard\r\nMise en scène : Henri Fernandez\r\nAvec Henri Fernandez et Jérôme Mathevon au piano"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre du Têtard",
+      "adresse1" : "33 rue Ferrari",
+      "codePostal" : "13005",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.388560, 43.293930 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    }, {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 20h30.",
+      "libelleEn" : "Thursday 10 November 2022 at 8.30 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 20:30.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 20.30 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  20h30.",
+      "libelleJa" : "木曜日 10 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24581781,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24582216
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 13 à 15 €.\n",
+      "libelleEn" : "Full price: 13 to 15 €.\n",
+      "libelleEs" : "Tarifa completa: de 13 a 15 €.\n",
+      "libelleIt" : "Tarrifa intera: da 13 a 15 €.\n",
+      "libelleDe" : "Voller Preis: von 13 bis 15 €.\n",
+      "libelleNl" : "Vol tarief: € 13 tot en met € 15.\n",
+      "libelleRu" : "Полную цену : с 13 до  15 €.\n",
+      "libelleZh" : "全额 : 从 13 到  15 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 13 a 15 €.\n",
+      "libelleJa" : "通常料金: 13 から 15 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13793457,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 13.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16641
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14534725,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Une irritation - Cie Mémoire Vive"
+    },
+    "legende" : {
+      "libelleFr" : "Une irritation - Cie Mémoire Vive"
+    },
+    "copyright" : {
+      "libelleFr" : "Une irritation - Cie Mémoire Vive - Théâtre du Têtard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/14894973.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/14894973-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/14894973-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/14894973-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "une irritation",
+      "taille" : 103002,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-25T10:07:44.460+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Théâtre du Têtard"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT104393"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

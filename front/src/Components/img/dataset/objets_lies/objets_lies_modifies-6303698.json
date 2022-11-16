@@ -1,0 +1,360 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6303698,
+  "nom" : {
+    "libelleFr" : "Académie Bach Aix : Concerts de Novembre"
+  },
+  "identifier" : "SITRA2_EVE_6303698",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-19T17:05:53.484+0000",
+    "dateModification" : "2022-10-20T12:56:48.239+0000",
+    "dateExportModification" : "2022-10-20T12:56:49.021+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104344501,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 52 93 29 74"
+      },
+      "observation" : {
+        "libelleFr" : "informations / réservation"
+      }
+    }, {
+      "identifiant" : 104344502,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://academie-bach-aix.com/"
+      },
+      "observation" : {
+        "libelleFr" : "informations / réservation"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5472048
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "À l'occasion de son dixième anniversaire et à l'approche de l'Avent, l'Académie Bach propose un concert de cantates de J.S. Bach pour solistes, chœur et orchestre sous la direction de Benoît Dumon."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "// Au programme //\r\n\r\n● Cantate BWV 196 : Der Herr denket an uns / Le Seigneur pense à nous.\r\nLa première cantate proposée est l'une des toute premières composées par le jeune Bach de 22 ans, en 1707, à l'occasion du mariage d'un de ses amis, pasteur, à Dordheim. Elle s'ouvre par une symphonia instrumentale suivie de deux choeurs encadrant un air de soprano et un duo pour ténor et basse.\r\nLe texte est celui du Psaume 115, versets 12 à 15 : Le Seigneur se souvient de nous : il bénira. Il bénira... ... Soyez bénis par le Seigneur, qui a fait le ciel et la terre !\r\n\r\nPour introduire la seconde cantate, Benoît Dumon nous propose deux pièces d'orgue sur le thème antique du Veni Redemptor gentium dans sa version allemande due à Luther et sur la mélodie de Philipp Nicolaï (1599)\r\n● Nun komm, der Heiden Heiland\r\n● Nicolaus Bruhns - Fantasia pour orgue\r\n● J.S. Bach BWV 599 Premier choral de l'Orgel Büchlein.\r\n\r\n● Cantate BWV 61 : Nun komm, der Heiden Heiland / Viens, maintenant, Sauveur des nations. Cette cantate pour le 1er dimanche de l’Avent, a été composée pour la cour de Weimar en 1714 et redonnée par Bach le dimanche de son arrivée à Saint Thomas, à Leipzig en 1723. Elle appelle et annonce la venue de Jésus, cet humble enfant qui va naître, qu’elle met en miroir avec ce Messie, acclamé par la foule lors de son entrée triomphale dans Jérusalem, puis avec cet ami merveilleux des humains qui frappe à leur porte et leur offre de partager un repas, et enfin avec cette \"Étoile brillante du Matin\", annoncée par les prophètes, qui vient éclairer et sauver les hommes par sa mort et sa résurrection.\r\n\r\n● Andrea Büchel, soprano\r\n● Franco Isserrelle, ténor\r\n● Fabien Barcelo, baryton\r\n● Benoît Dumon, contre-ténor et orgue\r\n● le Coro Solo et l'orchestre baroque de l'Académie Bach Aix sous la direction de Benoît Dumon"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Eglise Saint-Jean de Malte",
+      "adresse1" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453008, 43.525622 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539576
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 13 novembre 2022 de 16h à 17h15.",
+      "libelleEn" : "Sunday 13 November 2022 between 4 pm and 5.15 pm.",
+      "libelleEs" : "Domingo, 13 de noviembre de 2022 de 16 a 17:15.",
+      "libelleIt" : "Domenica 13 novembre 2022 dalle 16 alle 17:15.",
+      "libelleDe" : "Sonntag, den 13. November 2022 von 16 Uhr bis 17.15 Uhr.",
+      "libelleNl" : "Zondag 13 november 2022 van 16.00 tot en met 17.15 u.",
+      "libelleRu" : "Воскресенье 13 ноября 2022  с 16h до 17h15.",
+      "libelleZh" : "2022年11月13日, 星期日   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Domingo 13 Novembro 2022 de 16h a  17h15.",
+      "libelleJa" : "日曜日 13 11月 2022 4 午後 と 5.15 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24538990,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-11-13",
+      "horaireOuverture" : "16:00:00",
+      "horaireFermeture" : "17:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24546040
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 20 € (prévente avant le 10/11), Tarif réduit : 18 €, Etudiant : 15 €.\n",
+      "libelleEn" : "Full price: 20 €, Reduced price: 18 €, Student: 15 €.\n",
+      "libelleEs" : "Tarifa completa: 20 €, Precio reducido: 18 €, Estudiante: 15 €.\n",
+      "libelleIt" : "Tarrifa intera: 20 €, Prezzo ridotto: 18 €, Studente: 15 €.\n",
+      "libelleDe" : "Voller Preis: 20 €, Reduzierter Preis: 18 €, Student: 15 €.\n",
+      "libelleNl" : "Vol tarief: € 20, Korting: € 18, Student: € 15.\n",
+      "libelleRu" : "Полную цену : 20 €, Сниженная цена : 18 €, Студент : 15 €.\n",
+      "libelleZh" : "全额 : 20 €, 减价 : 18 €, 学生 : 15 €.\n",
+      "libellePtBR" : "Tarifa inteira: 20 €, Preço reduzido: 18 €, Estudante: 15 €.\n",
+      "libelleJa" : "通常料金: 20 €, 割引料金: 18 €, 学生: 15 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13769572,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-11-13",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "maximum" : 20.00,
+        "precisionTarif" : {
+          "libelleFr" : "prévente avant le 10/11"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 18.00,
+        "maximum" : 18.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 15.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4134
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6872532,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5472048
+      },
+      "nom" : "Académie Bach Aix",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77122216,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.academie-bach-aix.fr/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21458112,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Loppacher",
+    "prenom" : "Christian",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104344503,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "acadbachaix@gmail.com"
+      }
+    }, {
+      "identifiant" : 104344504,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 83 97 19 40"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14469899,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/38/14821003.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/38/14821003-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/38/14821003-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/38/14821003-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "bachjs",
+      "taille" : 320325,
+      "hauteur" : 1695,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-20T12:56:48.349+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14462988,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "info-lettre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/2/9/14813442/Infolettre+56+221112-13c.pdf",
+      "extension" : "pdf",
+      "fileName" : "Infolettre #56 22.11.12-13c",
+      "taille" : 518597,
+      "lastModifiedDate" : "2022-10-20T12:54:09.334+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2106
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2220
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2227
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 20,
+    "nbVisiteursAttendu" : 200,
+    "nomLieu" : "Eglise Saint-Jean de Malte"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

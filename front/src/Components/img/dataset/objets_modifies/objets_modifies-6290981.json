@@ -1,0 +1,252 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6290981,
+  "nom" : {
+    "libelleFr" : "Collectif soon : recoller les morceaux"
+  },
+  "identifier" : "SITRA2_EVE_6290981",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T11:39:25.021+0000",
+    "dateModification" : "2022-10-10T11:52:50.888+0000",
+    "dateExportModification" : "2022-10-10T11:52:51.059+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104003228,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/events/635575608137776/?ref=newsfeed"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5237159
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Soon est un collectif né de la rencontre entre six photographes marseillais autour du polaroid et de l’image instantanée."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Pouvons-nous inventer le nouveau ?\r\n\r\nIl nous est apparu qu’à l’instar du Kintsugi - art japonais qui consiste reconstituer les poteries brisées en magnifiant les fissures à l’aide d’une laque dorée – les crises, qu’elles soient personnelles ou plus générales, ne conduisent jamais à une authentique tabula rasa, ni à un réel renouveau. Elles produisent simplement un nouvel objet, qui n’est pas pour autant un objet nouveau puisqu’il reste structuré par, et sur, ses anciens éléments.\r\n\r\nComparables par bien des aspects au Kintsugi, la série photographique et la vie d’un collectif sont un assemblage de fragments éclatés. Une ré-agrégation d’éléments épars qui ont une vie autonome dans le réel, regroupés et suturés par une volonté de sens. Il ne s’agit pas tant d’essayer de créer du nouveau, que de parvenir à créer à nouveau.\r\n\r\nLes séries photographiques ici présentées ne font pas exception. Ce ne sont pas les images d’un constat de fracture, mais bien la tentative de création d’un nouvel objet, qui porte en lui autant d’expressions de crises que de possibilités de résolutions.\r\n\r\nVernissage jeudi 13 octobre à partir de 17H. Exposition dans le cadre du Festival Photo Marseille 2022.\r\n\r\nSoon est un collectif né de la rencontre entre six photographes marseillais autour du polaroid et de l’image instantanée. Fondée en 2014, l’association Soon se structure autour de l’échange et du partage du temps de conception comme moteur de la création, à plusieurs mains ou individuellement.\r\n\r\nPhotographes exposants pour «Recoller les morceaux» : Raphaël Arnaud - Camille Crespo Del Amo - J. - Orianne Ciantar Olive - Jeanne Rossetto (Superficielle)\r\nScénographie : Raphaël Arnaud, Jeanne Rossetto\r\nLes autres membres du collectif Soon : Rémi Bagués - Daniel Battistelli - Thomas Fabiani - Emmanuel Ferrand - Claire Hallé -Anthony Rougier."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Maupetit, côté Galerie",
+      "adresse1" : "142 La Canebière",
+      "codePostal" : "13001",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383967, 43.298456 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 13/10 au 19/11/2022.\nFermé le dimanche.\nDu lundi au samedi de 10h à 19h.",
+      "libelleEn" : "From 13/10 to 19/11/2022.\nClosed on Sunday.",
+      "libelleEs" : "Del 13/10 al 19/11/2022.\nCerrado los domingo.",
+      "libelleIt" : "Dal 13/10 al 19/11/2022.\nChiuso la domenica.",
+      "libelleDe" : "Vom 13/10 bis 19/11/2022.\nSonntag geschlossen.",
+      "libelleNl" : "Van 13/10 tot en met 19/11/2022.\nZondag gesloten.",
+      "libelleRu" : "С 13/10 до 19/11/2022.\nНе работает воскресенье.",
+      "libelleZh" : "从 10月13日 到 2022年11月19日.\n星期日 关闭.",
+      "libellePtBR" : "De 13/10 a 19/11/2022.\nFechado em domingo.",
+      "libelleJa" : "13/10 から 19/11/2022 まで.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24464472,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2022-11-19",
+      "complementHoraire" : {
+        "libelleFr" : "Du lundi au samedi de 10h à 19h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24464587
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14351746,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "COLLECTIF SOON - RECOLLER LES MORCEAUX"
+    },
+    "copyright" : {
+      "libelleFr" : "© Orianne Ciantar"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/19/14685068.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/19/14685068-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/19/14685068-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/19/14685068-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-10-22 at 01.51 PM",
+      "taille" : 279060,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-10T11:52:28.052+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-13", "2022-10-14", "2022-10-15", "2022-10-17", "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Maupetit, côté Galerie"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT074054"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

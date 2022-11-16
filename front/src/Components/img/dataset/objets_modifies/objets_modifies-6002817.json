@@ -1,0 +1,303 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6002817,
+  "nom" : {
+    "libelleFr" : "La Pilule du Jeudi"
+  },
+  "identifier" : "SITRA2_EVE_6002817",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-01-04T08:32:53.253+0000",
+    "dateModification" : "2022-10-27T12:31:43.745+0000",
+    "dateExportModification" : "2022-10-27T12:31:44.030+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 95283684,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://lartdutheatre.fr/spectacles/tout-public-adultes/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5483454
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Tous les Jeudis, un nouveau plateau made in Marseille !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le rdv des humoristes de la scène marseillaise ! Tous les Jeudis, un nouveau plateau made in Marseille !\r\n \r\nL’Art Dû te concocte des soirées humour toute l’année avec les pépites du coin et d’ailleurs.\r\n \r\nMise en scène : Bedou"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Art Dû",
+      "adresse1" : "83 Rue Marengo",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.385725, 43.287787 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 27 octobre 2022 à 21h30.\n\nJeudi 3 novembre 2022 à 20h.\n\nJeudi 10 novembre 2022 à 20h.\n\nJeudi 17 novembre 2022 à 21h30.\n\nJeudi 24 novembre 2022 à 20h.\n\nJeudi 1er décembre 2022 à 20h.\n\nJeudi 8 décembre 2022 à 20h.\n\nJeudi 15 décembre 2022 à 20h.\n\nJeudi 22 décembre 2022 à 20h.",
+      "libelleEn" : "Thursday 27 October 2022 at 9.30 pm.\n\nThursday 3 November 2022 at 8 pm.\n\nThursday 10 November 2022 at 8 pm.\n\nThursday 17 November 2022 at 9.30 pm.\n\nThursday 24 November 2022 at 8 pm.\n\nThursday 1st of December 2022 at 8 pm.\n\nThursday 8 December 2022 at 8 pm.\n\nThursday 15 December 2022 at 8 pm.\n\nThursday 22 December 2022 at 8 pm.",
+      "libelleEs" : "Jueves, 27 de octubre de 2022 a 21:30.\n\nJueves, 3 de noviembre de 2022 a 20.\n\nJueves, 10 de noviembre de 2022 a 20.\n\nJueves, 17 de noviembre de 2022 a 21:30.\n\nJueves, 24 de noviembre de 2022 a 20.\n\nJueves, 1 de diciembre de 2022 a 20.\n\nJueves, 8 de diciembre de 2022 a 20.\n\nJueves, 15 de diciembre de 2022 a 20.\n\nJueves, 22 de diciembre de 2022 a 20.",
+      "libelleIt" : "Giovedì 27 ottobre 2022 alle 21:30.\n\nGiovedì 3 novembre 2022 alle 20.\n\nGiovedì 10 novembre 2022 alle 20.\n\nGiovedì 17 novembre 2022 alle 21:30.\n\nGiovedì 24 novembre 2022 alle 20.\n\nGiovedì 1° dicembre 2022 alle 20.\n\nGiovedì 8 dicembre 2022 alle 20.\n\nGiovedì 15 dicembre 2022 alle 20.\n\nGiovedì 22 dicembre 2022 alle 20.",
+      "libelleDe" : "Donnerstag, den 27. Oktober 2022 um 21.30 Uhr.\n\nDonnerstag, den 3. November 2022 um 20 Uhr.\n\nDonnerstag, den 10. November 2022 um 20 Uhr.\n\nDonnerstag, den 17. November 2022 um 21.30 Uhr.\n\nDonnerstag, den 24. November 2022 um 20 Uhr.\n\nDonnerstag, den 1. Dezember 2022 um 20 Uhr.\n\nDonnerstag, den 8. Dezember 2022 um 20 Uhr.\n\nDonnerstag, den 15. Dezember 2022 um 20 Uhr.\n\nDonnerstag, den 22. Dezember 2022 um 20 Uhr.",
+      "libelleNl" : "Donderdag 27 oktober 2022 om 21.30 u.\n\nDonderdag 3 november 2022 om 20.00 u.\n\nDonderdag 10 november 2022 om 20.00 u.\n\nDonderdag 17 november 2022 om 21.30 u.\n\nDonderdag 24 november 2022 om 20.00 u.\n\nDonderdag 1 december 2022 om 20.00 u.\n\nDonderdag 8 december 2022 om 20.00 u.\n\nDonderdag 15 december 2022 om 20.00 u.\n\nDonderdag 22 december 2022 om 20.00 u.",
+      "libelleRu" : "Четверг 27 октября 2022  до 21h30.\n\nЧетверг 3 ноября 2022  до 20h.\n\nЧетверг 10 ноября 2022  до 20h.\n\nЧетверг 17 ноября 2022  до 21h30.\n\nЧетверг 24 ноября 2022  до 20h.\n\nЧетверг 1-й декабря 2022 до 20h.\n\nЧетверг 8 декабря 2022  до 20h.\n\nЧетверг 15 декабря 2022  до 20h.\n\nЧетверг 22 декабря 2022  до 20h.",
+      "libelleZh" : "2022年10月27日, 星期四   在 小时小时分钟.\n\n2022年11月3日, 星期四   在 小时小时.\n\n2022年11月10日, 星期四   在 小时小时.\n\n2022年11月17日, 星期四   在 小时小时分钟.\n\n2022年11月24日, 星期四   在 小时小时.\n\n2022年12月1日, 星期四 在 小时小时.\n\n2022年12月8日, 星期四   在 小时小时.\n\n2022年12月15日, 星期四   在 小时小时.\n\n2022年12月22日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 27 Outubro 2022 para  21h30.\n\nQuinta-feira 3 Novembro 2022 para  20h.\n\nQuinta-feira 10 Novembro 2022 para  20h.\n\nQuinta-feira 17 Novembro 2022 para  21h30.\n\nQuinta-feira 24 Novembro 2022 para  20h.\n\nQuinta-feira 1º Dezembro 2022 para  20h.\n\nQuinta-feira 8 Dezembro 2022 para  20h.\n\nQuinta-feira 15 Dezembro 2022 para  20h.\n\nQuinta-feira 22 Dezembro 2022 para  20h.",
+      "libelleJa" : "木曜日 27 10月 2022 9.30 午後 に.\n\n木曜日 3 11月 2022 8 午後 に.\n\n木曜日 10 11月 2022 8 午後 に.\n\n木曜日 17 11月 2022 9.30 午後 に.\n\n木曜日 24 11月 2022 8 午後 に.\n\n木曜日 1st of 12月 2022 8 午後 に.\n\n木曜日 8 12月 2022 8 午後 に.\n\n木曜日 15 12月 2022 8 午後 に.\n\n木曜日 22 12月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24342831,
+      "dateDebut" : "2022-10-27",
+      "dateFin" : "2022-10-27",
+      "horaireOuverture" : "21:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616789
+    }, {
+      "identifiant" : 24616791,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-11-03",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616791
+    }, {
+      "identifiant" : 24616794,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616794
+    }, {
+      "identifiant" : 24616796,
+      "dateDebut" : "2022-11-17",
+      "dateFin" : "2022-11-17",
+      "horaireOuverture" : "21:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616796
+    }, {
+      "identifiant" : 24616798,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616798
+    }, {
+      "identifiant" : 24616799,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616799
+    }, {
+      "identifiant" : 24616801,
+      "dateDebut" : "2022-12-08",
+      "dateFin" : "2022-12-08",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616801
+    }, {
+      "identifiant" : 24616807,
+      "dateDebut" : "2022-12-15",
+      "dateFin" : "2022-12-15",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616807
+    }, {
+      "identifiant" : 24616808,
+      "dateDebut" : "2022-12-22",
+      "dateFin" : "2022-12-22",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24616808
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PARTICIPATION_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Participation libre. Entrée libre au chapeau.",
+      "libelleEn" : "Free to participate.",
+      "libelleEs" : "Participación libre.",
+      "libelleIt" : "Partecipazione libera.",
+      "libelleDe" : "Teilnahme frei.",
+      "libelleNl" : "Vrije bijdrage.",
+      "libelleRu" : "��ход свободный.",
+      "libelleZh" : "自由参加.",
+      "libellePtBR" : "Participação livre.",
+      "libelleJa" : "参加無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Entrée libre au chapeau"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12872249,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Pilule du Jeudi"
+    },
+    "legende" : {
+      "libelleFr" : "La Pilule du Jeudi"
+    },
+    "copyright" : {
+      "libelleFr" : "La Pilule du Jeudi - L'Art Dû"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/74/13060658.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/74/13060658-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/74/13060658-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/74/13060658-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pilule jeudi",
+      "taille" : 77326,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-04-22T13:25:39.389+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Art Dû"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-22T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT114139"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

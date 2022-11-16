@@ -1,0 +1,327 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291562,
+  "nom" : {
+    "libelleFr" : "Karine Dubernet dans Souris pas",
+    "libelleEn" : "Karine Dubernet dans Souris pas",
+    "libelleEs" : "Karine Dubernet dans Souris pas",
+    "libelleIt" : "Karine Dubernet dans Souris pas",
+    "libelleDe" : "Karine Dubernet dans Souris pas",
+    "libelleNl" : "Karine Dubernet dans Souris pas",
+    "libelleRu" : "Karine Dubernet dans Souris pas",
+    "libelleZh" : "Karine Dubernet dans Souris pas",
+    "libellePtBR" : "Karine Dubernet dans Souris pas",
+    "libelleJa" : "Karine Dubernet dans Souris pas"
+  },
+  "identifier" : "SITRA2_EVE_6291562",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T15:19:35.287+0000",
+    "dateModification" : "2022-10-17T08:22:16.112+0000",
+    "dateExportModification" : "2022-10-17T08:22:16.281+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104018193,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    }, {
+      "identifiant" : 104018194,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 104018195,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lafontainedargent.com/florian-lex-du-27-au-29-octobre-2022"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230856
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Sans filtre, plein d’autodérision, le spectacle de Karine Dubernet régale le public de ses métaphores irrésistibles et autres vannes drôlissimes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Porté par une Karine Dubernet survoltée mariant à merveille son expérience théâtrale classique, de boulevard, de clown et de one woman à l’humour potache qui claque, ce spectacle est un assemblage d’influences riches, toujours justes, pour 70 minutes hilarantes."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Fontaine d'Argent - Théâtre d'humour",
+      "adresse1" : "5 Rue Fontaine d'Argent",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453377, 43.527750 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729787
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 17h30.\n\nSamedi 12 novembre 2022 à 21h.",
+      "libelleEn" : "Friday 11 November 2022 at 5.30 pm.\n\nSaturday 12 November 2022 at 9 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 17:30.\n\nSábado, 12 de noviembre de 2022 a 21.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 17:30.\n\nSabato 12 novembre 2022 alle 21.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 17.30 Uhr.\n\nSamstag, den 12. November 2022 um 21 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 17.30 u.\n\nZaterdag 12 november 2022 om 21.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 17h30.\n\nСуббота 12 ноября 2022  до 21h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.\n\n2022年11月12日, 星期六   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  17h30.\n\nSábado 12 Novembro 2022 para  21h.",
+      "libelleJa" : "金曜日 11 11月 2022 5.30 午後 に.\n\n土曜日 12 11月 2022 9 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24467698,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "17:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24511467
+    }, {
+      "identifiant" : 24467721,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24511468
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 18 à 21 €.\n",
+      "libelleEn" : "Full price: 18 to 21 €.\n",
+      "libelleEs" : "Tarifa completa: de 18 a 21 €.\n",
+      "libelleIt" : "Tarrifa intera: da 18 a 21 €.\n",
+      "libelleDe" : "Voller Preis: von 18 bis 21 €.\n",
+      "libelleNl" : "Vol tarief: € 18 tot en met € 21.\n",
+      "libelleRu" : "Полную цену : с 18 до  21 €.\n",
+      "libelleZh" : "全额 : 从 18 到  21 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 18 a 21 €.\n",
+      "libelleJa" : "通常料金: 18 から 21 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13728484,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 18.00,
+        "maximum" : 21.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6847956,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230856
+      },
+      "nom" : "La Fontaine d'Argent - Théâtre d'humour",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104018190,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lafontainedargent.com/karine-dubernet-les-11-et-12-novembre-2022"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21409249,
+    "referent" : true,
+    "moyensCommunication" : [ {
+      "identifiant" : 104018191,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 104018192,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14357286,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Fontaine d'Argent"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/45/14691597.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/45/14691597-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/45/14691597-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/45/14691597-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "karine",
+      "taille" : 380916,
+      "hauteur" : 1800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-10T15:24:15.367+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "La Fontaine d'Argent - Théâtre d'humour"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,270 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6267670,
+  "nom" : {
+    "libelleFr" : "Exposition de dessins d'Aix-en-Provence"
+  },
+  "identifier" : "SITRA2_EVE_6267670",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-21T06:59:29.279+0000",
+    "dateModification" : "2022-09-21T11:44:54.127+0000",
+    "dateExportModification" : "2022-09-21T11:44:54.296+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103405876,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 77 36 83 57"
+      }
+    }, {
+      "identifiant" : 103405877,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "d.benracassa@free.fr"
+      }
+    }, {
+      "identifiant" : 103417052,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.do-benracassa.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5254363
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le restaurant Le Novo, adresse incontournable à Aix-en-Provence, accueille l'artiste Do Benracassa pour une exposition de dessins d'Aix intra muros au crayon et à l'encre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Do Benracassa dessine depuis toujours, Aix-en-Provence est devenue sa ''Muse'', il la dessine tout le temps. Même si cette pratique du dessin  s'inscrit dans une approche pluridisciplinaire de l'art, cela reste son fil rouge.\r\n\r\nDo touche à tout, photos, arts plastiques, modelage, films, street art, mail'art, créations numériques...etc. \r\nSa dernière exposition a eu lieu à la galerie Azimut à Aix où il présentait ses dernières peintures numériques. Il travaille l'art numérique depuis 1991. Il a eu depuis, plusieurs publications dans des revues pédagogiques spécialisées\r\nconcernant son projet : '' L'image manipulée'' .\r\nL'artiste a aussi une exposition d'art postal (plus de 350 pièces, enveloppes faussement timbrées, mais vraiment oblitérées) qui circule depuis 1983. Dernière exposition à Ajaccio en 2019 . \r\n\r\nUn livre avec 50 de ses dessins d'Aix, accompagnés de 50 textes écrits à quatre mains par Marie Ange Vanni et Marie Blanche Saucourt est disponible à la boutique de l'Office de Tourisme sous le titre : ''Cherchez le Chien, promenade Aixoise''.\r\nUn autre livre est aussi disponible à la boutique : ''Les animaux en voie d'apparition'', une trentaine de fables illustrées d'animaux hybrides\r\nhyperréalistes. Livre humoristique et poétique.\r\n\r\n Do Benracassa est également le créateur d'un mouvement artistique né à Aix-en-Provence en 1983 sous le nom de ''Ça vous regarde'', rebaptisé depuis par la sphère internet : ''Eyebombing''. Le point d'orgue de ce mouvement a eu lieu en 1999 grâce à une commande de la ville pour une installation urbaine pendant  les journées du Patrimoine :  'Citoyens votre patrimoine vous regarde''. \r\nIl a posé avec son association ''Cyber-Rustic'' 350 paires d'yeux sur la ville, dont certains de 1mètre de diamètre à plus de 30 mètres de haut comme par exemple à la Mairie, Palais de justice, fontaines etc... D'autres installations auront lieux un peu partout dont à Monaco en 2017."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Novo",
+      "adresse1" : "2 Cours Sextius",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.443165, 43.527449 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5254364
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 17/10 au 15/11/2022, tous les jours.",
+      "libelleEn" : "From 17/10 to 15/11/2022, daily.",
+      "libelleEs" : "Del 17/10 al 15/11/2022, todos los dias.",
+      "libelleIt" : "Dal 17/10 al 15/11/2022, ogni giorno.",
+      "libelleDe" : "Vom 17/10 bis 15/11/2022, täglich.",
+      "libelleNl" : "Van 17/10 tot en met 15/11/2022, iedere dag.",
+      "libelleRu" : "С 17/10 до 15/11/2022, ежедневно.",
+      "libelleZh" : "从 10月17日 到 2022年11月15日, 日常.",
+      "libellePtBR" : "De 17/10 a 15/11/2022, todos os dias.",
+      "libelleJa" : "17/10 から 15/11/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24332000,
+      "dateDebut" : "2022-10-17",
+      "dateFin" : "2022-11-15",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24335725
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14116574,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Do Benracassa"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/241/14414086.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/241/14414086-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/241/14414086-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/241/14414086-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Rotonde ",
+      "taille" : 4953426,
+      "hauteur" : 2592,
+      "largeur" : 3872,
+      "lastModifiedDate" : "2022-09-21T11:40:22.373+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14118907,
+    "link" : true,
+    "type" : "INSTAGRAM",
+    "nom" : {
+      "libelleFr" : "Instagram"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.instagram.com/dobenracassa/"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14118908,
+    "link" : true,
+    "type" : "CHAINE_YOUTUBE",
+    "nom" : {
+      "libelleFr" : "Chaîne Youtube"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.youtube.com/user/TheDowilben/videos"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2304
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Le Novo"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-15T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

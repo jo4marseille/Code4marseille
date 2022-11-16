@@ -1,0 +1,406 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5678344,
+  "nom" : {
+    "libelleFr" : "Chroniques - Biennale des imaginaires numériques à Marseille"
+  },
+  "identifier" : "SITRA2_EVE_5678344",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-11-25T05:14:19.158+0000",
+    "dateModification" : "2022-10-19T14:48:58.481+0000",
+    "dateExportModification" : "2022-11-08T14:27:20.238+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84648012,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://chroniques.org/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463068
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La création pour donner à voir et à comprendre le monde en régime numérique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Incubateurs des Imaginaires Numériques, SECONDE NATURE et ZINC travaillent depuis de nombreuses années à promouvoir et faire émerger la création contemporaine, comprendre le monde en régime numérique et aider les publics à s’approprier les technologies pour développer la créativité et favoriser l’émancipation.\r\n\r\nLes deux associations organisent la Biennale des Imaginaires Numériques, dont la troisième édition se tiendra du 10 novembre 2022 au 22 janvier 2023. Après la Lévitation en 2018, et l’Eternité en 2020, la Biennale s’intéressera en 2022 à la thématique de la Nuit. \r\n\r\nÀ chaque édition, la biennale a un invité d’honneur. Après le Québec en 2018 et Taïwan en 2020, nous accueillons la Belgique (Wallonie – Bruxelles – Flandre) en 2022. \r\n\r\nCes focus sont le point de départ de nouveaux liens irriguant un rhizome international qui ne cesse de se propager, constitué de découvertes et d’échanges. Avoir un invité d’honneur c’est plonger dans un écosystème dont on anticipe pas l’amplitude et qui s’avère toujours plus vaste et complexe que ce que l’on pressentait. C’est une nouvelle expérience, au bénéfice de laquelle on tisse des relations pétries de nos réciprocités et différences. Ces synergies nous amènent à repenser nos pratiques et toujours, à s’inspirer les uns et les autres. \r\n\r\nEn invitant la Belgique (Wallonie – Bruxelles – Flandre) à co-construire la programmation, la Biennale offre une opportunité unique de découvrir en région Sud la vitalité de ces scènes artistiques numériques, résolument dynamiques et transdisciplinaires, puisant dans la culture du pluriel et du multiple pour se faire révélateur d’une époque. \r\n\r\nAu total, la programmation internationale présentera une soixantaine d’œuvres numériques, dont 16 issues de la plateforme CHRONIQUES CRÉATIONS, qui rassemble 39 partenaires régionaux, nationaux et internationaux. Des invités à l’honneur sur l’ensemble de la biennale ; dans le parcours d’expositions, la programmation de spectacles vivants, et lors des rencontres et rendez-vous avec nos différentes communautés (grands publics, scolaires et universitaires, professionnelles).\r\n\r\nNUIT D’OUVERTURE MARSEILLE\r\njeu. 10 novembre 2022 \r\n17h ➝ 1h\r\nFriche la Belle de Mai\r\nEn continu, gratuit"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Friche Belle de Mai",
+      "adresse1" : "41 rue Jobin",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.389944, 43.310141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "complement" : {
+      "libelleFr" : "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/686302677?h=c2c454d5a6\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303329
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303394
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303473
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303499
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303507
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6303528
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6309245
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6309376
+      }
+    }, {
+      "type" : "ORGANISATEUR_PROGRAMME",
+      "libelleFr" : "Programme l'animation...",
+      "libelleEn" : "Schedules activities...",
+      "libelleEs" : "Organiza la animación...",
+      "libelleIt" : "Programma l’animazione",
+      "libelleDe" : "Plant die Veranstaltung ...",
+      "libelleNl" : "Programmeert de animatie ...",
+      "libelleRu" : "Развлекательная программа...",
+      "libelleZh" : "助兴活动",
+      "libellePtBR" : "Programa a animação ...",
+      "libelleJa" : "イベントを開催します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6319868
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 10/11/2022 au 22/01/2023, tous les jours.",
+      "libelleEn" : "From 10/11/2022 to 22/01/2023, daily.",
+      "libelleEs" : "Del 10/11/2022 al 22/01/2023, todos los dias.",
+      "libelleIt" : "Dal 10/11/2022 al 22/01/2023, ogni giorno.",
+      "libelleDe" : "Vom 10/11/2022 bis 22/01/2023, täglich.",
+      "libelleNl" : "Van 10/11/2022 tot en met 22/01/2023, iedere dag.",
+      "libelleRu" : "С 10/11/2022 до 22/01/2023, ежедневно.",
+      "libelleZh" : "从 2022年11月10日 到 2023年1月22日, 日常.",
+      "libellePtBR" : "De 10/11/2022 a 22/01/2023, todos os dias.",
+      "libelleJa" : "10/11/2022 から 22/01/2023 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24039818,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2023-01-22",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24538138
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 0 à 20 € (Les tarifs varient en fonction des propositions. \r\nNuit d'ouverture gratuite\r\nExpos à la Friche 3 à 5 €\r\nNuit de clôture 20 €).\n",
+      "libelleEn" : "Full price: 0 to 20 €.\n",
+      "libelleEs" : "Tarifa completa: de 0 a 20 €.\n",
+      "libelleIt" : "Tarrifa intera: da 0 a 20 €.\n",
+      "libelleDe" : "Voller Preis: von 0 bis 20 €.\n",
+      "libelleNl" : "Vol tarief: € 0 tot en met € 20.\n",
+      "libelleRu" : "Полную цену : с 0 до  20 €.\n",
+      "libelleZh" : "全额 : 从 0 到  20 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 0 a 20 €.\n",
+      "libelleJa" : "通常料金: 0 から 20 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13768948,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2023-01-22",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 0.00,
+        "maximum" : 20.00,
+        "precisionTarif" : {
+          "libelleFr" : "Les tarifs varient en fonction des propositions. \r\nNuit d'ouverture gratuite\r\nExpos à la Friche 3 à 5 €\r\nNuit de clôture 20 €"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16640
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13672222,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Biennale des Imaginaires Numériques - Chroniques"
+    },
+    "copyright" : {
+      "libelleFr" : "Biennale des Imaginaires Numériques - Chroniques"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/207/13881219.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/207/13881219-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/207/13881219-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/131/207/13881219-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "biennale",
+      "taille" : 103940,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-05T14:42:45.937+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2270
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3832
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Friche Belle de Mai"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-22T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT117528"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

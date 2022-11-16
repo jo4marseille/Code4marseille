@@ -1,0 +1,238 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6292095,
+  "nom" : {
+    "libelleFr" : "CinémAnimé - 23e édition"
+  },
+  "identifier" : "SITRA2_EVE_6292095",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-11T09:53:49.998+0000",
+    "dateModification" : "2022-10-12T06:36:01.083+0000",
+    "dateExportModification" : "2022-10-20T06:17:52.299+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104035083,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://seances-speciales.fr/nos-evenements/cinemanime/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5967179
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le festival d’animation dans les salles du réseau des Écrans du Sud."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La 23e édition de Cinémanimé, festival de cinéma d'animation, se tiendra du 19 octobre au 15 novembre dans les salles du réseau Les Écrans du Sud.\r\n\r\nLa programmation s'articule autour d'une trentaine de courts et long-métrages, illustrant la diversité de la création du cinéma d'animation contemporain. En avant-première, en sortie nationale ou en reprise, les films sélectionnés sont à découvrir dans la trentaine de cinémas partenaires de l'événement. \r\n\r\nCette année, nous recevons notamment le réalisateur Alain Ughetto (Interdit aux chiens et aux italiens) lors de trois rencontres : vendredi 14 octobre à 20h30 à l'Alhambra (Marseille), dimanche 6 novembre à 16h au cinéma La Cascade (Martigues) et lundi 7 novembre à 19h au cinéma Le Coluche (Istres).\r\n\r\n\r\nLes avant-premières sur Marseille\r\n\r\n• Interdit aux chiens et aux italiens \r\nD’Alain Ughetto [France - Italie - Suisse, Gebeka Films, 1h10, à partir de 10 ans]\r\nAccompagné de rencontre avec le réalisateur Alain Ughetto\r\nVendredi 14 octobre, 20h30 : L’Alhambra\r\n\r\n• Un Hérisson dans la neige \r\nProgramme de 3 courts-métrages [France - Belgique, Cinéma Public Films, 39 mn, à partir de 3 ans]\r\nMardi 25 octobre, 10h30 : L’Alhambra\r\n\r\n• Goodbye\r\nDe Ishizuka Atsuko [Japon, Eurozom, 1h35]\r\nVendredi 28 octobre, 14h30 : L'Alhambra\r\n\r\n• Vive le vent \r\nProgramme de 5 courts métrages\r\n[France, Les films du Préau, 40 mn, à partir de 4 ans]\r\nMercredi 2 novembre, 10h30 : L'Alhambra\r\n\r\n• Ernest et Célestine, le voyage en Charibie\r\nDe Julien Chheng et Jean-Christophe Roger [France, Studio Canal, 1h30]\r\n- Vendredi 4 novembre, 14h30 : L'Alhambra\r\n- Dimanche 6 novembre,15h30 Les Variétés\r\n\r\n\r\nLa Programmation\r\nA voir et à revoir\r\n• \"Flee\" de Jonas Poher Rasmussen\r\n• \"Grosses colères et fantaisies\" de Jonas Poher Rasmussen\r\n• \"Le chameau et le meunier\" - Programme de 3 courts métrages\r\n• \"Le petit Nicolas, qu’est ce qu’on attend pour être heureux ?\" d’Amandine Fredon et Benjamin Massoubre\r\n• \"Le Pharaon, le sauvage et la princesse\" de Michel Ocelot\r\n• \"La revanche des humanoïdes\" de Albert Barillé\r\n• \"Les secrets de mon père\" de Véra Belmont\r\n• \"Superasticot\" - Programme de 4 courts métrages\r\n• \"Le tigre qui s’invita pour le thé\" - Programme de 4 courts métrages\r\n• \"Yuku et la fleur de l’Himalaya\" d’Arnaud Demuynck et Rémi Durin\r\n\r\nRetrouvez la programmation détaillée et les dates des ateliers sur www.cinemanime.fr ou renseignez vous auprès de votre cinéma."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cinémas participants à l'opération",
+      "codePostal" : "13055",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374187, 43.297532 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/10 au 15/11/2022, tous les jours.",
+      "libelleEn" : "From 19/10 to 15/11/2022, daily.",
+      "libelleEs" : "Del 19/10 al 15/11/2022, todos los dias.",
+      "libelleIt" : "Dal 19/10 al 15/11/2022, ogni giorno.",
+      "libelleDe" : "Vom 19/10 bis 15/11/2022, täglich.",
+      "libelleNl" : "Van 19/10 tot en met 15/11/2022, iedere dag.",
+      "libelleRu" : "С 19/10 до 15/11/2022, ежедневно.",
+      "libelleZh" : "从 10月19日 到 2022年11月15日, 日常.",
+      "libellePtBR" : "De 19/10 a 15/11/2022, todos os dias.",
+      "libelleJa" : "19/10 から 15/11/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24472263,
+      "dateDebut" : "2022-10-19",
+      "dateFin" : "2022-11-15",
+      "complementHoraire" : { },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24478857
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués. Tarifs habituels des cinémas.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Tarifs habituels des cinémas"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14363414,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "CinémAnimé - 23e édition"
+    },
+    "legende" : {
+      "libelleFr" : "CinémAnimé - 23e édition"
+    },
+    "copyright" : {
+      "libelleFr" : "CinémAnimé - 23e édition - Écrans du Sud"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/71/14698350.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/71/14698350-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/71/14698350-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/71/14698350-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cineanime",
+      "taille" : 154473,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-11T10:10:45.454+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Cinémas participants à l'opération"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-15T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT067001"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

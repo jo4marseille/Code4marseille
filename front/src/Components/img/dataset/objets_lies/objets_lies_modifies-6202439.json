@@ -1,0 +1,143 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 6202439,
+  "nom" : {
+    "libelleFr" : "Le Domaine de Sainte Victoire"
+  },
+  "identifier" : "SITRA2_STR_6202439",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-12T09:33:22.990+0000",
+    "dateModification" : "2022-07-12T09:38:52.916+0000",
+    "dateExportModification" : "2022-07-12T09:38:53.202+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101222463,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 68 06 32"
+      }
+    }, {
+      "identifiant" : 101222480,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@domaine-saintevictoire.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "91104703300012",
+      "codeApeNaf" : "7022Z",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin De la Carraire des Arlésiens",
+      "adresse2" : "Montée de la Bégude",
+      "codePostal" : "13710",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.543561, 43.453393 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21055139,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "TROUBAT",
+    "prenom" : "David",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101222520,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 68 06 32"
+      }
+    }, {
+      "identifiant" : 101222542,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@domaine-saintevictoire.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

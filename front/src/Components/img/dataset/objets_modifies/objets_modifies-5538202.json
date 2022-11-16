@@ -1,0 +1,291 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538202,
+  "nom" : {
+    "libelleFr" : "La Maison de la Boule de la Pétanque et du Jeu provençal",
+    "libelleEn" : "La Maison de la Boule de la Pétanque et du Jeu provençal",
+    "libelleEs" : "La Casa de la Bolera, la Petanca y el Juego Provenzal",
+    "libelleIt" : "La Maison de la Boule de la pétanque et du jeu provençal",
+    "libelleDe" : "La Maison de la Boule de la Pétanque et du Jeu provençal (Haus des Boule, des Boulespiels und des provenzalischen Spiels)",
+    "libelleNl" : "La Maison de la Boule de la pétanque et du jeu provençal"
+  },
+  "identifier" : "SITRA2_PCU_5538202",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:17:52.639+0000",
+    "dateModification" : "2021-12-07T09:53:56.042+0000",
+    "dateExportModification" : "2022-07-01T09:40:08.523+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628132,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 44 39 44"
+      }
+    }, {
+      "identifiant" : 79628133,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "maisondelaboule@gmail.com"
+      }
+    }, {
+      "identifiant" : 79628134,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.laboulebleue.fr"
+      }
+    }, {
+      "identifiant" : 85550790,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://fr-fr.facebook.com/lamaisondelaboule/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5473129
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Maison de la Boule  vous attend, dans une ambiance conviviale pour partager un moment bouliste autour de la mini piste ou pour enrichir vos connaissances boulomanes.",
+      "libelleEn" : "The Maison de la Boule awaits you, in a friendly atmosphere, to share a moment around the mini track or to enrich your boulomanes knowledge.",
+      "libelleEs" : "La Maison de la Boule le espera, en un ambiente acogedor, para compartir un momento de bouliste alrededor de la mini pista o para enriquecer sus conocimientos de boulomanes.",
+      "libelleDe" : "Das Maison de la Boule erwartet Sie in einer geselligen Atmosphäre, um einen Boule-Moment rund um die Mini-Bahn zu teilen oder Ihre Boule-Kenntnisse zu erweitern."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Maison de la Boule  vous attend, dans une ambiance conviviale pour partager un moment bouliste autour de la mini piste ou pour enrichir vos connaissances boulomanes.",
+      "libelleEn" : "The Maison de la Boule awaits you, in a friendly atmosphere, to share a moment around the mini track or to enrich your boulomanes knowledge.",
+      "libelleEs" : "La Maison de la Boule le espera, en un ambiente acogedor, para compartir un momento de bouliste alrededor de la mini pista o para enriquecer sus conocimientos de boulomanes.",
+      "libelleDe" : "Das Maison de la Boule erwartet Sie in einer geselligen Atmosphäre, um einen Boule-Moment rund um die Mini-Bahn zu teilen oder Ihre Boule-Kenntnisse zu erweitern."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Des Treize Cantons",
+      "codePostal" : "13002",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.366493, 43.299484 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/05 au 31/12/2021, tous les mercredis, jeudis, vendredis, samedis et dimanches de 10h à 18h.",
+      "libelleEn" : "From 19/05 to 31/12/2021, every Wednesday, Thursday, Friday, Saturday and Sunday between 10 am and 6 pm.",
+      "libelleEs" : "Del 19/05 al 31/12/2021, todos los miércoles, jueves, viernes, sábados y domingos de 10 a 18.",
+      "libelleIt" : "Dal 19/05 al 31/12/2021, tutti i mercoledì, giovedì, venerdì, sabati e domeniche dalle 10 alle 18.",
+      "libelleDe" : "Vom 19/05 bis 31/12/2021, jeden Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 10 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 19/05 tot en met 31/12/2021, elke woensdag, donderdag, vrijdag, zaterdag en zondag van 10.00 tot en met 18.00 u.",
+      "libelleRu" : "С 19/05 до 31/12/2021, каждый среды, четверги, пятницы, субботы и воскресенья с 10h до 18h.",
+      "libelleZh" : "从 5月19日 到 2021年12月31日, 每星期三, 星期四, 星期五, 星期六 和 星期日 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 19/05 a 31/12/2021, todas as quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos de 10h a  18h.",
+      "libelleJa" : "19/05 から 31/12/2021 まで, 毎水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 10 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19373039,
+      "dateDebut" : "2021-05-19",
+      "dateFin" : "2021-12-31",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22230977
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16636
+  }, {
+    "id" : 18002
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9308367,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Maison de la Boule Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Maison de la Boule Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Maison de la Boule Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/81/9064851.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/81/9064851-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/81/9064851-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/81/9064851-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Maison",
+      "taille" : 61530,
+      "hauteur" : 499,
+      "largeur" : 429,
+      "lastModifiedDate" : "2021-01-04T14:58:19.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3416
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3430
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3225
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MUS000067"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

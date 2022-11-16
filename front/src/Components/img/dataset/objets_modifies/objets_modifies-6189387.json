@@ -1,0 +1,243 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6189387,
+  "nom" : {
+    "libelleFr" : "L'Éloge des araignées"
+  },
+  "identifier" : "SITRA2_EVE_6189387",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-29T13:07:30.862+0000",
+    "dateModification" : "2022-06-29T13:11:45.623+0000",
+    "dateExportModification" : "2022-10-17T14:27:31.068+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100850792,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.theatre-lacriee.com/programmation/2022.html"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227255
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une emblématique araignée « maman » suspendue à un fil, des marionnettes manipulées à vue par les trois interprètes très libres…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Texte Mike Kenny  Mise en scène Simon Delattre\r\n\r\nDevenir amies quand 90 ans nous séparent ? Simon Delattre, metteur en scène plein d’humanité, en fait la preuve dans un spectacle savoureux d'émancipation effrontée… C’est qu’il y a urgence à la joie de vivre.\r\n\r\nPierre, aide à domicile, arrive avec sa fille Julie chez la tyrannique Louise. L’accueil ne sera pas des plus chaleureux. Bientôt l’espiègle petite fille perce la carapace de la vieille dame : une amitié inattendue se tisse autour de leur goût de liberté. Louise, fantôme de l’audacieuse artiste Louise Bourgeois, partage avec Julie une verve créatrice ; elle sait que l’art peut réparer ce qui en nous est cabossé. \r\n\r\nUne emblématique araignée « maman » suspendue à un fil, des marionnettes manipulées à vue par les trois interprètes très libres… Après Bouh !, Simon Delattre a commandé un autre texte à l’auteur anglais Mike Kenny, aux échappées oniriques et à la tendresse aiguë, et pose un spectacle exquis. \r\n\r\nFestival En Ribambelle !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Criée - Théâtre National de Marseille",
+      "adresse1" : "30 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.368120, 43.292630 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4538
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5881688
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du mardi 8 au jeudi 10 novembre 2022.\nMar. 8 novembre 2022 09h30 et 14h15\r\nMer. 9 novembre 2022 19h00 \r\nJeu. 10 novembre 2022 09h30 et 14h15.",
+      "libelleEn" : "From Tuesday 8 to Thursday 10 November 2022.",
+      "libelleEs" : "Del martes, 8 al jueves, 10 de noviembre de 2022.",
+      "libelleIt" : "Dal martedì 8 a giovedì 10 novembre 2022.",
+      "libelleDe" : "Von Dienstag, den 8. bis Donnerstag, den 10. November 2022.",
+      "libelleNl" : "Dinsdag 8 tot en met donderdag 10 november 2022.",
+      "libelleRu" : "С вторник 8 до четверг 10 ноября 2022.",
+      "libelleZh" : "从 星期二 到 2022年11月10日, 星期四.",
+      "libellePtBR" : "De Terça-feira 8 a Quinta-feira 10 Novembro 2022.",
+      "libelleJa" : "火曜日 8 から 木曜日 10 11月 2022 まで."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23746711,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : {
+        "libelleFr" : "Mar. 8 novembre 2022 09h30 et 14h15\r\nMer. 9 novembre 2022 19h00 \r\nJeu. 10 novembre 2022 09h30 et 14h15"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23746711
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : de 6 à 13 €.\n",
+      "libelleEn" : "One price: 6 to 13 €.\n",
+      "libelleEs" : "Tarifa única: de 6 a 13 €.\n",
+      "libelleIt" : "Tariffa unica: da 6 a 13 €.\n",
+      "libelleDe" : "Einheitspreis: von 6 bis 13 €.\n",
+      "libelleNl" : "Vast tarief: € 6 tot en met € 13.\n",
+      "libelleRu" : "Единый тариф : с 6 до  13 €.\n",
+      "libelleZh" : "定价 : 从 6 到  13 €.\n",
+      "libellePtBR" : "Tarifa única: de 6 a 13 €.\n",
+      "libelleJa" : "シングルレート: 6 から 13 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13409855,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 13.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13362959,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Éloge des araignées"
+    },
+    "copyright" : {
+      "libelleFr" : "L'Éloge des araignées - Texte Mike Kenny  Mise en scène Simon Delattre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/127/13533100.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/127/13533100-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/127/13533100-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/127/13533100-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 06-29-22 at 03.11 PM",
+      "taille" : 392241,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-06-29T13:11:45.720+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Criée - Théâtre National de Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,364 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5941290,
+  "nom" : {
+    "libelleFr" : "Visite guidée du cloître",
+    "libelleEn" : "Guided tour in french of the cloister in French",
+    "libelleEs" : "Visita guiada al claustro en francés",
+    "libelleIt" : "Visita guidata del chiostro in francese"
+  },
+  "identifier" : "SITRA2_EVE_5941290",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-11T14:54:27.027+0000",
+    "dateModification" : "2022-10-14T14:34:10.510+0000",
+    "dateExportModification" : "2022-10-14T14:34:10.736+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466420
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour découvrir le cloître et son histoire, suivez le guide et partez pour  environ  30 minutes de visite.",
+      "libelleEn" : "To discover the cloister and its history, follow the guide for a 45-minute tour.",
+      "libelleEs" : "Para descubrir el claustro y su historia, siga al guía en una visita de 45 minutos.",
+      "libelleIt" : "Per scoprire il chiostro e la sua storia, segui la guida per un tour di 45 minuti."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Accompagnés d'une guide conférencière, vous serez captivé par l'histoire du cloître. Le cloître Saint-Trophime est au centre des bâtiments canoniaux de l'ancienne cité épiscopale.",
+      "libelleEn" : "Accompanied by a guide, you will be captivated by the history of the cloister. The Saint-Trophime cloister is at the centre of the canonical buildings of the former episcopal city.",
+      "libelleEs" : "Acompañado por un guía, se dejará cautivar por la historia del claustro. El claustro de Saint-Trophime se encuentra en el centro de los edificios canónicos de la antigua ciudad episcopal.",
+      "libelleIt" : "Accompagnati da una guida, sarete affascinati dalla storia del chiostro. Il chiostro di Saint-Trophime è al centro degli edifici canonici dell'antica città vescovile."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cloître Saint Trophime",
+      "adresse1" : "Place De la Republique",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Nîmes Arles Camargue : Aéroport/Aérodrome à 20km\r\nArles : Gare ferroviaire à 1km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627441, 43.676346 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ],
+    "lieu" : {
+      "id" : 15595
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538418
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538418
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 6061461
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 6061544
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 22/10 au 06/11/2022, tous les mardis, jeudis, vendredis et samedis de 12h à 12h45.\n\nDu 17/12 au 31/12/2022, tous les mardis, jeudis, vendredis et samedis de 12h à 12h45.\n\nDu 04/02 au 05/03/2023, tous les mardis, jeudis, vendredis et samedis de 12h à 12h45.",
+      "libelleEn" : "From 22/10 to 06/11/2022, every Tuesday, Thursday, Friday and Saturday between 12 pm and 12.45 pm.\n\nFrom 17/12 to 31/12/2022, every Tuesday, Thursday, Friday and Saturday between 12 pm and 12.45 pm.\n\nFrom 04/02 to 05/03/2023, every Tuesday, Thursday, Friday and Saturday between 12 pm and 12.45 pm.",
+      "libelleEs" : "Del 22/10 al 06/11/2022, todos los martes, jueves, viernes y sábados de 12 a 12:45.\n\nDel 17/12 al 31/12/2022, todos los martes, jueves, viernes y sábados de 12 a 12:45.\n\nDel 04/02 al 05/03/2023, todos los martes, jueves, viernes y sábados de 12 a 12:45.",
+      "libelleIt" : "Dal 22/10 al 06/11/2022, tutti i martedì, giovedì, venerdì e sabati dalle 12 alle 12:45.\n\nDal 17/12 al 31/12/2022, tutti i martedì, giovedì, venerdì e sabati dalle 12 alle 12:45.\n\nDal 04/02 al 05/03/2023, tutti i martedì, giovedì, venerdì e sabati dalle 12 alle 12:45.",
+      "libelleDe" : "Vom 22/10 bis 06/11/2022, jeden Dienstag, Donnerstag, Freitag und Samstag von 12 Uhr bis 12.45 Uhr.\n\nVom 17/12 bis 31/12/2022, jeden Dienstag, Donnerstag, Freitag und Samstag von 12 Uhr bis 12.45 Uhr.\n\nVom 04/02 bis 05/03/2023, jeden Dienstag, Donnerstag, Freitag und Samstag von 12 Uhr bis 12.45 Uhr.",
+      "libelleNl" : "Van 22/10 tot en met 06/11/2022, elke dinsdag, donderdag, vrijdag en zaterdag van 12.00 tot en met 12.45 u.\n\nVan 17/12 tot en met 31/12/2022, elke dinsdag, donderdag, vrijdag en zaterdag van 12.00 tot en met 12.45 u.\n\nVan 04/02 tot en met 05/03/2023, elke dinsdag, donderdag, vrijdag en zaterdag van 12.00 tot en met 12.45 u.",
+      "libelleRu" : "С 22/10 до 06/11/2022, каждый вторники, четверги, пятницы и субботы с 12h до 12h45.\n\nС 17/12 до 31/12/2022, каждый вторники, четверги, пятницы и субботы с 12h до 12h45.\n\nС 04/02 до 05/03/2023, каждый вторники, четверги, пятницы и субботы с 12h до 12h45.",
+      "libelleZh" : "从 10月22日 到 2022年11月6日, 每星期二, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间.\n\n从 12月17日 到 2022年12月31日, 每星期二, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间.\n\n从 2月4日 到 2023年3月5日, 每星期二, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De 22/10 a 06/11/2022, todas as terças-feiras, quintas-feiras, sextas-feiras e sábados de 12h a  12h45.\n\nDe 17/12 a 31/12/2022, todas as terças-feiras, quintas-feiras, sextas-feiras e sábados de 12h a  12h45.\n\nDe 04/02 a 05/03/2023, todas as terças-feiras, quintas-feiras, sextas-feiras e sábados de 12h a  12h45.",
+      "libelleJa" : "22/10 から 06/11/2022 まで, 毎火曜日, 木曜日, 金曜日 と 土曜日 12 午後 と 12.45 午後 の間.\n\n17/12 から 31/12/2022 まで, 毎火曜日, 木曜日, 金曜日 と 土曜日 12 午後 と 12.45 午後 の間.\n\n04/02 から 05/03/2023 まで, 毎火曜日, 木曜日, 金曜日 と 土曜日 12 午後 と 12.45 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23691227,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-06",
+      "complementHoraire" : { },
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "12:45:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502892
+    }, {
+      "identifiant" : 24502905,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "12:45:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502905
+    }, {
+      "identifiant" : 24502907,
+      "dateDebut" : "2023-02-04",
+      "dateFin" : "2023-03-05",
+      "complementHoraire" : { },
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "12:45:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502907
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Compris dans le billet d'entrée au monument.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris dans le billet d'entrée au monument"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12251938,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "G.Cerratti"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/255/12386200.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/255/12386200-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/255/12386200-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/255/12386200-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Visite_guidée_Cloitre_Saint_Trophime©g.ceratti",
+      "taille" : 1977203,
+      "hauteur" : 2976,
+      "largeur" : 3968,
+      "lastModifiedDate" : "2022-01-25T14:09:00.908+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-25", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-03", "2022-11-04", "2022-11-05", "2022-12-17", "2022-12-20", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-29", "2022-12-30", "2022-12-31", "2023-02-04", "2023-02-07", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-14", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-21", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-28", "2023-03-02", "2023-03-03", "2023-03-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Cloître Saint Trophime"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-03-05T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

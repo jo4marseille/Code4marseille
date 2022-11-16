@@ -1,0 +1,140 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5219024,
+  "nom" : {
+    "libelleFr" : "Restaurant du centre d'Art Tadao Ando",
+    "libelleEn" : "Café de l'Art Centre - Château La Coste",
+    "libelleIt" : "Café de l'Art Centre - Château La Coste",
+    "libelleDe" : "Café de l'Art Centre - Château La Coste",
+    "libelleNl" : "Café de l'Art Centre - Château La Coste"
+  },
+  "identifier" : "SITRA2_STR_5219024",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-03-29T15:52:13.839+0000",
+    "dateModification" : "2021-05-20T08:27:15.167+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70478157,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 92 92"
+      }
+    }, {
+      "identifiant" : 70478158,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 70478159,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.chateau-la-coste.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2750 Route De la Cride",
+      "codePostal" : "13610",
+      "commune" : {
+        "id" : 4491
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.421567, 43.635010 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4491
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19243162,
+    "referent" : true,
+    "nom" : "MCKILLEN",
+    "prenom" : "Mara",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 88900850,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 88900855,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 92 92"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

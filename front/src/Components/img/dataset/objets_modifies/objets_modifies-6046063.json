@@ -1,0 +1,369 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6046063,
+  "nom" : {
+    "libelleFr" : "Camille Claudel, géniale folie"
+  },
+  "identifier" : "SITRA2_EVE_6046063",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-01T10:31:32.703+0000",
+    "dateModification" : "2022-04-16T09:12:20.879+0000",
+    "dateExportModification" : "2022-11-04T14:32:41.734+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513152,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 36 99"
+      }
+    }, {
+      "identifiant" : 88544029,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.yvesbrayer.com/fr/"
+      }
+    }, {
+      "identifiant" : 88544037,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "olivier@yvesbrayer.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223254
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "En 1881, Camille Claudel, génie précoce de 18 ans, vient à Paris parfaire son apprentissage du métier de sculpteur avec Alfred Boucher puis Auguste Rodin."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La rencontre avec ce dernier instaure une relation « hors norme » d’élève, de modèle et d’amante, donnant un tournant définitif au destin de la jeune fille que vingt années séparent du maître. Du caractère exceptionnel de leurs relations naîtront des œuvres empreintes de symbolisme et de modernité.  En cette fin de XIXe siècle, la critique d’art exclusivement masculine reconnaîtra le talent de « l’élève de Rodin », qualificatif que l’artiste combattra sa vie durant revendiquant son statut de femme artiste. \r\n\r\nDe nos jours encore, le public tend à résumer sa vie au travers de sa liaison déchue avec Rodin et de son internement. C’est omettre le modernisme d’une artiste en avance sur son temps qui a ouvert la voie de la sculpture symboliste et autobiographique avec notamment des œuvres phares, telles La Valse, l’Implorante, Les Causeuses, etc.\r\n\r\nC’est le combat d’une vie en un siècle, où la femme artiste a peu de place, que l’exposition du Musée Yves Brayer se propose de revisiter en présentant une trentaine d’œuvres prêtées par des collectionneurs et des musées français dont le Musée Camille Claudel."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Yves Brayer",
+      "adresse1" : "Hôtel de Porcelet",
+      "adresse2" : "Place François de Hérain",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.794469, 43.743664 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 12/05 au 13/11/2022, tous les jours.",
+      "libelleEn" : "From 12/05 to 13/11/2022, daily.",
+      "libelleEs" : "Del 12/05 al 13/11/2022, todos los dias.",
+      "libelleIt" : "Dal 12/05 al 13/11/2022, ogni giorno.",
+      "libelleDe" : "Vom 12/05 bis 13/11/2022, täglich.",
+      "libelleNl" : "Van 12/05 tot en met 13/11/2022, iedere dag.",
+      "libelleRu" : "С 12/05 до 13/11/2022, ежедневно.",
+      "libelleZh" : "从 5月12日 到 2022年11月13日, 日常.",
+      "libellePtBR" : "De 12/05 a 13/11/2022, todos os dias.",
+      "libelleJa" : "12/05 から 13/11/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22800529,
+      "dateDebut" : "2022-05-12",
+      "dateFin" : "2022-11-13",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23138449
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 8 €, Groupe adultes : 4 €.\n\n Gratuit pour les moins de 18 ans.\n\nDemi tarif sur présentation du Pass Baux-de-Provence : 4€.",
+      "libelleEn" : "Adult: 8 €, Group adults: 4 €.\n\n Free entry for children < 18 years.",
+      "libelleEs" : "Adulto: 8 €, Grupo adultos: 4 €.\n\n Gratuito para los niños menores de 18 años.",
+      "libelleIt" : "Adulto: 8 €, Gruppo adulti: 4 €.\n\n Gratuito per i bambini di età inferiore a 18 anni.",
+      "libelleDe" : "Erwachsene: 8 €, Erwachsene Gruppe: 4 €.\n\n Kostenlos für Kinder unter 18 Jahren.",
+      "libelleNl" : "Volwassene: € 8, Groep volwassenen: € 4.\n\n Gratis voor kinderen onder de 18 jaar.",
+      "libelleRu" : "Взрослый : 8 €, Группа для взрослых : 4 €.\n\n Бесплатно для лицам младше 18 лет.",
+      "libelleZh" : "成人 : 8 €, 成人团体 : 4 €.\n\n 儿童 < 18 岁自由进入.",
+      "libellePtBR" : "Adulto: 8 €, Grupo de adultos: 4 €.\n\n Gratuito para menores de 18 anos.",
+      "libelleJa" : "大人: 8 €, 大人 グループ: 4 €.\n\n 子供 < 18 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Demi tarif sur présentation du Pass Baux-de-Provence : 4€."
+    },
+    "periodes" : [ {
+      "identifiant" : 12992994,
+      "dateDebut" : "2022-05-12",
+      "dateFin" : "2022-11-13",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4099
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 18
+    }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12613954,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Valse Allioli, bronze ancien c1900-4"
+    },
+    "legende" : {
+      "libelleFr" : "La Valse Allioli, bronze ancien c1900-4"
+    },
+    "copyright" : {
+      "libelleFr" : "Olivier Brayer"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/90/12802695.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/90/12802695-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/90/12802695-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/135/90/12802695-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "21-La Valse Allioli, bronze ancien c1900-4, Photo O. Brayer",
+      "taille" : 5398908,
+      "hauteur" : 5102,
+      "largeur" : 4016,
+      "lastModifiedDate" : "2022-03-01T10:41:27.928+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-11-13T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12613971,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Implorante moyen modèle, bronze 2500-2504-2"
+    },
+    "legende" : {
+      "libelleFr" : "L'Implorante moyen modèle, bronze 2500-2504-2"
+    },
+    "copyright" : {
+      "libelleFr" : "Olivier Brayer"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/90/12802712.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/90/12802712-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/90/12802712-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/90/12802712-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "25-L'Implorante moyen modèle, bronze 2500-2504-2, Photo O. Brayer",
+      "taille" : 9391333,
+      "hauteur" : 6024,
+      "largeur" : 4016,
+      "lastModifiedDate" : "2022-03-01T10:41:31.315+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-11-13T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12613980,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Implorante moyen modèle, bronze 2500-2504-4"
+    },
+    "legende" : {
+      "libelleFr" : "L'Implorante moyen modèle, bronze 2500-2504-4"
+    },
+    "copyright" : {
+      "libelleFr" : "Olivier Brayer"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/90/12802721.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/90/12802721-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/90/12802721-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/90/12802721-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "25-L'Implorante moyen modèle, bronze 2500-2504-4, Photo O. Brayer",
+      "taille" : 2090422,
+      "hauteur" : 6024,
+      "largeur" : 4016,
+      "lastModifiedDate" : "2022-03-01T10:41:24.727+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-11-13T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12851799,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Dossier de presse Camille Claudel, géniale folie"
+    },
+    "legende" : {
+      "libelleFr" : "Camille Claudel, géniale folie"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Yves Brayer"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/173/251/13040557/Muse+Yves+Brayer+-+Communiqu+Expo+2022+-+Camille+Claudel+-+Gniale+Fol.pdf",
+      "extension" : "pdf",
+      "fileName" : "Musée Yves Brayer - Communiqué Expo 2022 - Camille Claudel - Géniale Fol...",
+      "taille" : 819020,
+      "lastModifiedDate" : "2022-04-16T09:12:21.031+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-11-13T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 12851797,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Musée Yves Brayer - Flyer - Exposition Camille Claudel - Géniale Folie"
+    },
+    "legende" : {
+      "libelleFr" : "Musée Yves Brayer - Flyer - Exposition Camille Claudel - Géniale Folie"
+    },
+    "copyright" : {
+      "libelleFr" : "Musée Yves Brayer"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/171/251/13040555/Muse+Yves+Brayer+-+Flyer+-+Exposition+Camille+Claudel+-+Gniale+Folie.pdf",
+      "extension" : "pdf",
+      "fileName" : "Musée Yves Brayer - Flyer - Exposition Camille Claudel - Géniale Folie",
+      "taille" : 298909,
+      "lastModifiedDate" : "2022-04-16T09:12:21.074+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2252
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2349
+    },
+    "nomLieu" : "Musée Yves Brayer"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

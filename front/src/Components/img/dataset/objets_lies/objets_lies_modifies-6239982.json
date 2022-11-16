@@ -1,0 +1,342 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6239982,
+  "nom" : {
+    "libelleFr" : "Visite de l'exposition \"Crash Poli\" au Polaris"
+  },
+  "identifier" : "SITRA2_EVE_6239982",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-24T09:08:45.640+0000",
+    "dateModification" : "2022-10-18T12:01:39.937+0000",
+    "dateExportModification" : "2022-10-20T14:09:24.927+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5529877
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visitez l’exposition du Polaris centre d’art « Crash Poli » des artistes Magali Daniaux et Cédric Pigot avec une médiatrice culturelle du Polaris."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ce duo d’artistes transforme la matière, tels des alchimistes : collages, échantillonnages, cut-up sont au centre de leur pratique. Artistes de terrain, une partie importante de leur travail est dédiée à la recherche, à la prise en compte du territoire dans lequel ils opèrent et de ses populations. Leurs inspirations viennent de la littérature, de la recherche scientifique, des technologies, de petits détails qui retiennent leur attention, d’observations du monde les entourant, de ressentis, d’interrogations."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Polaris Centre d'Art",
+      "adresse1" : "Place Patricia Tranchand",
+      "adresse2" : "Forum des Carmes",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Situé dans le centre ville\r\n\r\nGare Routière : Arrêt de bus à 0.7km\r\nDépartemental 5 : Route départementale à 3km\r\nMarseille Provence (Marignane) : Aéroport/Aérodrome à 40km\r\nA55 (En venant de Marseille) : Sortie autoroute à 15km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.988021, 43.512902 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ],
+    "lieu" : {
+      "id" : 15436
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538991
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6239853
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public(Parking Pasteur, Saint-Catherine, Cordier)\r\nParking public(Parking Sous-Terrain dans le centre ville)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 25 novembre 2022 de 14h à 15h30.\n\nVendredi 20 janvier 2023 de 14h à 15h15.",
+      "libelleEn" : "Friday 25 November 2022 between 2 pm and 3.30 pm.\n\nFriday 20 January 2023 between 2 pm and 3.15 pm.",
+      "libelleEs" : "Viernes, 25 de noviembre de 2022 de 14 a 15:30.\n\nViernes, 20 de enero de 2023 de 14 a 15:15.",
+      "libelleIt" : "Venerdì 25 novembre 2022 dalle 14 alle 15:30.\n\nVenerdì 20 gennaio 2023 dalle 14 alle 15:15.",
+      "libelleDe" : "Freitag, den 25. November 2022 von 14 Uhr bis 15.30 Uhr.\n\nFreitag, den 20. Januar 2023 von 14 Uhr bis 15.15 Uhr.",
+      "libelleNl" : "Vrijdag 25 november 2022 van 14.00 tot en met 15.30 u.\n\nVrijdag 20 januari 2023 van 14.00 tot en met 15.15 u.",
+      "libelleRu" : "Пятница 25 ноября 2022  с 14h до 15h30.\n\nПятница 20 января 2023  с 14h до 15h15.",
+      "libelleZh" : "2022年11月25日, 星期五   小时小时 和 小时小时分钟  之间.\n\n2023年1月20日, 星期五   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Sexta-feira 25 Novembro 2022 de 14h a  15h30.\n\nSexta-feira 20 Janeiro 2023 de 14h a  15h15.",
+      "libelleJa" : "金曜日 25 11月 2022 2 午後 と 3.30 午後 の間.\n\n金曜日 20 1月 2023 2 午後 と 3.15 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24147728,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24525231
+    }, {
+      "identifiant" : 24346205,
+      "dateDebut" : "2023-01-20",
+      "dateFin" : "2023-01-20",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "15:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24525232
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6752609,
+      "nom" : "Réservez votre visite",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 102775473,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/visite-de-l-exposition-crash-poli-au-polaris-1.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13908050,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/54/14169722.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/54/14169722-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/54/14169722-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/54/14169722-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "POLARIS CENTRE D'ART ISTRES JUIN 2022  @OT (9)",
+      "taille" : 544382,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2022-08-31T12:26:13.078+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-25", "2023-01-20" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "evenementGenerique" : {
+      "elementReferenceType" : "FeteEtManifestationGenerique",
+      "id" : 2388
+    },
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Polaris Centre d'Art"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-20T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13VIS003809"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Istres"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.istres.fr"
+    }
+  } ]
+}

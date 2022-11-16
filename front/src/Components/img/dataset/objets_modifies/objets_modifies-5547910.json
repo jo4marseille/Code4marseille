@@ -1,0 +1,554 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5547910,
+  "nom" : {
+    "libelleFr" : "Marché provençal hebdomadaire d'Eygalières",
+    "libelleEn" : "Weekly Provencal market in Eygalières",
+    "libelleIt" : "Marché provençal d'Eygalières",
+    "libelleDe" : "Provenzalischer Wochenmarkt in Eygalières",
+    "libelleNl" : "Marché provençal d'Eygalières"
+  },
+  "identifier" : "SITRA2_EVE_5547910",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-05T10:53:30.828+0000",
+    "dateModification" : "2022-08-19T09:32:09.157+0000",
+    "dateExportModification" : "2022-08-19T09:32:09.605+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 86440067,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 91 01"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223881
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Marché d'Eygalières a lieu tous les vendredis matins, rue de la République.",
+      "libelleEn" : "The Provençal market of Eygalières takes place every Friday morning, rue de la République.",
+      "libelleDe" : "Der provenzalische Markt in Eygalières findet jeden Freitagmorgen in der Rue de la République statt."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Rendez-vous incontournables des villageois et des touristes. Très beau marché provençal à Eygalières : fruits, légumes et autres exposants selon la saison (vêtements, chaussures, accessoires...).",
+      "libelleEn" : "A must for villagers and tourists alike. Very nice Provencal market in Eygalières: fruits, vegetables and other exhibitors according to the season (clothes, shoes, accessories...).",
+      "libelleDe" : "Unumgänglicher Treffpunkt für Dorfbewohner und Touristen. Sehr schöner provenzalischer Markt in Eygalières: Obst, Gemüse und andere Aussteller je nach Jahreszeit (Kleidung, Schuhe, Accessoires...)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Eygalières",
+      "adresse1" : "Rue de la République",
+      "codePostal" : "13810",
+      "bureauDistribution" : "EYGALIERES",
+      "commune" : {
+        "id" : 4445
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.955474, 43.763806 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4445
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 19 août 2022 de 8h à 13h.\n\nVendredi 26 août 2022 de 8h à 13h.\n\nVendredi 2 septembre 2022 de 8h à 13h.\n\nVendredi 9 septembre 2022 de 8h à 13h.\n\nVendredi 16 septembre 2022 de 8h à 13h.\n\nVendredi 23 septembre 2022 de 8h à 13h.\n\nVendredi 30 septembre 2022 de 8h à 13h.\n\nVendredi 7 octobre 2022 de 8h à 13h.\n\nVendredi 14 octobre 2022 de 8h à 13h.\n\nVendredi 21 octobre 2022 de 8h à 13h.\n\nVendredi 28 octobre 2022 de 8h à 13h.\n\nVendredi 4 novembre 2022 de 8h à 13h.\n\nVendredi 11 novembre 2022 de 8h à 13h.\n\nVendredi 18 novembre 2022 de 8h à 13h.\n\nVendredi 25 novembre 2022 de 8h à 13h.\n\nVendredi 2 décembre 2022 de 8h à 13h.\n\nVendredi 9 décembre 2022 de 8h à 13h.\n\nVendredi 16 décembre 2022 de 8h à 13h.\n\nVendredi 23 décembre 2022 de 8h à 13h.\n\nVendredi 30 décembre 2022 de 8h à 13h.",
+      "libelleEn" : "Friday 19 August 2022 between 8 am and 1 pm.\n\nFriday 26 August 2022 between 8 am and 1 pm.\n\nFriday 2 September 2022 between 8 am and 1 pm.\n\nFriday 9 September 2022 between 8 am and 1 pm.\n\nFriday 16 September 2022 between 8 am and 1 pm.\n\nFriday 23 September 2022 between 8 am and 1 pm.\n\nFriday 30 September 2022 between 8 am and 1 pm.\n\nFriday 7 October 2022 between 8 am and 1 pm.\n\nFriday 14 October 2022 between 8 am and 1 pm.\n\nFriday 21 October 2022 between 8 am and 1 pm.\n\nFriday 28 October 2022 between 8 am and 1 pm.\n\nFriday 4 November 2022 between 8 am and 1 pm.\n\nFriday 11 November 2022 between 8 am and 1 pm.\n\nFriday 18 November 2022 between 8 am and 1 pm.\n\nFriday 25 November 2022 between 8 am and 1 pm.\n\nFriday 2 December 2022 between 8 am and 1 pm.\n\nFriday 9 December 2022 between 8 am and 1 pm.\n\nFriday 16 December 2022 between 8 am and 1 pm.\n\nFriday 23 December 2022 between 8 am and 1 pm.\n\nFriday 30 December 2022 between 8 am and 1 pm.",
+      "libelleEs" : "Viernes, 19 de agosto de 2022 de 8 a 13.\n\nViernes, 26 de agosto de 2022 de 8 a 13.\n\nViernes, 2 de septiembre de 2022 de 8 a 13.\n\nViernes, 9 de septiembre de 2022 de 8 a 13.\n\nViernes, 16 de septiembre de 2022 de 8 a 13.\n\nViernes, 23 de septiembre de 2022 de 8 a 13.\n\nViernes, 30 de septiembre de 2022 de 8 a 13.\n\nViernes, 7 de octubre de 2022 de 8 a 13.\n\nViernes, 14 de octubre de 2022 de 8 a 13.\n\nViernes, 21 de octubre de 2022 de 8 a 13.\n\nViernes, 28 de octubre de 2022 de 8 a 13.\n\nViernes, 4 de noviembre de 2022 de 8 a 13.\n\nViernes, 11 de noviembre de 2022 de 8 a 13.\n\nViernes, 18 de noviembre de 2022 de 8 a 13.\n\nViernes, 25 de noviembre de 2022 de 8 a 13.\n\nViernes, 2 de diciembre de 2022 de 8 a 13.\n\nViernes, 9 de diciembre de 2022 de 8 a 13.\n\nViernes, 16 de diciembre de 2022 de 8 a 13.\n\nViernes, 23 de diciembre de 2022 de 8 a 13.\n\nViernes, 30 de diciembre de 2022 de 8 a 13.",
+      "libelleIt" : "Venerdì 19 agosto 2022 dalle 8 alle 13.\n\nVenerdì 26 agosto 2022 dalle 8 alle 13.\n\nVenerdì 2 settembre 2022 dalle 8 alle 13.\n\nVenerdì 9 settembre 2022 dalle 8 alle 13.\n\nVenerdì 16 settembre 2022 dalle 8 alle 13.\n\nVenerdì 23 settembre 2022 dalle 8 alle 13.\n\nVenerdì 30 settembre 2022 dalle 8 alle 13.\n\nVenerdì 7 ottobre 2022 dalle 8 alle 13.\n\nVenerdì 14 ottobre 2022 dalle 8 alle 13.\n\nVenerdì 21 ottobre 2022 dalle 8 alle 13.\n\nVenerdì 28 ottobre 2022 dalle 8 alle 13.\n\nVenerdì 4 novembre 2022 dalle 8 alle 13.\n\nVenerdì 11 novembre 2022 dalle 8 alle 13.\n\nVenerdì 18 novembre 2022 dalle 8 alle 13.\n\nVenerdì 25 novembre 2022 dalle 8 alle 13.\n\nVenerdì 2 dicembre 2022 dalle 8 alle 13.\n\nVenerdì 9 dicembre 2022 dalle 8 alle 13.\n\nVenerdì 16 dicembre 2022 dalle 8 alle 13.\n\nVenerdì 23 dicembre 2022 dalle 8 alle 13.\n\nVenerdì 30 dicembre 2022 dalle 8 alle 13.",
+      "libelleDe" : "Freitag, den 19. August 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 26. August 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 2. September 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 9. September 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 16. September 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 23. September 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 30. September 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 7. Oktober 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 14. Oktober 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 21. Oktober 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 28. Oktober 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 4. November 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 11. November 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 18. November 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 25. November 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 2. Dezember 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 9. Dezember 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 16. Dezember 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 23. Dezember 2022 von 8 Uhr bis 13 Uhr.\n\nFreitag, den 30. Dezember 2022 von 8 Uhr bis 13 Uhr.",
+      "libelleNl" : "Vrijdag 19 augustus 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 26 augustus 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 2 september 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 9 september 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 16 september 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 23 september 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 30 september 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 7 oktober 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 14 oktober 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 21 oktober 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 28 oktober 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 4 november 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 11 november 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 18 november 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 25 november 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 2 december 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 9 december 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 16 december 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 23 december 2022 van 8.00 tot en met 13.00 u.\n\nVrijdag 30 december 2022 van 8.00 tot en met 13.00 u.",
+      "libelleRu" : "Пятница 19 августа 2022  с 8h до 13h.\n\nПятница 26 августа 2022  с 8h до 13h.\n\nПятница 2 сентября 2022  с 8h до 13h.\n\nПятница 9 сентября 2022  с 8h до 13h.\n\nПятница 16 сентября 2022  с 8h до 13h.\n\nПятница 23 сентября 2022  с 8h до 13h.\n\nПятница 30 сентября 2022  с 8h до 13h.\n\nПятница 7 октября 2022  с 8h до 13h.\n\nПятница 14 октября 2022  с 8h до 13h.\n\nПятница 21 октября 2022  с 8h до 13h.\n\nПятница 28 октября 2022  с 8h до 13h.\n\nПятница 4 ноября 2022  с 8h до 13h.\n\nПятница 11 ноября 2022  с 8h до 13h.\n\nПятница 18 ноября 2022  с 8h до 13h.\n\nПятница 25 ноября 2022  с 8h до 13h.\n\nПятница 2 декабря 2022  с 8h до 13h.\n\nПятница 9 декабря 2022  с 8h до 13h.\n\nПятница 16 декабря 2022  с 8h до 13h.\n\nПятница 23 декабря 2022  с 8h до 13h.\n\nПятница 30 декабря 2022  с 8h до 13h.",
+      "libelleZh" : "2022年8月19日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月26日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月2日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月9日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月16日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月23日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月30日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月7日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月14日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月21日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月28日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月4日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月11日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月18日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月25日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月2日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月9日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月16日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月23日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月30日, 星期五   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sexta-feira 19 Agosto 2022 de 8h a  13h.\n\nSexta-feira 26 Agosto 2022 de 8h a  13h.\n\nSexta-feira 2 Setembro 2022 de 8h a  13h.\n\nSexta-feira 9 Setembro 2022 de 8h a  13h.\n\nSexta-feira 16 Setembro 2022 de 8h a  13h.\n\nSexta-feira 23 Setembro 2022 de 8h a  13h.\n\nSexta-feira 30 Setembro 2022 de 8h a  13h.\n\nSexta-feira 7 Outubro 2022 de 8h a  13h.\n\nSexta-feira 14 Outubro 2022 de 8h a  13h.\n\nSexta-feira 21 Outubro 2022 de 8h a  13h.\n\nSexta-feira 28 Outubro 2022 de 8h a  13h.\n\nSexta-feira 4 Novembro 2022 de 8h a  13h.\n\nSexta-feira 11 Novembro 2022 de 8h a  13h.\n\nSexta-feira 18 Novembro 2022 de 8h a  13h.\n\nSexta-feira 25 Novembro 2022 de 8h a  13h.\n\nSexta-feira 2 Dezembro 2022 de 8h a  13h.\n\nSexta-feira 9 Dezembro 2022 de 8h a  13h.\n\nSexta-feira 16 Dezembro 2022 de 8h a  13h.\n\nSexta-feira 23 Dezembro 2022 de 8h a  13h.\n\nSexta-feira 30 Dezembro 2022 de 8h a  13h.",
+      "libelleJa" : "金曜日 19 8月 2022 8 午前 と 1 午後 の間.\n\n金曜日 26 8月 2022 8 午前 と 1 午後 の間.\n\n金曜日 2 9月 2022 8 午前 と 1 午後 の間.\n\n金曜日 9 9月 2022 8 午前 と 1 午後 の間.\n\n金曜日 16 9月 2022 8 午前 と 1 午後 の間.\n\n金曜日 23 9月 2022 8 午前 と 1 午後 の間.\n\n金曜日 30 9月 2022 8 午前 と 1 午後 の間.\n\n金曜日 7 10月 2022 8 午前 と 1 午後 の間.\n\n金曜日 14 10月 2022 8 午前 と 1 午後 の間.\n\n金曜日 21 10月 2022 8 午前 と 1 午後 の間.\n\n金曜日 28 10月 2022 8 午前 と 1 午後 の間.\n\n金曜日 4 11月 2022 8 午前 と 1 午後 の間.\n\n金曜日 11 11月 2022 8 午前 と 1 午後 の間.\n\n金曜日 18 11月 2022 8 午前 と 1 午後 の間.\n\n金曜日 25 11月 2022 8 午前 と 1 午後 の間.\n\n金曜日 2 12月 2022 8 午前 と 1 午後 の間.\n\n金曜日 9 12月 2022 8 午前 と 1 午後 の間.\n\n金曜日 16 12月 2022 8 午前 と 1 午後 の間.\n\n金曜日 23 12月 2022 8 午前 と 1 午後 の間.\n\n金曜日 30 12月 2022 8 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23601085,
+      "dateDebut" : "2022-08-19",
+      "dateFin" : "2022-08-19",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119778
+    }, {
+      "identifiant" : 23601087,
+      "dateDebut" : "2022-08-26",
+      "dateFin" : "2022-08-26",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119779
+    }, {
+      "identifiant" : 23601089,
+      "dateDebut" : "2022-09-02",
+      "dateFin" : "2022-09-02",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119780
+    }, {
+      "identifiant" : 23601091,
+      "dateDebut" : "2022-09-09",
+      "dateFin" : "2022-09-09",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119781
+    }, {
+      "identifiant" : 23601096,
+      "dateDebut" : "2022-09-16",
+      "dateFin" : "2022-09-16",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119782
+    }, {
+      "identifiant" : 24119787,
+      "dateDebut" : "2022-09-23",
+      "dateFin" : "2022-09-23",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119787
+    }, {
+      "identifiant" : 24119788,
+      "dateDebut" : "2022-09-30",
+      "dateFin" : "2022-09-30",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119788
+    }, {
+      "identifiant" : 24119790,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-10-07",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119790
+    }, {
+      "identifiant" : 24119793,
+      "dateDebut" : "2022-10-14",
+      "dateFin" : "2022-10-14",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119793
+    }, {
+      "identifiant" : 24119795,
+      "dateDebut" : "2022-10-21",
+      "dateFin" : "2022-10-21",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119795
+    }, {
+      "identifiant" : 24119800,
+      "dateDebut" : "2022-10-28",
+      "dateFin" : "2022-10-28",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119800
+    }, {
+      "identifiant" : 24119803,
+      "dateDebut" : "2022-11-04",
+      "dateFin" : "2022-11-04",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119803
+    }, {
+      "identifiant" : 24119804,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119804
+    }, {
+      "identifiant" : 24119806,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-11-18",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119806
+    }, {
+      "identifiant" : 24119807,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119807
+    }, {
+      "identifiant" : 24119808,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119808
+    }, {
+      "identifiant" : 24119809,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119809
+    }, {
+      "identifiant" : 24119811,
+      "dateDebut" : "2022-12-16",
+      "dateFin" : "2022-12-16",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119811
+    }, {
+      "identifiant" : 24119814,
+      "dateDebut" : "2022-12-23",
+      "dateFin" : "2022-12-23",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119814
+    }, {
+      "identifiant" : 24119815,
+      "dateDebut" : "2022-12-30",
+      "dateFin" : "2022-12-30",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24119815
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9475083,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/230/9234063.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/230/9234063-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/230/9234063-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/230/9234063-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSCF3053-2-bis",
+      "taille" : 1336698,
+      "hauteur" : 1440,
+      "largeur" : 2171,
+      "lastModifiedDate" : "2021-02-04T11:52:38.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9475078,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/230/9234058.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/230/9234058-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/230/9234058-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/230/9234058-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC_2376-bis",
+      "taille" : 792093,
+      "hauteur" : 1440,
+      "largeur" : 2158,
+      "lastModifiedDate" : "2021-02-04T11:52:42.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9475080,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/230/9234060.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/230/9234060-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/230/9234060-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/230/9234060-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSC_2383-bis",
+      "taille" : 831881,
+      "hauteur" : 1440,
+      "largeur" : 2158,
+      "lastModifiedDate" : "2021-02-04T11:52:35.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9475082,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/230/9234062.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/230/9234062-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/230/9234062-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/230/9234062-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSCF3042-bis",
+      "taille" : 1083182,
+      "hauteur" : 1600,
+      "largeur" : 2400,
+      "lastModifiedDate" : "2021-02-04T11:52:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9475084,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/230/9234064.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/230/9234064-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/230/9234064-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/144/230/9234064-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSCF3088-bis",
+      "taille" : 1415206,
+      "hauteur" : 1600,
+      "largeur" : 2400,
+      "lastModifiedDate" : "2021-02-04T11:52:39.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9475085,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Eygalières"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/230/9234065.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/230/9234065-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/230/9234065-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/230/9234065-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "DSCF3095-bis",
+      "taille" : 909762,
+      "hauteur" : 1600,
+      "largeur" : 2400,
+      "lastModifiedDate" : "2021-02-04T11:52:41.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-28", "2022-11-04", "2022-11-11", "2022-11-18", "2022-11-25", "2022-12-02", "2022-12-09", "2022-12-16", "2022-12-23", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2069
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2205
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Eygalières"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT114202"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OTI Saint Rémy de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintremy-de-provence.com"
+    }
+  } ]
+}

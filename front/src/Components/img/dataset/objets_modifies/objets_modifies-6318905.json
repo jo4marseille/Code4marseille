@@ -1,0 +1,345 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318905,
+  "nom" : {
+    "libelleFr" : "Dans ton coeur",
+    "libelleEn" : "Dans ton coeur",
+    "libelleEs" : "Dans ton coeur",
+    "libelleIt" : "Dans ton coeur",
+    "libelleDe" : "Dans ton coeur",
+    "libelleNl" : "Dans ton coeur",
+    "libelleRu" : "Dans ton coeur",
+    "libelleZh" : "Dans ton coeur",
+    "libellePtBR" : "Dans ton coeur",
+    "libelleJa" : "Dans ton coeur"
+  },
+  "identifier" : "SITRA2_EVE_6318905",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T15:01:09.660+0000",
+    "dateModification" : "2022-11-08T16:36:31.600+0000",
+    "dateExportModification" : "2022-11-08T16:36:33.283+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540089,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lestheatres.net/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228758
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Toute la famille et toutes les générations s’enticheront de cette fresque burlesque et explosive qui tourneboule le train-train quotidien d’un couple ordinaire."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ils se rencontrent et c’est le coup de foudre.\r\nIls s’aiment, ont des enfants, les jours se suivent... la routine guette. Et ça dérape. C’est le cirque. Des disputes de haute voltige éclatent. Les corps s’envolent, l’électroménager s’en mêle, le frigo tangue, le four s’affole dans un charivari de numéros aussi virtuoses que fantaisistes.\r\n\r\nFruit de la collaboration providentielle entre Pierre Guillois, sulfureux metteur en scène de Bigre et Opéraporno accueillis au Gymnase, et la compagnie de cirque Akoreacro, Dans ton coeur est un joyeux bazar savamment orchestré, où les huit acrobates dialoguent prodigieusement avec les quatre musiciens. Après un passage remarqué à Avignon en 2021, le Grand Théâtre est ravi d’accueillir ce spectacle plein d’humour et d’amour."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Grand Théâtre de Provence",
+      "adresse1" : "380 Avenue Max Juvénal",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439903, 43.525993 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228760
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "descriptifHandicapVisuel" : {
+      "libelleFr" : "Spectacles en audiodescription AD pour public aveugle ou malvoyant."
+    },
+    "ageMin" : 72,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 20h.\n\nJeudi 10 novembre 2022 à 20h.\n\nMercredi 7 décembre 2022 à 20h.\n\nDimanche 11 décembre 2022 à 15h.\nSpectacles en audiodescription AD pour public aveugle ou malvoyant.",
+      "libelleEn" : "Wednesday 9 November 2022 at 8 pm.\n\nThursday 10 November 2022 at 8 pm.\n\nWednesday 7 December 2022 at 8 pm.\n\nSunday 11 December 2022 at 3 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 20.\n\nJueves, 10 de noviembre de 2022 a 20.\n\nMiércoles, 7 de diciembre de 2022 a 20.\n\nDomingo, 11 de diciembre de 2022 a 15.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 20.\n\nGiovedì 10 novembre 2022 alle 20.\n\nMercoledì 7 dicembre 2022 alle 20.\n\nDomenica 11 dicembre 2022 alle 15.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 20 Uhr.\n\nDonnerstag, den 10. November 2022 um 20 Uhr.\n\nMittwoch, den 7. Dezember 2022 um 20 Uhr.\n\nSonntag, den 11. Dezember 2022 um 15 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 20.00 u.\n\nDonderdag 10 november 2022 om 20.00 u.\n\nWoensdag 7 december 2022 om 20.00 u.\n\nZondag 11 december 2022 om 15.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 20h.\n\nЧетверг 10 ноября 2022  до 20h.\n\nСреда 7 декабря 2022  до 20h.\n\nВоскресенье 11 декабря 2022  до 15h.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时.\n\n2022年11月10日, 星期四   在 小时小时.\n\n2022年12月7日, 星期三   在 小时小时.\n\n2022年12月11日, 星期日   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  20h.\n\nQuinta-feira 10 Novembro 2022 para  20h.\n\nQuarta-feira 7 Dezembro 2022 para  20h.\n\nDomingo 11 Dezembro 2022 para  15h.",
+      "libelleJa" : "水曜日 9 11月 2022 8 午後 に.\n\n木曜日 10 11月 2022 8 午後 に.\n\n水曜日 7 12月 2022 8 午後 に.\n\n日曜日 11 12月 2022 3 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24714905,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24726685
+    }, {
+      "identifiant" : 24714908,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24726686
+    }, {
+      "identifiant" : 24714900,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24726687
+    }, {
+      "identifiant" : 24714935,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "complementHoraire" : {
+        "libelleFr" : "Spectacles en audiodescription AD pour public aveugle ou malvoyant."
+      },
+      "horaireOuverture" : "15:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24726688
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 10 à 37 € (Différent selon la catégorie).\n",
+      "libelleEn" : "Full price: 10 to 37 €.\n",
+      "libelleEs" : "Tarifa completa: de 10 a 37 €.\n",
+      "libelleIt" : "Tarrifa intera: da 10 a 37 €.\n",
+      "libelleDe" : "Voller Preis: von 10 bis 37 €.\n",
+      "libelleNl" : "Vol tarief: € 10 tot en met € 37.\n",
+      "libelleRu" : "Полную цену : с 10 до  37 €.\n",
+      "libelleZh" : "全额 : 从 10 到  37 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 10 a 37 €.\n",
+      "libelleJa" : "通常料金: 10 から 37 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13843882,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-12-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 37.00,
+        "precisionTarif" : {
+          "libelleFr" : "Différent selon la catégorie"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6914946,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228758
+      },
+      "nom" : "Grand Théâtre de Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70540089,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lestheatres.net/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14829379,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/47/15216505.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/47/15216505-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/47/15216505-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/47/15216505-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "arko1",
+      "taille" : 206101,
+      "hauteur" : 819,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-08T16:36:32.092+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14829380,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/47/15216506.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/47/15216506-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/47/15216506-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/47/15216506-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "arko2",
+      "taille" : 170241,
+      "hauteur" : 1555,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-08T16:36:32.609+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14829381,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/47/15216507.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/47/15216507-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/47/15216507-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/47/15216507-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "arko3",
+      "taille" : 148700,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-08T16:36:31.718+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-12-07", "2022-12-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2147
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2141
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Grand Théâtre de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

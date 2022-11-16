@@ -1,0 +1,255 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6225442,
+  "nom" : {
+    "libelleFr" : "So Schnell 2020 - Catherine Legrand - Dominique Bagouet"
+  },
+  "identifier" : "SITRA2_EVE_6225442",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-04T14:46:09.503+0000",
+    "dateModification" : "2022-08-04T14:51:10.922+0000",
+    "dateExportModification" : "2022-08-05T07:40:49.930+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101947409,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/klapkelemenis/events"
+      }
+    }, {
+      "identifiant" : 70527637,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.kelemenis.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227358
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "KLAP vous donne rendez-vous le 9 décembre pour \"So Schnell 2020\" - Catherine Legrand - Dominique Bagouet."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "En compagnie de Bagouet.\r\n\r\nEn 1990, Dominique Bagouet exprime ainsi son intention : \"J’ose enfin m’attaquer à cette Cantate BWV 26 de Jean-Sébastien Bach, enregistrée dans une version chère à mon cœur depuis longtemps. Guidé par le charme de ce grand tissu d’espace, porteur de lignes, de points et de contrepoints, j’ai inséré entre chaque mouvement des jeux sonores provenant de machines industrielles de bonneterie, ces rythmes et ces sons directement liés à mon enfance, à la petite entreprise textile familiale accolée à la maison. J’ai préparé des pages de trames précises de construction chorégraphique, au service d’un vocabulaire soucieux d’énergie et d’exploration, l’expression d’une énergie contraire à tout prix, qui s’opposerait au temps, ferait vibrer les sens, dirait la joie presque subversive de danser sans donner prise, le moins du monde au fatal.\".\r\n\r\nLa pièce testamentaire, So Schnell, renaît aujourd’hui sous l’impulsion de Catherine Legrand qui en actualise la forme pour privilégier la danse - acharnée, vive, têtue, inventive, joueuse, enragée, fluide, belle, tenace - et l’architecture de l’espace chorégraphique par les corps. Les costumes colorés et la scénographie pop d’origine ont cédé la place à une nouvelle sobriété et à une création lumières de Begoña Garcia Navas, qui souligne l’architecture du travail d’un artiste qui a influencé toute la scène contemporaine.\r\n\r\nPar ce choix, elle rapproche de nous le geste d’un créateur essentiel disparu il y a très exactement 30 ans.\r\n\r\nChorégraphie : Dominique Bagouet (1990)\r\n Re-création et direction artistique : Catherine Legrand (2020) \r\nAssistant artistique : Dominique Jégou\r\n Assistante à la transmission : Annabelle Pulcini\r\nMusiques : Jean-Sébastien Bach, Laurent Gachet \r\n Avec Nuno Bizarro, Eve Bouchelot,Yann Cardin, Florence Casanave, Meritxell Checa Esteban, Elodie Cottet, Vincent Dupuy, Elise Ladoué, Théo Le Bruman, Louis Macqueron, Thierry Micouin, Annabelle Pulcini \r\nDurée : ≈ 1h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "KLAP Maison pour la danse",
+      "adresse1" : "5 Avenue Rostand",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.377380, 43.311790 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6224936
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 9 décembre 2022 à 20h.",
+      "libelleEn" : "Friday 9 December 2022 at 8 pm.",
+      "libelleEs" : "Viernes, 9 de diciembre de 2022 a 20.",
+      "libelleIt" : "Venerdì 9 dicembre 2022 alle 20.",
+      "libelleDe" : "Freitag, den 9. Dezember 2022 um 20 Uhr.",
+      "libelleNl" : "Vrijdag 9 december 2022 om 20.00 u.",
+      "libelleRu" : "Пятница 9 декабря 2022  до 20h.",
+      "libelleZh" : "2022年12月9日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 9 Dezembro 2022 para  20h.",
+      "libelleJa" : "金曜日 9 12月 2022 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24032017,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "complementHoraire" : { },
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24032017
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 5 €.\n\n\nSur réservation\r\nPar mail publics@kelemenis.fr\r\nPar téléphone 04 96 11 11 20.",
+      "libelleEn" : "Full price: 5 €.\n",
+      "libelleEs" : "Tarifa completa: 5 €.\n",
+      "libelleIt" : "Tarrifa intera: 5 €.\n",
+      "libelleDe" : "Voller Preis: 5 €.\n",
+      "libelleNl" : "Vol tarief: € 5.\n",
+      "libelleRu" : "Полную цену : 5 €.\n",
+      "libelleZh" : "全额 : 5 €.\n",
+      "libellePtBR" : "Tarifa inteira: 5 €.\n",
+      "libelleJa" : "通常料金: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Sur réservation\r\nPar mail publics@kelemenis.fr\r\nPar téléphone 04 96 11 11 20"
+    },
+    "periodes" : [ {
+      "identifiant" : 13523343,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13660580,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "So Schnell 2020 - Catherine Legrand - Dominique Bagouet"
+    },
+    "legende" : {
+      "libelleFr" : "So Schnell 2020 - Catherine Legrand - Dominique Bagouet"
+    },
+    "copyright" : {
+      "libelleFr" : "C. Ablain - So Schnell 2020 - Catherine Legrand - Dominique Bagouet - KLAP Maison pour la Danse Kelemenis & Cie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/153/13867517.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/153/13867517-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/153/13867517-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/153/13867517-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "schnell",
+      "taille" : 91222,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-04T14:51:11.025+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-12-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "KLAP Maison pour la danse"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

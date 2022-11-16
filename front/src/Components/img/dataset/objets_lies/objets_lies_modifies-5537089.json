@@ -1,0 +1,880 @@
+{
+  "type" : "DEGUSTATION",
+  "id" : 5537089,
+  "nom" : {
+    "libelleFr" : "Domaine Château La Coste",
+    "libelleEn" : "Domaine Château La Coste",
+    "libelleEs" : "Domaine Château La Coste",
+    "libelleIt" : "Domaine Château La Coste",
+    "libelleDe" : "Domaine Château La Coste",
+    "libelleNl" : "Domaine Château La Coste"
+  },
+  "identifier" : "SITRA2_DEG_5537089",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T09:43:28.122+0000",
+    "dateModification" : "2022-03-21T13:03:43.820+0000",
+    "dateExportModification" : "2022-11-03T13:19:00.519+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79610402,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 92 93"
+      }
+    }, {
+      "identifiant" : 58514180,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 58514179,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 79610403,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 89 41"
+      }
+    }, {
+      "identifiant" : 79610406,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/Chateau.La.Coste"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "40848095200014",
+      "codeApeNaf" : "011G"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 4881871
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découvrez les vins Château La Coste et initiez-vous aux méthodes de vinification en visitant notre chai, réalisé par l'architecte Jean Nouvel, suivi d'une dégustation des vins rouge, rosé et blanc.",
+      "libelleEn" : "Come and discover the Château La Coste wines and learn all about the winegrowing process on a tour of our wine cellar, created by architect Jean Nouvel, then sample the red, white and rosé wines in a tasting session."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Château La Coste est un domaine viticole provençal qui s'étend sur 200 hectare, à quinze kilomètres d'Aix-en-Provence. Depuis 2002, Château La Coste porte une attention toute particulière au traitement des vignes, au processus de vinification et à la qualité du vin produit sur ses terres. \r\n\r\nL'architecte Jean Nouvel a ainsi été chargé de réaliser une cuverie de technologie avancée afin de produire le meilleur vin possible. Cette nouvelle technologie assure l'expression naturelle du vin. En 2009, les vins ont obtenu le label \" Agriculture Biologique \", pour le respect des terres et des méthodes.\r\n\r\nChâteau La Coste apparaît aujourd'hui comme un domaine où les vignes, l'art et l'architecture s'expriment librement : Venez vous promener à travers bois, collines, champs d'oliviers et vignes du domaine afin de découvrir les œuvres d'art et installations des artistes et architectes contemporains invités.",
+      "libelleEn" : "Château La Coste is a winegrowing estate in Provence that stretches across 200 hectares of land, around fifteen kilometres from Aix-en-Provence. Since 2002, the Château La Coste has been paying close care and attention to growing the grapevines, to the winemaking process and to the quality of the wines produced here.\r\n\r\nArchitect Jean Nouvel was commissioned to design a technologically advanced winery, to produce the finest of wines. This new technology protects the natural expression of the grapes. In 2009, the wines were certified organic, thanks to the respect for the land and the methods.\r\n\r\nToday, Château La Coste is a vineyard where art, architecture and the land are combined. Take a stroll around the estate, through the woodland, across hills, past olive trees and vines and admire the artworks and artistic installations from guest artists and architects."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1604
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1621
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 4116
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 5026
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2750 Route de la Cride",
+      "codePostal" : "13610",
+      "bureauDistribution" : "LE PUY SAINTE REPARADE",
+      "commune" : {
+        "id" : 4491
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.421524, 43.635321 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4491
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5231776
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5231977
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538077
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5473963
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5231977
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "HOTELLERIE",
+        "id" : 5218514
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6269157
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 766
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 839
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 916
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1177
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 643
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking privé\r\nParking autocar",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/05 au 30/09 \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 9h à 20h30. Le dimanche de 10h à 20h.\n\nDu 01/10 au 30/04 \nOuverture tous les jours de 10h à 18h30.",
+      "libelleEn" : "From 01/05 to 30/09 \nOpening hours on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 9 am and 8.30 pm. On Sunday between 10 am and 8 pm.\n\nFrom 01/10 to 30/04 \nOpening hours daily between 10 am and 6.30 pm.",
+      "libelleEs" : "Del 01/05 al 30/09 \nHorarios de apertura los lunes, martes, miércoles, jueves, viernes y sábado de 9 a 20:30. Los domingo de 10 a 20.\n\nDel 01/10 al 30/04 \nHorarios de apertura todos los dias de 10 a 18:30.",
+      "libelleIt" : "Dal 01/05 al 30/09 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì, venerdì e sabato dalle 9 alle 20:30. Il domenica dalle 10 alle 20.\n\nDal 01/10 al 30/04 \nOrari di apertura ogni giorno dalle 10 alle 18:30.",
+      "libelleDe" : "Vom 01/05 bis 30/09 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 9 Uhr bis 20.30 Uhr. Jeden Sonntag von 10 Uhr bis 20 Uhr.\n\nVom 01/10 bis 30/04 \nÖffnungszeiten täglich von 10 Uhr bis 18.30 Uhr.",
+      "libelleNl" : "Van 01/05 tot en met 30/09 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 9.00 tot en met 20.30 u. Op zondag van 10.00 tot en met 20.00 u.\n\nVan 01/10 tot en met 30/04 \nOpeningstijden iedere dag van 10.00 tot en met 18.30 u.",
+      "libelleRu" : "С 01/05 до 30/09 \nЧасы открытия на понедельник, вторник, среда, четверг, пятница и суббота с 9h до 20h30. На воскресенье с 10h до 20h.\n\nС 01/10 до 30/04 \nЧасы открытия ежедневно с 10h до 18h30.",
+      "libelleZh" : "从 5月1日 到 9月30日 \n开放时间 上 星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时分钟  之间. 上 星期日 小时小时 和 小时小时 之间.\n\n从 10月1日 到 4月30日 \n开放时间 日常 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De 01/05 a 30/09 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 9h a  20h30. Na domingo de 10h a  20h.\n\nDe 01/10 a 30/04 \nOuverture todos os dias de 10h a  18h30.",
+      "libelleJa" : "01/05 から 30/09 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 9 午前 と 8.30 午後 の間. 日曜日 に 10 午前 と 8 午後 の間.\n\n01/10 から 30/04 まで \n開館時間 毎日 10 午前 と 6.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21395838,
+      "dateDebut" : "2021-05-01",
+      "dateFin" : "2021-09-30",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 22922412
+    }, {
+      "identifiant" : 21395856,
+      "dateDebut" : "2021-10-01",
+      "dateFin" : "2022-04-30",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : true,
+      "identifiantTechnique" : 22922413
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1265
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5905818,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 4881871
+      },
+      "nom" : "Domaine Château La Coste",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 58514168,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 61 89 98"
+        }
+      }, {
+        "identifiant" : 58514179,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.chateau-la-coste.com"
+        }
+      } ],
+      "locked" : false
+    }, {
+      "identifiant" : 5905819,
+      "nom" : "Boutique en ligne",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 90301619,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://boutique-chateau-la-coste.com/",
+          "en" : "https://boutique-chateau-la-coste.com/en/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 10234
+  }, {
+    "id" : 12888
+  }, {
+    "id" : 12889
+  }, {
+    "id" : 12891
+  }, {
+    "id" : 13197
+  }, {
+    "id" : 13246
+  }, {
+    "id" : 13248
+  }, {
+    "id" : 13250
+  }, {
+    "id" : 15330
+  }, {
+    "id" : 16173
+  }, {
+    "id" : 16174
+  }, {
+    "id" : 16177
+  }, {
+    "id" : 16179
+  }, {
+    "id" : 16548
+  }, {
+    "id" : 16574
+  }, {
+    "id" : 16575
+  }, {
+    "id" : 16576
+  }, {
+    "id" : 16577
+  }, {
+    "id" : 16580
+  }, {
+    "id" : 16903
+  }, {
+    "id" : 18175
+  }, {
+    "id" : 23526
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17633130,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "COSSE",
+    "prenom" : "Mathieu",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84459405,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mathieu.cosse@gmail.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17633131,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MCKILLEN",
+    "prenom" : "Mara",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84459406,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 92 92"
+      }
+    }, {
+      "identifiant" : 84459407,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@chateau-la-coste.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12710168,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château La Coste"
+    },
+    "legende" : {
+      "libelleFr" : "Art Center vue du ciel"
+    },
+    "copyright" : {
+      "libelleFr" : "Château-la-Coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/226/12903021.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/226/12903021-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/226/12903021-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/226/12903021-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Art Center vue du ciel Château-la-Coste",
+      "taille" : 8174543,
+      "hauteur" : 2242,
+      "largeur" : 3992,
+      "lastModifiedDate" : "2022-03-21T13:03:44.256+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12710180,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château La Coste"
+    },
+    "legende" : {
+      "libelleFr" : "Reception mariage extérieur nuit"
+    },
+    "copyright" : {
+      "libelleFr" : "Château La Coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/226/12903033.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/226/12903033-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/226/12903033-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/226/12903033-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Reception mariage extérieur nuit Château-la-Coste",
+      "taille" : 7403480,
+      "hauteur" : 3840,
+      "largeur" : 5760,
+      "lastModifiedDate" : "2022-03-21T13:03:47.657+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9114473,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4001984_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "chteau la coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/83/8868821.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/83/8868821-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/83/8868821-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/83/8868821-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 47598,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-11-21T05:12:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9114474,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4001984_3_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "chateau la coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/83/8868822.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/83/8868822-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/83/8868822-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/83/8868822-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 9000,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2020-11-21T05:12:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9114475,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T4001984_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Château la coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/83/8868823.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/83/8868823-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/83/8868823-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/83/8868823-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 178219,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-11-21T05:12:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12710189,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château-la-Coste"
+    },
+    "legende" : {
+      "libelleFr" : "Tente Colonnades"
+    },
+    "copyright" : {
+      "libelleFr" : "Château-la-Coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/226/12903042.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/226/12903042-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/226/12903042-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/226/12903042-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Tente Colonnades Château-la-Coste",
+      "taille" : 188651,
+      "hauteur" : 683,
+      "largeur" : 1024,
+      "lastModifiedDate" : "2022-03-21T13:03:46.939+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 12710139,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Château La Coste"
+    },
+    "legende" : {
+      "libelleFr" : "Logo"
+    },
+    "copyright" : {
+      "libelleFr" : "Château La Coste"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/81/226/12902993/Logo+Chteau+La+Coste.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/81/226/12902993-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/81/226/12902993-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/81/226/12902993-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Logo Château La Coste",
+      "taille" : 27860,
+      "hauteur" : 591,
+      "largeur" : 591,
+      "lastModifiedDate" : "2022-03-21T13:03:46.595+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipeesPour" : [ {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1241
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1243
+    } ],
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1230
+    } ],
+    "nombreSallesReunionEquipees" : 4,
+    "capaciteMaxAccueil" : 250
+  },
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 482
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ],
+    "complementVisite" : {
+      "libelleFr" : "Visite de la cave : 9 €/pers\r\nArt Centre : 12 €/pers",
+      "libelleEn" : "Wine Tour - € 9/pers\r\nArt Centre - € 12/pers"
+    }
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-28", "2023-05-29", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-04", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-11", "2023-06-12", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-18", "2023-06-19", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-25", "2023-06-26", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-02", "2023-07-03", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-09", "2023-07-10", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-16", "2023-07-17", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-23", "2023-07-24", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-30", "2023-07-31", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-06", "2023-08-07", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-13", "2023-08-14", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-20", "2023-08-21", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-27", "2023-08-28", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-03", "2023-09-04", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-10", "2023-09-11", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-17", "2023-09-18", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-24", "2023-09-25", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2024-05-01", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-05", "2024-05-06", "2024-05-07", "2024-05-08", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-12", "2024-05-13", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-19", "2024-05-20", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-26", "2024-05-27", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-02", "2024-06-03", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-09", "2024-06-10", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-16", "2024-06-17", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-23", "2024-06-24", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-06-30", "2024-07-01", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-07", "2024-07-08", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-14", "2024-07-15", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-21", "2024-07-22", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-28", "2024-07-29", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-04", "2024-08-05", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-11", "2024-08-12", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-18", "2024-08-19", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-25", "2024-08-26", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-01", "2024-09-02", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-08", "2024-09-09", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-15", "2024-09-16", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-22", "2024-09-23", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-09-29", "2024-09-30", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-04-30", "2023-10-01", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-08", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-15", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-29", "2023-10-30", "2023-10-31", "2023-11-01", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-11", "2023-11-12", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-24", "2023-12-25", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2023-12-31", "2024-01-01", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-07", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-14", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-21", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-28", "2024-01-29", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-04", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-11", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-18", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-03", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-10", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-17", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-24", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-03-31", "2024-04-01", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-07", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-14", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-21", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-28", "2024-04-29", "2024-04-30", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-06", "2024-10-07", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-27", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02" ],
+  "informationsDegustation" : {
+    "aoc" : true,
+    "labelsChartesQualite" : [ {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 4465
+    }, {
+      "elementReferenceType" : "DegustationLabelCharteQualite",
+      "id" : 4464
+    } ],
+    "charteQualite" : {
+      "libelleFr" : "Agriculture biologique (AB), Label Vignobles et Découvertes",
+      "libelleEn" : "Organic Farming (AB), Label Vineyards and Discoveries",
+      "libelleEs" : "Agricultura ecológica (AB), Etiquetar viñedos y descubrimientos",
+      "libelleIt" : "Agricoltura biologica (AB), Etichetta Vigneti e Scoperte",
+      "libelleDe" : "Ökologischer Landbau (AB), Label Weinberge und Entdeckungen",
+      "libelleNl" : "Organic Farming (AB), Label wijngaarden en ontdekkingen",
+      "libelleRu" : "Органическое сельское хозяйство (AB), Яркие виноградники и открытия",
+      "libelleZh" : "有机农业（AB）, 标签葡萄园和发现",
+      "libellePtBR" : "Agriculture biologique (AB)",
+      "libelleJa" : "有機農法（AB）, Vignobles et Découvertes（ブドウ園と発見）ラベル"
+    },
+    "aopAocIgps" : [ {
+      "elementReferenceType" : "AopAocIgp",
+      "id" : 4386
+    }, {
+      "elementReferenceType" : "AopAocIgp",
+      "id" : 6007
+    } ],
+    "aocDescriptif" : {
+      "libelleFr" : "AOP Coteaux d'Aix-en-Provence, IGP Vins de pays des Bouches du Rhône",
+      "libellePtBR" : "AOP Coteaux d'Aix-en-Provence"
+    },
+    "typesProduit" : [ {
+      "elementReferenceType" : "DegustationTypeProduit",
+      "id" : 3020
+    } ],
+    "statutsExploitant" : [ {
+      "elementReferenceType" : "DegustationStatutExploitant",
+      "id" : 3038
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1888
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5155
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1802
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1818
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1847
+    } ]
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1527702,
+      "annee" : 2021,
+      "retour" : false,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4001984"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "SI Le Puy Sainte Réparade"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.si-lepuy.fr"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.2,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 1483,
+        "dateMaj" : 1667471841607
+      }
+    } ]
+  } ]
+}

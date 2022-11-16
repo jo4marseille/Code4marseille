@@ -1,0 +1,227 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6301664,
+  "nom" : {
+    "libelleFr" : "Nourritures terrestres"
+  },
+  "identifier" : "SITRA2_EVE_6301664",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-18T10:45:28.187+0000",
+    "dateModification" : "2022-10-18T11:08:13.992+0000",
+    "dateExportModification" : "2022-10-18T11:08:30.678+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104282703,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/events/643046454051268/643048884051025/?active_tab=about"
+      }
+    }, {
+      "identifiant" : 103296915,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://good-designstore.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6264584
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Good Design Store invite à sa table Manufacturistes et ses objets d’artisanat qui font écho à la ville de Marseille et sur ses murs Ichtus qui capture en photographie des instants heureux, véritables souvenirs sensibles et méridionaux."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Manufacturistes est un éditeur d’objet d’artisanat urbain. Cette terre nourricière a vu naître en son sein la cuisine la plus abondante. Son histoire se dévore, tout comme ses plats savoureux, mélanges de traditions et de transmissions.\r\n\r\nInstallée à Marseille, la marque s’appuie sur les codes de la ville, sa culture, ses couleurs et son style de vie décontracté. Tous les objets sont fabriqués localement par des artisans heureux d’associer leur savoir-faire à l’esprit de la ville.\r\n,"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Good Design Store",
+      "adresse1" : "19 rue Venture",
+      "codePostal" : "13001",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : { },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/10 au 09/11/2022 de 10h à 19h.\nFermé le dimanche.",
+      "libelleEn" : "From 07/10 to 09/11/2022 between 10 am and 7 pm.\nClosed on Sunday.",
+      "libelleEs" : "Del 07/10 al 09/11/2022 de 10 a 19.\nCerrado los domingo.",
+      "libelleIt" : "Dal 07/10 al 09/11/2022 dalle 10 alle 19.\nChiuso la domenica.",
+      "libelleDe" : "Vom 07/10 bis 09/11/2022 von 10 Uhr bis 19 Uhr.\nSonntag geschlossen.",
+      "libelleNl" : "Van 07/10 tot en met 09/11/2022 van 10.00 tot en met 19.00 u.\nZondag gesloten.",
+      "libelleRu" : "С 07/10 до 09/11/2022 с 10h до 19h.\nНе работает воскресенье.",
+      "libelleZh" : "从 10月7日 到 2022年11月9日 小时小时 和 小时小时 之间.\n星期日 关闭.",
+      "libellePtBR" : "De 07/10 a 09/11/2022 de 10h a  19h.\nFechado em domingo.",
+      "libelleJa" : "07/10 から 09/11/2022 まで 10 午前 と 7 午後 の間.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24524896,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-11-09",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24524896
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14443681,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Exposition vente Nourritures terrestres"
+    },
+    "legende" : {
+      "libelleFr" : "Exposition vente Nourritures terrestres"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Manufacturiers"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/179/14791659.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/179/14791659-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/179/14791659-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/235/179/14791659-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "nourri",
+      "taille" : 91384,
+      "hauteur" : 784,
+      "largeur" : 1248,
+      "lastModifiedDate" : "2022-10-18T11:08:14.123+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2125
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2069
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2127
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Good Design Store"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

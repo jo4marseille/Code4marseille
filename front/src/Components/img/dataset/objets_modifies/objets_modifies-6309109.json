@@ -1,0 +1,229 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309109,
+  "nom" : {
+    "libelleFr" : "Kiichiro Ogawa < Guru - Guru >"
+  },
+  "identifier" : "SITRA2_EVE_6309109",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T07:03:33.767+0000",
+    "dateModification" : "2022-10-26T07:45:31.219+0000",
+    "dateExportModification" : "2022-10-26T07:45:32.006+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102630232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 80 15 34 91"
+      }
+    }, {
+      "identifiant" : 102629636,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/GalerieSinibaldiArles"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 6242804
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nous invitons l’artiste Kiichiro Ogawa, durant « Eté indien », en résidence, un mois durant à l’Espace Sinibaldi pour créer In Situ son travail GURU GURU, expression japonaise traduisible par «la façon dont les choses tournent continuellement »."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les vendredis 21 et samedi 22 octobre le public sera invité pour une performance de Live Painting où l’artiste réalisera des œuvres en direct sur différents supports. La styliste Armine Ohanyan viendra présenter des pièces de sa collection créées en collaboration avec Kiichiro et lui proposera de nouveaux supports textiles à peindre. \r\n\r\nDurant cette exposition, la styliste Armine Ohanyan présente une partie de sa collection qui est le fruit d’une collaboration avec Kiichiro Ogawa mêlant art, mouvement et création. Ce sont les thèmes qui unissent les deux créateurs dans leurs visions respectives de la mode.\r\nCette performance artistique réalisée en improvisation libre de peinture sur vêtements, à la galerie Sinibaldi, devient une collection/capsule spontanée, basée sur les modèles iconiques de la créatrice. La capsule est également proposée en impressions digitalisées pour offrir une édition limitée accessible. Ce concept incarne la conviction de la créatrice, que l’art et la mode sont indissociables."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Espace Sinibaldi",
+      "adresse1" : "24, rue de l'Hôtel de Ville",
+      "codePostal" : "13200",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627757, 43.677345 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 21/10 au 26/11/2022 de 14h à 19h.\nFermé lundi et dimanche.",
+      "libelleEn" : "From 21/10 to 26/11/2022 between 2 pm and 7 pm.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 21/10 al 26/11/2022 de 14 a 19.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 21/10 al 26/11/2022 dalle 14 alle 19.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 21/10 bis 26/11/2022 von 14 Uhr bis 19 Uhr.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 21/10 tot en met 26/11/2022 van 14.00 tot en met 19.00 u.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 21/10 до 26/11/2022 с 14h до 19h.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 10月21日 到 2022年11月26日 小时小时 和 小时小时 之间.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 21/10 a 26/11/2022 de 14h a  19h.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "21/10 から 26/11/2022 まで 2 午後 と 7 午後 の間.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24596162,
+      "dateDebut" : "2022-10-21",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24596304
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14571697,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Kiichiro OGAWA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/223/14933804.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/223/14933804-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/223/14933804-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/223/14933804-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cap",
+      "taille" : 267553,
+      "hauteur" : 1600,
+      "largeur" : 1280,
+      "lastModifiedDate" : "2022-10-26T07:45:31.314+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-11-27T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Espace Sinibaldi"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

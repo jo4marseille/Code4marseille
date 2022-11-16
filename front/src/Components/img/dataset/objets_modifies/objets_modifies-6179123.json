@@ -1,0 +1,254 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6179123,
+  "nom" : {
+    "libelleFr" : "Elisabetta, Regina d'Inghilterra - Gioachino Rossini"
+  },
+  "identifier" : "SITRA2_EVE_6179123",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-21T12:48:16.471+0000",
+    "dateModification" : "2022-06-21T13:24:50.338+0000",
+    "dateExportModification" : "2022-06-24T15:14:54.307+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100599080,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://opera.marseille.fr/programmation/opera/elisabetta-regina-d-inghilterra"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466210
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez Elisabetta, Regina d'Inghilterra à l'Opéra Municipal de Marseille."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Karine Deshayes en Elisabeth d’Angleterre ? \"Au-delà d’une autorité vocale souveraine [...], la chanteuse peut compter sur sa technique sans faille pour faire sienne l’écriture brillante du rôle\", assure Forumopera.com.\r\nAprès sa conquête de Pesaro, la mezzo règnera sur Marseille.\r\n\r\nEn 1815, le jeune Rossini doit montrer à Naples de quoi sa plume est capable.\r\nSur un livret donné par le Teatro San Carlo, parmi les scènes les plus richement dotées d’Europe, pour Isabella Colbran, prima donna assoluta qu’il épousera plus tard, et pour deux illustres ténors auxquels il offre un véritable duel vocal, il recycle les meilleurs morceaux de certaines de ses œuvres antérieures pour ficeler une partition idéale.\r\n\"L’effet fut prodigieux\", nous fait savoir Stendhal. God save the Queen !\r\n\r\nOpéra en 2 actes\r\nLivret de Giovanni Schmidt d’après la pièce Il paggio di Leicester (Le Page de Leicester) de Carlo FEederici, d’après le roman The Recess de Sophia Lee\r\nCréation à Naples, Teatro San Carlo, le 4 octobre 1815\r\nPremière représentation à l’Opéra de Marseille\r\n\r\nVersion concertante\r\n\r\nDirection musicale : Roberto Rizzi Brignoli\r\nAvec Karine Deshayes (Elisabetta), Giuliana Gianfaldoni (Matilda), Floriane Hasler (Enrico), Julien Dran (Leicester), Ruzil Gatin (Norfolk), Samy Camps (Guglielmo)\r\n\r\nOrchestre et Chœur de l’Opéra de Marseille"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Opéra de Marseille",
+      "adresse1" : "2 Place Ernest Reyer",
+      "codePostal" : "13001",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.375728, 43.293661 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 8 novembre 2022 à 20h.\n\nJeudi 10 novembre 2022 à 20h.\n\nDimanche 13 novembre 2022 à 14h30.",
+      "libelleEn" : "Tuesday 8 November 2022 at 8 pm.\n\nThursday 10 November 2022 at 8 pm.\n\nSunday 13 November 2022 at 2.30 pm.",
+      "libelleEs" : "Martes, 8 de noviembre de 2022 a 20.\n\nJueves, 10 de noviembre de 2022 a 20.\n\nDomingo, 13 de noviembre de 2022 a 14:30.",
+      "libelleIt" : "Martedì 8 novembre 2022 alle 20.\n\nGiovedì 10 novembre 2022 alle 20.\n\nDomenica 13 novembre 2022 alle 14:30.",
+      "libelleDe" : "Dienstag, den 8. November 2022 um 20 Uhr.\n\nDonnerstag, den 10. November 2022 um 20 Uhr.\n\nSonntag, den 13. November 2022 um 14.30 Uhr.",
+      "libelleNl" : "Dinsdag 8 november 2022 om 20.00 u.\n\nDonderdag 10 november 2022 om 20.00 u.\n\nZondag 13 november 2022 om 14.30 u.",
+      "libelleRu" : "Вторник 8 ноября 2022  до 20h.\n\nЧетверг 10 ноября 2022  до 20h.\n\nВоскресенье 13 ноября 2022  до 14h30.",
+      "libelleZh" : "2022年11月8日, 星期二   在 小时小时.\n\n2022年11月10日, 星期四   在 小时小时.\n\n2022年11月13日, 星期日   在 小时小时分钟.",
+      "libellePtBR" : "Terça-feira 8 Novembro 2022 para  20h.\n\nQuinta-feira 10 Novembro 2022 para  20h.\n\nDomingo 13 Novembro 2022 para  14h30.",
+      "libelleJa" : "火曜日 8 11月 2022 8 午後 に.\n\n木曜日 10 11月 2022 8 午後 に.\n\n日曜日 13 11月 2022 2.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23670424,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-08",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23670424
+    }, {
+      "identifiant" : 23670446,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23670446
+    }, {
+      "identifiant" : 23670453,
+      "dateDebut" : "2022-11-13",
+      "dateFin" : "2022-11-13",
+      "horaireOuverture" : "14:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23670453
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 13 à 75 €, Tarif réduit : de 10 à 67,50 €.\n\n\nDétails des tarifs sur https://opera.marseille.fr/.",
+      "libelleEn" : "Full price: 13 to 75 €, Reduced price: 10 to 67.50 €.\n",
+      "libelleEs" : "Tarifa completa: de 13 a 75 €, Precio reducido: de 10 a 67,50 €.\n",
+      "libelleIt" : "Tarrifa intera: da 13 a 75 €, Prezzo ridotto: da 10 a 67,50 €.\n",
+      "libelleDe" : "Voller Preis: von 13 bis 75 €, Reduzierter Preis: von 10 bis 67,50 €.\n",
+      "libelleNl" : "Vol tarief: € 13 tot en met € 75, Korting: € 10 tot en met € 67,50.\n",
+      "libelleRu" : "Полную цену : с 13 до  75 €, Сниженная цена : с 10 до  67,50 €.\n",
+      "libelleZh" : "全额 : 从 13 到  75 €, 减价 : 从 10 到  67.50 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 13 a 75 €, Preço reduzido: de 10 a 67,50 €.\n",
+      "libelleJa" : "通常料金: 13 から 75 €, 割引料金: 10 から 67.50 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Détails des tarifs sur https://opera.marseille.fr/"
+    },
+    "periodes" : [ {
+      "identifiant" : 13381777,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-13",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 13.00,
+        "maximum" : 75.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 67.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13303075,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Elisabetta, Regina d'Inghilterra - Gioachino Rossini"
+    },
+    "legende" : {
+      "libelleFr" : "Elisabetta, Regina d'Inghilterra - Gioachino Rossini"
+    },
+    "copyright" : {
+      "libelleFr" : "Studio Muro - Elisabetta, Regina d'Inghilterra - Gioachino Rossini - Opéra de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/159/13475828.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/159/13475828-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/159/13475828-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/159/13475828-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "elisabetta",
+      "taille" : 108957,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-06-21T13:24:50.439+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-10", "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2132
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2077
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2220
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Opéra de Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

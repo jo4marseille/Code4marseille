@@ -1,0 +1,193 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222891,
+  "nom" : {
+    "libelleFr" : "Le Musée de l'aviation",
+    "libelleEn" : "Le Musée de l'aviation",
+    "libelleIt" : "Le Musée de l'aviation",
+    "libelleDe" : "Le Musée de l'aviation",
+    "libelleNl" : "Le Musée de l'aviation"
+  },
+  "identifier" : "SITRA2_STR_5222891",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:42:32.616+0000",
+    "dateModification" : "2020-12-11T17:22:51.776+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512226,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 60 52 16 34"
+      }
+    }, {
+      "identifiant" : 70512227,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 15 32 63"
+      }
+    }, {
+      "identifiant" : 70512229,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeaviation@orange.fr"
+      }
+    }, {
+      "identifiant" : 70512230,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://musee-aviation-saint-victoret.fr/"
+      }
+    }, {
+      "identifiant" : 85036899,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 34 59 16"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "479 512 709 00011",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "147 Boulevard Barthélémy Abbadie",
+      "codePostal" : "13730",
+      "commune" : {
+        "id" : 4513
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.236415, 43.420211 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4513
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18570859,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DUPUY",
+    "prenom" : "Patrick",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85036917,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 15 03 54 19"
+      }
+    }, {
+      "identifiant" : 85036918,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 60 52 16 34"
+      }
+    }, {
+      "identifiant" : 85036929,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museeaviation@orange.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18570865,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "TORNOR",
+    "prenom" : "Claude",
+    "titre" : {
+      "libelleFr" : "Vice-Président"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

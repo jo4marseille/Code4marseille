@@ -1,0 +1,280 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6145564,
+  "nom" : {
+    "libelleFr" : "Malik Farès \"en confiance\""
+  },
+  "identifier" : "SITRA2_EVE_6145564",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-23T08:22:52.472+0000",
+    "dateModification" : "2022-10-06T09:39:12.838+0000",
+    "dateExportModification" : "2022-10-06T09:39:13.062+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 99637387,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://comedieclubvieuxport.mapado.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227239
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un artiste, un micro, de l'improvisation."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Un artiste, un micro, des confessions et des réflexions qui déclenchent les fou-rires de la salle : bienvenue chez Malik Fares ! \r\n\r\nEntre souvenirs et rêves, Malik tente d'être \"en confiance\" à chaque instant dans notre quotidien totalement fou. Au travers de ses aspirations personnelles se dessine un univers décalé et hilarant dans lequel on plonge avec bonheur : un monde haut en couleurs et sans jugement, où personne ne doute. Un monde où chacun ose être soi-même et se sent \"en confiance\".\r\n\r\nAvec élégance, Malik Fares joue les équilibristes entre humour et tendresse, et rassemble tout le monde dans un grand éclat de rire. Un spectacle qui ravira les amateurs de stand-up et qui réconciliera les autres avec le genre !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Comédie Vieux-Port",
+      "adresse1" : "16 Quai De Rive Neuve",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.370685, 43.292971 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 14 octobre 2022 à 20h.\n\nDu vendredi 28 au samedi 29 octobre 2022 à 20h.\n\nDu vendredi 11 au samedi 12 novembre 2022 à 20h.\n\nDu vendredi 25 au samedi 26 novembre 2022 à 20h.\n\nDu vendredi 9 au samedi 10 décembre 2022 à 20h.",
+      "libelleEn" : "Friday 14 October 2022 at 8 pm.\n\nFrom Friday 28 to Saturday 29 October 2022 at 8 pm.\n\nFrom Friday 11 to Saturday 12 November 2022 at 8 pm.\n\nFrom Friday 25 to Saturday 26 November 2022 at 8 pm.\n\nFrom Friday 9 to Saturday 10 December 2022 at 8 pm.",
+      "libelleEs" : "Viernes, 14 de octubre de 2022 a 20.\n\nDel viernes, 28 al sábado, 29 de octubre de 2022 a 20.\n\nDel viernes, 11 al sábado, 12 de noviembre de 2022 a 20.\n\nDel viernes, 25 al sábado, 26 de noviembre de 2022 a 20.\n\nDel viernes, 9 al sábado, 10 de diciembre de 2022 a 20.",
+      "libelleIt" : "Venerdì 14 ottobre 2022 alle 20.\n\nDal venerdì 28 a sabato 29 ottobre 2022 alle 20.\n\nDal venerdì 11 a sabato 12 novembre 2022 alle 20.\n\nDal venerdì 25 a sabato 26 novembre 2022 alle 20.\n\nDal venerdì 9 a sabato 10 dicembre 2022 alle 20.",
+      "libelleDe" : "Freitag, den 14. Oktober 2022 um 20 Uhr.\n\nVon Freitag, den 28. bis Samstag, den 29. Oktober 2022 um 20 Uhr.\n\nVon Freitag, den 11. bis Samstag, den 12. November 2022 um 20 Uhr.\n\nVon Freitag, den 25. bis Samstag, den 26. November 2022 um 20 Uhr.\n\nVon Freitag, den 9. bis Samstag, den 10. Dezember 2022 um 20 Uhr.",
+      "libelleNl" : "Vrijdag 14 oktober 2022 om 20.00 u.\n\nVrijdag 28 tot en met zaterdag 29 oktober 2022 om 20.00 u.\n\nVrijdag 11 tot en met zaterdag 12 november 2022 om 20.00 u.\n\nVrijdag 25 tot en met zaterdag 26 november 2022 om 20.00 u.\n\nVrijdag 9 tot en met zaterdag 10 december 2022 om 20.00 u.",
+      "libelleRu" : "Пятница 14 октября 2022  до 20h.\n\nС пятница 28 до суббота 29 октября 2022  до 20h.\n\nС пятница 11 до суббота 12 ноября 2022  до 20h.\n\nС пятница 25 до суббота 26 ноября 2022  до 20h.\n\nС пятница 9 до суббота 10 декабря 2022  до 20h.",
+      "libelleZh" : "2022年10月14日, 星期五   在 小时小时.\n\n从 星期五 到 2022年10月29日, 星期六   在 小时小时.\n\n从 星期五 到 2022年11月12日, 星期六   在 小时小时.\n\n从 星期五 到 2022年11月26日, 星期六   在 小时小时.\n\n从 星期五 到 2022年12月10日, 星期六   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 14 Outubro 2022 para  20h.\n\nDe Sexta-feira 28 a Sábado 29 Outubro 2022 para  20h.\n\nDe Sexta-feira 11 a Sábado 12 Novembro 2022 para  20h.\n\nDe Sexta-feira 25 a Sábado 26 Novembro 2022 para  20h.\n\nDe Sexta-feira 9 a Sábado 10 Dezembro 2022 para  20h.",
+      "libelleJa" : "金曜日 14 10月 2022 8 午後 に.\n\n金曜日 28 から 土曜日 29 10月 2022 まで 8 午後 に.\n\n金曜日 11 から 土曜日 12 11月 2022 まで 8 午後 に.\n\n金曜日 25 から 土曜日 26 11月 2022 まで 8 午後 に.\n\n金曜日 9 から 土曜日 10 12月 2022 まで 8 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23978834,
+      "dateDebut" : "2022-09-30",
+      "dateFin" : "2022-09-30",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443415
+    }, {
+      "identifiant" : 23978836,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-10-01",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443416
+    }, {
+      "identifiant" : 23978839,
+      "dateDebut" : "2022-10-14",
+      "dateFin" : "2022-10-14",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443417
+    }, {
+      "identifiant" : 23978846,
+      "dateDebut" : "2022-10-28",
+      "dateFin" : "2022-10-29",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443419
+    }, {
+      "identifiant" : 23978851,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443420
+    }, {
+      "identifiant" : 23978856,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443421
+    }, {
+      "identifiant" : 23978859,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443422
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 16,50 € (frais de réservation inclus).\n",
+      "libelleEn" : "One price: 16.50 €.\n",
+      "libelleEs" : "Tarifa única: 16,50 €.\n",
+      "libelleIt" : "Tariffa unica: 16,50 €.\n",
+      "libelleDe" : "Einheitspreis: 16,50 €.\n",
+      "libelleNl" : "Vast tarief: € 16,50.\n",
+      "libelleRu" : "Единый тариф : 16,50 €.\n",
+      "libelleZh" : "定价 : 16.50 €.\n",
+      "libellePtBR" : "Tarifa única: 16,50 €.\n",
+      "libelleJa" : "シングルレート: 16.50 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13664745,
+      "dateDebut" : "2022-09-30",
+      "dateFin" : "2022-12-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.50,
+        "maximum" : 16.50,
+        "precisionTarif" : {
+          "libelleFr" : "frais de réservation inclus"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13585353,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Malik Farès \"en confiance\""
+    },
+    "legende" : {
+      "libelleFr" : "Malik Farès \"en confiance\""
+    },
+    "copyright" : {
+      "libelleFr" : "Malik Farès \"en confiance\" - Comédie Club Vieux-Port"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/49/13775193.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/49/13775193-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/49/13775193-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/49/13775193-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "lop",
+      "taille" : 95784,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-07-28T09:43:42.655+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-25", "2022-11-26", "2022-12-09", "2022-12-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Comédie Vieux-Port"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

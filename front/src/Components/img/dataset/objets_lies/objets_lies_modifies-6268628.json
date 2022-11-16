@@ -1,0 +1,244 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6268628,
+  "nom" : {
+    "libelleFr" : "Grand Petit Animal \"Exils\" - Baltazar Montanaro Trio"
+  },
+  "identifier" : "SITRA2_EVE_6268628",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-21T14:35:17.941+0000",
+    "dateModification" : "2022-10-26T14:53:46.664+0000",
+    "dateExportModification" : "2022-10-26T14:53:47.352+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103430493,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://criduport.fr/saison-2022-2023-1/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227258
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez Baltazar Montanaro Trio au Cri du Port jeudi 24 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Après 14-18 et caetera (2018), Grand Petit Animal (Montanaro, Chennebault) signe avec Exils une nouvelle création revendicative, qui redessine les marges oubliées entre les musiques improvisées et les musiques traditionnelles.\r\n\r\nCe Grand Petit Animal en formation trio élabore un propos sensible sur les migrations, question chère à Baltazar Montanaro dont les origines hongroises sont une inspiration notoire pour son jeu atypique, avec notamment l’apport riche et inventif de la flûtiste et chanteuse Elsa Lambey (Supachill, Radio Kaizman, Forget Me Note). Grâce à ses collectes sur ses terres d’origine, des chants traditionnels bourguignons rencontrent des poèmes contemporains, dont ceux de Baltazar, et font émerger une musique tantôt instrumentale, tantôt vocale, où l’écriture et l’improvisation se tournent autour sans jamais s’épuiser. Les rythmes vibrants et habités d’Adrien Chennebault, qui sonnent prêts à s’enraciner dans un terroir imaginaire, trouvent ainsi un lieu d’expression magique au sein d’un Morvan paré d’Europe Centrale. Chercheur insatiable, Baltazar Montanaro met au service du son un panel hybride de techniques classiques et folkloriques pour trouver les failles entre des mondes réconciliés. A partir de segments rudimentaires, le trio développe via la répétition et l’improvisation une musique modale unique et avant-gardiste.\r\n\r\nBaltazar Montanaro : violon baryton, direction artistique / Elsa Lambey : flûte traversière, voix / Adrien Chennebault : batterie, percussions\r\n\r\nLe trio est en résidence du 21 au 25 novembre au Cri du Port, ce concert sera l’occasion pour les artistes de dévoiler un volet de leur ouvrage musical en cours de création.\r\nEn collaboration avec  MIMO (Compagnie Baltazar Montanaro)"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le cri du port",
+      "adresse1" : "8 Rue Du Pasteur Heuzé",
+      "codePostal" : "13003",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374079, 43.305494 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 24 novembre 2022 à 19h30.",
+      "libelleEn" : "Thursday 24 November 2022 at 7.30 pm.",
+      "libelleEs" : "Jueves, 24 de noviembre de 2022 a 19:30.",
+      "libelleIt" : "Giovedì 24 novembre 2022 alle 19:30.",
+      "libelleDe" : "Donnerstag, den 24. November 2022 um 19.30 Uhr.",
+      "libelleNl" : "Donderdag 24 november 2022 om 19.30 u.",
+      "libelleRu" : "Четверг 24 ноября 2022  до 19h30.",
+      "libelleZh" : "2022年11月24日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 24 Novembro 2022 para  19h30.",
+      "libelleJa" : "木曜日 24 11月 2022 7.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24338505,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "horaireOuverture" : "19:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24604371
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 5 €.\n\n\n(hors frais de location).",
+      "libelleEn" : "Full price: 5 €.\n",
+      "libelleEs" : "Tarifa completa: 5 €.\n",
+      "libelleIt" : "Tarrifa intera: 5 €.\n",
+      "libelleDe" : "Voller Preis: 5 €.\n",
+      "libelleNl" : "Vol tarief: € 5.\n",
+      "libelleRu" : "Полную цену : 5 €.\n",
+      "libelleZh" : "全额 : 5 €.\n",
+      "libellePtBR" : "Tarifa inteira: 5 €.\n",
+      "libelleJa" : "通常料金: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "(hors frais de location)"
+    },
+    "periodes" : [ {
+      "identifiant" : 13665463,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14582894,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Grand Petit Animal \"Exils\" - Baltazar Montanaro Trio"
+    },
+    "legende" : {
+      "libelleFr" : "Grand Petit Animal \"Exils\" - Baltazar Montanaro Trio"
+    },
+    "copyright" : {
+      "libelleFr" : "Grand Petit Animal \"Exils\" - Baltazar Montanaro Trio  - Le Cri du Port"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/13/14945754.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/13/14945754-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/13/14945754-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/13/14945754-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cri port novembre2",
+      "taille" : 116920,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-26T14:53:46.751+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le cri du port"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-24T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

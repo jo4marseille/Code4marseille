@@ -1,0 +1,787 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5572478,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme d'Istres",
+    "libelleEn" : "Office de Tourisme d'Istres",
+    "libelleEs" : "Office de Tourisme d'Istres",
+    "libelleIt" : "Office de Tourisme d'Istres",
+    "libelleDe" : "Office de Tourisme d'Istres",
+    "libelleNl" : "Office de Tourisme d'Istres"
+  },
+  "identifier" : "SITRA2_COS_5572478",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-11T08:00:59.427+0000",
+    "dateModification" : "2022-09-19T09:42:46.491+0000",
+    "dateExportModification" : "2022-11-08T18:40:19.072+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80161133,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 80161134,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 38 96"
+      }
+    }, {
+      "identifiant" : 80161135,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 80161136,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "48440462900012",
+      "codeApeNaf" : "633z"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'Office de Tourisme d'Istres est classé 1ère catégorie. Nos conseillers en séjour vous accueillent tous les jours de la semaine pour vous renseigner et vous conseiller lors de votre séjour à Istres et en Provence.",
+      "libelleEn" : "The Istres Tourist Office is classified 1st category. Our stay advisers welcome you every day of the week to provide you with information and advice during your stay in Istres and Provence",
+      "libelleEs" : "La Oficina de Turismo de Istres está clasificada en 1ª categoría. Nuestros asesores de estancia le dan la bienvenida todos los días de la semana para ofrecerle información y consejos durante su estancia en Istres y Provenza."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Toutes les informations utiles sont a retrouver dans nos locaux.\r\n\r\nL'Office de Tourisme d'Istres répond aux besoins et demandes des touristes et vacanciers mais également aux demandes quotidiennes d'informations de la population locale. Notre ambition est d'assurer la promotion de la ville d'Istres : la faire connaître, mettre en avant ses nombreux atouts et valoriser son patrimoine bâti et naturel, à la fois riche et diversifiée. L'Office de Tourisme est également présent pour vendre des produits touristiques à destination d'individuels ou de groupes, d'organisées des visites thématiques sur la ville et, de vous aider à l'organisation de votre séjour sur la commune ou ses environs. Il dispose également de billetterie sur les nombreuses grandes manifestations présentes sur la ville ...",
+      "libelleEn" : "All the useful information can be found in our premises.\r\n\r\nThe Istres Tourist Office responds to the needs and requests of tourists and vacationers but also to the daily requests for information from the local population. Our ambition is to promote the city of Istres: make it known, highlight its many assets and enhance its built and natural heritage, both rich and diverse. The Tourist Office is also present to sell tourist products for individuals or groups, to organize thematic tours of the city and to help you organize your stay in the town or its surroundings. It also has a ticket office for the many major events in the city ...",
+      "libelleEs" : "Toda la información útil se puede encontrar en nuestras instalaciones.\r\n\r\nLa Oficina de Turismo de Istres responde a las necesidades y solicitudes de turistas y veraneantes, pero también a las solicitudes diarias de información de la población local. Nuestra ambición es promover la ciudad de Istres: darla a conocer, resaltar sus múltiples activos y mejorar su patrimonio construido y natural, rico y diverso. La Oficina de Turismo también está presente para vender productos turísticos para particulares o grupos, para organizar recorridos temáticos por la ciudad y para ayudarte a organizar tu estancia en la localidad o sus alrededores. También tiene una taquilla para los muchos eventos importantes de la ciudad ..."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1680
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Office de Tourisme d'Istres",
+      "adresse1" : "30 Allée Jean Jaurès",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Marseille/Provence : Aéroport/Aérodrome à 40km\r\nGare routière : Arrêt de bus à 0.7km\r\nIstres : Gare ferroviaire à 0.5km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.987461, 43.514538 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 984
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1300
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 4064
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6227
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6273
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6732
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1194
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public\r\nParking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 1199
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3658
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3661
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3664
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3667
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3674
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4213
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4215
+    }, {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4217
+    } ],
+    "labelsTourismeHandicap" : [ {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1224
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1225
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1226
+    }, {
+      "elementReferenceType" : "LabelTourismeHandicap",
+      "id" : 1227
+    } ],
+    "descriptifHandicapMoteur" : {
+      "libelleFr" : "Parking public, places adaptées. WC commun, transfert à droite. Visite de ville accompagnée ou avec plan. Guide avec offre touristique et services publics adaptés."
+    },
+    "descriptifHandicapAuditif" : {
+      "libelleFr" : "Guichet d'accueil avec amplificateur et boucle magnétique. Livret de visite de ville. Guide avec offre touristique et services publics adaptés."
+    },
+    "descriptifHandicapVisuel" : {
+      "libelleFr" : "Parking public, places adaptées. Mise à disposition de brochures en gros caractères sur l'hébergement et restauration de la ville d'Istres ainsi que pour suivre la visite de ville \"Istres à travers son histoire\". Le document touristique retraçant les sites touristiques, lieux d'expositions et grandes manifestations a été édité en braille."
+    },
+    "descriptifHandicapMental" : {
+      "libelleFr" : "Visite de ville accompagnée ou avec plan. Guide avec offre touristique et services publics adaptés."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 05/09/2022 au 04/06/2023 \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 13h. Le dimanche de 9h à 12h et de 14h à 18h.\nFermé le dimanche.",
+      "libelleEn" : "From 05/09/2022 to 04/06/2023 \nOpening hours on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 1 pm. On Sunday between 9 am and 12 pm and between 2 pm and 6 pm.\nClosed on Sunday.",
+      "libelleEs" : "Del 05/09/2022 al 04/06/2023 \nHorarios de apertura los lunes, martes, miércoles, jueves, viernes y sábado de 10 a 13. Los domingo de 9 a 12 y de 14 a 18.\nCerrado los domingo.",
+      "libelleIt" : "Dal 05/09/2022 al 04/06/2023 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 13. Il domenica dalle 9 alle 12 e dalle 14 alle 18.\nChiuso la domenica.",
+      "libelleDe" : "Vom 05/09/2022 bis 04/06/2023 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 13 Uhr. Jeden Sonntag von 9 Uhr bis 12 Uhr und von 14 Uhr bis 18 Uhr.\nSonntag geschlossen.",
+      "libelleNl" : "Van 05/09/2022 tot en met 04/06/2023 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 13.00 u. Op zondag van 9.00 tot en met 12.00 u en van 14.00 tot en met 18.00 u.\nZondag gesloten.",
+      "libelleRu" : "С 05/09/2022 до 04/06/2023 \nЧасы открытия на понедельник, вторник, среда, четверг, пятница и суббота с 10h до 13h. На воскресенье с 9h до 12h и с 14h до 18h.\nНе работает воскресенье.",
+      "libelleZh" : "从 2022年9月5日 到 2023年6月4日 \n开放时间 上 星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间. 上 星期日 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\n星期日 关闭.",
+      "libellePtBR" : "De 05/09/2022 a 04/06/2023 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  13h. Na domingo de 9h a  12h e de 14h a  18h.\nFechado em domingo.",
+      "libelleJa" : "05/09/2022 から 04/06/2023 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 1 午後 の間. 日曜日 に 9 午前 と 12 午後 の間 と 2 午後 と 6 午後 の間.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23625806,
+      "dateDebut" : "2022-06-06",
+      "dateFin" : "2022-09-04",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24317759
+    }, {
+      "identifiant" : 23625768,
+      "dateDebut" : "2022-09-05",
+      "dateFin" : "2023-06-04",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24317760
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 17325
+  }, {
+    "id" : 18002
+  }, {
+    "id" : 21077
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17725503,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "IMBERT CAPONI",
+    "prenom" : "Carine",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  }, {
+    "identifiant" : 17725504,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DECOMBIS",
+    "prenom" : "Véronique",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  }, {
+    "identifiant" : 17725505,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "VIDAILHET",
+    "prenom" : "Rémi",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 472
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14093979,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/140/14388370.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/140/14388370-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/140/14388370-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/140/14388370-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Façade Office de Tourisme d'Istres",
+      "taille" : 169668,
+      "hauteur" : 721,
+      "largeur" : 960,
+      "lastModifiedDate" : "2022-09-19T09:42:47.090+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12867620,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/56/13056099.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/56/13056099-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/56/13056099-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/56/13056099-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "278849966_358825649535639_6853433814874949627_n",
+      "taille" : 174841,
+      "hauteur" : 1024,
+      "largeur" : 768,
+      "lastModifiedDate" : "2022-04-21T13:22:14.871+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14093981,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/140/14388372.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/140/14388372-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/140/14388372-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/140/14388372-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "898F7586",
+      "taille" : 305500,
+      "hauteur" : 472,
+      "largeur" : 709,
+      "lastModifiedDate" : "2022-09-19T09:42:46.728+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-29", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 4014
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 4035
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1775
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1872
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1937
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1938
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1939
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1997
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 2028
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 2029
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 4097
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5465
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5466
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1776
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1778
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1782
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1788
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1791
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1792
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1802
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1803
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1812
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1813
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1814
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1815
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1816
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1817
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1818
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1820
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1821
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1825
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1836
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1843
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1844
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1845
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1847
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1851
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1853
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1858
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 4177
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 4598
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 5497
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ],
+    "nomLieu" : "Office de Tourisme d'Istres"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-06-04T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1775
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1872
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1937
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1938
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1939
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1997
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 2028
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 2029
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 4097
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5465
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5466
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1776
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1778
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1782
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1788
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1791
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1792
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1802
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1803
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1812
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1813
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1814
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1815
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1816
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1817
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1818
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1820
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1821
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1825
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1836
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1843
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1844
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1845
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1847
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1851
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1853
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1858
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 4177
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 4598
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 5497
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 6332
+    } ]
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4003485"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Istres"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.istres.fr"
+    }
+  } ],
+  "prestationsList" : [ {
+    "type" : "ACTIVITE",
+    "id" : 5793011
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836383
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836470
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836491
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836510
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836787
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836790
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836803
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836814
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 5836834
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6046405
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6136885
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6140283
+  }, {
+    "type" : "ACTIVITE",
+    "id" : 6151631
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.8,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 58,
+        "dateMaj" : 1667920187613
+      }
+    } ]
+  } ]
+}

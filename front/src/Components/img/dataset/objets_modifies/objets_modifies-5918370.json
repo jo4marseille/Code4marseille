@@ -1,0 +1,264 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5918370,
+  "nom" : {
+    "libelleFr" : "Aller vers - L'art s'invite chez vous"
+  },
+  "identifier" : "SITRA2_EVE_5918370",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-16T14:28:03.355+0000",
+    "dateModification" : "2022-05-30T12:24:34.152+0000",
+    "dateExportModification" : "2022-10-17T09:28:46.444+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540089,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lestheatres.net/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228758
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Après le succès de l’édition#1, ALLER VERS revient pour une saison #2 de juin à décembre à Aix-en-Provence et Marseille, mais aussi dans les villes et villages des Bouches-du-Rhône et s’étend à Arles, labellisé “Capitale provençale de la culture”"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il ne s’agissait pas d’aller faire des représentations théâtrales dans d’autres lieux, il s’agissait de faire travailler notre créativité pour vous proposer des formes spécifiques de rencontres avec des artistes. Que ce soient les \"Lettres de mon Moulin\" par Philippe Caubère, \"Les Sermons de Pagnol\" avec Ariane Ascaride dans les églises, \"Une petite histoire de la danse\" avec Josette Baïz dans les écoles, de la poésie dans les cafés marseillais avec Murielle Mayette-Holtz ou Nicole Ferroni, à chaque fois nous avons souhaité aller vers les gens et leur raconter la merveilleuse histoire du spectacle vivant.\r\nAlors nous allons continuer. Cela nous permettra de voyager un peu plus loin, d’aller vers Arles, d’aller vers Aix, d’aller vers Marseille, d’aller vers les gens et de continuer sous une autre forme la grande aventure du spectacle vivant."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Divers lieux à Aix-en-Provence",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444209, 43.525953 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 17136
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 23/06 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 23/06 to 31/12/2022, daily.",
+      "libelleEs" : "Del 23/06 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 23/06 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 23/06 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 23/06 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 23/06 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 6月23日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 23/06 a 31/12/2022, todos os dias.",
+      "libelleJa" : "23/06 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21779864,
+      "dateDebut" : "2022-06-23",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23445536
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6022541,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228758
+      },
+      "nom" : "Grand Théâtre de Provence",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 92130242,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lestheatres.net/fr/ma/2981-aller-vers"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 20822059,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Lanzafame",
+    "prenom" : "Marie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99789634,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marielanzafame@legrandtheatre.net"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11024807,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/32/10952767.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/32/10952767-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/32/10952767-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/32/10952767-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "allez vers 2",
+      "taille" : 115299,
+      "hauteur" : 600,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-09-16T15:31:08.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2220
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Divers lieux à Aix-en-Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

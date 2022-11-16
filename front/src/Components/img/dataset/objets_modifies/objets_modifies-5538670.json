@@ -1,0 +1,303 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538670,
+  "nom" : {
+    "libelleFr" : "Aqueduc romain de Traconnade",
+    "libelleEn" : "Meyrargues Aqueduct",
+    "libelleEs" : "Aqueduc de Meyrargues",
+    "libelleIt" : "Aqueduc de Meyrargues",
+    "libelleDe" : "Aqueduc de Meyrargues",
+    "libelleNl" : "Aqueduc de Meyrargues"
+  },
+  "identifier" : "SITRA2_PCU_5538670",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T20:34:17.967+0000",
+    "dateModification" : "2021-01-09T17:21:34.889+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Mairie de Meyrargues",
+      "dateCreation" : "2020-11-30T10:52:00.632+0000",
+      "dateModification" : "2022-10-24T08:49:32.795+0000",
+      "id" : 2141,
+      "siteWeb" : "http://www.meyrargues.fr"
+    },
+    "signalerUnProblemeMails" : [ "bim@meyrargues.fr", "philippe.gregoire@meyrargues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79632108,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 57 50 09"
+      }
+    }, {
+      "identifiant" : 79632109,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@meyrargues.fr"
+      }
+    }, {
+      "identifiant" : 79632110,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.meyrargues.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224914
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Derrière le château médiéval, au creux du vallon du Pas de l'Etroit, se dressent trois arcades d'un aqueduc romain construit il y a prés de 2000 ans."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Derrière le château médiéval, au creux du vallon du Pas de l'Etroit, se dressent trois arcades d'un aqueduc romain construit il y a prés de 2000 ans.\r\nL'aqueduc alimentait Aix en Provence en eau, depuis la source de la Traconnade à Jouques. Long de plus de 30 km. La conduite était supportée par des ponts sur murs pleins et des arches pour la traversée des vallons soit en sous terrain à flanc de collines.",
+      "libelleEn" : "The small town crowds around the foot of an imposing mediaeval castle that was altered in the 17th century. \r\n\r\nBehind the castle, at the bottom of the Pas de l'Etroit valley, stand three arches of a Roman aqueduct. The exact date of its construction is not known. \r\n\r\nThe aqueduct brought water from La Traconnade to Aix. It was 40 km long. The conduit was supported by bridges on solid walls and arches to cross the valleys along the route between Jouques and Meyrargues"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin Du passage de l'étroit",
+      "codePostal" : "13650",
+      "bureauDistribution" : "MEYRARGUES",
+      "commune" : {
+        "id" : 4470
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.532084, 43.624008 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4470
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01/2019 au 31/12/2021, tous les jours.",
+      "libelleEn" : "From 01/01/2019 to 31/12/2021, daily.",
+      "libelleEs" : "Del 01/01/2019 al 31/12/2021, todos los dias.",
+      "libelleIt" : "Dal 01/01/2019 al 31/12/2021, ogni giorno.",
+      "libelleDe" : "Vom 01/01/2019 bis 31/12/2021, täglich.",
+      "libelleNl" : "Van 01/01/2019 tot en met 31/12/2021, iedere dag.",
+      "libelleRu" : "С 01/01/2019 до 31/12/2021, ежедневно.",
+      "libelleZh" : "从 2019年1月1日 到 2021年12月31日, 日常.",
+      "libellePtBR" : "De 01/01/2019 a 31/12/2021, todos os dias.",
+      "libelleJa" : "01/01/2019 から 31/12/2021 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19372671,
+      "dateDebut" : "2019-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 20302986
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9341967,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Aqueduc romain"
+    },
+    "legende" : {
+      "libelleFr" : "Vestiges des arches et château"
+    },
+    "copyright" : {
+      "libelleFr" : "ville de Meyrargues"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/215/9099219.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/215/9099219-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/215/9099219-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/215/9099219-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "AQUEDUC (15)",
+      "taille" : 850925,
+      "hauteur" : 2288,
+      "largeur" : 1712,
+      "lastModifiedDate" : "2021-01-09T17:21:35.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 9341965,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Carte du tracé de l'aqueduc romain"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/209/215/9099217/Carte+Traconnade.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/209/215/9099217-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/209/215/9099217-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/209/215/9099217-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Carte Traconnade",
+      "taille" : 394462,
+      "hauteur" : 1382,
+      "largeur" : 1888,
+      "lastModifiedDate" : "2021-01-09T17:21:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9341966,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "aqueduc romain"
+    },
+    "legende" : {
+      "libelleFr" : "Reconstitution virtuelle des arches"
+    },
+    "copyright" : {
+      "libelleFr" : "Marc FHURY"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/210/215/9099218/quadr_etroit_screen.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/210/215/9099218-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/210/215/9099218-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/210/215/9099218-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "quadr_etroit_screen",
+      "taille" : 948838,
+      "hauteur" : 1025,
+      "largeur" : 1024,
+      "lastModifiedDate" : "2021-01-09T17:21:37.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693855
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3485
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3491
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3314
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001256"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

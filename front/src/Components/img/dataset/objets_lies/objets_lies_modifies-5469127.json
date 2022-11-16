@@ -1,0 +1,124 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5469127,
+  "nom" : {
+    "libelleFr" : "L'Affranchi",
+    "libelleEn" : "L'Affranchi (Fermé pour travaux, réouverture en 2013)",
+    "libelleIt" : "L'Affranchi (Fermé pour travaux, réouverture en 2013)",
+    "libelleDe" : "L'Affranchi (Fermé pour travaux, réouverture en 2013)",
+    "libelleNl" : "L'Affranchi (Fermé pour travaux, réouverture en 2013)"
+  },
+  "identifier" : "SITRA2_STR_5469127",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T09:10:55.712+0000",
+    "dateModification" : "2021-04-20T14:31:06.680+0000",
+    "dateExportModification" : "2022-06-26T16:40:06.894+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77080425,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 35 09 19"
+      }
+    }, {
+      "identifiant" : 77080426,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "com.affranchi@gmail.com"
+      }
+    }, {
+      "identifiant" : 77080427,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.l-affranchi.com"
+      }
+    }, {
+      "identifiant" : 88214862,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/laffranchisalle"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "212 boulevard de Saint-Marcel",
+      "codePostal" : "13011",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4541
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.467535, 43.286501 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4541
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

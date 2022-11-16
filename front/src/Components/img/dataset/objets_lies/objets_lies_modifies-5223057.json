@@ -1,0 +1,106 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223057,
+  "nom" : {
+    "libelleFr" : "Four Banal",
+    "libelleEn" : "Four Banal",
+    "libelleIt" : "Four Banal",
+    "libelleDe" : "Four Banal",
+    "libelleNl" : "Four Banal"
+  },
+  "identifier" : "SITRA2_STR_5223057",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:48:19.787+0000",
+    "dateModification" : "2020-12-15T11:20:09.931+0000",
+    "dateExportModification" : "2022-04-01T13:16:40.057+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Cassis",
+      "dateCreation" : "2020-10-19T06:23:27.752+0000",
+      "dateModification" : "2022-10-24T08:49:36.803+0000",
+      "id" : 2108,
+      "siteWeb" : "https://www.ot-cassis.com"
+    },
+    "signalerUnProblemeMails" : [ "a.rick@ot-cassis.com", "cgallo@ot-cassis.com", "direction@ot-cassis.com", "evillers@ot-cassis.com", "lbaille@ot-cassis.com", "lmichelini@ot-cassis.com", "m.vallet@ot-cassis.com", "patricia@ot-cassis.com", "presse@ot-cassis.com", "sdelage@ot-cassis.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512739,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 01 39 94"
+      }
+    }, {
+      "identifiant" : 70512740,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "m.raimondo-routier@cassis.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Thérèse Rastit",
+      "codePostal" : "13260",
+      "commune" : {
+        "id" : 4433
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4433
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

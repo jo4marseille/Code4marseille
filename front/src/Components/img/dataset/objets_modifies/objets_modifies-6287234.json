@@ -1,0 +1,238 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6287234,
+  "nom" : {
+    "libelleFr" : "Séraphine la toute petite sorcière"
+  },
+  "identifier" : "SITRA2_EVE_6287234",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-05T13:40:21.133+0000",
+    "dateModification" : "2022-10-05T13:43:50.877+0000",
+    "dateExportModification" : "2022-10-17T14:28:55.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103884010,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.divadlo-theatre.fr/spectacle-t-j-p"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227335
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Spectacle avec potions magiques, musiques, chansons et marionnettes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Séraphine est une adorable petite sorcière, drôle, pleine de vie, coquine, qui adore aider les autres et qui rêve de devenir une fée.\r\n\r\nElle va devoir affronter et surmonter ses propres peurs pour réaliser ses rêves.\r\nAvec potions magiques, musiques, chansons et marionnettes.\r\n\r\nMise en scène : Caroline Dabusco\r\nDès 1 an"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Divadlo Théâtre",
+      "adresse1" : "69 rue Sainte-Cécile",
+      "codePostal" : "13005",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4535
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.394402, 43.287998 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 10h.",
+      "libelleEn" : "Thursday 10 November 2022 at 10 am.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 10.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 10.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 10 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 10.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 10h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  10h.",
+      "libelleJa" : "木曜日 10 11月 2022 10 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24438319,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24438319
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 7,50 €.\n\n\nMême prix pour les adultes et les enfants.",
+      "libelleEn" : "One price: 7.50 €.\n",
+      "libelleEs" : "Tarifa única: 7,50 €.\n",
+      "libelleIt" : "Tariffa unica: 7,50 €.\n",
+      "libelleDe" : "Einheitspreis: 7,50 €.\n",
+      "libelleNl" : "Vast tarief: € 7,50.\n",
+      "libelleRu" : "Единый тариф : 7,50 €.\n",
+      "libelleZh" : "定价 : 7.50 €.\n",
+      "libellePtBR" : "Tarifa única: 7,50 €.\n",
+      "libelleJa" : "シングルレート: 7.50 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "même prix pour les adultes et les enfants"
+    },
+    "periodes" : [ {
+      "identifiant" : 13714113,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 7.50,
+        "maximum" : 7.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14310753,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Séraphine la toute petite sorcière - Caroline Dabusco"
+    },
+    "legende" : {
+      "libelleFr" : "Séraphine la toute petite sorcière - Caroline Dabusco"
+    },
+    "copyright" : {
+      "libelleFr" : "Séraphine la toute petite sorcière - Caroline Dabusco - Divadlo théâtre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/89/14637448.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/89/14637448-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/89/14637448-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/89/14637448-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "seraphine",
+      "taille" : 118854,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-05T13:43:51.008+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2141
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2213
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Divadlo Théâtre"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

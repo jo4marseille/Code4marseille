@@ -1,0 +1,112 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5224158,
+  "nom" : {
+    "libelleFr" : "Meyrargues",
+    "libelleEn" : "Le village de Meyrargues",
+    "libelleIt" : "Le village de Meyrargues",
+    "libelleDe" : "Le village de Meyrargues",
+    "libelleNl" : "Le village de Meyrargues"
+  },
+  "identifier" : "SITRA2_STR_5224158",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:24:21.093+0000",
+    "dateModification" : "2021-01-18T15:42:16.433+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Mairie de Meyrargues",
+      "dateCreation" : "2020-11-30T10:52:00.632+0000",
+      "dateModification" : "2022-10-24T08:49:32.795+0000",
+      "id" : 2141,
+      "siteWeb" : "http://www.meyrargues.fr"
+    },
+    "signalerUnProblemeMails" : [ "bim@meyrargues.fr", "philippe.gregoire@meyrargues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515859,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.meyrargues.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13650",
+      "commune" : {
+        "id" : 4470
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.527574, 43.638043 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4470
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18732336,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Grégoire",
+    "prenom" : "Philippe",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693855
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

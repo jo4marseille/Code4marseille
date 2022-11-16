@@ -1,0 +1,235 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6212492,
+  "nom" : {
+    "libelleFr" : "À l'envers à l'endroit - Muriel Imbach - Cie Bocca della Luna"
+  },
+  "identifier" : "SITRA2_EVE_6212492",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-20T13:51:01.903+0000",
+    "dateModification" : "2022-10-31T09:25:03.198+0000",
+    "dateExportModification" : "2022-10-31T09:25:03.356+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78249845,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lezef.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5519890
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "En s’emparant d’un classique, À l’envers, à l’endroit renverse les points de vue."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’étrange ballet d’un comédien et d’une bruitiste derrière une table, sans costume, mais devant des micros, une bouteille d’eau, quelques ustensiles de cuisine ou encore des noix de coco.... Il ne leur en faut pas plus pour créer devant nous une véritable expérience immersive et interactive.\r\nEt c’est entre les oreilles des enfants, tous équipés de casques, que la magie se produit. Chacun dans sa bulle, est immergé dans un conte de fée augmenté, un monde suggéré qu’ils peuvent imaginer et habiller selon leur fantaisie. Bien sûr, il est question d’un roi et d’une reine. Bien sûr, ils ont un enfant. Mais c’est madame qui part à la guerre tandis que leur fils, Jean-Neige, perdu dans la forêt, est récupéré par les sept filles de l’ogre qui l’affectent aux tâches ménagères...\r\n\r\nEn s’emparant d’un classique, À l’envers, à l’endroit renverse les points de vue. Car, si l’histoire se tricote autour de personnages familiers, mais revisités, c'est pour mieux se jouer des clichés. Un petit théâtre de l’écoute où la suggestion est reine pour mieux tordre le cou aux stéréotypes et garder les idées larges.\r\n\r\nMise en scène : Muriel Imbach\r\nSur le plateau en alternance : Cédric Leproust, Nidea Henriques, Adrien Mani & Cécile Goussard \r\nCréation sonore : Jérémie Conne \r\nCollaboration artistique : Adina Secretan, Antoine Friderici & Neda Loncarevic \r\nCostume : Isa Boucharlat \r\nCoordinatrice artistique : Joanne Buob \r\nCollaborateur artistique et technique : François Renou\r\n\r\nDurée : 45 min\r\nÂge : ≥ 6 ans"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Zef - Scène Nationale de Marseille",
+      "adresse1" : "Avenue Raimu",
+      "codePostal" : "13014",
+      "commune" : {
+        "id" : 4544
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.398547, 43.330876 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4544
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 15h.",
+      "libelleEn" : "Wednesday 9 November 2022 at 3 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 15.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 15.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 15 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 15.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 15h.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  15h.",
+      "libelleJa" : "水曜日 9 11月 2022 3 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23919087,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "15:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24657991
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 10 à 15 €, Tarif réduit : de 3 à 10 €.\n",
+      "libelleEn" : "Full price: 10 to 15 €, Reduced price: 3 to 10 €.\n",
+      "libelleEs" : "Tarifa completa: de 10 a 15 €, Precio reducido: de 3 a 10 €.\n",
+      "libelleIt" : "Tarrifa intera: da 10 a 15 €, Prezzo ridotto: da 3 a 10 €.\n",
+      "libelleDe" : "Voller Preis: von 10 bis 15 €, Reduzierter Preis: von 3 bis 10 €.\n",
+      "libelleNl" : "Vol tarief: € 10 tot en met € 15, Korting: € 3 tot en met € 10.\n",
+      "libelleRu" : "Полную цену : с 10 до  15 €, Сниженная цена : с 3 до  10 €.\n",
+      "libelleZh" : "全额 : 从 10 到  15 €, 减价 : 从 3 到  10 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 10 a 15 €, Preço reduzido: de 3 a 10 €.\n",
+      "libelleJa" : "通常料金: 10 から 15 €, 割引料金: 3 から 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13477409,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13512680,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "À l'envers à l'endroit - Muriel Imbach - Cie Bocca della Luna"
+    },
+    "legende" : {
+      "libelleFr" : "À l'envers à l'endroit - Muriel Imbach - Cie Bocca della Luna"
+    },
+    "copyright" : {
+      "libelleFr" : "À l'envers à l'endroit - Muriel Imbach - Cie Bocca della Luna - Le Zef - Scène Nationale de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/239/13692797.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/239/13692797-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/239/13692797-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/239/13692797-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "envers",
+      "taille" : 104851,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-07-20T13:57:04.267+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Zef - Scène Nationale de Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

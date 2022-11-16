@@ -1,0 +1,487 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5704354,
+  "nom" : {
+    "libelleFr" : "Randonnée dans le centre ville de Marseille",
+    "libelleEn" : "Walk in the city center of Marseille",
+    "libelleEs" : "Recorrido a pie por el centro de la ciudad de Marsella",
+    "libelleDe" : "Wanderung durch das Stadtzentrum von Marseille"
+  },
+  "identifier" : "SITRA2_LOI_5704354",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-01-19T09:55:41.084+0000",
+    "dateModification" : "2022-02-14T09:13:20.522+0000",
+    "dateExportModification" : "2022-09-13T16:16:11.524+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85966294,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "information@marseille-tourisme.com"
+      }
+    }, {
+      "identifiant" : 77031738,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "08 26 50 05 00"
+      }
+    }, {
+      "identifiant" : 77031743,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cette balade urbaine ne présente aucune difficulté et permet de combiner la contemplation du patrimoine et une activité de shopping.",
+      "libelleEn" : "This urban stroll is not difficult and allows you to combine the contemplation of the heritage with a shopping activity.",
+      "libelleEs" : "Este paseo urbano no es difícil y permite combinar la contemplación del patrimonio con una actividad de compras.",
+      "libelleDe" : "Dieser Stadtspaziergang ist nicht schwierig und ermöglicht es, das Betrachten des kulturellen Erbes mit einer Shopping-Tour zu verbinden."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le parcours passe par les rues commerçantes du centre-ville. Pour tous les goûts et tous les budgets, on y trouve les plus grandes marques de luxe, les marques des grandes chaines internationales ou les petits commerçants.\r\n\r\nLevez les yeux, vous verrez de belles façades du XVIIIe et XIXe siècles, témoins d’une époque fastueuse. Certaines enseignes ont même conservé des éléments architecturaux (escaliers, rampes, marbres, dorures…) de ces anciens hôtels particuliers, alors n’hésitez pas à entrer pour admirer. Dans l’ordre, vous passerez par la place du Général de Gaulle, pour remonter ensuite la rue Saint Ferréol, qui finit place de la Préfecture. \r\n\r\n L’édifice de la Préfecture est le symbole de la puissance du Second Empire. De là, le Boulevard Paul Peytral  permet de rejoindre la place Estrangin-Pastré et sa fontaine qui représente les quatre continents et souligne la vocation maritime de Marseille. Continuez la visite pour explorer le quartier des antiquaires (Rues Paradis, Sylvabelle, Saint-Jacques, Dragon, Saint-Suffren et Sainte-Victoire).\r\n\r\nUne arche en fer forgé en bas de la rue Edmond Rostand indique l’entrée de ce quartier, qui depuis les années 50 concentre les brocanteurs, galeries d’art, bouquinistes et décorateurs.",
+      "libelleEn" : "The route passes through the shopping streets of the city center. For all tastes and budgets, you will find the biggest luxury brands, the brands of the big international chains or the small shopkeepers.\r\n\r\nLook up and you will see beautiful facades from the 18th and 19th centuries, witnesses of a sumptuous era. Some shops have even preserved architectural elements (stairs, railings, marble, gilding...) of these old private mansions, so don't hesitate to enter and admire. In order, you will pass by the place du Général de Gaulle, to then go up the Saint Ferréol street, which finishes place de la Préfecture. \r\n\r\n The building of the Prefecture is the symbol of the power of the Second Empire. From there, the Boulevard Paul Peytral leads to the Place Estrangin-Pastré and its fountain representing the four continents and underlining the maritime vocation of Marseille. Continue the visit to explore the antique dealers' district (Rues Paradis, Sylvabelle, Saint-Jacques, Dragon, Saint-Suffren and Sainte-Victoire).\r\n\r\nA wrought iron arch at the bottom of Rue Edmond Rostand indicates the entrance to this district, which since the 1950s has been home to a concentration of antique dealers, art galleries, second-hand booksellers and decorators.",
+      "libelleEs" : "La ruta pasa por las calles comerciales del centro de la ciudad. Para todos los gustos y presupuestos, encontrará las mayores marcas de lujo, las marcas de las grandes cadenas internacionales o los pequeños comerciantes.\r\n\r\nLevante la vista y verá hermosas fachadas de los siglos XVIII y XIX, testigos de una época suntuosa. Algunas tiendas han conservado incluso elementos arquitectónicos (escaleras, barandillas, mármoles, dorados, etc.) de estas antiguas mansiones privadas, así que no dude en entrar a admirarlas. En orden, pasará por la plaza del General de Gaulle, para luego subir por la calle Saint Ferréol, que termina en la plaza de la Prefectura. \r\n\r\n El edificio de la Prefectura es el símbolo del poder del Segundo Imperio. Desde allí, el bulevar Paul Peytral conduce a la plaza Estrangin-Pastré y a su fuente que representa los cuatro continentes y subraya la vocación marítima de Marsella. Continúe su visita para explorar el barrio de los anticuarios (Rues Paradis, Sylvabelle, Saint-Jacques, Dragon, Saint-Suffren y Sainte-Victoire).\r\n\r\nUn arco de hierro forjado al pie de la calle Edmond Rostand marca la entrada a este barrio que, desde los años 50, acoge a comerciantes de segunda mano, galerías de arte, libreros de ocasión y decoradores.",
+      "libelleDe" : "Die Route führt durch die Einkaufsstraßen des Stadtzentrums. Für jeden Geschmack und jedes Budget findet man hier die größten Luxusmarken, die Marken der großen internationalen Ketten oder kleine Händler.\r\n\r\nWenn Sie den Blick heben, sehen Sie schöne Fassaden aus dem 18. und 19. Jahrhundert, die von einer prunkvollen Epoche zeugen. Einige Firmen haben sogar noch architektonische Elemente (Treppen, Geländer, Marmor, Vergoldungen...) dieser alten Herrenhäuser erhalten, also zögern Sie nicht, hineinzugehen und sie zu bewundern. Der Reihe nach gehen Sie durch den Place du Général de Gaulle, um dann die Rue Saint Ferréol hinaufzugehen, die an der Place de la Préfecture endet. \r\n\r\n Das Gebäude der Präfektur ist ein Symbol für die Macht des Zweiten Kaiserreichs. Von hier aus führt der Boulevard Paul Peytral zum Place Estrangin-Pastré mit seinem Brunnen, der die vier Kontinente darstellt und die maritime Berufung Marseilles unterstreicht. Setzen Sie Ihren Rundgang fort, um das Antiquitätenviertel zu erkunden (Rues Paradis, Sylvabelle, Saint-Jacques, Dragon, Saint-Suffren und Sainte-Victoire).\r\n\r\nEin schmiedeeiserner Torbogen am Ende der Rue Edmond Rostand markiert den Eingang zu diesem Viertel, in dem sich seit den 1950er Jahren Trödler, Kunstgalerien, Antiquariate und Dekorateure konzentrieren."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1602
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Départ Office Métropolitain de Tourisme et Congrès",
+      "adresse2" : "11 La Canebière",
+      "codePostal" : "13001",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "altitude" : 0,
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.376111, 43.296111 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "AU_DEPART_DE",
+      "libelleFr" : "Se trouve au départ de...",
+      "libelleEn" : "Is located at the start of...",
+      "libelleEs" : "Se encuentra en el inicio de...",
+      "libelleIt" : "Si trova alla partenza di...",
+      "libelleDe" : "Befindet sich beim Start von ...",
+      "libelleNl" : "Bevindt zich bij het vertrekpunt van ...",
+      "libelleRu" : "Находится при выезде из...",
+      "libelleZh" : "位于起点",
+      "libellePtBR" : "Se encontra na saída de ...",
+      "libelleJa" : "の出発地は",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5573804
+      }
+    }, {
+      "type" : "ETAPE_PARCOURS",
+      "libelleFr" : "Est une étape de ...",
+      "libelleEn" : "Follows a section of...",
+      "libelleEs" : "Es una etapa de...",
+      "libelleIt" : "È una tappa di...",
+      "libelleDe" : "Ist eine Etappe von ...",
+      "libelleNl" : "Is een etappe van ...",
+      "libelleRu" : "Является этапом...",
+      "libelleZh" : "是路线的一阶段",
+      "libellePtBR" : "É uma etapa de ...",
+      "libelleJa" : "はステップ",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539629
+      }
+    }, {
+      "type" : "ETAPE_PARCOURS",
+      "libelleFr" : "Est une étape de ...",
+      "libelleEn" : "Follows a section of...",
+      "libelleEs" : "Es una etapa de...",
+      "libelleIt" : "È una tappa di...",
+      "libelleDe" : "Ist eine Etappe von ...",
+      "libelleNl" : "Is een etappe van ...",
+      "libelleRu" : "Является этапом...",
+      "libelleZh" : "是路线的一阶段",
+      "libellePtBR" : "É uma etapa de ...",
+      "libelleJa" : "はステップ",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539538
+      }
+    }, {
+      "type" : "ETAPE_PARCOURS",
+      "libelleFr" : "Est une étape de ...",
+      "libelleEn" : "Follows a section of...",
+      "libelleEs" : "Es una etapa de...",
+      "libelleIt" : "È una tappa di...",
+      "libelleDe" : "Ist eine Etappe von ...",
+      "libelleNl" : "Is een etappe van ...",
+      "libelleRu" : "Является этапом...",
+      "libelleZh" : "是路线的一阶段",
+      "libellePtBR" : "É uma etapa de ...",
+      "libelleJa" : "はステップ",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5570183
+      }
+    }, {
+      "type" : "A_L_ARRIVEE_DE",
+      "libelleFr" : "Se trouve à l'arrivée de...",
+      "libelleEn" : "Is located at the end of...",
+      "libelleEs" : "Se encuentra a la llegada de...",
+      "libelleIt" : "Si trova all’arrivo di...",
+      "libelleDe" : "Befindet sich bei der Ankunft von ...",
+      "libelleNl" : "Bevindt zich bij het aankomstpunt van ...",
+      "libelleRu" : "Находится при въезде в...",
+      "libelleZh" : "位于终点",
+      "libellePtBR" : "Se encontra na chegada em ...",
+      "libelleJa" : "の到着地は",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539486
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 587
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  }, {
+    "id" : 18002
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9383526,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Circuit pedestre Prefecture"
+    },
+    "legende" : {
+      "libelleFr" : "Circuit pedestre Prefecture"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Metropolitain de Tourisme"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/120/9140333.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/120/9140333-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/120/9140333-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/120/9140333-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Circuit Prefecture",
+      "taille" : 126522,
+      "hauteur" : 792,
+      "largeur" : 781,
+      "lastModifiedDate" : "2021-01-19T10:23:17.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9399362,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Office Metropolitain Tourisme Congres"
+    },
+    "legende" : {
+      "libelleFr" : "Office Metropolitain Tourisme Congres"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Metropolitain Tourisme Congres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/182/9156108.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/182/9156108-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/182/9156108-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/182/9156108-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "OTCM",
+      "taille" : 221995,
+      "hauteur" : 860,
+      "largeur" : 646,
+      "lastModifiedDate" : "2021-01-21T10:39:45.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9399371,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Musée Cantini"
+    },
+    "legende" : {
+      "libelleFr" : "Musee Cantini"
+    },
+    "copyright" : {
+      "libelleFr" : "Direction Musees de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/182/9156116.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/182/9156116-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/182/9156116-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/182/9156116-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Musee cantini",
+      "taille" : 217475,
+      "hauteur" : 832,
+      "largeur" : 1117,
+      "lastModifiedDate" : "2021-01-21T10:39:46.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9399396,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Prefecture BdR"
+    },
+    "legende" : {
+      "libelleFr" : "Prefecture BdR"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Metropolitain Tourisme Congres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/182/9156141.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/182/9156141-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/182/9156141-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/182/9156141-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "PREFFF",
+      "taille" : 123417,
+      "hauteur" : 862,
+      "largeur" : 486,
+      "lastModifiedDate" : "2021-01-21T10:39:45.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9399401,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place Estrangin"
+    },
+    "legende" : {
+      "libelleFr" : "Place Estrangin"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Metropolitain Tourisme Congrès"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/182/9156147.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/182/9156147-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/182/9156147-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/182/9156147-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Place Estrangin",
+      "taille" : 385107,
+      "hauteur" : 792,
+      "largeur" : 1192,
+      "lastModifiedDate" : "2021-01-21T10:39:46.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9399414,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Palais de Justice Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Palais de Justice Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Metropolitain tourisme Congres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/182/9156159.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/182/9156159-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/182/9156159-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/182/9156159-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Palais justice",
+      "taille" : 323751,
+      "hauteur" : 852,
+      "largeur" : 1148,
+      "lastModifiedDate" : "2021-01-21T10:39:44.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 9414242,
+    "link" : true,
+    "type" : "PLAN",
+    "nom" : {
+      "libelleFr" : "Tracé GPX circuit à pied centre ville Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Tracé GPX circuit à pied centre ville Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Office Tourisme Congres Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://tracedetrail.fr/fr/trace/trace/138229"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3184
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3333
+    } ],
+    "itineraire" : {
+      "denivellationPositive" : 60,
+      "denivellationNegative" : 40,
+      "distance" : 1.6,
+      "dureeJournaliere" : 40,
+      "passagesDelicats" : {
+        "libelleFr" : "Non"
+      },
+      "altitudeMoyenne" : 0,
+      "altitudeMaximum" : 0,
+      "itineraireType" : "ALLER_ITINERANCE",
+      "itineraireBalise" : "BALISE",
+      "precisionsBalisage" : {
+        "libelleFr" : "Panneaux en fonte sur pied",
+        "libelleEn" : "Cast iron panels on stand",
+        "libelleEs" : "Paneles de hierro fundido sobre soporte",
+        "libelleDe" : "Gusseisenplatten auf Ständern"
+      },
+      "naturesTerrain" : [ {
+        "elementReferenceType" : "NatureTerrain",
+        "id" : 4242
+      }, {
+        "elementReferenceType" : "NatureTerrain",
+        "id" : 4244
+      } ],
+      "denivellation" : 60
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { }
+}

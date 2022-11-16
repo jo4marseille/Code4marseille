@@ -1,0 +1,306 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6276582,
+  "nom" : {
+    "libelleFr" : "39es Assises de la traduction littéraire : Traduire la musique"
+  },
+  "identifier" : "SITRA2_EVE_6276582",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-28T12:17:26.482+0000",
+    "dateModification" : "2022-09-30T09:52:16.417+0000",
+    "dateExportModification" : "2022-09-30T09:52:17.009+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103655764,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.atlas-citl.org/assises-2022"
+      }
+    }, {
+      "identifiant" : 103655765,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/atlas.citl"
+      }
+    }, {
+      "identifiant" : 103655766,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 3755
+      },
+      "coordonnees" : {
+        "fr" : "http://twitter.com/ATLAStrad"
+      }
+    }, {
+      "identifiant" : 103655767,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "atlas@atlas-citl.org"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5608452
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour la 39e année, ATLAS organise à Arles les Assises de la traduction littéraire, qui réuniront traducteurs, auteurs et lecteurs de littératures étrangères pour 3 jours de débats autour du thème \"Traduire la musique\"."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Conférences, tables rondes, lectures musicales, initiation à la traduction littéraire, ateliers de traduction, cabaret littéraire... Pour la 39e année consécutive, ATLAS organise les désormais célèbres Assises de la traduction littéraire : trois jours de festivités attendent les passionnés de langues et de littératures étrangères, dans des lieux emblématiques de la vie culturelle arlésienne : Chapelle du Méjan, Capitole, Espace Van Gogh, Théâtre d'Arles, Cargo de Nuit...\r\n\r\nLe thème choisi cette année est : Traduire la musique.\r\n\r\nLa musique est une langue universelle, dit-on. Le chant, qui entrelace musique et langue, l’est déjà moins. De l’italien, langue originelle de l’opéra, à l’anglais, si étroitement lié à la pop, des vocabulaires universels se sont certes imposés, mais sans jamais faire disparaître le lien profond entre chant et langue vernaculaire. Si les musiques voyagent et si les textes ne voyagent pas, il faut bien les traduire. Impossible, nous dit-on. Ah, ça devient intéressant…\r\n\r\nPour s’y frotter, les 39es Assises de la traduction littéraire réuniront des maîtres du mètre et de la voix : un philosophe contre-ténor, un violoniste virtuose et traducteur de l’albanais, une musicologue concertiste, un traducteur boréal luthiste, un dramaturge muni de sa trompette, un chef d’orchestre improvisateur, une brésilienne chantant Charlemagne, deux hommes de radio aux platines, un écrivain batteur de rock, un bouzoukiste rébétiquant en français, et bien d’autres invités… au sein d’un chaleureux public aux voix multiples, lesquelles ne seront pas de trop pour relever le défi.\r\n\r\nLe programme détaillé sera bientôt disponible !\r\n\r\nEn attendant, découvrez un aperçu des réjouissances sur atlas-citl.org\r\n\r\nLes Assises de la traduction littéraire sont organisées par ATLAS - Association pour la promotion de la traduction littéraire, avec le soutien du ministère de la Culture, du Centre National du Livre, de La Sofia, de la Région Sud Provence-Alpes-Côte d'Azur, du Département des Bouches-du-Rhône, de la Ville d'Arles et de la Fondation suisse pour la Culture ProHelvetia."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Espace Van Gogh / CITL / Chapelle du Méjan / Théâtre d'Arles / Capitole / Cargo de Nuit",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.625718, 43.675798 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au dimanche 13 novembre 2022 de 15h30 à 17h.",
+      "libelleEn" : "From Friday 11 to Sunday 13 November 2022 between 3.30 pm and 5 pm.",
+      "libelleEs" : "Del viernes, 11 al domingo, 13 de noviembre de 2022 de 15:30 a 17.",
+      "libelleIt" : "Dal venerdì 11 a domenica 13 novembre 2022 dalle 15:30 alle 17.",
+      "libelleDe" : "Von Freitag, den 11. bis Sonntag, den 13. November 2022 von 15.30 Uhr bis 17 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zondag 13 november 2022 van 15.30 tot en met 17.00 u.",
+      "libelleRu" : "С пятница 11 до воскресенье 13 ноября 2022  с 15h30 до 17h.",
+      "libelleZh" : "从 星期五 到 2022年11月13日, 星期日   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De Sexta-feira 11 a Domingo 13 Novembro 2022 de 15h30 a  17h.",
+      "libelleJa" : "金曜日 11 から 日曜日 13 11月 2022 まで 3.30 午後 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24387608,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-13",
+      "horaireOuverture" : "15:30:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24387608
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13688944,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-13"
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21358892,
+    "referent" : true,
+    "nom" : "Duthey",
+    "prenom" : "Julie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103655768,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@atlas-citl.org"
+      }
+    }, {
+      "identifiant" : 103655769,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 52 02 50"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14209390,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "ATLAS / Photo : Joel Robison © Arcangel"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/141/14519609.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/141/14519609-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/141/14519609-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/141/14519609-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Affiche_Assises-Trad-Litt_2022_web",
+      "taille" : 574752,
+      "hauteur" : 1018,
+      "largeur" : 720,
+      "lastModifiedDate" : "2022-09-30T09:52:16.549+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2078
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2081
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2077
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2136
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2140
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2210
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2220
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2238
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2308
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2349
+    },
+    "nbParticipantsAttendu" : 50,
+    "nbVisiteursAttendu" : 500,
+    "nomLieu" : "Espace Van Gogh / CITL / Chapelle du Méjan / Théâtre d'Arles / Capitole / Cargo de Nuit"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-13T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

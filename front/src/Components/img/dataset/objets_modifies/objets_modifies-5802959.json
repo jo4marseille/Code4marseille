@@ -1,0 +1,359 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5802959,
+  "nom" : {
+    "libelleFr" : "Balade en side-car - circuit bière ou vin en Provence (2h) - BE1",
+    "libelleEn" : "Vintage sidecar ride - wine tour or beer tour in Provence (2h) -  BE1"
+  },
+  "identifier" : "SITRA2_EVE_5802959",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-05-12T09:09:14.627+0000",
+    "dateModification" : "2022-09-29T12:57:41.243+0000",
+    "dateExportModification" : "2022-10-21T11:59:48.799+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88606756,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://reservation.aixenprovencetourism.com/",
+        "en" : "https://booking.aixenprovencetourism.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5550805
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228508
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Durant 2h en side-car, découvrez de façon insolite la montagne Sainte-Victoire de Cezanne à travers un domaine viticole ou une brasserie atypique !",
+      "libelleEn" : "During 2h, the original way to discover the Cezanne's Sainte-Victoire mountain in a sidecar with wine or beer tasting!"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Une expérience à partager entre amis ou en couple, avec votre guide biker. \r\nQuittez Aix-en-Provence à bord de nos side-car vintage pour découvrir la belle d’Aix, la montagne Sainte-Victoire.\r\n\r\nWine-tour : sur le thème de la découverte des vignobles Sainte-Victoire et ne faire qu’un avec les paysages de notre belle région à la rencontre des viticulteurs et des vignobles ainsi que des oliveraies, arrêtons-nous un instant pour visiter des domaines authentiques et profitons pour faire une dégustation.\r\n\r\nBeer-tour : pour découvrir la brasserie / distillerie dans un cadre exceptionnel niché au bord d’un lac à plus de 500m d’altitude.\r\nLa gamme est composée de 6 bières, de la rosé hibiscus, blanche calisson en passant par la blonde originale ou bien la fameuse triple, leurs produits sauront vous séduire.\r\n\r\n➜ Attention possibilité d'annulation et de report en cas de vent supérieur à 60km/h et de pluie\r\n➜ Visite et dégustation incluses\r\n➜ Départ de l'Office de Tourisme\r\n➜ Equipement fourni\r\n➜ Durée : 2h \r\n➜ A partir de 4 ans\r\n​➜ Les animaux sont interdits\r\n\r\nRéservations auprès des conseillers en séjour de l'Office de Tourisme d'Aix-en-Provence ou sur le site de l'Office de Tourisme d'Aix-en-Provence.",
+      "libelleEn" : "Leave Aix-en-Provence aboard our vintage sidecar to discover the beauty of Aix, Sainte-Victoire moutain in wine tour or beer tour, on the theme of the discovery of Vignobles Sainte-Victoire and become one with the landscapes of our beautiful region to meet winegrowers and vineyards as well as olive groves, let's stop for a moment to visit authentic estates and take the opportunity to taste.\r\n\r\nPlease notice cancellation / report possible in case of rain or heavy wind.\r\n\r\n➜ Departure from the Tourist Office\r\n➜ Wine or beer tasting included\r\n​➜ Equipment provided\r\n➜ Duration: 2h \r\n➜ Child from 4 years old\r\n➜ Pets are forbidden\r\n\r\nBooking at the information desk or on the website of the Tourist Office."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1678
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Au départ de l'Office de Tourisme",
+      "adresse1" : "300 avenue Giuseppe Verdi",
+      "adresse2" : "BP 40106",
+      "codePostal" : "13090",
+      "bureauDistribution" : "Aix-en-Provence",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.444349, 43.526025 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "lieu" : {
+      "id" : 16674
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "VISITE_ORGANISATEUR",
+      "libelleFr" : "Est une visite guidée de ...",
+      "libelleEn" : "Is a guided tour proposed by...",
+      "libelleEs" : "Es una visita guiada de...",
+      "libelleIt" : "È una visita guidata di...",
+      "libelleDe" : "Ist eine Führung von ...",
+      "libelleNl" : "Is een rondleiding door ...",
+      "libelleRu" : "Является экскурсией",
+      "libelleZh" : "是的导览参观",
+      "libellePtBR" : "É uma visita guiada de...",
+      "libelleJa" : "はガイド付きツアー",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5865290
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "ageMin" : 48,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/02 au 30/12/2022, tous les jours.\nA 9h, 11h30, 14h30 et 17h.\n\nReporté en cas de mauvais temps.",
+      "libelleEn" : "From 04/02 to 30/12/2022, daily.\nAt 9am, 11.30am, 2.30pm and 5pm.\n\nPostponed in case of bad weather.",
+      "libelleEs" : "Del 04/02 al 30/12/2022, todos los dias.\n\nAplazado en caso de mal tiempo.",
+      "libelleIt" : "Dal 04/02 al 30/12/2022, ogni giorno.\n\nRinviata in caso di maltempo .",
+      "libelleDe" : "Vom 04/02 bis 30/12/2022, täglich.\n\nVertagt bei Schlechtwetter.",
+      "libelleNl" : "Van 04/02 tot en met 30/12/2022, iedere dag.\n\nVerzet in geval van slechte weeromstandigheden.",
+      "libelleRu" : "С 04/02 до 30/12/2022, ежедневно.\n\nПереносится при плохой погоде.",
+      "libelleZh" : "从 2月4日 到 2022年12月30日, 日常.\n\n恶劣天气时推迟.",
+      "libellePtBR" : "De 04/02 a 30/12/2022, todos os dias.\n\nAdiado em caso de mau tempo.",
+      "libelleJa" : "04/02 から 30/12/2022 まで, 毎日.\n\n悪天候の場合は延期."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20965576,
+      "dateDebut" : "2022-02-04",
+      "dateFin" : "2022-12-30",
+      "complementHoraire" : {
+        "libelleFr" : "A 9h, 11h30, 14h30 et 17h.",
+        "libelleEn" : "At 9am, 11.30am, 2.30pm and 5pm."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24398148
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4191
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 190 € (pour 1 ou 2 personnes (au choix wine tour ou beer tour)).\n",
+      "libelleEn" : "One price: 190 € (for 1 or 2 people (wine tour or beer Tour)).\n",
+      "libelleEs" : "Tarifa única: 190 €.\n",
+      "libelleIt" : "Tariffa unica: 190 €.\n",
+      "libelleDe" : "Einheitspreis: 190 €.\n",
+      "libelleNl" : "Vast tarief: € 190.\n",
+      "libelleRu" : "Единый тариф : 190 €.\n",
+      "libelleZh" : "定价 : 190 €.\n",
+      "libellePtBR" : "Tarifa única: 190 €.\n",
+      "libelleJa" : "シングルレート: 190 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12073385,
+      "dateDebut" : "2022-02-04",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 190.00,
+        "maximum" : 190.00,
+        "precisionTarif" : {
+          "libelleFr" : "pour 1 ou 2 personnes (au choix wine tour ou beer tour)",
+          "libelleEn" : "for 1 or 2 people (wine tour or beer Tour)"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 5558
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5782166,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5349089
+      },
+      "nom" : "Office de Tourisme d'Aix-en-Provence - à supp",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 88732635,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://reservation.aixenprovencetourism.com/balade-en-side-car-circuit-biere-ou-vin-en-provence-2h-be1.html",
+          "en" : "https://booking.aixenprovencetourism.com/vintage-sidecar-ride-wine-tour-or-beer-tour-in-provence-2h-be1.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 12350156,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "La Belle Échappée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/189/12500253.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/189/12500253-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/189/12500253-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/189/12500253-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "_DSC6446",
+      "taille" : 1012281,
+      "hauteur" : 1181,
+      "largeur" : 1770,
+      "lastModifiedDate" : "2022-02-04T13:44:04.060+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12350152,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "La Belle Échappée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/189/12500249.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/189/12500249-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/189/12500249-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/189/12500249-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "LA BELLE ECHAPPEE AIX WINETOUR 2(1)",
+      "taille" : 456062,
+      "hauteur" : 810,
+      "largeur" : 1080,
+      "lastModifiedDate" : "2022-02-04T13:44:04.664+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9990342,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "La Belle Echappée"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/211/9753485.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/211/9753485-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/211/9753485-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/211/9753485-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "side 2",
+      "taille" : 283789,
+      "hauteur" : 838,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-05-14T08:57:09.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2117
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Au départ de l'Office de Tourisme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

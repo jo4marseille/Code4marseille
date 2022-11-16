@@ -1,0 +1,302 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5471384,
+  "nom" : {
+    "libelleFr" : "Marché de Plan d'Orgon",
+    "libelleEn" : "Marché hebdomadaire",
+    "libelleIt" : "Marché hebdomadaire",
+    "libelleDe" : "Marché hebdomadaire",
+    "libelleNl" : "Marché hebdomadaire"
+  },
+  "identifier" : "SITRA2_EVE_5471384",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T14:36:06.958+0000",
+    "dateModification" : "2022-01-10T15:29:26.677+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77078077,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 73 26 00"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Plan d'Orgon"
+      }
+    }, {
+      "identifiant" : 77078079,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@plandorgon.fr"
+      }
+    }, {
+      "identifiant" : 77078080,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.plandorgon.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468446
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Fruits et légumes, fromages, oeufs et volailles, poissons, charcuterie."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Fruits et légumes, fromages, oeufs et volailles, poissons, charcuterie."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Centre ville",
+      "adresse1" : "Place de la République",
+      "codePostal" : "13750",
+      "commune" : {
+        "id" : 4487
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.996165, 43.808155 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4487
+    } ],
+    "lieu" : {
+      "id" : 16509
+    }
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/03 au 31/12/2022, tous les mercredis.",
+      "libelleEn" : "From 01/03 to 31/12/2022, every Wednesday.",
+      "libelleEs" : "Del 01/03 al 31/12/2022, todos los miércoles.",
+      "libelleIt" : "Dal 01/03 al 31/12/2022, tutti i mercoledì.",
+      "libelleDe" : "Vom 01/03 bis 31/12/2022, jeden Mittwoch.",
+      "libelleNl" : "Van 01/03 tot en met 31/12/2022, elke woensdag.",
+      "libelleRu" : "С 01/03 до 31/12/2022, каждый среды.",
+      "libelleZh" : "从 3月1日 到 2022年12月31日, 每星期三.",
+      "libellePtBR" : "De 01/03 a 31/12/2022, todas as quartas-feiras.",
+      "libelleJa" : "01/03 から 31/12/2022 まで, 毎水曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19484693,
+      "dateDebut" : "2022-03-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 22447824
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT_TARIFS_NON_COMMUNIQUES",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarifs non communiqués.",
+      "libelleEn" : "Prices not available.",
+      "libelleEs" : "Tarifas no comunicadas.",
+      "libelleIt" : "Tariffe non comunicate.",
+      "libelleDe" : "Preise nicht mitgeteilt.",
+      "libelleNl" : "Tarieven niet doorgegeven.",
+      "libelleRu" : "Нет информации о тарифах.",
+      "libelleZh" : "暂无价格.",
+      "libellePtBR" : "Tarifas não informadas.",
+      "libelleJa" : "料金表示がありません."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8592999,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT113353_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/128/8356042.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/128/8356042-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/128/8356042-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/128/8356042-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 112296,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-08-01T04:27:03.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8593000,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT113353_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Service communication"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/128/8356043.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/128/8356043-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/128/8356043-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/128/8356043-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 148009,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-08-01T04:27:03.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8593001,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT113353_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Service communication"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/128/8356044.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/128/8356044-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/128/8356044-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/128/8356044-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 155742,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-08-01T04:27:02.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Centre ville"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT113353"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

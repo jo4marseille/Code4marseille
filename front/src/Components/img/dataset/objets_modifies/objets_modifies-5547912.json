@@ -1,0 +1,812 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5547912,
+  "nom" : {
+    "libelleFr" : "Marché provençal bi-hebdomadaire à Fontvieille",
+    "libelleEn" : "Twice-weekly Provencal market in Fontvieille",
+    "libelleEs" : "Marché provençal à Fontvieille",
+    "libelleIt" : "Marché provençal à Fontvieille",
+    "libelleDe" : "Zweiwöchentlicher provenzalischer Markt in Fontvieille",
+    "libelleNl" : "Marché provençal à Fontvieille",
+    "libelleRu" : "Marché provençal à Fontvieille",
+    "libelleZh" : "Marché provençal à Fontvieille",
+    "libellePtBR" : "Marché provençal à Fontvieille",
+    "libelleJa" : "Marché provençal à Fontvieille"
+  },
+  "identifier" : "SITRA2_EVE_5547912",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-05T10:53:35.561+0000",
+    "dateModification" : "2022-07-18T08:29:26.818+0000",
+    "dateExportModification" : "2022-07-18T08:29:28.118+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70562502,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 79 02",
+        "en" : "00 33 4 90 54 79 02",
+        "de" : "00 33 4 90 54 79 02"
+      }
+    }, {
+      "identifiant" : 70562504,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie@fontvieille.fr",
+        "en" : "mairie@fontvieille.fr",
+        "de" : "mairie@fontvieille.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230726
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Marché provençal à Fontvieille, tous les lundis et vendredis matins tout au long de l'année.",
+      "libelleEn" : "Provencal market in Fontvieille, every Monday and Friday morning throughout the year.",
+      "libelleDe" : "Provenzalischer Markt in Fontvieille, das ganze Jahr über jeden Montag- und Freitagvormittag."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le marché Provençal de Fontvieille se tient les lundis et les vendredis matins, tout au long de l'année.\r\n\r\nIl se trouve avenue des Moulins, nommé aussi champ de foire. C'est au sud du centre, sur la D33.  Vous y retrouverez : fruits et légumes, produits de boucherie et produits de charcuterie, poissons et produits de la mer ainsi que vêtements, ustensiles, meubles, jouets ou autres produits non-alimentaires.",
+      "libelleEn" : "The Fontvieille Provençal market is open on Monday and Friday mornings throughout the year.\r\n\r\nIt is located on Avenue des Moulins, also known as the Champ de Foire. It is south of the centre, on the D33.  You will find fruit and vegetables, butchery and delicatessen products, fish and seafood as well as clothing, utensils, furniture, toys and other non-food products.",
+      "libelleDe" : "Der provenzalische Markt in Fontvieille findet das ganze Jahr über montags und freitags am Vormittag statt.\r\n\r\nEr befindet sich in der Avenue des Moulins, die auch Champ de foire genannt wird. Er liegt südlich des Zentrums an der D33.  Hier finden Sie: Obst und Gemüse, Fleisch- und Wurstwaren, Fisch und Meeresfrüchte sowie Kleidung, Küchenutensilien, Möbel, Spielzeug oder andere Non-Food-Produkte."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Avenue des Moulins",
+      "codePostal" : "13990",
+      "bureauDistribution" : "FONTVIEILLE",
+      "commune" : {
+        "id" : 4449
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.708920, 43.725415 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4449
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 22 juillet 2022 de 8h à 12h.\n\nLundi 25 juillet 2022 de 8h à 12h.\n\nVendredi 29 juillet 2022 de 8h à 12h.\n\nLundi 1er août 2022 de 8h à 12h.\n\nVendredi 5 août 2022 de 8h à 12h.\n\nLundi 8 août 2022 de 8h à 12h.\n\nVendredi 12 août 2022 de 8h à 12h.\n\nLundi 15 août 2022 de 8h à 12h.\n\nVendredi 19 août 2022 de 8h à 12h.\n\nLundi 22 août 2022 de 8h à 12h.\n\nVendredi 26 août 2022 de 8h à 12h.\n\nLundi 29 août 2022 de 8h à 12h.\n\nVendredi 2 septembre 2022 de 8h à 12h.\n\nLundi 5 septembre 2022 de 8h à 12h.\n\nVendredi 9 septembre 2022 de 8h à 12h.\n\nVendredi 16 septembre 2022 de 8h à 12h.\n\nLundi 19 septembre 2022 de 8h à 12h.\n\nVendredi 23 septembre 2022 de 8h à 12h.\n\nLundi 26 septembre 2022 de 8h à 12h.\n\nVendredi 30 septembre 2022 de 8h à 12h.\n\nLundi 3 octobre 2022 de 8h à 12h.\n\nVendredi 7 octobre 2022 de 8h à 12h.\n\nLundi 10 octobre 2022 de 8h à 12h.\n\nVendredi 14 octobre 2022 de 8h à 12h.\n\nLundi 17 octobre 2022 de 8h à 12h.\n\nVendredi 21 octobre 2022 de 8h à 12h.\n\nLundi 24 octobre 2022 de 8h à 12h.\n\nVendredi 28 octobre 2022 de 8h à 12h.\n\nLundi 31 octobre 2022 de 8h à 12h.\n\nVendredi 4 novembre 2022 de 8h à 12h.\n\nLundi 7 novembre 2022 de 8h à 12h.\n\nVendredi 11 novembre 2022 de 8h à 12h.\n\nLundi 14 novembre 2022 de 8h à 12h.\n\nVendredi 18 novembre 2022 de 8h à 12h.\n\nLundi 21 novembre 2022 de 8h à 12h.\n\nVendredi 25 novembre 2022 de 8h à 12h.\n\nLundi 28 novembre 2022 de 8h à 12h.\n\nVendredi 2 décembre 2022 de 8h à 12h.\n\nLundi 5 décembre 2022 de 8h à 12h.\n\nVendredi 9 décembre 2022 de 8h à 12h.\n\nLundi 12 décembre 2022 de 8h à 12h.\n\nVendredi 16 décembre 2022 de 8h à 12h.\n\nLundi 19 décembre 2022 de 8h à 12h.\n\nVendredi 23 décembre 2022 de 8h à 12h.\n\nLundi 26 décembre 2022 de 8h à 12h.\n\nVendredi 30 décembre 2022 de 8h à 12h.",
+      "libelleEn" : "Friday 22 July 2022 between 8 am and 12 pm.\n\nMonday 25 July 2022 between 8 am and 12 pm.\n\nFriday 29 July 2022 between 8 am and 12 pm.\n\nMonday 1st of August 2022 between 8 am and 12 pm.\n\nFriday 5 August 2022 between 8 am and 12 pm.\n\nMonday 8 August 2022 between 8 am and 12 pm.\n\nFriday 12 August 2022 between 8 am and 12 pm.\n\nMonday 15 August 2022 between 8 am and 12 pm.\n\nFriday 19 August 2022 between 8 am and 12 pm.\n\nMonday 22 August 2022 between 8 am and 12 pm.\n\nFriday 26 August 2022 between 8 am and 12 pm.\n\nMonday 29 August 2022 between 8 am and 12 pm.\n\nFriday 2 September 2022 between 8 am and 12 pm.\n\nMonday 5 September 2022 between 8 am and 12 pm.\n\nFriday 9 September 2022 between 8 am and 12 pm.\n\nFriday 16 September 2022 between 8 am and 12 pm.\n\nMonday 19 September 2022 between 8 am and 12 pm.\n\nFriday 23 September 2022 between 8 am and 12 pm.\n\nMonday 26 September 2022 between 8 am and 12 pm.\n\nFriday 30 September 2022 between 8 am and 12 pm.\n\nMonday 3 October 2022 between 8 am and 12 pm.\n\nFriday 7 October 2022 between 8 am and 12 pm.\n\nMonday 10 October 2022 between 8 am and 12 pm.\n\nFriday 14 October 2022 between 8 am and 12 pm.\n\nMonday 17 October 2022 between 8 am and 12 pm.\n\nFriday 21 October 2022 between 8 am and 12 pm.\n\nMonday 24 October 2022 between 8 am and 12 pm.\n\nFriday 28 October 2022 between 8 am and 12 pm.\n\nMonday 31 October 2022 between 8 am and 12 pm.\n\nFriday 4 November 2022 between 8 am and 12 pm.\n\nMonday 7 November 2022 between 8 am and 12 pm.\n\nFriday 11 November 2022 between 8 am and 12 pm.\n\nMonday 14 November 2022 between 8 am and 12 pm.\n\nFriday 18 November 2022 between 8 am and 12 pm.\n\nMonday 21 November 2022 between 8 am and 12 pm.\n\nFriday 25 November 2022 between 8 am and 12 pm.\n\nMonday 28 November 2022 between 8 am and 12 pm.\n\nFriday 2 December 2022 between 8 am and 12 pm.\n\nMonday 5 December 2022 between 8 am and 12 pm.\n\nFriday 9 December 2022 between 8 am and 12 pm.\n\nMonday 12 December 2022 between 8 am and 12 pm.\n\nFriday 16 December 2022 between 8 am and 12 pm.\n\nMonday 19 December 2022 between 8 am and 12 pm.\n\nFriday 23 December 2022 between 8 am and 12 pm.\n\nMonday 26 December 2022 between 8 am and 12 pm.\n\nFriday 30 December 2022 between 8 am and 12 pm.",
+      "libelleEs" : "Viernes, 22 de julio de 2022 de 8 a 12.\n\nLunes, 25 de julio de 2022 de 8 a 12.\n\nViernes, 29 de julio de 2022 de 8 a 12.\n\nLunes, 1 de agosto de 2022 de 8 a 12.\n\nViernes, 5 de agosto de 2022 de 8 a 12.\n\nLunes, 8 de agosto de 2022 de 8 a 12.\n\nViernes, 12 de agosto de 2022 de 8 a 12.\n\nLunes, 15 de agosto de 2022 de 8 a 12.\n\nViernes, 19 de agosto de 2022 de 8 a 12.\n\nLunes, 22 de agosto de 2022 de 8 a 12.\n\nViernes, 26 de agosto de 2022 de 8 a 12.\n\nLunes, 29 de agosto de 2022 de 8 a 12.\n\nViernes, 2 de septiembre de 2022 de 8 a 12.\n\nLunes, 5 de septiembre de 2022 de 8 a 12.\n\nViernes, 9 de septiembre de 2022 de 8 a 12.\n\nViernes, 16 de septiembre de 2022 de 8 a 12.\n\nLunes, 19 de septiembre de 2022 de 8 a 12.\n\nViernes, 23 de septiembre de 2022 de 8 a 12.\n\nLunes, 26 de septiembre de 2022 de 8 a 12.\n\nViernes, 30 de septiembre de 2022 de 8 a 12.\n\nLunes, 3 de octubre de 2022 de 8 a 12.\n\nViernes, 7 de octubre de 2022 de 8 a 12.\n\nLunes, 10 de octubre de 2022 de 8 a 12.\n\nViernes, 14 de octubre de 2022 de 8 a 12.\n\nLunes, 17 de octubre de 2022 de 8 a 12.\n\nViernes, 21 de octubre de 2022 de 8 a 12.\n\nLunes, 24 de octubre de 2022 de 8 a 12.\n\nViernes, 28 de octubre de 2022 de 8 a 12.\n\nLunes, 31 de octubre de 2022 de 8 a 12.\n\nViernes, 4 de noviembre de 2022 de 8 a 12.\n\nLunes, 7 de noviembre de 2022 de 8 a 12.\n\nViernes, 11 de noviembre de 2022 de 8 a 12.\n\nLunes, 14 de noviembre de 2022 de 8 a 12.\n\nViernes, 18 de noviembre de 2022 de 8 a 12.\n\nLunes, 21 de noviembre de 2022 de 8 a 12.\n\nViernes, 25 de noviembre de 2022 de 8 a 12.\n\nLunes, 28 de noviembre de 2022 de 8 a 12.\n\nViernes, 2 de diciembre de 2022 de 8 a 12.\n\nLunes, 5 de diciembre de 2022 de 8 a 12.\n\nViernes, 9 de diciembre de 2022 de 8 a 12.\n\nLunes, 12 de diciembre de 2022 de 8 a 12.\n\nViernes, 16 de diciembre de 2022 de 8 a 12.\n\nLunes, 19 de diciembre de 2022 de 8 a 12.\n\nViernes, 23 de diciembre de 2022 de 8 a 12.\n\nLunes, 26 de diciembre de 2022 de 8 a 12.\n\nViernes, 30 de diciembre de 2022 de 8 a 12.",
+      "libelleIt" : "Venerdì 22 luglio 2022 dalle 8 alle 12.\n\nLunedì 25 luglio 2022 dalle 8 alle 12.\n\nVenerdì 29 luglio 2022 dalle 8 alle 12.\n\nLunedì 1° agosto 2022 dalle 8 alle 12.\n\nVenerdì 5 agosto 2022 dalle 8 alle 12.\n\nLunedì 8 agosto 2022 dalle 8 alle 12.\n\nVenerdì 12 agosto 2022 dalle 8 alle 12.\n\nLunedì 15 agosto 2022 dalle 8 alle 12.\n\nVenerdì 19 agosto 2022 dalle 8 alle 12.\n\nLunedì 22 agosto 2022 dalle 8 alle 12.\n\nVenerdì 26 agosto 2022 dalle 8 alle 12.\n\nLunedì 29 agosto 2022 dalle 8 alle 12.\n\nVenerdì 2 settembre 2022 dalle 8 alle 12.\n\nLunedì 5 settembre 2022 dalle 8 alle 12.\n\nVenerdì 9 settembre 2022 dalle 8 alle 12.\n\nVenerdì 16 settembre 2022 dalle 8 alle 12.\n\nLunedì 19 settembre 2022 dalle 8 alle 12.\n\nVenerdì 23 settembre 2022 dalle 8 alle 12.\n\nLunedì 26 settembre 2022 dalle 8 alle 12.\n\nVenerdì 30 settembre 2022 dalle 8 alle 12.\n\nLunedì 3 ottobre 2022 dalle 8 alle 12.\n\nVenerdì 7 ottobre 2022 dalle 8 alle 12.\n\nLunedì 10 ottobre 2022 dalle 8 alle 12.\n\nVenerdì 14 ottobre 2022 dalle 8 alle 12.\n\nLunedì 17 ottobre 2022 dalle 8 alle 12.\n\nVenerdì 21 ottobre 2022 dalle 8 alle 12.\n\nLunedì 24 ottobre 2022 dalle 8 alle 12.\n\nVenerdì 28 ottobre 2022 dalle 8 alle 12.\n\nLunedì 31 ottobre 2022 dalle 8 alle 12.\n\nVenerdì 4 novembre 2022 dalle 8 alle 12.\n\nLunedì 7 novembre 2022 dalle 8 alle 12.\n\nVenerdì 11 novembre 2022 dalle 8 alle 12.\n\nLunedì 14 novembre 2022 dalle 8 alle 12.\n\nVenerdì 18 novembre 2022 dalle 8 alle 12.\n\nLunedì 21 novembre 2022 dalle 8 alle 12.\n\nVenerdì 25 novembre 2022 dalle 8 alle 12.\n\nLunedì 28 novembre 2022 dalle 8 alle 12.\n\nVenerdì 2 dicembre 2022 dalle 8 alle 12.\n\nLunedì 5 dicembre 2022 dalle 8 alle 12.\n\nVenerdì 9 dicembre 2022 dalle 8 alle 12.\n\nLunedì 12 dicembre 2022 dalle 8 alle 12.\n\nVenerdì 16 dicembre 2022 dalle 8 alle 12.\n\nLunedì 19 dicembre 2022 dalle 8 alle 12.\n\nVenerdì 23 dicembre 2022 dalle 8 alle 12.\n\nLunedì 26 dicembre 2022 dalle 8 alle 12.\n\nVenerdì 30 dicembre 2022 dalle 8 alle 12.",
+      "libelleDe" : "Freitag, den 22. Juli 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 25. Juli 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 29. Juli 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 1. August 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 5. August 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 8. August 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 12. August 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 15. August 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 19. August 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 22. August 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 26. August 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 29. August 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 2. September 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 5. September 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 9. September 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 16. September 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 19. September 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 23. September 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 26. September 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 30. September 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 3. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 7. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 10. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 14. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 17. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 21. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 24. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 28. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 31. Oktober 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 4. November 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 7. November 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 11. November 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 14. November 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 18. November 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 21. November 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 25. November 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 28. November 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 2. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 5. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 9. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 12. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 16. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 19. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 23. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nMontag, den 26. Dezember 2022 von 8 Uhr bis 12 Uhr.\n\nFreitag, den 30. Dezember 2022 von 8 Uhr bis 12 Uhr.",
+      "libelleNl" : "Vrijdag 22 juli 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 25 juli 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 29 juli 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 1 augustus 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 5 augustus 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 8 augustus 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 12 augustus 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 15 augustus 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 19 augustus 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 22 augustus 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 26 augustus 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 29 augustus 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 2 september 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 5 september 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 9 september 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 16 september 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 19 september 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 23 september 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 26 september 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 30 september 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 3 oktober 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 7 oktober 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 10 oktober 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 14 oktober 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 17 oktober 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 21 oktober 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 24 oktober 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 28 oktober 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 31 oktober 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 4 november 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 7 november 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 11 november 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 14 november 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 18 november 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 21 november 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 25 november 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 28 november 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 2 december 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 5 december 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 9 december 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 12 december 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 16 december 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 19 december 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 23 december 2022 van 8.00 tot en met 12.00 u.\n\nMaandag 26 december 2022 van 8.00 tot en met 12.00 u.\n\nVrijdag 30 december 2022 van 8.00 tot en met 12.00 u.",
+      "libelleRu" : "Пятница 22 июля 2022  с 8h до 12h.\n\nПонедельник 25 июля 2022  с 8h до 12h.\n\nПятница 29 июля 2022  с 8h до 12h.\n\nПонедельник 1-й августа 2022 с 8h до 12h.\n\nПятница 5 августа 2022  с 8h до 12h.\n\nПонедельник 8 августа 2022  с 8h до 12h.\n\nПятница 12 августа 2022  с 8h до 12h.\n\nПонедельник 15 августа 2022  с 8h до 12h.\n\nПятница 19 августа 2022  с 8h до 12h.\n\nПонедельник 22 августа 2022  с 8h до 12h.\n\nПятница 26 августа 2022  с 8h до 12h.\n\nПонедельник 29 августа 2022  с 8h до 12h.\n\nПятница 2 сентября 2022  с 8h до 12h.\n\nПонедельник 5 сентября 2022  с 8h до 12h.\n\nПятница 9 сентября 2022  с 8h до 12h.\n\nПятница 16 сентября 2022  с 8h до 12h.\n\nПонедельник 19 сентября 2022  с 8h до 12h.\n\nПятница 23 сентября 2022  с 8h до 12h.\n\nПонедельник 26 сентября 2022  с 8h до 12h.\n\nПятница 30 сентября 2022  с 8h до 12h.\n\nПонедельник 3 октября 2022  с 8h до 12h.\n\nПятница 7 октября 2022  с 8h до 12h.\n\nПонедельник 10 октября 2022  с 8h до 12h.\n\nПятница 14 октября 2022  с 8h до 12h.\n\nПонедельник 17 октября 2022  с 8h до 12h.\n\nПятница 21 октября 2022  с 8h до 12h.\n\nПонедельник 24 октября 2022  с 8h до 12h.\n\nПятница 28 октября 2022  с 8h до 12h.\n\nПонедельник 31 октября 2022  с 8h до 12h.\n\nПятница 4 ноября 2022  с 8h до 12h.\n\nПонедельник 7 ноября 2022  с 8h до 12h.\n\nПятница 11 ноября 2022  с 8h до 12h.\n\nПонедельник 14 ноября 2022  с 8h до 12h.\n\nПятница 18 ноября 2022  с 8h до 12h.\n\nПонедельник 21 ноября 2022  с 8h до 12h.\n\nПятница 25 ноября 2022  с 8h до 12h.\n\nПонедельник 28 ноября 2022  с 8h до 12h.\n\nПятница 2 декабря 2022  с 8h до 12h.\n\nПонедельник 5 декабря 2022  с 8h до 12h.\n\nПятница 9 декабря 2022  с 8h до 12h.\n\nПонедельник 12 декабря 2022  с 8h до 12h.\n\nПятница 16 декабря 2022  с 8h до 12h.\n\nПонедельник 19 декабря 2022  с 8h до 12h.\n\nПятница 23 декабря 2022  с 8h до 12h.\n\nПонедельник 26 декабря 2022  с 8h до 12h.\n\nПятница 30 декабря 2022  с 8h до 12h.",
+      "libelleZh" : "2022年7月22日, 星期五   小时小时 和 小时小时 之间.\n\n2022年7月25日, 星期一   小时小时 和 小时小时 之间.\n\n2022年7月29日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月1日, 星期一 小时小时 和 小时小时 之间.\n\n2022年8月5日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月8日, 星期一   小时小时 和 小时小时 之间.\n\n2022年8月12日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月15日, 星期一   小时小时 和 小时小时 之间.\n\n2022年8月19日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月22日, 星期一   小时小时 和 小时小时 之间.\n\n2022年8月26日, 星期五   小时小时 和 小时小时 之间.\n\n2022年8月29日, 星期一   小时小时 和 小时小时 之间.\n\n2022年9月2日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月5日, 星期一   小时小时 和 小时小时 之间.\n\n2022年9月9日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月16日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月19日, 星期一   小时小时 和 小时小时 之间.\n\n2022年9月23日, 星期五   小时小时 和 小时小时 之间.\n\n2022年9月26日, 星期一   小时小时 和 小时小时 之间.\n\n2022年9月30日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月3日, 星期一   小时小时 和 小时小时 之间.\n\n2022年10月7日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月10日, 星期一   小时小时 和 小时小时 之间.\n\n2022年10月14日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月17日, 星期一   小时小时 和 小时小时 之间.\n\n2022年10月21日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月24日, 星期一   小时小时 和 小时小时 之间.\n\n2022年10月28日, 星期五   小时小时 和 小时小时 之间.\n\n2022年10月31日, 星期一   小时小时 和 小时小时 之间.\n\n2022年11月4日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月7日, 星期一   小时小时 和 小时小时 之间.\n\n2022年11月11日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月14日, 星期一   小时小时 和 小时小时 之间.\n\n2022年11月18日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月21日, 星期一   小时小时 和 小时小时 之间.\n\n2022年11月25日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月28日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月2日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月5日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月9日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月12日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月16日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月19日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月23日, 星期五   小时小时 和 小时小时 之间.\n\n2022年12月26日, 星期一   小时小时 和 小时小时 之间.\n\n2022年12月30日, 星期五   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sexta-feira 22 Julho 2022 de 8h a  12h.\n\nSegunda-feira 25 Julho 2022 de 8h a  12h.\n\nSexta-feira 29 Julho 2022 de 8h a  12h.\n\nSegunda-feira 1º Agosto 2022 de 8h a  12h.\n\nSexta-feira 5 Agosto 2022 de 8h a  12h.\n\nSegunda-feira 8 Agosto 2022 de 8h a  12h.\n\nSexta-feira 12 Agosto 2022 de 8h a  12h.\n\nSegunda-feira 15 Agosto 2022 de 8h a  12h.\n\nSexta-feira 19 Agosto 2022 de 8h a  12h.\n\nSegunda-feira 22 Agosto 2022 de 8h a  12h.\n\nSexta-feira 26 Agosto 2022 de 8h a  12h.\n\nSegunda-feira 29 Agosto 2022 de 8h a  12h.\n\nSexta-feira 2 Setembro 2022 de 8h a  12h.\n\nSegunda-feira 5 Setembro 2022 de 8h a  12h.\n\nSexta-feira 9 Setembro 2022 de 8h a  12h.\n\nSexta-feira 16 Setembro 2022 de 8h a  12h.\n\nSegunda-feira 19 Setembro 2022 de 8h a  12h.\n\nSexta-feira 23 Setembro 2022 de 8h a  12h.\n\nSegunda-feira 26 Setembro 2022 de 8h a  12h.\n\nSexta-feira 30 Setembro 2022 de 8h a  12h.\n\nSegunda-feira 3 Outubro 2022 de 8h a  12h.\n\nSexta-feira 7 Outubro 2022 de 8h a  12h.\n\nSegunda-feira 10 Outubro 2022 de 8h a  12h.\n\nSexta-feira 14 Outubro 2022 de 8h a  12h.\n\nSegunda-feira 17 Outubro 2022 de 8h a  12h.\n\nSexta-feira 21 Outubro 2022 de 8h a  12h.\n\nSegunda-feira 24 Outubro 2022 de 8h a  12h.\n\nSexta-feira 28 Outubro 2022 de 8h a  12h.\n\nSegunda-feira 31 Outubro 2022 de 8h a  12h.\n\nSexta-feira 4 Novembro 2022 de 8h a  12h.\n\nSegunda-feira 7 Novembro 2022 de 8h a  12h.\n\nSexta-feira 11 Novembro 2022 de 8h a  12h.\n\nSegunda-feira 14 Novembro 2022 de 8h a  12h.\n\nSexta-feira 18 Novembro 2022 de 8h a  12h.\n\nSegunda-feira 21 Novembro 2022 de 8h a  12h.\n\nSexta-feira 25 Novembro 2022 de 8h a  12h.\n\nSegunda-feira 28 Novembro 2022 de 8h a  12h.\n\nSexta-feira 2 Dezembro 2022 de 8h a  12h.\n\nSegunda-feira 5 Dezembro 2022 de 8h a  12h.\n\nSexta-feira 9 Dezembro 2022 de 8h a  12h.\n\nSegunda-feira 12 Dezembro 2022 de 8h a  12h.\n\nSexta-feira 16 Dezembro 2022 de 8h a  12h.\n\nSegunda-feira 19 Dezembro 2022 de 8h a  12h.\n\nSexta-feira 23 Dezembro 2022 de 8h a  12h.\n\nSegunda-feira 26 Dezembro 2022 de 8h a  12h.\n\nSexta-feira 30 Dezembro 2022 de 8h a  12h.",
+      "libelleJa" : "金曜日 22 7月 2022 8 午前 と 12 午後 の間.\n\n月曜日 25 7月 2022 8 午前 と 12 午後 の間.\n\n金曜日 29 7月 2022 8 午前 と 12 午後 の間.\n\n月曜日 1st of 8月 2022 8 午前 と 12 午後 の間.\n\n金曜日 5 8月 2022 8 午前 と 12 午後 の間.\n\n月曜日 8 8月 2022 8 午前 と 12 午後 の間.\n\n金曜日 12 8月 2022 8 午前 と 12 午後 の間.\n\n月曜日 15 8月 2022 8 午前 と 12 午後 の間.\n\n金曜日 19 8月 2022 8 午前 と 12 午後 の間.\n\n月曜日 22 8月 2022 8 午前 と 12 午後 の間.\n\n金曜日 26 8月 2022 8 午前 と 12 午後 の間.\n\n月曜日 29 8月 2022 8 午前 と 12 午後 の間.\n\n金曜日 2 9月 2022 8 午前 と 12 午後 の間.\n\n月曜日 5 9月 2022 8 午前 と 12 午後 の間.\n\n金曜日 9 9月 2022 8 午前 と 12 午後 の間.\n\n金曜日 16 9月 2022 8 午前 と 12 午後 の間.\n\n月曜日 19 9月 2022 8 午前 と 12 午後 の間.\n\n金曜日 23 9月 2022 8 午前 と 12 午後 の間.\n\n月曜日 26 9月 2022 8 午前 と 12 午後 の間.\n\n金曜日 30 9月 2022 8 午前 と 12 午後 の間.\n\n月曜日 3 10月 2022 8 午前 と 12 午後 の間.\n\n金曜日 7 10月 2022 8 午前 と 12 午後 の間.\n\n月曜日 10 10月 2022 8 午前 と 12 午後 の間.\n\n金曜日 14 10月 2022 8 午前 と 12 午後 の間.\n\n月曜日 17 10月 2022 8 午前 と 12 午後 の間.\n\n金曜日 21 10月 2022 8 午前 と 12 午後 の間.\n\n月曜日 24 10月 2022 8 午前 と 12 午後 の間.\n\n金曜日 28 10月 2022 8 午前 と 12 午後 の間.\n\n月曜日 31 10月 2022 8 午前 と 12 午後 の間.\n\n金曜日 4 11月 2022 8 午前 と 12 午後 の間.\n\n月曜日 7 11月 2022 8 午前 と 12 午後 の間.\n\n金曜日 11 11月 2022 8 午前 と 12 午後 の間.\n\n月曜日 14 11月 2022 8 午前 と 12 午後 の間.\n\n金曜日 18 11月 2022 8 午前 と 12 午後 の間.\n\n月曜日 21 11月 2022 8 午前 と 12 午後 の間.\n\n金曜日 25 11月 2022 8 午前 と 12 午後 の間.\n\n月曜日 28 11月 2022 8 午前 と 12 午後 の間.\n\n金曜日 2 12月 2022 8 午前 と 12 午後 の間.\n\n月曜日 5 12月 2022 8 午前 と 12 午後 の間.\n\n金曜日 9 12月 2022 8 午前 と 12 午後 の間.\n\n月曜日 12 12月 2022 8 午前 と 12 午後 の間.\n\n金曜日 16 12月 2022 8 午前 と 12 午後 の間.\n\n月曜日 19 12月 2022 8 午前 と 12 午後 の間.\n\n金曜日 23 12月 2022 8 午前 と 12 午後 の間.\n\n月曜日 26 12月 2022 8 午前 と 12 午後 の間.\n\n金曜日 30 12月 2022 8 午前 と 12 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23263051,
+      "dateDebut" : "2022-07-22",
+      "dateFin" : "2022-07-22",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896105
+    }, {
+      "identifiant" : 23263088,
+      "dateDebut" : "2022-07-25",
+      "dateFin" : "2022-07-25",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896106
+    }, {
+      "identifiant" : 23263103,
+      "dateDebut" : "2022-07-29",
+      "dateFin" : "2022-07-29",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896107
+    }, {
+      "identifiant" : 23263116,
+      "dateDebut" : "2022-08-01",
+      "dateFin" : "2022-08-01",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896108
+    }, {
+      "identifiant" : 23263136,
+      "dateDebut" : "2022-08-05",
+      "dateFin" : "2022-08-05",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896109
+    }, {
+      "identifiant" : 23263140,
+      "dateDebut" : "2022-08-08",
+      "dateFin" : "2022-08-08",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896110
+    }, {
+      "identifiant" : 23263143,
+      "dateDebut" : "2022-08-12",
+      "dateFin" : "2022-08-12",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896111
+    }, {
+      "identifiant" : 23263152,
+      "dateDebut" : "2022-08-15",
+      "dateFin" : "2022-08-15",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896112
+    }, {
+      "identifiant" : 23263153,
+      "dateDebut" : "2022-08-19",
+      "dateFin" : "2022-08-19",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896113
+    }, {
+      "identifiant" : 23263159,
+      "dateDebut" : "2022-08-22",
+      "dateFin" : "2022-08-22",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896114
+    }, {
+      "identifiant" : 23263172,
+      "dateDebut" : "2022-08-26",
+      "dateFin" : "2022-08-26",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896115
+    }, {
+      "identifiant" : 23263177,
+      "dateDebut" : "2022-08-29",
+      "dateFin" : "2022-08-29",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896116
+    }, {
+      "identifiant" : 23263185,
+      "dateDebut" : "2022-09-02",
+      "dateFin" : "2022-09-02",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896117
+    }, {
+      "identifiant" : 23263256,
+      "dateDebut" : "2022-09-05",
+      "dateFin" : "2022-09-05",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896118
+    }, {
+      "identifiant" : 23263261,
+      "dateDebut" : "2022-09-09",
+      "dateFin" : "2022-09-09",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896119
+    }, {
+      "identifiant" : 23263270,
+      "dateDebut" : "2022-09-16",
+      "dateFin" : "2022-09-16",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896120
+    }, {
+      "identifiant" : 23263273,
+      "dateDebut" : "2022-09-19",
+      "dateFin" : "2022-09-19",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896121
+    }, {
+      "identifiant" : 23263271,
+      "dateDebut" : "2022-09-23",
+      "dateFin" : "2022-09-23",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896122
+    }, {
+      "identifiant" : 23263279,
+      "dateDebut" : "2022-09-26",
+      "dateFin" : "2022-09-26",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896123
+    }, {
+      "identifiant" : 23263283,
+      "dateDebut" : "2022-09-30",
+      "dateFin" : "2022-09-30",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896124
+    }, {
+      "identifiant" : 23263490,
+      "dateDebut" : "2022-10-03",
+      "dateFin" : "2022-10-03",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896125
+    }, {
+      "identifiant" : 23263493,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-10-07",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896126
+    }, {
+      "identifiant" : 23808189,
+      "dateDebut" : "2022-10-10",
+      "dateFin" : "2022-10-10",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896127
+    }, {
+      "identifiant" : 23808037,
+      "dateDebut" : "2022-10-14",
+      "dateFin" : "2022-10-14",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896128
+    }, {
+      "identifiant" : 23808201,
+      "dateDebut" : "2022-10-17",
+      "dateFin" : "2022-10-17",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896129
+    }, {
+      "identifiant" : 23808038,
+      "dateDebut" : "2022-10-21",
+      "dateFin" : "2022-10-21",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896130
+    }, {
+      "identifiant" : 23808213,
+      "dateDebut" : "2022-10-24",
+      "dateFin" : "2022-10-24",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896131
+    }, {
+      "identifiant" : 23808044,
+      "dateDebut" : "2022-10-28",
+      "dateFin" : "2022-10-28",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896132
+    }, {
+      "identifiant" : 23808224,
+      "dateDebut" : "2022-10-31",
+      "dateFin" : "2022-10-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896133
+    }, {
+      "identifiant" : 23808058,
+      "dateDebut" : "2022-11-04",
+      "dateFin" : "2022-11-04",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896134
+    }, {
+      "identifiant" : 23808236,
+      "dateDebut" : "2022-11-07",
+      "dateFin" : "2022-11-07",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896135
+    }, {
+      "identifiant" : 23808061,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896136
+    }, {
+      "identifiant" : 23808242,
+      "dateDebut" : "2022-11-14",
+      "dateFin" : "2022-11-14",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896137
+    }, {
+      "identifiant" : 23808072,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-11-18",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896138
+    }, {
+      "identifiant" : 23808253,
+      "dateDebut" : "2022-11-21",
+      "dateFin" : "2022-11-21",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896139
+    }, {
+      "identifiant" : 23808075,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896140
+    }, {
+      "identifiant" : 23808268,
+      "dateDebut" : "2022-11-28",
+      "dateFin" : "2022-11-28",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896141
+    }, {
+      "identifiant" : 23808084,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896142
+    }, {
+      "identifiant" : 23808271,
+      "dateDebut" : "2022-12-05",
+      "dateFin" : "2022-12-05",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896143
+    }, {
+      "identifiant" : 23808100,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896144
+    }, {
+      "identifiant" : 23808273,
+      "dateDebut" : "2022-12-12",
+      "dateFin" : "2022-12-12",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896145
+    }, {
+      "identifiant" : 23808105,
+      "dateDebut" : "2022-12-16",
+      "dateFin" : "2022-12-16",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896146
+    }, {
+      "identifiant" : 23808294,
+      "dateDebut" : "2022-12-19",
+      "dateFin" : "2022-12-19",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896147
+    }, {
+      "identifiant" : 23808116,
+      "dateDebut" : "2022-12-23",
+      "dateFin" : "2022-12-23",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896148
+    }, {
+      "identifiant" : 23808304,
+      "dateDebut" : "2022-12-26",
+      "dateFin" : "2022-12-26",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896149
+    }, {
+      "identifiant" : 23808124,
+      "dateDebut" : "2022-12-30",
+      "dateFin" : "2022-12-30",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "12:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23896150
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9126307,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Bureau d'Information Touristique Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/129/8880476.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/129/8880476-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/129/8880476-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/129/8880476-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marche de fontvieille 10",
+      "taille" : 476521,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T16:23:44.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9126308,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Bureau d'Information Touristique Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/129/8880477.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/129/8880477-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/129/8880477-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/129/8880477-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marche de fontvieille 11",
+      "taille" : 559502,
+      "hauteur" : 1819,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T16:23:43.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9126309,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Bureau d'Information Touristique Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/129/8880478.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/129/8880478-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/129/8880478-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/129/8880478-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marche de fontvieille 12",
+      "taille" : 465451,
+      "hauteur" : 1597,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T16:23:42.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9126310,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie de Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/129/8880479.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/129/8880479-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/129/8880479-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/129/8880479-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marche de fontvieille 13",
+      "taille" : 621442,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-11-24T16:23:41.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9134453,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Bureau d'Information Touristique Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/159/8888260.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/159/8888260-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/159/8888260-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/159/8888260-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marché Provençal Fontvieille 2",
+      "taille" : 3393581,
+      "hauteur" : 2448,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2020-11-26T13:50:38.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9134454,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "legende" : {
+      "libelleFr" : "Marché provençal Fontvieille"
+    },
+    "copyright" : {
+      "libelleFr" : "Bureau d'Information Touristique Fontvieille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/159/8888261.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/159/8888261-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/159/8888261-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/159/8888261-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marché Provençal Fontvieille",
+      "taille" : 2577362,
+      "hauteur" : 2448,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2020-11-26T13:50:36.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-24", "2022-10-28", "2022-10-31", "2022-11-04", "2022-11-07", "2022-11-11", "2022-11-14", "2022-11-18", "2022-11-21", "2022-11-25", "2022-11-28", "2022-12-02", "2022-12-05", "2022-12-09", "2022-12-12", "2022-12-16", "2022-12-19", "2022-12-23", "2022-12-26", "2022-12-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-30T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT114200"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OTI Saint Rémy de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintremy-de-provence.com"
+    }
+  } ]
+}

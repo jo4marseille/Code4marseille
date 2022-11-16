@@ -1,0 +1,234 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5471218,
+  "nom" : {
+    "libelleFr" : "Marche du Village",
+    "libelleEn" : "Marché de Vitrolles",
+    "libelleEs" : "Marché de Vitrolles",
+    "libelleIt" : "Marché de Vitrolles",
+    "libelleDe" : "Marché de Vitrolles",
+    "libelleNl" : "Marché de Vitrolles"
+  },
+  "identifier" : "SITRA2_EVE_5471218",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T14:31:00.709+0000",
+    "dateModification" : "2022-10-17T13:40:14.492+0000",
+    "dateExportModification" : "2022-10-17T13:40:14.505+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "VITROLLES TOURISME Point info",
+      "dateCreation" : "2020-11-26T13:15:13.649+0000",
+      "dateModification" : "2022-10-24T08:49:52.006+0000",
+      "id" : 2138,
+      "siteWeb" : "http://www.vitrolles13.fr"
+    },
+    "signalerUnProblemeMails" : [ "pascale.campo@ville-vitrolles13.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77096232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 7 790 27"
+      },
+      "observation" : { }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5730008
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228490
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Petit marché tous les mercredis à la Place de l'Aire au Vieux Village"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Alimentaire"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Petit marché sur la place de l'Aire au vieux village le Jeudi matin",
+      "codePostal" : "13127",
+      "commune" : {
+        "id" : 4528
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.250009, 43.459287 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4528
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les jeudis de 8h à 13h.",
+      "libelleEn" : "All year round, every Thursday between 8 am and 1 pm.",
+      "libelleEs" : "Todo el año, todos los jueves de 8 a 13.",
+      "libelleIt" : "Tutto l'anno, tutti i giovedì dalle 8 alle 13.",
+      "libelleDe" : "Ganzjährig, jeden Donnerstag von 8 Uhr bis 13 Uhr.",
+      "libelleNl" : "Het hele jaar, elke donderdag van 8.00 tot en met 13.00 u.",
+      "libelleRu" : "В течение всего года, каждый четверги с 8h до 13h.",
+      "libelleZh" : "全年, 每星期四 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Todo o ano, todas as quintas-feiras de 8h a  13h.",
+      "libelleJa" : "オールシーズン, 毎木曜日 8 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19484965,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 24515985
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 9629031,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/59/9386999.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/59/9386999-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/59/9386999-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/59/9386999-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marché",
+      "taille" : 16618,
+      "hauteur" : 183,
+      "largeur" : 275,
+      "lastModifiedDate" : "2021-03-09T08:55:05.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  } ],
+  "datesOuverture" : [ "2022-10-20", "2022-10-27", "2022-11-03", "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29", "2023-01-05", "2023-01-12", "2023-01-19", "2023-01-26", "2023-02-02", "2023-02-09", "2023-02-16", "2023-02-23", "2023-03-02", "2023-03-09", "2023-03-16", "2023-03-23", "2023-03-30", "2023-04-06", "2023-04-13", "2023-04-20", "2023-04-27", "2023-05-04", "2023-05-11", "2023-05-18", "2023-05-25", "2023-06-01", "2023-06-08", "2023-06-15", "2023-06-22", "2023-06-29", "2023-07-06", "2023-07-13", "2023-07-20", "2023-07-27", "2023-08-03", "2023-08-10", "2023-08-17", "2023-08-24", "2023-08-31", "2023-09-07", "2023-09-14", "2023-09-21", "2023-09-28", "2023-10-05", "2023-10-12", "2023-10-19", "2023-10-26", "2023-11-02", "2023-11-09", "2023-11-16", "2023-11-23", "2023-11-30", "2023-12-07", "2023-12-14", "2023-12-21", "2023-12-28", "2024-01-04", "2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21", "2024-03-28", "2024-04-04", "2024-04-11", "2024-04-18", "2024-04-25", "2024-05-02", "2024-05-09", "2024-05-16", "2024-05-23", "2024-05-30", "2024-06-06", "2024-06-13", "2024-06-20", "2024-06-27", "2024-07-04", "2024-07-11", "2024-07-18", "2024-07-25", "2024-08-01", "2024-08-08", "2024-08-15", "2024-08-22", "2024-08-29", "2024-09-05", "2024-09-12", "2024-09-19", "2024-09-26", "2024-10-03", "2024-10-10", "2024-10-17" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV019626"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Vitrolles"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.vitrolles13.fr "
+    }
+  } ]
+}

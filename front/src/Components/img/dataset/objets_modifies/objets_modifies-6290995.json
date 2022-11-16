@@ -1,0 +1,355 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6290995,
+  "nom" : {
+    "libelleFr" : "Demain c'est loin !"
+  },
+  "identifier" : "SITRA2_EVE_6290995",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T11:50:04.346+0000",
+    "dateModification" : "2022-10-10T11:58:13.895+0000",
+    "dateExportModification" : "2022-10-17T14:28:35.174+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104003573,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 93 48 14"
+      },
+      "observation" : {
+        "libelleFr" : "Du mardi au vendredi de 12h à 18h et le samedi uniquement les jours de spectacles de 15h à 18h."
+      }
+    }, {
+      "identifiant" : 104003574,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@preljocaj.org"
+      }
+    }, {
+      "identifiant" : 104003575,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://preljocaj.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5562672
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "À l’occasion des 30 ans de la Cie Grenade, Josette Baïz tire un fil magique entre trois pièces contemporaines liées par la question du \"vivre ensemble\" dans un programme kaléidoscopique où chaque extrait esquisse une forme de réponse, un espoir, un rêve.."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Tour à tour emportés, facétieux, mutins, agitateurs, insubordonnés, en colère, les danseurs du Groupe Grenade s’engagent dans chaque pièce avec une énergie puissante. Une force de conviction qui force l’admiration. Ils se glissent dans Room With A View, pièce emblématique du collectif (LA)HORDE, pour exprimer toute la révolte de la jeunesse, son insoumission, son imaginaire face au chaos.\r\n\r\nDans How Can We Live Together ? de la chorégraphe australienne Lucy Guerin, ils partagent sa réflexion sur l’évolution du corps social, entre formalisme et confusion, soumission et résistance. Et, clin d’oeil au passé, se réapproprient la création de Josette Baïz de 1982, 25e Parallèle, pour tracer un nouveau chemin…\r\n\r\nDirection artistique : Josette Baïz\r\nChorégraphies : (LA)HORDE, Josette Baïz, Lucy Guerin\r\n\r\n42 danseurs du Groupe Grenade : Hector Amiel, Roman Amiel, Zhina Boumdouha, Maréva Bouillé, Théo Brassart, Ethel Briand, Jossilou Buckland, Victoire Chopineaux, Manon Collins, Jade Dapiedado, Chloé Deplano, Thelma Deroche Marc, Coline Duriez, Delphine Faridi, Joanna Freling, Mathis Fruttero, Lou Gautron, Naomi Givord, Sarah Green, Emma Grimandi, Marius Iwasawa Morlet, Nina Koch, Sarah Kowalski, Mona Lapasset, Tristan Marsala, Iris Martin, Juliette Marty, Dourha Mimoun, Lilith Orecchioni, Léna Porzizek, Lina Rachid, Tess Revol, Bérénice Rieux, Lilly Rose Richard, Jade Roux, Martin Sigaud, Maxence Siol, Lison Szymkowicz, Arthur Vallière, Nao Vally, Sandro Villena, Eva Vuillemin."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Grand Théâtre de Provence",
+      "adresse1" : "380 Avenue Max Juvénal",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439884, 43.526015 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228760
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 96,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 8 novembre 2022 à 20h.\n\nMercredi 9 novembre 2022 à 19h.",
+      "libelleEn" : "Tuesday 8 November 2022 at 8 pm.\n\nWednesday 9 November 2022 at 7 pm.",
+      "libelleEs" : "Martes, 8 de noviembre de 2022 a 20.\n\nMiércoles, 9 de noviembre de 2022 a 19.",
+      "libelleIt" : "Martedì 8 novembre 2022 alle 20.\n\nMercoledì 9 novembre 2022 alle 19.",
+      "libelleDe" : "Dienstag, den 8. November 2022 um 20 Uhr.\n\nMittwoch, den 9. November 2022 um 19 Uhr.",
+      "libelleNl" : "Dinsdag 8 november 2022 om 20.00 u.\n\nWoensdag 9 november 2022 om 19.00 u.",
+      "libelleRu" : "Вторник 8 ноября 2022  до 20h.\n\nСреда 9 ноября 2022  до 19h.",
+      "libelleZh" : "2022年11月8日, 星期二   在 小时小时.\n\n2022年11月9日, 星期三   在 小时小时.",
+      "libellePtBR" : "Terça-feira 8 Novembro 2022 para  20h.\n\nQuarta-feira 9 Novembro 2022 para  19h.",
+      "libelleJa" : "火曜日 8 11月 2022 8 午後 に.\n\n水曜日 9 11月 2022 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24464573,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-08",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24464628
+    }, {
+      "identifiant" : 24464597,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24464629
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 10 à 23 €.\n",
+      "libelleEn" : "Full price: 10 to 23 €.\n",
+      "libelleEs" : "Tarifa completa: de 10 a 23 €.\n",
+      "libelleIt" : "Tarrifa intera: da 10 a 23 €.\n",
+      "libelleDe" : "Voller Preis: von 10 bis 23 €.\n",
+      "libelleNl" : "Vol tarief: € 10 tot en met € 23.\n",
+      "libelleRu" : "Полную цену : с 10 до  23 €.\n",
+      "libelleZh" : "全额 : 从 10 到  23 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 10 a 23 €.\n",
+      "libelleJa" : "通常料金: 10 から 23 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13727055,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 23.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6510
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6847125,
+      "nom" : "Lestheatres.net",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104003571,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lestheatres.net/fr/a/3670-demain-c-est-loin"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21407236,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Paul",
+    "prenom" : "Sophie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104003572,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@preljocaj.org"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14352108,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Cie Grenade"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/21/14685578.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/21/14685578-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/21/14685578-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/21/14685578-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "grenade",
+      "taille" : 153750,
+      "hauteur" : 806,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-10T11:57:20.202+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Grand Théâtre de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

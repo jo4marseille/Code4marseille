@@ -1,0 +1,160 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223330,
+  "nom" : {
+    "libelleFr" : "La Petite Provence du Paradou",
+    "libelleEn" : "La Petite Provence du Paradou",
+    "libelleEs" : "La Petite Provence du Paradou",
+    "libelleIt" : "La Petite Provence du Paradou",
+    "libelleDe" : "La Petite Provence du Paradou",
+    "libelleNl" : "La Petite Provence du Paradou",
+    "libelleRu" : "La Petite Provence du Paradou",
+    "libelleZh" : "La Petite Provence du Paradou",
+    "libellePtBR" : "La Petite Provence du Paradou",
+    "libelleJa" : "La Petite Provence du Paradou"
+  },
+  "identifier" : "SITRA2_STR_5223330",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:00:01.303+0000",
+    "dateModification" : "2021-09-01T13:39:55.880+0000",
+    "dateExportModification" : "2021-09-01T13:39:56.107+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513354,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 35 75",
+        "en" : "00 33 4 90 54 35 75",
+        "de" : "00 33 4 90 54 35 75"
+      }
+    }, {
+      "identifiant" : 70513356,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 35 67",
+        "en" : "00 33 4 90 54 35 67",
+        "de" : "00 33 4 90 54 35 67"
+      }
+    }, {
+      "identifiant" : 70513357,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lapetite.provence@wanadoo.fr",
+        "en" : "lapetite.provence@wanadoo.fr",
+        "de" : "lapetite.provence@wanadoo.fr"
+      }
+    }, {
+      "identifiant" : 70513359,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lapetiteprovenceduparadou.com",
+        "en" : "http://www.lapetiteprovenceduparadou.com",
+        "de" : "http://www.lapetiteprovenceduparadou.com"
+      }
+    }, {
+      "identifiant" : 91679896,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/La-Petite-Provence-du-Paradou-146376245556417",
+        "en" : "https://www.facebook.com/La-Petite-Provence-du-Paradou-146376245556417",
+        "de" : "https://www.facebook.com/La-Petite-Provence-du-Paradou-146376245556417"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "52930407300016",
+      "codeApeNaf" : "9329Z",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "75 Avenue Vallée des Baux",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4479
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.776723, 43.721338 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4479
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19617511,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

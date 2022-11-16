@@ -1,0 +1,449 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5228768,
+  "nom" : {
+    "libelleFr" : "Théâtre Compagnie Ainsi de Suite",
+    "libelleEn" : "Compagny Ainsi de Suite theater",
+    "libelleEs" : "Théâtre Compagnie Ainsi de Suite",
+    "libelleIt" : "Théâtre Compagnie Ainsi de Suite",
+    "libelleDe" : "Théâtre Compagnie Ainsi de Suite",
+    "libelleNl" : "Théâtre Compagnie Ainsi de Suite"
+  },
+  "identifier" : "SITRA2_LOI_5228768",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T08:31:24.772+0000",
+    "dateModification" : "2022-01-05T14:09:43.840+0000",
+    "dateExportModification" : "2022-11-07T09:35:52.637+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70540128,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 10 62 65 12"
+      }
+    }, {
+      "identifiant" : 70540129,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 15 84 12 58"
+      }
+    }, {
+      "identifiant" : 70540130,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@ainsidesuite.com"
+      }
+    }, {
+      "identifiant" : 70540131,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.ainsidesuite.com/"
+      }
+    }, {
+      "identifiant" : 79702836,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Th%C3%A9%C3%A2tre-Ainsi-de-Suite-209744195715845/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228767
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "C’est en 2012, dans la très belle chapelle du lycée Saint Éloi, qu’Ainsi de Suite a choisi de tourner une nouvelle page de son histoire commencée il y a tout juste vingt ans. C’est dans ce lieu de cultures venues d’ailleurs qu’elle convie son public"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au sein de la chapelle du lycée St Eloi, le Théâtre Ainsi de Suite vous proposera ses créations et ses activités.\r\n\r\nAtelier de théâtre pour enfants, adolescents et adultes tous niveaux.\r\nStages de prise de parole en public.",
+      "libelleEn" : "Théâtre Ainsi de Suite hosts its creations and activities in the chapel at Lycée St Eloi.\r\n\r\nTheatre workshop for children, teenagers and adults of all abilities.\r\nPublic speaking courses."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chapelle du Lycée St Eloi",
+      "adresse2" : "9 Avenue Jules Isaac",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.450992, 43.533974 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6285740
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6294163
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6294173
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6294177
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306034
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6306075
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6308989
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6317856
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les mercredis, jeudis et vendredis.\nFermetures exceptionnelles les 1er janvier et 25 décembre.\nLe mercredi de 8h30 à 18h et le jeudi et vendredi 8h30 à 12h ou sur rendez-vous.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Wednesday, Thursday and Friday.\nClosed exceptionally on January 1st and December 25th.\nOn Wednesday from 8.30am to 6pm and on Thursday and Friday from 8.30am to noon. Or by appointment.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los miércoles, jueves y viernes.\nSe cierra, excepcionalmente los días 1er de enero y 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i mercoledì, giovedì e venerdì.\nChiusura eccezionale 1° gennaio e 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Mittwoch, Donnerstag und Freitag.\nAusnahmsweise geschlossen am 1. Januar und 25. Dezember.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke woensdag, donderdag en vrijdag.\nBij uitzondering gesloten op 1 januari en 25 december.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый среды, четверги и пятницы.\nВ порядке исключения не работает 1 января и 25 декабря.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期三, 星期四 和 星期五.\n在 1月1日 和 12月25日 例外关闭.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as quartas-feiras, quintas-feiras e sextas-feiras.\nFechamentos excepcionais em 1º de janeiro e 25 de dezembro.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎水曜日, 木曜日 と 金曜日.\n1月1日 と 12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20528210,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Le mercredi de 8h30 à 18h et le jeudi et vendredi 8h30 à 12h ou sur rendez-vous.",
+        "libelleEn" : "On Wednesday from 8.30am to 6pm and on Thursday and Friday from 8.30am to noon. Or by appointment."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 22413319
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 16131771,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "SICRE",
+    "prenom" : "Viviane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9220476,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1A00006_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Le ainsi de suite"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/241/8974820.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/241/8974820-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/241/8974820-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/241/8974820-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 392978,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:10:55.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220477,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T1A00006_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Le ainsi de suite"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/241/8974821.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/241/8974821-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/241/8974821-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/241/8974821-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 750847,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:10:56.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-28", "2022-12-29", "2022-12-30" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3206
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3342
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1A00006"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

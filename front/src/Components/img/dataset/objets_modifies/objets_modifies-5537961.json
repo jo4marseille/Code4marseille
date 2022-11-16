@@ -1,0 +1,270 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537961,
+  "nom" : {
+    "libelleFr" : "Eguilles",
+    "libelleEn" : "Le village d'Eguilles",
+    "libelleIt" : "Le village de Puyloubier",
+    "libelleDe" : "Le village de Puyloubier",
+    "libelleNl" : "Le village de Puyloubier"
+  },
+  "identifier" : "SITRA2_PCU_5537961",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:01:16.933+0000",
+    "dateModification" : "2022-10-27T14:00:15.311+0000",
+    "dateExportModification" : "2022-10-27T14:00:15.493+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627291,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 28 24 41"
+      }
+    }, {
+      "identifiant" : 79627292,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-eguilles.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225155
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Eguilles est un village en balcon, niché à 300 mètres d'altitude et à seulement une dizaine de kilomètres à l'ouest d'Aix en Provence et qui a su préserver à travers les âges son caractère authentique. Sa position géographique privilégiée offre une vue incomparable sur la campagne environnante. \r\n\r\n Au centre se dresse le château édifié par la famille Boyer d'Eguilles au XVIIe siècle, et abritant aujourd'hui la mairie. Dans la pénombre de son entrée, l'horloge ronronne depuis 140 ans. \r\n\r\n\r\nUne balade à pied dans le village permet d'apprécier le charme des ruelles étroites où l'on accède par de typiques escaliers escarpés aux différents lavoirs et aux vestiges de l'ancienne église romane. \r\n\r\nAu sein du village, le jardin d'artiste de Max SAUZE, qui a reçu le label Jardin remarquable en 2004, également la tombe du poète Joachim Gasquet au cimetière du village.",
+      "libelleEn" : "The hilltop village of Eguilles, at an altitude of 300 metres, is only 10 km to the west of Aix en Provence, and has succeeded in preserving its authentic character down the ages. \n\n\nIts superb geographic location offers an incomparable view over the surrounding countryside. \n\n\nThe village has succeeded in preserving its authentic character down the ages. In its centre stands the castle built by the Boyer d’Eguilles family in the 17th century, which now houses the town hall. In the shade of its majestic entrance, the clock has run smoothly for 140 years. \n\n\nWalking through the village you will see its pretty narrow streets, typical steep flights of steps leading to the different wash-houses, and the ruins of the ancient Romanesque church. \n\n\nIn the village you can also see the garden of artist Max Sauze, which was listed as an Outstanding Garden in 2004, and the grave of the poet Joachim Gasquet in the village cemetery."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13510",
+      "bureauDistribution" : "EGUILLES",
+      "commune" : {
+        "id" : 4443
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.354290, 43.569322 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4443
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16801
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488709,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000068_4_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/0/8257753.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/0/8257753-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/0/8257753-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/0/8257753-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 45485,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:11:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488707,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000068_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/0/8257751.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/0/8257751-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/0/8257751-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/0/8257751-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 30335,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:11:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488708,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000068_3_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@RCF"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/0/8257752.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/0/8257752-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/0/8257752-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/0/8257752-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 41980,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:11:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488710,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000068_5_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "@CPA"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/0/8257754.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/0/8257754-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/0/8257754-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/0/8257754-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 32644,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:11:09.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000068"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "BMP Eguilles"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.mairie-eguilles.fr"
+    }
+  } ]
+}

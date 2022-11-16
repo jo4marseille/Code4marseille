@@ -1,0 +1,425 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5253073,
+  "nom" : {
+    "libelleFr" : "La Table du Chef",
+    "libelleEn" : "Le temps des secrets",
+    "libelleIt" : "Le temps des secrets",
+    "libelleDe" : "Le temps des secrets",
+    "libelleNl" : "Le temps des secrets"
+  },
+  "identifier" : "SITRA2_RES_5253073",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-25T12:18:01.449+0000",
+    "dateModification" : "2022-04-12T14:22:38.004+0000",
+    "dateExportModification" : "2022-10-07T15:46:02.379+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 71030382,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 27 01 04"
+      }
+    }, {
+      "identifiant" : 71030383,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "restaurant@labuzine.com"
+      }
+    }, {
+      "identifiant" : 71030384,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.labuzine.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223308
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un havre de paix niché face au pays de Pagnol...le restaurant de la Buzine vous invite à partager un repas en toute sérénité."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Face aux collines du Garlaban, venez découvrir un domaine magique, le château de la Buzine, encensé par le cinéaste Marseillais dans \" le château de ma mère \". Nous vous proposons une cuisine méditerranéenne de saison à tendance bio sous forme de buffets, et de plats \" suggestions du moment \". Nous mettons aussi à votre disposition la vente à emporter de salades, sandwiches, salades de fruits et divers jus, en utilisant des contenants bio-dégradables respectant les normes environnementales. \r\nVous pourrez aussi venir faire une halte paisible les après midis sur nos terrasses, autour d'un café, soda ou jus de fruit bio. Le dimanche brunch + buffet de 11h à 14h. Restaurant responsable, vente à emporter."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Château de la Buzine",
+      "adresse2" : "56 Traverse De la Buzine",
+      "codePostal" : "13011",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4541
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.502646, 43.295743 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4541
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5230764
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5571502
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539417
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5253073
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 715
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1177
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1217
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 5540
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6769
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Ouvert le soir pour les groupes sur réservation, et lors d'événements."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21020008,
+      "dateDebut" : "2021-12-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Restauration le soir si événements ou sur réservation pour privatisation.\r\nSalon de thé jusqu'à 17h30."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 23109236
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Menu adulte : de 12€ à 20€ \r\nMenu adulte : 10€"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12716011,
+      "dateDebut" : "2021-12-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 13.00,
+        "maximum" : 19.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1501
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1503
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1285
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16645
+  } ],
+  "contacts" : [ {
+    "identifiant" : 16208786,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "NASSIM"
+  }, {
+    "identifiant" : 16208787,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "BARTOLUCCI",
+    "prenom" : "Sandro",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11772814,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Restaurant la Table du Chef Chateau de la Buzine"
+    },
+    "legende" : {
+      "libelleFr" : "Terrasse"
+    },
+    "copyright" : {
+      "libelleFr" : "Crédit photo  La table des secrets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/134/11830800.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/134/11830800-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/134/11830800-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/134/11830800-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 11899,
+      "hauteur" : 150,
+      "largeur" : 215,
+      "lastModifiedDate" : "2021-12-10T14:45:47.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1259
+    } ],
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1228
+    } ],
+    "nombreSallesReunionEquipees" : 2
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsRestauration" : {
+    "chef" : "Gilles Carmignani",
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2996
+    }, {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2985
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    }, {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2887
+    } ],
+    "capacite" : {
+      "nombreMaximumCouverts" : 40,
+      "nombreCouvertsTerrasse" : 50
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST001133"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

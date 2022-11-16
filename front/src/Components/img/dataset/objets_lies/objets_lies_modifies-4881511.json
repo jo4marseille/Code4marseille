@@ -1,0 +1,442 @@
+{
+  "type" : "TERRITOIRE",
+  "id" : 4881511,
+  "nom" : {
+    "libelleFr" : "Parc Naturel Régional des Alpilles"
+  },
+  "identifier" : "SITRA2_GEO_4881511",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2017-11-30T08:40:53.225+0000",
+    "dateModification" : "2021-11-15T08:15:56.806+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 31983021,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 90 44 00"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 31983023,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@parc-alpilles.fr"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 31983024,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.parc-alpilles.fr"
+      },
+      "observation" : { }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 765534
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le parc naturel régional des Alpilles, en Provence-Alpes-Côte d'Azur. Il s'étend sur le massif préalpin calcaire des Alpilles et sur ses abords immédiats (Crau, rives de la Durance)."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Orientée est-ouest, la chaîne calcaire des Alpilles, prolongement géologique du Luberon, s'élève au coeur de la Provence. De très loin, ses crêtes déchiquetées, de 300m à 400 m d'altitude, donnent l'illusion de véritables montagnes. Elles constituent un petit massif calcaire de 25 km de long sur 6 à 8 km de large. Entre Rhône et Durance, elles pointent brusquement vers le ciel une masse blanche aux reflets bleutés.\r\nLeur topographie chaotique est rendue plus étrange encore par d'anciennes exploitations de pierre de taille. Dès le néolithique, des voies commerciales empruntent les vallons et des agglomérations naissent à leur jonction, tels Les-Baux. Les nombreuses grottes naturelles du massif ont servi d'abri à l'homme depuis des millénaires. Celto-Ligures, Massaliotes et Gallo-Romains assurent une occupation quasi ininterrompue des Alpilles.\r\nLe Moyen Age voit s'édifier de nombreux châteaux-forts dont les ruines montent encore la garde.\r\nD'un bout à l'autre de la chaîne, défilent les paysages de la Provence rurale : champs d'oliviers, riches vignobles.\r\nVignes et oliviers prédominent, notamment sur les pentes plus douces du côté sud des Alpilles. La vallée des Baux rassemble les plus belles oliveraies de la région, son huile et ses olives vertes cassées sont renommées. Il convient bien sûr de mentionner l'A.O.C. Coteaux des Baux-de-Provence, nouvellement créée. Elle comprend 12 domaines répartis sur les différentes communes des Alpilles.\r\nCette chaîne est aussi réputée, à juste titre, pour sa faune notamment ornithologique. Les rapaces en constituent le fleuron, particulièrement l'aigle de Bonelli.\r\nD'Eyguières à Eygalières, en passant par Maussane, Fontvieille, Saint-Rémy ou les Baux-de-Provence, les itinéraires de randonnée ne manquent pas. Chaque halte est source d'émerveillement. Et ce n'est pas un hasard si chaque village sert aujourd'hui de refuge aux artistes et célébrités.\r\nPoint culminant : Les Opies (493 m)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13210",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.891349, 43.735170 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4519
+    }, {
+      "id" : 4460
+    }, {
+      "id" : 4468
+    }, {
+      "id" : 4469
+    }, {
+      "id" : 4505
+    }, {
+      "id" : 4476
+    }, {
+      "id" : 4508
+    }, {
+      "id" : 4445
+    }, {
+      "id" : 4446
+    }, {
+      "id" : 4478
+    }, {
+      "id" : 4479
+    }, {
+      "id" : 4511
+    }, {
+      "id" : 4417
+    }, {
+      "id" : 4449
+    }, {
+      "id" : 4516
+    }, {
+      "id" : 4422
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538634
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538434
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_NATUREL",
+        "id" : 5474187
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538388
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_NATUREL",
+        "id" : 5473541
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539642
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538199
+      }
+    }, {
+      "type" : "A_DANS_SON_PERIMETRE",
+      "libelleFr" : "A dans son périmètre...",
+      "libelleEn" : "Is home to...",
+      "libelleEs" : "Tiene en su perímetro...",
+      "libelleIt" : "Ha nel suo perimetro...",
+      "libelleDe" : "Hat in seinem/ihrem Umkreis ...",
+      "libelleNl" : "Heeft in zijn gebied ...",
+      "libelleRu" : "Включает в свой периметр...",
+      "libelleZh" : "周边有",
+      "libellePtBR" : "Possui no seu perímetro ...",
+      "libelleJa" : "がその半径に保有するのは",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_NATUREL",
+        "id" : 5473357
+      }
+    } ]
+  },
+  "prestations" : { },
+  "ouverture" : {
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 11512260,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "PNR des Alpilles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/210/11522728.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/210/11522728-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/210/11522728-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/210/11522728-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7386393",
+      "taille" : 326873,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-11-15T08:15:58.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11512261,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "PNR des Alpilles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/210/11522729.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/210/11522729-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/210/11522729-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/210/11522729-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7386394",
+      "taille" : 438458,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-11-15T08:15:57.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11512262,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "PNR des Alpilles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/210/11522730.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/210/11522730-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/210/11522730-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/170/210/11522730-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7386395",
+      "taille" : 273662,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-11-15T08:15:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11512263,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "PNR des Alpilles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/210/11522731.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/210/11522731-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/210/11522731-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/210/11522731-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7386396",
+      "taille" : 322376,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-11-15T08:16:00.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11512264,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "PNR des Alpilles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/210/11522732.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/210/11522732-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/210/11522732-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/210/11522732-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "7386397",
+      "taille" : 540816,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-11-15T08:15:59.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6142170
+  } ],
+  "informationsTerritoire" : {
+    "territoireType" : {
+      "elementReferenceType" : "TerritoireType",
+      "id" : 6242
+    },
+    "destination" : true,
+    "zoneClassements" : [ {
+      "elementReferenceType" : "TerritoireZoneClassement",
+      "id" : 3478
+    } ],
+    "sportsHiver" : { },
+    "hebergement" : {
+      "parkingCampingCar" : false
+    }
+  },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

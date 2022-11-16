@@ -1,0 +1,368 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6290551,
+  "nom" : {
+    "libelleFr" : "Les gladiateurs romains dans l'amphithéâtre",
+    "libelleEn" : "Roman gladiators in the amphitheatre",
+    "libelleEs" : "Gladiadores romanos en el anfiteatro",
+    "libelleIt" : "Gladiatori romani nell'anfiteatro"
+  },
+  "identifier" : "SITRA2_EVE_6290551",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-10T07:14:12.892+0000",
+    "dateModification" : "2022-10-10T07:18:07.079+0000",
+    "dateExportModification" : "2022-10-13T09:37:35.089+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466420
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Assistez aux restitutions de combats, puis rencontrez les gladiateurs munis de leur équipement."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Accompagné d’une spécialiste de l’archéologie expérimentale, découvrez la gladiature, ce sport antique pratiqué dans l’amphithéâtre. Après la visite, vous assisterez à une courte restitution de combat entre deux gladiateurs.",
+      "libelleEn" : "Accompanied by a specialist in experimental archaeology, discover gladiatura, the ancient sport practiced in the amphitheatre. After the visit, you will watch a short re-enactment of a fight between two gladiators.",
+      "libelleEs" : "Acompañado por un especialista en arqueología experimental, descubra la gladiatura, el antiguo deporte practicado en el anfiteatro. Tras la visita, asistirá a una breve representación de una lucha entre dos gladiadores.",
+      "libelleIt" : "Accompagnati da uno specialista in archeologia sperimentale, scoprite la gladiatura, l'antico sport praticato nell'anfiteatro. Dopo la visita, assisterete a una breve rievocazione di un combattimento tra due gladiatori."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L' Amphithéâtre romain",
+      "adresse1" : "1 Rond-point Des Arènes",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.631612, 43.677953 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ],
+    "lieu" : {
+      "id" : 15594
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538604
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538604
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5941256
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 22/10 au 06/11/2022, tous les lundis, mercredis et samedis de 14h à 14h40.\n\nDu 17/12 au 31/12/2022, tous les lundis, mercredis et samedis de 14h à 14h40.",
+      "libelleEn" : "From 22/10 to 06/11/2022, every Monday, Wednesday and Saturday between 2 pm and 2.40 pm.\n\nFrom 17/12 to 31/12/2022, every Monday, Wednesday and Saturday between 2 pm and 2.40 pm.",
+      "libelleEs" : "Del 22/10 al 06/11/2022, todos los lunes, miércoles y sábados de 14 a 14:40.\n\nDel 17/12 al 31/12/2022, todos los lunes, miércoles y sábados de 14 a 14:40.",
+      "libelleIt" : "Dal 22/10 al 06/11/2022, tutti i lunedì, mercoledì e sabati dalle 14 alle 14:40.\n\nDal 17/12 al 31/12/2022, tutti i lunedì, mercoledì e sabati dalle 14 alle 14:40.",
+      "libelleDe" : "Vom 22/10 bis 06/11/2022, jeden Montag, Mittwoch und Samstag von 14 Uhr bis 14.40 Uhr.\n\nVom 17/12 bis 31/12/2022, jeden Montag, Mittwoch und Samstag von 14 Uhr bis 14.40 Uhr.",
+      "libelleNl" : "Van 22/10 tot en met 06/11/2022, elke maandag, woensdag en zaterdag van 14.00 tot en met 14.40 u.\n\nVan 17/12 tot en met 31/12/2022, elke maandag, woensdag en zaterdag van 14.00 tot en met 14.40 u.",
+      "libelleRu" : "С 22/10 до 06/11/2022, каждый понедельники, среды и субботы с 14h до 14h40.\n\nС 17/12 до 31/12/2022, каждый понедельники, среды и субботы с 14h до 14h40.",
+      "libelleZh" : "从 10月22日 到 2022年11月6日, 每星期一, 星期三 和 星期六 小时小时 和 小时小时分钟  之间.\n\n从 12月17日 到 2022年12月31日, 每星期一, 星期三 和 星期六 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De 22/10 a 06/11/2022, todas as segundas-feiras, quartas-feiras e sábados de 14h a  14h40.\n\nDe 17/12 a 31/12/2022, todas as segundas-feiras, quartas-feiras e sábados de 14h a  14h40.",
+      "libelleJa" : "22/10 から 06/11/2022 まで, 毎月曜日, 水曜日 と 土曜日 2 午後 と 2.40 午後 の間.\n\n17/12 から 31/12/2022 まで, 毎月曜日, 水曜日 と 土曜日 2 午後 と 2.40 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24461902,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-06",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "14:40:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24461902
+    }, {
+      "identifiant" : 24461905,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "14:40:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24461905
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Compris dans le billet d'entrée au monument.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris dans le billet d'entrée au monument"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10292166,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "M.Louvet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/169/10070489.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/169/10070489-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/169/10070489-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/169/10070489-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "gladiateurs ©m;louvet (2)",
+      "taille" : 5163166,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-06-16T09:56:37.000+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-06-01T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 10292165,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "M.Louvet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/169/10070488.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/169/10070488-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/169/10070488-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/169/10070488-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "gladiateurs ©m;louvet (1)",
+      "taille" : 6648107,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-06-16T09:56:40.000+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-06-01T00:00:00.000+0000",
+    "locked" : false
+  }, {
+    "identifiant" : 10292167,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "M.Louvet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/169/10070490.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/169/10070490-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/169/10070490-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/169/10070490-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "gladiateurs ©m;louvet (3)",
+      "taille" : 7839338,
+      "hauteur" : 5184,
+      "largeur" : 3456,
+      "lastModifiedDate" : "2021-06-16T09:56:44.000+0000"
+    } ],
+    "dateLimiteDePublication" : "2023-06-01T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-24", "2022-10-26", "2022-10-29", "2022-10-31", "2022-11-02", "2022-11-05", "2022-12-17", "2022-12-19", "2022-12-21", "2022-12-24", "2022-12-26", "2022-12-28", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "L' Amphithéâtre romain"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

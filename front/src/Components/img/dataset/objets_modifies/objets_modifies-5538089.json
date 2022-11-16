@@ -1,0 +1,235 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538089,
+  "nom" : {
+    "libelleFr" : "Abbaye de Saint Pons",
+    "libelleEn" : "Abbaye de Saint Pons",
+    "libelleEs" : "Abbaye de Saint Pons",
+    "libelleIt" : "Abbaye de Saint Pons",
+    "libelleDe" : "Abbaye de Saint Pons",
+    "libelleNl" : "Abbaye de Saint Pons"
+  },
+  "identifier" : "SITRA2_PCU_5538089",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:09:57.836+0000",
+    "dateModification" : "2021-01-06T09:05:24.828+0000",
+    "dateExportModification" : "2022-01-30T17:50:04.528+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Gemenos",
+      "dateCreation" : "2020-10-06T11:57:04.864+0000",
+      "dateModification" : "2022-10-24T08:49:38.466+0000",
+      "id" : 2100,
+      "siteWeb" : "http://www.mairie-gemenos.fr"
+    },
+    "signalerUnProblemeMails" : [ "vstamegna@mairie-gemenos.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627720,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 31 50 30"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466095
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Près de la chapelle de St. Martin, on découvre l'abbaye cistercienne de Saint-Pons, fondée par Dame Garcende en 1205 dont elle fut la première abbesse. Des religieuses de l'ordre de Citeaux y vivèrent cloitrées dans la pauvreté et la prière jusqu'en 1427.Ce bâtiment majestueux est l'exemple le plus complet de monastère féminin. Cette abbaye, entièrement rénovée, appartient au Conseil Général. L'abbaye est ouverte à certains moments de l'année, sur demande et aux journées du Patrimoine."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse2" : "Vallée de Saint Pons",
+      "codePostal" : "13420",
+      "bureauDistribution" : "GEMENOS",
+      "commune" : {
+        "id" : 4453
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.662119, 43.291620 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4453
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Parking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636439,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "GALIANO",
+    "prenom" : "Jean Marc",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81737398,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "413315030"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488077,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000003_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/254/8257121.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/254/8257121-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/254/8257121-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/254/8257121-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 75886,
+      "hauteur" : 400,
+      "largeur" : 300,
+      "lastModifiedDate" : "2020-07-23T17:00:22.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3488
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3526
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3322
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000003"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Gémenos"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.mairie-gemenos.fr"
+    }
+  } ]
+}

@@ -1,0 +1,190 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5226328,
+  "nom" : {
+    "libelleFr" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleEn" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleEs" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleIt" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleDe" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleNl" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleRu" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleZh" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libellePtBR" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh",
+    "libelleJa" : "Cloître Saint Paul de Mausole, Centre culturel et touristique Van Gogh"
+  },
+  "identifier" : "SITRA2_STR_5226328",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T13:27:28.544+0000",
+    "dateModification" : "2021-09-08T12:56:49.423+0000",
+    "dateExportModification" : "2021-09-08T12:56:49.645+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70523033,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 72 61",
+        "en" : "00 33 4 90 92 72 61",
+        "de" : "00 33 4 90 92 72 61"
+      }
+    }, {
+      "identifiant" : 91885956,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 77 00",
+        "en" : "00 33 4 90 92 77 00",
+        "de" : "00 33 4 90 92 77 00"
+      }
+    }, {
+      "identifiant" : 70523034,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 38 66",
+        "en" : "00 33 4 90 92 38 66",
+        "de" : "00 33 4 90 92 38 66"
+      }
+    }, {
+      "identifiant" : 70523035,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "centreculturel.cloitre.assostpaul@live.fr",
+        "en" : "centreculturel.cloitre.assostpaul@live.fr",
+        "de" : "centreculturel.cloitre.assostpaul@live.fr"
+      }
+    }, {
+      "identifiant" : 70523036,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://saintpauldemausole.fr/",
+        "en" : "http://saintpauldemausole.fr/",
+        "de" : "http://saintpauldemausole.fr/"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "78277166100017",
+      "codeApeNaf" : "851A"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2 Chemin Des carrières",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.833361, 43.776704 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18521099,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "BOULON",
+    "prenom" : "Jean-Marc",
+    "moyensCommunication" : [ {
+      "identifiant" : 84772096,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 77 00"
+      }
+    }, {
+      "identifiant" : 84772119,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "cloitre@assostpaul.fr"
+      }
+    }, {
+      "identifiant" : 84772123,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.saintpauldemausole.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

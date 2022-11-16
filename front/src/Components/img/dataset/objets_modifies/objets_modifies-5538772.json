@@ -1,0 +1,539 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538772,
+  "nom" : {
+    "libelleFr" : "Les Jardins d'Albertas",
+    "libelleEn" : "The Albertas Gardens",
+    "libelleEs" : "Les Jardins d'Albertas",
+    "libelleIt" : "Les Jardins d'Albertas",
+    "libelleDe" : "Les Jardins d'Albertas",
+    "libelleNl" : "Les Jardins d'Albertas"
+  },
+  "identifier" : "SITRA2_PCU_5538772",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T05:12:09.808+0000",
+    "dateModification" : "2022-01-07T09:38:28.439+0000",
+    "dateExportModification" : "2022-11-04T12:28:03.722+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79638002,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 22 94 71"
+      }
+    }, {
+      "identifiant" : 79638003,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@jardinsalbertas.com"
+      }
+    }, {
+      "identifiant" : 79638004,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.jardinsalbertas.com"
+      }
+    }, {
+      "identifiant" : 79638005,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/JardinsdAlbertas/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223655
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Dans un parc à la française de 8 hectares, classé Monument Historique du XVIIe siècle, inspiré des jardins italiens de la Renaissance, se dressent des statues, bassins et buis taillés.",
+      "libelleEn" : "This 8-hectare French-style garden, dating back to the 17th century and a listed Historic Monument, inspired by the Italian renaissance gardens, harbours statues, ponds and pruned box hedges. The Albertas gardens are criss-crossed with 2 kilometres of underground tunnels and there is also an old oil mill nearby."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le parc d'Albertas est sillonné de 2 kilomètres de galeries souterraines et tout près, on découvre un ancien moulin à huile.\r\n\r\nVisite toute l'année pour les groupes à partir de 20 personnes, sur rendez-vous.\r\n\r\nTous les ans, le dernier weekend de mai est réservé aux Journées des Plantes d'Albertas. Un événement entièrement consacré aux plantes rares et méditerranéennes. Avec au programme : 180 exposants, ventes, expositions de plantes, visites commentées, conférences, animations enfants, animations musicales et restauration sur place.\r\n\r\nLes Jardins d'Albertas offrent un cadre d'exception pour l'organisation de vos événements privés. Expositions, photos de mariage, réceptions ou tournages. La surface privatisable des jardins est de 6 hectares (parking compris). Location à l'extérieur uniquement.",
+      "libelleEn" : "Tours all year round for groups from 20 people, prior booking required.\r\n\r\nEvery year, the last weekend in May is reserved for the Albertas Plant Festival. An event devoted entirely to rare and Mediterranean plants. On the programme: 180 exhibitors, sale, exhibition of plants, guided tours, activities for children, conferences and musical activities.."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "\"Remarquables\" mais aussi exceptionnels ! Les Jardins d'Albertas à Bouc Bel Air méritent à plus d'un titre leur label. Phénomène peu répandu, ces magnifiques jardins créés en 1640 présentent encore aujourd'hui leur composition classique. Les lignes et les perspectives des allées, des bassins et des jets d'eau, les volumes taillés et structurés des buis et des ifs conservent l'empreinte vivante du grand siècle. \r\nUn lieu inoubliable où sur les 4 terrasses successives soufflent encore l'harmonieuse influence de l'Italie. \r\nUne invitation à voyager dans les fastes du passé, à s'éloigner de l'agitation contemporaine pour puiser dans l'équilibre de la nature l'émotion du présent."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "RN 8",
+      "codePostal" : "13320",
+      "commune" : {
+        "id" : 4426
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.402881, 43.456168 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4426
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 176
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking privé\r\nParking autocar",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/05 au 30/09/2022, tous les jours.\nEn mai, juin et septembre les samedis, dimanche et jours fériés de 14h à 18h\r\nEn juillet et août, tous les jours de 13h à 19h \r\n\r\nFermeture annuelle du 1er novembre au 30 avril.",
+      "libelleEn" : "From 01/05 to 30/09/2022, daily.\nIn May,June and September, every weekends and public holiday from 2pm to 6pm.\r\nIn July and August daily open from 1pm to 7pm.\r\n\r\nAnnual closure from November 1st to April 30th.",
+      "libelleEs" : "Del 01/05 al 30/09/2022, todos los dias.",
+      "libelleIt" : "Dal 01/05 al 30/09/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/05 bis 30/09/2022, täglich.",
+      "libelleNl" : "Van 01/05 tot en met 30/09/2022, iedere dag.",
+      "libelleRu" : "С 01/05 до 30/09/2022, ежедневно.",
+      "libelleZh" : "从 5月1日 到 2022年9月30日, 日常.",
+      "libellePtBR" : "De 01/05 a 30/09/2022, todos os dias.",
+      "libelleJa" : "01/05 から 30/09/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19372700,
+      "dateDebut" : "2022-05-01",
+      "dateFin" : "2022-09-30",
+      "complementHoraire" : {
+        "libelleFr" : "En mai, juin et septembre les samedis, dimanche et jours fériés de 14h à 18h\r\nEn juillet et août, tous les jours de 13h à 19h \r\n\r\nFermeture annuelle du 1er novembre au 30 avril",
+        "libelleEn" : "In May,June and September, every weekends and public holiday from 2pm to 6pm.\r\nIn July and August daily open from 1pm to 7pm.\r\n\r\nAnnual closure from November 1st to April 30th."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 22428879
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 5 €\nTarif réduit : 4 € (réservé aux groupes de + de 20 personnes, enfants de 7 à 18 ans, étudiants, adultes handicapés, chômeurs et RMI - sur présentation d'un justificatif).\n\n Gratuit pour les moins de 7 ans.\n\nTarifs des visites hors période d'événement.",
+      "libelleEn" : "Full price: 5 €\nReduced price: 4 €.\n\n Free entry for children < 7 years.",
+      "libelleEs" : "Tarifa completa: 5 €\nPrecio reducido: 4 €.\n\n Gratuito para los niños menores de 7 años.",
+      "libelleIt" : "Tarrifa intera: 5 €\nPrezzo ridotto: 4 €.\n\n Gratuito per i bambini di età inferiore a 7 anni.",
+      "libelleDe" : "Voller Preis: 5 €\nReduzierter Preis: 4 €.\n\n Kostenlos für Kinder unter 7 Jahren.",
+      "libelleNl" : "Vol tarief: € 5\nKorting: € 4.\n\n Gratis voor kinderen onder de 7 jaar.",
+      "libelleRu" : "Полную цену : 5 €\nСниженная цена : 4 €.\n\n Бесплатно для лицам младше 7 лет.",
+      "libelleZh" : "全额 : 5 €\n减价 : 4 €.\n\n 儿童 < 7 岁自由进入.",
+      "libellePtBR" : "Tarifa inteira: 5 €\nPreço reduzido: 4 €.\n\n Gratuito para menores de 7 anos.",
+      "libelleJa" : "通常料金: 5 €\n割引料金: 4 €.\n\n 子供 < 7 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Tarifs des visites hors période d'événement"
+    },
+    "periodes" : [ {
+      "identifiant" : 11819100,
+      "dateDebut" : "2022-05-01",
+      "dateFin" : "2022-09-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "precisionTarif" : {
+          "libelleFr" : "réservé aux groupes de + de 20 personnes, enfants de 7 à 18 ans, étudiants, adultes handicapés, chômeurs et RMI - sur présentation d'un justificatif"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 7
+    }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16903
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17637875,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 444
+    },
+    "nom" : "Famille Latil d'Albertas",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 464
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488493,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/0/8257537.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/0/8257537-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/0/8257537-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/0/8257537-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 541367,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:08.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488494,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/2/0/8257538.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/2/0/8257538-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/2/0/8257538-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/2/0/8257538-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 558092,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:07.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488495,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/3/0/8257539.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/3/0/8257539-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/3/0/8257539-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/3/0/8257539-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 770625,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:10.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488496,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/0/8257540.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/0/8257540-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/0/8257540-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/0/8257540-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 719711,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:09.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488497,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/0/8257541.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/0/8257541-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/0/8257541-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/0/8257541-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 977088,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:12.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8488498,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001063_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Jardins d'Albertas"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/0/8257542.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/0/8257542-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/0/8257542-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/0/8257542-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1234362,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:07:11.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipeesPour" : [ {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1239
+    }, {
+      "elementReferenceType" : "SalleEquipeePour",
+      "id" : 1241
+    } ],
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1235
+    } ]
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3202
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3459
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3465
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3270
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 4872
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-09-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001063"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.9,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 280,
+        "dateMaj" : 1667557524555
+      }
+    } ]
+  } ]
+}

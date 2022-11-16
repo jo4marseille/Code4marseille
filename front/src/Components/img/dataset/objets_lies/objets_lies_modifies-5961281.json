@@ -1,0 +1,244 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5961281,
+  "nom" : {
+    "libelleFr" : "Un autre regard"
+  },
+  "identifier" : "SITRA2_EVE_5961281",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-05T10:46:22.521+0000",
+    "dateModification" : "2022-10-31T11:26:52.751+0000",
+    "dateExportModification" : "2022-10-31T11:26:53.341+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513127,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museegranet-aixenprovence.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223246
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les étudiants de L'IESM vous proposent leurs interprétations en musique d’œuvres emblématiques des collections du musée Granet. L'occasion de (re)découvrir le musée sous un autre regard !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée Granet et les étudiants de l'IESM, Europe et Méditerranée, Institut d’Enseignement Supérieur de la Musique, poursuivent leur dialogue entre les arts.\r\nÀ l'occasion des premiers dimanches du mois (et le dimanche 11 décembre), venez découvrir ces jeunes talents et laissez-vous transporter par leurs analyses et leurs interprétations des collections du musée.\r\nRendez-vous devant les œuvres pour découvrir cet autre regard !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Granet",
+      "adresse1" : "Salle de la donation Meyer, De Cézanne à Giacometti (1er étage du musée)",
+      "adresse2" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.452673, 43.525507 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538995
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Dimanche 6 novembre 2022 à 14h.\n\nDimanche 4 décembre 2022 à 14h.\n\nDimanche 11 décembre 2022 à 14h.",
+      "libelleEn" : "Sunday 6 November 2022 at 2 pm.\n\nSunday 4 December 2022 at 2 pm.\n\nSunday 11 December 2022 at 2 pm.",
+      "libelleEs" : "Domingo, 6 de noviembre de 2022 a 14.\n\nDomingo, 4 de diciembre de 2022 a 14.\n\nDomingo, 11 de diciembre de 2022 a 14.",
+      "libelleIt" : "Domenica 6 novembre 2022 alle 14.\n\nDomenica 4 dicembre 2022 alle 14.\n\nDomenica 11 dicembre 2022 alle 14.",
+      "libelleDe" : "Sonntag, den 6. November 2022 um 14 Uhr.\n\nSonntag, den 4. Dezember 2022 um 14 Uhr.\n\nSonntag, den 11. Dezember 2022 um 14 Uhr.",
+      "libelleNl" : "Zondag 6 november 2022 om 14.00 u.\n\nZondag 4 december 2022 om 14.00 u.\n\nZondag 11 december 2022 om 14.00 u.",
+      "libelleRu" : "Воскресенье 6 ноября 2022  до 14h.\n\nВоскресенье 4 декабря 2022  до 14h.\n\nВоскресенье 11 декабря 2022  до 14h.",
+      "libelleZh" : "2022年11月6日, 星期日   在 小时小时.\n\n2022年12月4日, 星期日   在 小时小时.\n\n2022年12月11日, 星期日   在 小时小时.",
+      "libellePtBR" : "Domingo 6 Novembro 2022 para  14h.\n\nDomingo 4 Dezembro 2022 para  14h.\n\nDomingo 11 Dezembro 2022 para  14h.",
+      "libelleJa" : "日曜日 6 11月 2022 2 午後 に.\n\n日曜日 4 12月 2022 2 午後 に.\n\n日曜日 11 12月 2022 2 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22053546,
+      "dateDebut" : "2022-11-06",
+      "dateFin" : "2022-11-06",
+      "horaireOuverture" : "14:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24659451
+    }, {
+      "identifiant" : 24659432,
+      "dateDebut" : "2022-12-04",
+      "dateFin" : "2022-12-04",
+      "horaireOuverture" : "14:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24659452
+    }, {
+      "identifiant" : 24659434,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "horaireOuverture" : "14:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24659453
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Sans réservation, dans la limite des places disponibles.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Sans réservation, dans la limite des places disponibles"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14691830,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/216/15063280.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/216/15063280-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/216/15063280-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/216/15063280-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "autre",
+      "taille" : 213738,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-31T11:26:52.843+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-06", "2022-12-04", "2022-12-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Granet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

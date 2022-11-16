@@ -1,0 +1,320 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5932468,
+  "nom" : {
+    "libelleFr" : "Visite commentée : découverte des écosystèmes naturels et culturels de LUMA",
+    "libelleEn" : "Guided tour: discover the natural and cultural ecosystems of LUMA Arles"
+  },
+  "identifier" : "SITRA2_EVE_5932468",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-09-30T09:26:32.359+0000",
+    "dateModification" : "2022-10-18T12:01:58.852+0000",
+    "dateExportModification" : "2022-11-03T07:58:36.560+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70551464,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 65 88 10 00"
+      }
+    }, {
+      "identifiant" : 70551465,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@luma-arles.org"
+      }
+    }, {
+      "identifiant" : 70551466,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.luma-arles.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5229627
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Ce parcours commenté vous invite à découvrir la manière dont LUMA Arles crée des connexions inédites avec le territoire local et les paysages naturels du Sud de la France.",
+      "libelleEn" : "This guided tour introduces the new connections the LUMA Arles project makes with the local territory and the natural landscapes of the South of France."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au cours de la déambulation, vous découvrirez le parc paysager, les inspirations architecturales de La Tour, les recherches en design d’Atelier LUMA et des installations artistiques choisies.",
+      "libelleEn" : "Throughout the visit, you will discover the landscaped park, the inspirations for the architecture of The Tower, the design research of Atelier LUMA and selected artistic installations."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Luma Arles - Parc des Ateliers",
+      "adresse1" : "Parc des Ateliers",
+      "adresse2" : "35 avenue Victor Hugo",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.635345, 43.674765 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "lieu" : {
+      "id" : 20297
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 6252400
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6065925
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 6252400
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "nombrePersonnesMinimum" : 2
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 20/10 au 26/12/2022.\nFermé mardi et vendredi.\nSur réservation\r\n\r\nEn français : \r\nLundi : 11h30 \r\nMercredi : 14h30 \r\nSamedi : 14h00 \r\nDimanche : 11h00 \r\n\r\nEn anglais : \r\nLundi : 15h00 \r\nJeudi : 11h30.",
+      "libelleEn" : "From 20/10 to 26/12/2022.\nClosed Tuesday and Friday.\nUpon reservation\r\n\r\nIn English: \r\nMonday: 3:00 p.m. \r\nThursday: 11:30 a.m. \r\n\r\nIn French: \r\nMonday: 11:30 a.m. \r\nThursday: 2:30 p.m. \r\nSaturday: 2:00 p.m. \r\nSunday: 11:00 a.m.",
+      "libelleEs" : "Del 20/10 al 26/12/2022.\nCerrado martes y viernes.",
+      "libelleIt" : "Dal 20/10 al 26/12/2022.\nChiuso martedì e venerdì.",
+      "libelleDe" : "Vom 20/10 bis 26/12/2022.\nDienstag und Freitag geschlossen.",
+      "libelleNl" : "Van 20/10 tot en met 26/12/2022.\nDinsdag en vrijdag gesloten.",
+      "libelleRu" : "С 20/10 до 26/12/2022.\nНе работает вторник и пятница.",
+      "libelleZh" : "从 10月20日 到 2022年12月26日.\n星期二 和 星期五 关闭.",
+      "libellePtBR" : "De 20/10 a 26/12/2022.\nFechado em terça-feira e sexta-feira.",
+      "libelleJa" : "20/10 から 26/12/2022 まで.\n火曜日 と 金曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21858004,
+      "dateDebut" : "2022-10-20",
+      "dateFin" : "2022-12-26",
+      "complementHoraire" : {
+        "libelleFr" : "Sur réservation\r\n\r\nEn français : \r\nLundi : 11h30 \r\nMercredi : 14h30 \r\nSamedi : 14h00 \r\nDimanche : 11h00 \r\n\r\nEn anglais : \r\nLundi : 15h00 \r\nJeudi : 11h30",
+        "libelleEn" : "Upon reservation\r\n\r\nIn English: \r\nMonday: 3:00 p.m. \r\nThursday: 11:30 a.m. \r\n\r\nIn French: \r\nMonday: 11:30 a.m. \r\nThursday: 2:30 p.m. \r\nSaturday: 2:00 p.m. \r\nSunday: 11:00 a.m."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 24524982
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 12 €, Tarif réduit : 8 € (*jeune de moins de 18 ans, adulte de plus de 65 ans, étudiant, demandeur d’emploi, famille nombreuse, enseignant, RSA (revenu de solidarité active), ASS (allocation de solidarité spécifique), ASPA (allocation de solidarité aux personnes âgées), AAH (allocation aux adultes handicapés).\r\n\r\nJustificatifs à présenter à l'entrée aux équipes d'accueil et de médiation.).\n",
+      "libelleEn" : "Full price: 12 €, Reduced price: 8 € (*Young people under 18, adults over 65, student, jobseeker, large families, teacher, welfare recipient.\r\nProof of entitlement must be presented on site to our mediation team.).\n",
+      "libelleEs" : "Tarifa completa: 12 €, Precio reducido: 8 €.\n",
+      "libelleIt" : "Tarrifa intera: 12 €, Prezzo ridotto: 8 €.\n",
+      "libelleDe" : "Voller Preis: 12 €, Reduzierter Preis: 8 €.\n",
+      "libelleNl" : "Vol tarief: € 12, Korting: € 8.\n",
+      "libelleRu" : "Полную цену : 12 €, Сниженная цена : 8 €.\n",
+      "libelleZh" : "全额 : 12 €, 减价 : 8 €.\n",
+      "libellePtBR" : "Tarifa inteira: 12 €, Preço reduzido: 8 €.\n",
+      "libelleJa" : "通常料金: 12 €, 割引料金: 8 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12468899,
+      "dateDebut" : "2022-10-20",
+      "dateFin" : "2022-12-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "precisionTarif" : {
+          "libelleFr" : "*jeune de moins de 18 ans, adulte de plus de 65 ans, étudiant, demandeur d’emploi, famille nombreuse, enseignant, RSA (revenu de solidarité active), ASS (allocation de solidarité spécifique), ASPA (allocation de solidarité aux personnes âgées), AAH (allocation aux adultes handicapés).\r\n\r\nJustificatifs à présenter à l'entrée aux équipes d'accueil et de médiation.",
+          "libelleEn" : "*Young people under 18, adults over 65, student, jobseeker, large families, teacher, welfare recipient.\r\nProof of entitlement must be presented on site to our mediation team."
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "complement" : {
+      "libelleFr" : "Réservation sur le site de LUMA ou sur place\r\nhttps://www.luma.org/fr/shop/ticketing.html"
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 14443722,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Adrian Deweerdt"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/180/14791700.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/180/14791700-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/180/14791700-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/180/14791700-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Photo Digital-Arles, Parc des Ateliers",
+      "taille" : 662460,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-10-18T12:01:58.985+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-16", "2022-11-17", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-23", "2022-11-24", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-30", "2022-12-01", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-07", "2022-12-08", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-14", "2022-12-15", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-21", "2022-12-22", "2022-12-24", "2022-12-25", "2022-12-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2282
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Luma Arles - Parc des Ateliers"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-26T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

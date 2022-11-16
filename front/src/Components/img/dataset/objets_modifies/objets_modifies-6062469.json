@@ -1,0 +1,416 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062469,
+  "nom" : {
+    "libelleFr" : "Balade bord de mer",
+    "libelleEn" : "SEASIDE TOUR"
+  },
+  "identifier" : "SITRA2_EVE_6062469",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:13:04.513+0000",
+    "dateModification" : "2022-11-08T09:24:57.083+0000",
+    "dateExportModification" : "2022-11-08T23:14:40.262+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816792,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 6 25 35 47 21"
+      }
+    }, {
+      "identifiant" : 97816793,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tuktukmarseille@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Vieux Port puis longez la Corniche, appéciez une vue splendide sur les îles du Frioul et le château d'If. Découvrez cette route du bout du monde qui mène aux Goudes et à la Calanque de Callelongue...Vallon des Auffes et arrêt à Notre Dame inclus.",
+      "libelleEn" : "We will drive by the corniche where you will appreciate the view of the Frioul archipelago the legendary If Castle. Then we had a stop at the little fisher port of le vallon des Auffes. After, we will drop you to les Goudes and at the end we had a…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Départ du Vieux-Port, longez la Corniche Kennedy, appréciez une vue splendide sur les îles du Frioul et le château d’If. Découvrez cette route du bout du monde qui mène aux Goudes et à la calanque de Callelongue…Sans oublier un détour vers l’authentique port de pêche de Marseille : le vallon des Auffes…Au retour approchez Notre-Dame-de-la-Garde.\n\n \n\nItinéraire : Vieux-Port – Les Catalans – Corniche Kennedy – Vallon des Auffes – Parc balnéaire du Prado- La Pointe Rouge – Les Goudes – Calanque de Callelongue puis retour par le Roucas-Blanc – Notre-Dame-de-la-Garde (20minutes d’arrêt) – Vieux-Port.",
+      "libelleEn" : "Enjoy the beauties of Marseille seaside during your trip all along the coast…starting from the old port, we will drive by the Kennedy roadside where you will appreciate the incredible view of the Frioul archipelago the legendary If Castle. To break your habits we will drop you to the typical and Paradise lost of les Goudes.In Marseille we used to say that it’s « the end of the world ». This lost fisher port is also the departure to the amazing natural park of les Calanques. Here enjoy the blue water and white rocks.On the way back we will stop at the typical Marseille tresor: the little fisher port of le vallon des Auffes where the time had stopped.To finish you will visit our famous church Notre Dame de la Garde and his amazing view of the city and mediterranean seaside.Circuit: Vieux port – Catalan beach – Kennedy roadside – vallon des Auffes – Prado beaches – la Pointe Rouge – les Goudes – calanque de Callelongue by the Roucas Blanc – Notre Dame Basilica (20mn to visit) – Vieux Port."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 La Canebière",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374570, 43.295600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nPensez à vous munir de votre masque",
+      "libelleEn" : "\nImportant information:\nPensez à vous munir de votre masque"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716910,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716910
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "\nNon compris : Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour).",
+      "libelleEn" : "\nNot included: Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)",
+      "libelleEn" : "\nNot included: Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915499,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5558474
+      },
+      "nom" : "Tuk Tuk Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993380,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/balade-bord-de-mer"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16637
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813372,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "legende" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/233/15198637.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/233/15198637-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/233/15198637-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/233/15198637-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ff4d8ba1e48a275472749-cropped600-400",
+      "taille" : 76220,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:00.719+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813373,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "legende" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/233/15198638.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/233/15198638-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/233/15198638-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/233/15198638-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ff4d8ec4db00714777007-cropped600-400",
+      "taille" : 74272,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:00.153+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813374,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "legende" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/233/15198639.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/233/15198639-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/233/15198639-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/175/233/15198639-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fbadd508ca153700044-cropped600-400",
+      "taille" : 102248,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:00.434+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813375,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "legende" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/233/15198640.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/233/15198640-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/233/15198640-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/233/15198640-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fbae72cfba991488901-cropped600-400",
+      "taille" : 94328,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:01.017+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813376,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "legende" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade bord de mer",
+      "libelleEn" : "SEASIDE TOUR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/233/15198641.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/233/15198641-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/233/15198641-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/233/15198641-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fbaf0661ed344277677-cropped600-400",
+      "taille" : 127046,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:01.383+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 10.0,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 11,
+        "dateMaj" : 1666704227908
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "158969",
+        "product_supplier_id" : "35331",
+        "sku" : "T-TU49-171051",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

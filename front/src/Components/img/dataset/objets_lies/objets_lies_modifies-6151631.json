@@ -1,0 +1,306 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 6151631,
+  "nom" : {
+    "libelleFr" : "Yoga au domaine de Sulauze"
+  },
+  "identifier" : "SITRA2_ACT_6151631",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-30T09:11:48.509+0000",
+    "dateModification" : "2022-05-31T09:57:20.753+0000",
+    "dateExportModification" : "2022-10-30T06:22:01.454+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 38 96"
+      }
+    }, {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Avec l’association Munay Yoga et Karina Lefebvre\r\nDes séances dans le cadre naturel, paisible et magnifique du domaine de Sulauze, près de cave viticole."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Cave viticole de Sulauze",
+      "adresse1" : "Domaine de Sulauze",
+      "adresse2" : "Chemin Du vieux Sulauze",
+      "adresse3" : "D569N",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.995936, 43.553288 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15450
+    },
+    "lieuObjetTouristique" : {
+      "type" : "DEGUSTATION",
+      "id" : 5537299
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3737
+    } ],
+    "tailleGroupeMax" : 15,
+    "ageMin" : 216,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 05/07 au 23/07/2022, tous les jours de 18h à 19h30.\n\nMardi 16 août 2022 de 18h à 19h30.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "From 05/07 to 23/07/2022, daily between 6 pm and 7.30 pm.\n\nTuesday 16 August 2022 between 6 pm and 7.30 pm.\n\nSubject to favorable weather.",
+      "libelleEs" : "Del 05/07 al 23/07/2022, todos los dias de 18 a 19:30.\n\nMartes, 16 de agosto de 2022 de 18 a 19:30.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Dal 05/07 al 23/07/2022, ogni giorno dalle 18 alle 19:30.\n\nMartedì 16 agosto 2022 dalle 18 alle 19:30.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Vom 05/07 bis 23/07/2022, täglich von 18 Uhr bis 19.30 Uhr.\n\nDienstag, den 16. August 2022 von 18 Uhr bis 19.30 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Van 05/07 tot en met 23/07/2022, iedere dag van 18.00 tot en met 19.30 u.\n\nDinsdag 16 augustus 2022 van 18.00 tot en met 19.30 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "С 05/07 до 23/07/2022, ежедневно с 18h до 19h30.\n\nВторник 16 августа 2022  с 18h до 19h30.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "从 7月5日 到 2022年7月23日, 日常 小时小时 和 小时小时分钟  之间.\n\n2022年8月16日, 星期二   小时小时 和 小时小时分钟  之间.\n\n需天气良好.",
+      "libellePtBR" : "De 05/07 a 23/07/2022, todos os dias de 18h a  19h30.\n\nTerça-feira 16 Agosto 2022 de 18h a  19h30.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "05/07 から 23/07/2022 まで, 毎日 6 午後 と 7.30 午後 の間.\n\n火曜日 16 8月 2022 6 午後 と 7.30 午後 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23443499,
+      "dateDebut" : "2022-07-05",
+      "dateFin" : "2022-07-23",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454308
+    }, {
+      "identifiant" : 23443500,
+      "dateDebut" : "2022-08-16",
+      "dateFin" : "2022-08-16",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454309
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "5€."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "5€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6521002,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99783042,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/yoga-au-jardin-de-sulauze.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "réservations obligatoires"
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13117260,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/13298011.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/13298011-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/13298011-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/13298011-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMG_20210709_091243",
+      "taille" : 2259308,
+      "hauteur" : 3968,
+      "largeur" : 2976,
+      "lastModifiedDate" : "2022-05-30T09:15:04.048+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Cave viticole de Sulauze",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1866
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-08-16T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

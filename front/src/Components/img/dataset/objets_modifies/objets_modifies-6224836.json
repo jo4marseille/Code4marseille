@@ -1,0 +1,242 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6224836,
+  "nom" : {
+    "libelleFr" : "Les Carnets de Bagouet - Christine Le Moigne"
+  },
+  "identifier" : "SITRA2_EVE_6224836",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-04T08:50:18.845+0000",
+    "dateModification" : "2022-08-04T09:43:00.521+0000",
+    "dateExportModification" : "2022-08-05T08:34:28.716+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101927945,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/klapkelemenis/events"
+      }
+    }, {
+      "identifiant" : 70527637,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.kelemenis.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5227358
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "KLAP vous donne rendez-vous du 7 octobre au 9 décembre pour découvrir le travail de Christine Le Moigne."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Christine Le Moigne, plasticienne et scénographe, contribue durant de nombreuses années aux créations de Dominique Bagouet. Elle dévoile quelques pages des carnets du chorégraphe, où sont recueillis des graphiques de danses, des notes d’intention et des esquisses de silhouettes. L’exposition exclusive s’articule autour des œuvres Insaisies (1982), F. et Stein et Grande maison (1983), Déserts d’amour (1984) et So Schnell (1990). On en voit surgir le bouillonnement créatif et l’esprit d’un artiste investi dans tous les aspects de ses projets.\r\n\r\nL’exposition Les Carnets de Bagouet, créée à la demande de KLAP Maison pour la danse, témoigne de la complicité et de la collaboration de deux artistes aux parcours liés. Elle s’enrichit de la sélection de documents vidéo projetés à la suite de la représentation du solo de Sylvain Prunenec, Le Fil, le 6 décembre.\r\n\r\nExposition à découvrir les soirs de représentation à KLAP Maison pour la danse."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "KLAP Maison pour la danse",
+      "adresse1" : "5 Avenue Rostand",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.377380, 43.311790 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6224936
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/10 au 09/12/2022, tous les jours.\nÀ découvrir les soirs de représentation à KLAP Maison pour la danse.",
+      "libelleEn" : "From 07/10 to 09/12/2022, daily.",
+      "libelleEs" : "Del 07/10 al 09/12/2022, todos los dias.",
+      "libelleIt" : "Dal 07/10 al 09/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 07/10 bis 09/12/2022, täglich.",
+      "libelleNl" : "Van 07/10 tot en met 09/12/2022, iedere dag.",
+      "libelleRu" : "С 07/10 до 09/12/2022, ежедневно.",
+      "libelleZh" : "从 10月7日 到 2022年12月9日, 日常.",
+      "libellePtBR" : "De 07/10 a 09/12/2022, todos os dias.",
+      "libelleJa" : "07/10 から 09/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24027338,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-12-09",
+      "complementHoraire" : {
+        "libelleFr" : "à découvrir les soirs de représentation à KLAP Maison pour la danse"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24028240
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13653958,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Les Carnets de Bagouet - Christine Le Moigne"
+    },
+    "legende" : {
+      "libelleFr" : "Les Carnets de Bagouet - Christine Le Moigne"
+    },
+    "copyright" : {
+      "libelleFr" : "Les Carnets de Bagouet - Christine Le Moigne  - KLAP Maison pour la Danse Kelemenis & Cie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/120/13859035.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/120/13859035-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/120/13859035-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/120/13859035-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "carnet",
+      "taille" : 100956,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-08-04T08:53:47.202+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2304
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "KLAP Maison pour la danse"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

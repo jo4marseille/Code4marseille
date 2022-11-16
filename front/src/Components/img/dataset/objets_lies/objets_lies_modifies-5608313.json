@@ -1,0 +1,108 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5608313,
+  "nom" : {
+    "libelleFr" : "Les Toiles de Marianne",
+    "libelleEn" : "Les Toiles de Marianne",
+    "libelleIt" : "Les Toiles de Marianne",
+    "libelleDe" : "Les Toiles de Marianne",
+    "libelleNl" : "Les Toiles de Marianne"
+  },
+  "identifier" : "SITRA2_STR_5608313",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-07-23T11:11:37.213+0000",
+    "dateModification" : "2020-11-26T12:26:04.836+0000",
+    "dateExportModification" : "2021-09-05T16:20:13.567+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 81702537,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 88 07 10 33"
+      }
+    }, {
+      "identifiant" : 81702538,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marianneblanc@cegetel.net"
+      }
+    }, {
+      "identifiant" : 81702539,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://marianneblanc.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "14 Rue Marius Monnet",
+      "codePostal" : "13600",
+      "bureauDistribution" : "LA CIOTAT",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

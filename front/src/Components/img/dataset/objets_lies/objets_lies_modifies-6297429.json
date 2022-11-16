@@ -1,0 +1,233 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6297429,
+  "nom" : {
+    "libelleFr" : "The Sisters of Perpetual Indulgence - San-Francisco : 1979-2022 43 Ans De Sacerdoce"
+  },
+  "identifier" : "SITRA2_EVE_6297429",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T16:35:16.672+0000",
+    "dateModification" : "2022-10-14T16:39:06.324+0000",
+    "dateExportModification" : "2022-10-21T15:34:26.702+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104178676,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://p-a-c.fr/les-membres/jeanne-barret/the-sisters-of-perpetual-indulgence-43-ans-de-sacerdoce"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5827816
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition collective"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "À l’occasion de ses 40 ans, l’École nationale supérieure de la photographie d’Arles coproduit avec le Centre Photographique Marseille une exposition de quatre artistes, ancien·ne·s diplômé·e·s, ayant travaillé autour de la ville de Los Angeles.\r\n\r\nQuatre artistes réunis autour d’une question : comment Los Angeles se donne à voir comme modèle générique de la société contemporaine ?\r\nEt comment les formes de la ville et ce qui s’y construit servent de prototype à l’organisation du monde post-industriel ?\r\n\r\nDélaissant le folklore hollywoodien et le fantasme de la Californie ensoleillée, ils s’attachent à comprendre ce qui se fabrique dans les laboratoires, sur les échangeurs autoroutiers, derrière les façades et dans les canyons qui entourent la ville.\r\n\r\nFort de la leçon apprise à Las Vegas par Venturi et Scott Brown, Olivier Cablat explore l’architecture vernaculaire de Los Angeles. Dans l’inventaire de ses bâtiments décorés, il trace l’idée d’une mise en spectacle de l’architecture.\r\nFrançois Bellabas décompose la ville et ses infrastructures en un système de circulation infini. Un modèle de ville qui fait écho à la Metropolis de Chris Burden, espace abstrait d’un mouvement automobile perpétuel.\r\nMarina Gadonneix explore l’histoire technique de la Californie, laboratoire de l’industrie aéronautique. Dans ses intérieurs énigmatiques, elle laisse deviner comment l’image est aussi un instrument pour la conquête de l’espace.\r\nLa catastrophe qui ne cesse d’être l’horizon du monde affleure dans les compositions visuelles de Nicolas Giraud. Les incendies géants qui ravagent la Californie servent eux-aussi de modèles à un monde sur la brèche.\r\n\r\nLa confrontation de ces quatre regards se veut une tentative pour comprendre qu’elle peut être la leçon de Los Angeles, face aux défis actuels de nos sociétés.\r\n\r\nEn coproduction avec l’École nationale supérieure de la photographie d’Arles, en partenariat avec l’École nationale supérieure d’architecture de Marseille et dans le cadre du festival Photo"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Ateliers Jeanne Barret",
+      "adresse1" : "5 Bd Sévigné",
+      "codePostal" : "13015",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4545
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.370030, 43.321474 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4545
+    }, {
+      "id" : 4531
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 18/11 au 16/12/2022, tous les jours.\nVisites sur rendez-vous à :\r\ncommunication@jeannebarret.com.",
+      "libelleEn" : "From 18/11 to 16/12/2022, daily.",
+      "libelleEs" : "Del 18/11 al 16/12/2022, todos los dias.",
+      "libelleIt" : "Dal 18/11 al 16/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 18/11 bis 16/12/2022, täglich.",
+      "libelleNl" : "Van 18/11 tot en met 16/12/2022, iedere dag.",
+      "libelleRu" : "С 18/11 до 16/12/2022, ежедневно.",
+      "libelleZh" : "从 11月18日 到 2022年12月16日, 日常.",
+      "libellePtBR" : "De 18/11 a 16/12/2022, todos os dias.",
+      "libelleJa" : "18/11 から 16/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24503880,
+      "dateDebut" : "2022-11-18",
+      "dateFin" : "2022-12-16",
+      "complementHoraire" : {
+        "libelleFr" : "Visites sur rendez-vous à :\r\ncommunication@jeannebarret.com"
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24503880
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14409611,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Vicious Power Hungry Bitch 1989"
+    },
+    "copyright" : {
+      "libelleFr" : "Vicious Power Hungry Bitch 1989"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/23/14751513.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/23/14751513-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/23/14751513-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/23/14751513-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Screen Shot 10-14-22 at 06.38 PM",
+      "taille" : 248062,
+      "hauteur" : 688,
+      "largeur" : 494,
+      "lastModifiedDate" : "2022-10-14T16:39:06.438+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Ateliers Jeanne Barret"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-16T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

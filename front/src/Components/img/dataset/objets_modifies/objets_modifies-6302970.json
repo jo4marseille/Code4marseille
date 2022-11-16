@@ -1,0 +1,237 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6302970,
+  "nom" : {
+    "libelleFr" : "Springfield X Saint-Louis - Mythologies contemporaines - Philippe Conti"
+  },
+  "identifier" : "SITRA2_EVE_6302970",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-19T09:58:06.268+0000",
+    "dateModification" : "2022-10-19T10:09:05.948+0000",
+    "dateExportModification" : "2022-10-21T15:40:00.429+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78249845,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lezef.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5519890
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Mythologies contemporaines est une installation photographique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il y a d'abord Springfield du nom de cette ville fictive, où se jouent les aventures des célèbres héros d’un dessin animé satirique. C’est aussi devenu le surnom de Vitrolles, petite ville non loin de Marseille, agrandie par des aménageurs dans les années 1960 et qui, avec cette extension, portait son lot d’espoirs. Le paysage, espace théâtral bien réel, est celui de la ville nouvelle et du mythe qu’il porte en lui. Entre béton et ruralité, avec ses roches ocrées, ses grandes avenues, centre commerciaux, cinémas et grosses voitures... Vitrolles revêt des airs de banlieue américaine. Jouant avec la symbolique du décor, Philippe Conti porte un regard décalé sur l'espace urbain. Éclot un travail sur l’imaginaire qui nourrit les représentations car, ici, la forme procède d’une interprétation du réel et contribue à perpétuer les mythes sous-jacents à la ville nouvelle.\r\n\r\nNon loin de là : Saint-Louis. Territoire aux limites mouvantes, coincé entre fleuve et mer telle une presqu’île, n’a longtemps accueilli sur ses terres hostiles qu'une mince population nomade de pêcheurs-chasseurs, ou de pirates s'abritant dans les marais du delta, avant de devenir la cité industrialo-portuaire que nous connaissons aujourd’hui. De cette époque, une forme d'habitat particulier a été conservée. Dans le delta parmi les marais, au milieu d'un paysage composé de lagunes, d’étangs, de dunes et de zones marécageuses, se cachent encore des cabanes. Héritières des cabanes-bateaux et autres constructions vernaculaires, elles étaient construites selon un plan simple. Les premières, en bois de récupération, servaient parfois d’habitation, sinon d’abri pour la chasse ou la pêche. Ces activités, loin d'être alors un loisir, conféraient un revenu supplémentaire aux ouvriers du port. Détruites lors de la seconde guerre mondiale, elles furent reconstruites en dur avec les matériaux abandonnés par les soldats allemands. Avec le temps, elles sont progressivement devenues des lieux de villégiature attestant de la force de la tradition et de la vivacité du mythe qui les accompagne. La ferveur avec laquelle sont préservés ces modestes édifices témoigne de l'attachement des autochtones à cette tradition et à leur volonté de la transmettre. Reconnue avec le temps comme un symbole communautaire fort, la conservation de ces cabanes passe par la reconnaissance du patrimoine paysager auquel elles appartiennent.\r\n\r\nÀ travers ces paysages théâtraux et les personnages aux allures de héros qui les habitent, Philippe Conti capture l'espace urbain, l’habitat, le loisir et, à travers eux, interroge les façons de vivre ensemble, dans des lieux imprégnés d'Histoire. Les mythes se révèlent alors, puissants, constitutifs de ces territoires... Qui du mythe ou de l'Homme influence l'autre ? \r\n\r\n\r\nDans le cadre du Festival Photo Marseille\r\n\r\nRencontre avec Philippe Conti\r\nJeudi 1er décembre, à 18h, dans le Hall du ZEF"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Zef - Scène Nationale de Marseille",
+      "adresse1" : "Avenue Raimu",
+      "codePostal" : "13014",
+      "commune" : {
+        "id" : 4544
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.398547, 43.330876 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4544
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 20/09/2022 au 10/02/2023, tous les jours à 20h30.\nExposition en accès libre les soirs de représentations 1h30 avant et après chaque spectacle.",
+      "libelleEn" : "From 20/09/2022 to 10/02/2023, daily at 8.30 pm.",
+      "libelleEs" : "Del 20/09/2022 al 10/02/2023, todos los dias a 20:30.",
+      "libelleIt" : "Dal 20/09/2022 al 10/02/2023, ogni giorno alle 20:30.",
+      "libelleDe" : "Vom 20/09/2022 bis 10/02/2023, täglich um 20.30 Uhr.",
+      "libelleNl" : "Van 20/09/2022 tot en met 10/02/2023, iedere dag om 20.30 u.",
+      "libelleRu" : "С 20/09/2022 до 10/02/2023, ежедневно до 20h30.",
+      "libelleZh" : "从 2022年9月20日 到 2023年2月10日, 日常 在 小时小时分钟.",
+      "libellePtBR" : "De 20/09/2022 a 10/02/2023, todos os dias para  20h30.",
+      "libelleJa" : "20/09/2022 から 10/02/2023 まで, 毎日 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24533471,
+      "dateDebut" : "2022-09-20",
+      "dateFin" : "2023-02-10",
+      "complementHoraire" : {
+        "libelleFr" : "Exposition en accès libre les soirs de représentations 1h30 avant et après chaque spectacle."
+      },
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24533471
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14455982,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Springfield X Saint-Louis - Mythologies contemporaines - Philippe Conti"
+    },
+    "legende" : {
+      "libelleFr" : "Springfield X Saint-Louis - Mythologies contemporaines - Philippe Conti"
+    },
+    "copyright" : {
+      "libelleFr" : "Springfield © Philippe Conti - Le Zef - Scène Nationale de Marseille  - Festival Photo Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/234/14805667.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/234/14805667-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/234/14805667-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/163/234/14805667-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "srpingfiled",
+      "taille" : 112606,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-19T10:09:06.064+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Zef - Scène Nationale de Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-02-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

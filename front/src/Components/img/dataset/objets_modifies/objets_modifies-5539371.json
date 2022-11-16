@@ -1,0 +1,240 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539371,
+  "nom" : {
+    "libelleFr" : "Eglise Saint Vincent",
+    "libelleEn" : "Eglise Saint Vincent",
+    "libelleEs" : "Eglise Saint Vincent",
+    "libelleIt" : "Eglise Saint Vincent",
+    "libelleDe" : "Eglise Saint Vincent",
+    "libelleNl" : "Eglise Saint Vincent"
+  },
+  "identifier" : "SITRA2_PCU_5539371",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:57:27.945+0000",
+    "dateModification" : "2022-10-20T08:58:19.237+0000",
+    "dateExportModification" : "2022-10-20T08:58:19.357+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79673591,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 48 95"
+      }
+    }, {
+      "identifiant" : 79673592,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "office.tourisme@st-andiol.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226317
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Édifice classé monument historique en mai 1908."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "On attribue également cette réalisation aux abbés de Saint-Victor. Cet édifice était au XIe siècle une simple chapelle de style roman qui fut fortifiée ultérieurement. Elle renferme un ciborium gothique, art fleuri du XVe siècle, d'une rare beauté.",
+      "libelleEn" : "The Church of Saint Vincent is an achievement its Abbots of Saint-Victor. She was in the 11th century, a simple Chapel of Romanesque style which was subsequently fortified.It contains a Gothic ciborium, floral art from the 15th century, of rare beauty.",
+      "libelleEs" : "La iglesia de San Vicente es un logro su abades de Saint-Victor. Ella estaba en el siglo XI, un estilo sencillo y capilla del románico que posteriormente fue fortificado.Contiene un ciborio gótico, arte floral del siglo XV, de rara belleza.",
+      "libelleIt" : "La Chiesa di Saint Vincent è un successo relativo abati di Saint-Victor. Lei era nel XI secolo, uno stile semplice cappella romanica, che fu successivamente fortificato.Esso contiene un ciborio gotico, arte floreale del XV secolo, di rara bellezza.",
+      "libelleDe" : "Die Kirche von St. Vincent ist eine Errungenschaft der Äbte von Saint-Victor. Sie war im 11. Jahrhundert einen einfachen Kapelle der romanische Stil, die anschließend angereichert wurde.Es enthält einen gotischen Ziborium, Blumenkunst aus dem 15. Jahrhundert, von seltener Schönheit.",
+      "libelleNl" : "De kerk van Saint Vincent is een prestatie de abten van Saint-Victor. Ze was in de 11e eeuw, een eenvoudige kapel van de Romaanse stijl, die vervolgens werd versterkt.Het bevat een gotische Ciborie, florale kunst uit de 15e eeuw, van zeldzame schoonheid."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1603
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Maréchal Leclerc",
+      "codePostal" : "13670",
+      "bureauDistribution" : "SAINT ANDIOL",
+      "commune" : {
+        "id" : 4500
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.944298, 43.836854 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4500
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif réduit"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Tarif réduit"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9379573,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Eglise St Vincent"
+    },
+    "copyright" : {
+      "libelleFr" : "BIT St Andiol"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/107/9137025.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/107/9137025-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/107/9137025-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/107/9137025-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "eglise",
+      "taille" : 986061,
+      "hauteur" : 900,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-01-18T14:42:03.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9379576,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Eglise St Vincent cadran"
+    },
+    "copyright" : {
+      "libelleFr" : "BIT St Andiol"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/107/9137028.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/107/9137028-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/107/9137028-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/107/9137028-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Eglise-+-cadran",
+      "taille" : 830193,
+      "hauteur" : 960,
+      "largeur" : 1280,
+      "lastModifiedDate" : "2021-01-18T14:42:04.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3488
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3535
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3328
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000153"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

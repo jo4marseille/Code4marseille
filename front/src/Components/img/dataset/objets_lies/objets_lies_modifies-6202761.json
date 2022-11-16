@@ -1,0 +1,281 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6202761,
+  "nom" : {
+    "libelleFr" : "Intervalles Lucides : Cinéma et discussions à LUMA"
+  },
+  "identifier" : "SITRA2_EVE_6202761",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-12T12:30:50.429+0000",
+    "dateModification" : "2022-11-07T12:45:15.446+0000",
+    "dateExportModification" : "2022-11-07T12:45:15.664+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101227376,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 65 88 10 00"
+      }
+    }, {
+      "identifiant" : 101227377,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@luma-arles.org"
+      }
+    }, {
+      "identifiant" : 101227378,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.luma.org/fr/arles/notre-programme/event/intervalles-lucides-27e5754d-ce28-4709-830e-0b5f9c8c31a7.html"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5229627
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "LUMA Arles organise une série de projections au Parc des Ateliers, en accès libre sur réservation."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Thématique du mois de novembre : Les oiseaux\r\n\r\n25 novembre à 18h30\r\nLes Oiseaux d’Alfred Hitchcock, États-Unis, 1963, 2h00\r\n(film interdit aux moins de 12 ans)\r\n\r\nSan Francisco, 1962. Une jeune femme et un avocat entament un jeu de séduction chez un oiseleur. Afin de le revoir, elle use d’un stratagème et décide de lui livrer elle-même un couple d’oiseaux, \"les inséparables\". Sur la route, elle est attaquée par une mouette. Bientôt d’étranges phénomènes liés au comportement des oiseaux annoncent un drame imminent…\r\n\r\n---------------\r\n\r\n26 novembre\r\nÀ 17h00\r\nL'Île aux oiseaux de Maya Kosa et Sergio da Costa, Suisse, 2019, 1h00\r\nSauver des oiseaux pour se sauver soi-même : après une longue maladie, Antonin, que son corps continue de « lâcher » régulièrement, apprend dans un centre d’accueil pour oiseaux en détresse à attraper par la queue les rats qu’on donne à manger aux rapaces. Au milieu du règne animal comme dans le reste de la vie, les hommes bricolent ; mais il se trouve parfois qu’une chouette assommée devine qu’ils lui veulent du bien et s’abandonne dans leurs mains.\r\n\r\nÀ 18h00\r\nLangue des Oiseaux d'Érik Bullot, France, 2022, 54 min\r\nComposé de séquences musicales, graves et drôles, Langue des oiseaux est un documentaire de création, poétique et philosophique, sur les pouvoirs de la traduction et le désir de communication entre les êtres humains et les oiseaux. Il est raconté depuis le futur, après la sixième extinction et la disparition des oiseaux, et observe avec curiosité et ironie les tentatives des humains pour imaginer les voies d’un échange possible.\r\nCe film est une offrande. Il reçoit des musiciens et des artistes, dans des séquences mises en scène, pour un colloque des oiseaux, ludique, musical et philosophique, invitant le spectateur à réfléchir aux modalités d’une communication élargie.\r\n\r\nLa projection de ces films sera accompagnée d'une discussion à 19h00. Elle sera animée par les curateurs (ou au moins l'un d'entre eux) et un ou deux invités en affinité avec le thème des oiseaux.\r\n\r\n---------------\r\n\r\nRéservation gratuite sur le site de LUMA : www.luma.org"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Parc des Ateliers, La Grande Halle,",
+      "adresse1" : "33 avenue Victor Hugo,",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.635322, 43.674617 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 6252400
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 25 au samedi 26 novembre 2022 \nHoraires de représentation le vendredi de 18h30 à 20h30. Le samedi de 17h à 20h.",
+      "libelleEn" : "From Friday 25 to Saturday 26 November 2022 \nSchedules of representation on Friday between 6.30 pm and 8.30 pm. On Saturday between 5 pm and 8 pm.",
+      "libelleEs" : "Del viernes, 25 al sábado, 26 de noviembre de 2022 \nHorarios de representación los viernes de 18:30 a 20:30. Los sábado de 17 a 20.",
+      "libelleIt" : "Dal venerdì 25 a sabato 26 novembre 2022 \nOrari di rappresentazione il venerdì dalle 18:30 alle 20:30. Il sabato dalle 17 alle 20.",
+      "libelleDe" : "Von Freitag, den 25. bis Samstag, den 26. November 2022 \nZeitpläne von Darstellung jeden Freitag von 18.30 Uhr bis 20.30 Uhr. Jeden Samstag von 17 Uhr bis 20 Uhr.",
+      "libelleNl" : "Vrijdag 25 tot en met zaterdag 26 november 2022 \nRoosters van vertegenwoordiging op vrijdag van 18.30 tot en met 20.30 u. Op zaterdag van 17.00 tot en met 20.00 u.",
+      "libelleRu" : "С пятница 25 до суббота 26 ноября 2022  \nПредставительство Время на пятница с 18h30 до 20h30. На суббота с 17h до 20h.",
+      "libelleZh" : "从 星期五 到 2022年11月26日, 星期六   \n表演时间 上 星期五 小时小时分钟  和 小时小时分钟  之间. 上 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De Sexta-feira 25 a Sábado 26 Novembro 2022 \nHoraires de représentation na sexta-feira de 18h30 a  20h30. Na sábado de 17h a  20h.",
+      "libelleJa" : "金曜日 25 から 土曜日 26 11月 2022 まで \nイベント開催時間  金曜日 に 6.30 午後 と 8.30 午後 の間. 土曜日 に 5 午後 と 8 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24711686,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-26",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24712377
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21056114,
+    "referent" : true,
+    "nom" : "Mesbah",
+    "prenom" : "Inès",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101227379,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "imesbah@luma-arles.org"
+      }
+    }, {
+      "identifiant" : 101227380,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 61 72 80 69"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14804592,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Adrian Deweerdt"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/196/15189058.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/196/15189058-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/196/15189058-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/66/196/15189058-diaporama.png",
+      "extension" : "png",
+      "fileName" : "221102-INTERVALLESLUCIDES-ADRIANDEWEERDT-76_MODIFIE_LR-Réc",
+      "taille" : 3451296,
+      "hauteur" : 1280,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-11-07T12:43:48.752+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-25", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Parc des Ateliers, La Grande Halle,"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

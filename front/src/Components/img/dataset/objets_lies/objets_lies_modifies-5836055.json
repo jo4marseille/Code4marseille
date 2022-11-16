@@ -1,0 +1,143 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5836055,
+  "nom" : {
+    "libelleFr" : "Site Archéologique de Glanum",
+    "libelleEn" : "Site Archéologique de Glanum",
+    "libelleEs" : "Site Archéologique de Glanum",
+    "libelleIt" : "Site Archéologique de Glanum",
+    "libelleDe" : "Site Archéologique de Glanum",
+    "libelleNl" : "Site Archéologique de Glanum",
+    "libelleRu" : "Site Archéologique de Glanum",
+    "libelleZh" : "Site Archéologique de Glanum",
+    "libellePtBR" : "Site Archéologique de Glanum",
+    "libelleJa" : "Site Archéologique de Glanum"
+  },
+  "identifier" : "SITRA2_STR_5836055",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-11T09:29:49.330+0000",
+    "dateModification" : "2021-10-12T10:04:56.439+0000",
+    "dateExportModification" : "2021-10-12T10:12:52.624+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 89498126,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 23 79",
+        "en" : "00 33 4 90 92 23 79",
+        "de" : "00 33 4 90 92 23 79"
+      }
+    }, {
+      "identifiant" : 89498207,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa.glanum@monuments-nationaux.fr",
+        "en" : "resa.glanum@monuments-nationaux.fr",
+        "de" : "resa.glanum@monuments-nationaux.fr"
+      }
+    }, {
+      "identifiant" : 89498130,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.site-glanum.fr/",
+        "en" : "http://www.site-glanum.fr/",
+        "de" : "http://www.site-glanum.fr/"
+      }
+    }, {
+      "identifiant" : 89498171,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/glanumhoteldesade/?fref=ts",
+        "en" : "https://www.facebook.com/glanumhoteldesade/?fref=ts",
+        "de" : "https://www.facebook.com/glanumhoteldesade/?fref=ts"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "D5",
+      "codePostal" : "13210",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.832496, 43.773636 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19328405,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

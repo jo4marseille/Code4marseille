@@ -1,0 +1,125 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5467224,
+  "nom" : {
+    "libelleFr" : "Médiathèque \"La Mine de Mots\"",
+    "libelleEn" : "Médiathèque \"La Mine de Mots\"",
+    "libelleEs" : "Médiathèque \"La Mine de Mots\"",
+    "libelleIt" : "Médiathèque \"La Mine de Mots\"",
+    "libelleDe" : "Médiathèque \"La Mine de Mots\"",
+    "libelleNl" : "Médiathèque \"La Mine de Mots\""
+  },
+  "identifier" : "SITRA2_STR_5467224",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:10:20.539+0000",
+    "dateModification" : "2021-01-09T14:25:16.642+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Trets",
+      "dateCreation" : "2020-10-19T07:00:50.696+0000",
+      "dateModification" : "2022-10-24T08:49:45.505+0000",
+      "id" : 2110,
+      "siteWeb" : "http://trets.fr"
+    },
+    "signalerUnProblemeMails" : [ "regie.tourisme@ville-de-trets.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77074352,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 37 55 34"
+      }
+    }, {
+      "identifiant" : 77074353,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "442375534"
+      }
+    }, {
+      "identifiant" : 77074354,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mediatheque@ville-de-trets.fr"
+      }
+    }, {
+      "identifiant" : 77074355,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://trets.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Jardin de la Mine",
+      "adresse2" : "44 Avenue Mirabeau",
+      "codePostal" : "13530",
+      "commune" : {
+        "id" : 4521
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.683151, 43.446350 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4521
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,334 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6274449,
+  "nom" : {
+    "libelleFr" : "Improglio de la LIPHO"
+  },
+  "identifier" : "SITRA2_EVE_6274449",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-27T08:09:32.735+0000",
+    "dateModification" : "2022-09-27T08:26:19.841+0000",
+    "dateExportModification" : "2022-10-01T14:59:02.262+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103608291,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://divinecomedietheatre.fr/"
+      }
+    }, {
+      "identifiant" : 92733109,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://lalipho.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5939409
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La LIPHO, Ligue d'Improvisation Phocéenne est ravie de vous convier au théâtre La Divine Comédie, pour ses spectacles cabaret de l'année 2022-2023."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Durant ce spectacle d'improvisation théâtrale, joué tous les deuxième jeudi du mois, la LIPHO joue le format Improglio où 5 comédiens improvisent, sous l’animation du maître du jeu, sur les thèmes proposés par le public.\r\n\r\nVenez encourager nos improvisateurs et passer une excellente soirée !\r\n\r\nUne proposition La LIPHO, Ligue d'Improvisation Phocéenne."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Divine Comédie",
+      "adresse1" : "2 rue Vian",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383510, 43.294920 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 13 octobre 2022 à 20h30.\n\nJeudi 10 novembre 2022 à 20h30.\n\nJeudi 8 décembre 2022 à 20h30.\n\nJeudi 12 janvier 2023 à 20h30.\n\nJeudi 9 février 2023 à 20h30.\n\nJeudi 9 mars 2023 à 20h30.\n\nJeudi 13 avril 2023 à 20h30.\n\nJeudi 11 mai 2023 à 20h30.\n\nJeudi 8 juin 2023 à 20h30.",
+      "libelleEn" : "Thursday 13 October 2022 at 8.30 pm.\n\nThursday 10 November 2022 at 8.30 pm.\n\nThursday 8 December 2022 at 8.30 pm.\n\nThursday 12 January 2023 at 8.30 pm.\n\nThursday 9 February 2023 at 8.30 pm.\n\nThursday 9 March 2023 at 8.30 pm.\n\nThursday 13 April 2023 at 8.30 pm.\n\nThursday 11 May 2023 at 8.30 pm.\n\nThursday 8 June 2023 at 8.30 pm.",
+      "libelleEs" : "Jueves, 13 de octubre de 2022 a 20:30.\n\nJueves, 10 de noviembre de 2022 a 20:30.\n\nJueves, 8 de diciembre de 2022 a 20:30.\n\nJueves, 12 de enero de 2023 a 20:30.\n\nJueves, 9 de febrero de 2023 a 20:30.\n\nJueves, 9 de marzo de 2023 a 20:30.\n\nJueves, 13 de abril de 2023 a 20:30.\n\nJueves, 11 de mayo de 2023 a 20:30.\n\nJueves, 8 de junio de 2023 a 20:30.",
+      "libelleIt" : "Giovedì 13 ottobre 2022 alle 20:30.\n\nGiovedì 10 novembre 2022 alle 20:30.\n\nGiovedì 8 dicembre 2022 alle 20:30.\n\nGiovedì 12 gennaio 2023 alle 20:30.\n\nGiovedì 9 febbraio 2023 alle 20:30.\n\nGiovedì 9 marzo 2023 alle 20:30.\n\nGiovedì 13 aprile 2023 alle 20:30.\n\nGiovedì 11 maggio 2023 alle 20:30.\n\nGiovedì 8 giugno 2023 alle 20:30.",
+      "libelleDe" : "Donnerstag, den 13. Oktober 2022 um 20.30 Uhr.\n\nDonnerstag, den 10. November 2022 um 20.30 Uhr.\n\nDonnerstag, den 8. Dezember 2022 um 20.30 Uhr.\n\nDonnerstag, den 12. Januar 2023 um 20.30 Uhr.\n\nDonnerstag, den 9. Februar 2023 um 20.30 Uhr.\n\nDonnerstag, den 9. März 2023 um 20.30 Uhr.\n\nDonnerstag, den 13. April 2023 um 20.30 Uhr.\n\nDonnerstag, den 11. Mai 2023 um 20.30 Uhr.\n\nDonnerstag, den 8. Juni 2023 um 20.30 Uhr.",
+      "libelleNl" : "Donderdag 13 oktober 2022 om 20.30 u.\n\nDonderdag 10 november 2022 om 20.30 u.\n\nDonderdag 8 december 2022 om 20.30 u.\n\nDonderdag 12 januari 2023 om 20.30 u.\n\nDonderdag 9 februari 2023 om 20.30 u.\n\nDonderdag 9 maart 2023 om 20.30 u.\n\nDonderdag 13 april 2023 om 20.30 u.\n\nDonderdag 11 mei 2023 om 20.30 u.\n\nDonderdag 8 juni 2023 om 20.30 u.",
+      "libelleRu" : "Четверг 13 октября 2022  до 20h30.\n\nЧетверг 10 ноября 2022  до 20h30.\n\nЧетверг 8 декабря 2022  до 20h30.\n\nЧетверг 12 января 2023  до 20h30.\n\nЧетверг 9 февраля 2023  до 20h30.\n\nЧетверг 9 марта 2023  до 20h30.\n\nЧетверг 13 апреля 2023  до 20h30.\n\nЧетверг 11 мая 2023  до 20h30.\n\nЧетверг 8 июня 2023  до 20h30.",
+      "libelleZh" : "2022年10月13日, 星期四   在 小时小时分钟.\n\n2022年11月10日, 星期四   在 小时小时分钟.\n\n2022年12月8日, 星期四   在 小时小时分钟.\n\n2023年1月12日, 星期四   在 小时小时分钟.\n\n2023年2月9日, 星期四   在 小时小时分钟.\n\n2023年3月9日, 星期四   在 小时小时分钟.\n\n2023年4月13日, 星期四   在 小时小时分钟.\n\n2023年5月11日, 星期四   在 小时小时分钟.\n\n2023年6月8日, 星期四   在 小时小时分钟.",
+      "libellePtBR" : "Quinta-feira 13 Outubro 2022 para  20h30.\n\nQuinta-feira 10 Novembro 2022 para  20h30.\n\nQuinta-feira 8 Dezembro 2022 para  20h30.\n\nQuinta-feira 12 Janeiro 2023 para  20h30.\n\nQuinta-feira 9 Fevereiro 2023 para  20h30.\n\nQuinta-feira 9 Março 2023 para  20h30.\n\nQuinta-feira 13 Abril 2023 para  20h30.\n\nQuinta-feira 11 Maio 2023 para  20h30.\n\nQuinta-feira 8 Junho 2023 para  20h30.",
+      "libelleJa" : "木曜日 13 10月 2022 8.30 午後 に.\n\n木曜日 10 11月 2022 8.30 午後 に.\n\n木曜日 8 12月 2022 8.30 午後 に.\n\n木曜日 12 1月 2023 8.30 午後 に.\n\n木曜日 9 2月 2023 8.30 午後 に.\n\n木曜日 9 3月 2023 8.30 午後 に.\n\n木曜日 13 4月 2023 8.30 午後 に.\n\n木曜日 11 5月 2023 8.30 午後 に.\n\n木曜日 8 6月 2023 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24375088,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2022-10-13",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375088
+    }, {
+      "identifiant" : 24375090,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375090
+    }, {
+      "identifiant" : 24375092,
+      "dateDebut" : "2022-12-08",
+      "dateFin" : "2022-12-08",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375092
+    }, {
+      "identifiant" : 24375097,
+      "dateDebut" : "2023-01-12",
+      "dateFin" : "2023-01-12",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375097
+    }, {
+      "identifiant" : 24375101,
+      "dateDebut" : "2023-02-09",
+      "dateFin" : "2023-02-09",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375101
+    }, {
+      "identifiant" : 24375104,
+      "dateDebut" : "2023-03-09",
+      "dateFin" : "2023-03-09",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375104
+    }, {
+      "identifiant" : 24375111,
+      "dateDebut" : "2023-04-13",
+      "dateFin" : "2023-04-13",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375111
+    }, {
+      "identifiant" : 24375119,
+      "dateDebut" : "2023-05-11",
+      "dateFin" : "2023-05-11",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375119
+    }, {
+      "identifiant" : 24375122,
+      "dateDebut" : "2023-06-08",
+      "dateFin" : "2023-06-08",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24375122
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 8,95 €.\n\n\nFrais de réservation inclus.",
+      "libelleEn" : "Full price: from 8.95 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 8,95 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 8,95 €.\n",
+      "libelleDe" : "Voller Preis: ab 8,95 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 8,95 €.\n",
+      "libelleRu" : "Полную цену : с 8,95 €.\n",
+      "libelleZh" : "全额 : 从 8.95 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 8,95 €.\n",
+      "libelleJa" : "通常料金: 8.95 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Frais de réservation inclus"
+    },
+    "periodes" : [ {
+      "identifiant" : 13684000,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2023-06-08",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.95,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14193576,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Improglio de la LIPHO"
+    },
+    "legende" : {
+      "libelleFr" : "Improglio de la LIPHO"
+    },
+    "copyright" : {
+      "libelleFr" : "Improglio de la LIPHO - Ligue d'Improvisation Phocéenne - La Divine Comédie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/72/14501979.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/72/14501979-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/72/14501979-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/72/14501979-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "improglio",
+      "taille" : 113744,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-27T08:26:20.048+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-10", "2022-12-08", "2023-01-12", "2023-02-09", "2023-03-09", "2023-04-13", "2023-05-11", "2023-06-08" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2138
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5651
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Divine Comédie"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-06-08T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT104393"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

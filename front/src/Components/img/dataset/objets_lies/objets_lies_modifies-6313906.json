@@ -1,0 +1,249 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313906,
+  "nom" : {
+    "libelleFr" : "Les mardis de la Cinémathèque"
+  },
+  "identifier" : "SITRA2_EVE_6313906",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T09:21:01.491+0000",
+    "dateModification" : "2022-11-07T15:21:20.872+0000",
+    "dateExportModification" : "2022-11-07T15:21:21.041+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104815424,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://r.info.cine-memoire.net/mk/mr/rV1DDpw3hTMsFFl6fEadiqy_d45pvA1xsF0BgLv0XtR2RSbaAayQ4wZnKTF17sL0sSvrQr0fH4abMdG5thoNfJAM7wkh-4jh3YNC40LDO_X08PJlpxHY9A7Rh1ln6k-7L9dnqRL3"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5481161
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Y a-t-il une écriture ou une sensibilité propres aux réalisatrices de cinéma? On en jugera à travers les trois films présentés le premier mardi du mois."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "A l'initiative de l'Académie de Marseille, un Resnais et un Pasolini, fort différents mais où s'entremêlent les références et la musique joue son rôle. A celle du Centre culturel hispanique, un « Même la pluie » à découvrir : s'y côtoient l'arrivée de Colomb et la captation actuelle des ressources d'eau en Bolivie. Ce cinéma engagé, on le retrouve aussi bien avec « L'Espoir » de Malraux qu'avec « Devine qui vient dîner? » projeté en hommage à Sidney Poitier récemment disparu. Mais aussi avec cette vieille dame qui, chez Allio, découvre enfin une forme de libération. Notre petit tour de la planète cinématographique nous aura ainsi, en passant par Marseille, menés au sud d'une Italie volcanique ou mafieuse, à New-York et Philadelphie et jusqu'à l'Inde de Duras ou la Nouvelle-Zélande de Campion.eille\r\n\r\nAu programme :\r\n\r\nMardi 8 novembre 19h  \"Même la pluie\"\r\nMardi 15 novembre  19h \"Devine qui vient dîner ?\"\r\nMardi 22 novembre 19h \"La vieille dame indigne\""
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Centre de Documentation Pédagogique (CRDP)",
+      "adresse1" : "31 Boulevard d'Athènes",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.380470, 43.300836 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    }, {
+      "id" : 4533
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6224936
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 8 novembre 2022 à 19h.\n\nMardi 15 novembre 2022 à 19h.\n\nMardi 22 novembre 2022 à 19h.",
+      "libelleEn" : "Tuesday 8 November 2022 at 7 pm.\n\nTuesday 15 November 2022 at 7 pm.\n\nTuesday 22 November 2022 at 7 pm.",
+      "libelleEs" : "Martes, 8 de noviembre de 2022 a 19.\n\nMartes, 15 de noviembre de 2022 a 19.\n\nMartes, 22 de noviembre de 2022 a 19.",
+      "libelleIt" : "Martedì 8 novembre 2022 alle 19.\n\nMartedì 15 novembre 2022 alle 19.\n\nMartedì 22 novembre 2022 alle 19.",
+      "libelleDe" : "Dienstag, den 8. November 2022 um 19 Uhr.\n\nDienstag, den 15. November 2022 um 19 Uhr.\n\nDienstag, den 22. November 2022 um 19 Uhr.",
+      "libelleNl" : "Dinsdag 8 november 2022 om 19.00 u.\n\nDinsdag 15 november 2022 om 19.00 u.\n\nDinsdag 22 november 2022 om 19.00 u.",
+      "libelleRu" : "Вторник 8 ноября 2022  до 19h.\n\nВторник 15 ноября 2022  до 19h.\n\nВторник 22 ноября 2022  до 19h.",
+      "libelleZh" : "2022年11月8日, 星期二   在 小时小时.\n\n2022年11月15日, 星期二   在 小时小时.\n\n2022年11月22日, 星期二   在 小时小时.",
+      "libellePtBR" : "Terça-feira 8 Novembro 2022 para  19h.\n\nTerça-feira 15 Novembro 2022 para  19h.\n\nTerça-feira 22 Novembro 2022 para  19h.",
+      "libelleJa" : "火曜日 8 11月 2022 7 午後 に.\n\n火曜日 15 11月 2022 7 午後 に.\n\n火曜日 22 11月 2022 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24675323,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-08",
+      "complementHoraire" : { },
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715134
+    }, {
+      "identifiant" : 24675455,
+      "dateDebut" : "2022-11-15",
+      "dateFin" : "2022-11-15",
+      "complementHoraire" : { },
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715135
+    }, {
+      "identifiant" : 24675460,
+      "dateDebut" : "2022-11-22",
+      "dateFin" : "2022-11-22",
+      "complementHoraire" : { },
+      "horaireOuverture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715136
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14723654,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Même la pluie"
+    },
+    "legende" : {
+      "libelleFr" : "Même la pluie"
+    },
+    "copyright" : {
+      "libelleFr" : "Même la pluie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/100/15098898.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/100/15098898-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/100/15098898-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/18/100/15098898-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "89",
+      "taille" : 81564,
+      "hauteur" : 450,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-02T09:40:00.198+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-15", "2022-11-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3818
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2133
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Centre de Documentation Pédagogique (CRDP)"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-22T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

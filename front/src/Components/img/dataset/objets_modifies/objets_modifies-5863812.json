@@ -1,0 +1,380 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5863812,
+  "nom" : {
+    "libelleFr" : "Toute la Provence en un jour M12",
+    "libelleEn" : "Excursion A Day in Provence M12"
+  },
+  "identifier" : "SITRA2_EVE_5863812",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-07T10:36:29.248+0000",
+    "dateModification" : "2022-11-08T09:27:04.033+0000",
+    "dateExportModification" : "2022-11-08T23:13:46.264+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816679,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+3304 90 14 70 00"
+      }
+    }, {
+      "identifiant" : 97816680,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bonjour.provence@alafrancaise.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visitez le meilleur de la Provence et ses sites incontournables en une journée. Soyez enchantés par ses richesses: un charmant village perché, des monuments romains, et de superbes paysages...",
+      "libelleEn" : "Set off to explore the UNESCO World Heritage sites of Provence !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Suivez votre guide pour une visite en Provence !\n\nDébutez votre journée par la région des Alpilles et découvrez le village perché des Beaux de Provence, et admirez la vue imprenable depuis son château.\n\nPartez ensuite pour le Pont du Gard, aqueducs de l’époque romaine, un site incontournable de la Provence !\n\nPrenez la route vers Avignon et longez les remparts et le Rhône jusqu’au célèbre Pont d’Avignon et jusqu’au pont St Bénezet. Profitez d’un temps libre pour visiter les lieux historiques de la ville.\n\nEnfin, prenez la direction de la Vallée du Rhône pour découvrir les prestigieux vins de Châteauneuf du Pape ! Vous aurez la possibilité de déguster les vins de ce domaine réputé. (dégustation incluse)\n\nJournée mythique garantie !\n\nDéjeuner libre durant la journée.\n\nCertains jours, un passage par Aix en Provence sera organisé pour récupérer des passagers.",
+      "libelleEn" : "While driving along the docks between the Rhône river and the medieval walls, you will enter Avignon, the majestic city of the Popes. Take a look at Saint-Benezet bridge, famous for thechildren's song “Sur le Pont d'Avignon”, and see the Popes' Palace which is the biggest gothic style palace in Europe (entrance tickets not included).\n\nDiscover the wines of the Rhône river valley in the village of Châteauneuf-du-Pape which castle dominates the vineyard. Wine-tasting included.\n\nDrive to the Pont du Gard, best preserved remains of the Roman aqueduct which supplied water to the city of Nîmes.\n\nThe tour continues toward the Alpilles mountain range. Located on a rocky spur overlooking thevalley, the medieval village of Les Baux de Provence will lead you to an unforgettable journey intothe past.\n\nFree time for lunch (not included) on your own during the day.\n\nPlease note that on certain days, a quick drive through Aix-en-Provence to pick up and drop off passengers may be included."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "38 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nMetro arrêt = Vieux Port- Bus N° 82 et 83 - arrêt Théâtre de la Criée",
+        "libelleEn" : "\nMetro station stop = Vieux Port- Bus N° 82 and 83 - stops Théâtre de la Criée"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367380, 43.292400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nRendez vous devant l'hôtel Radisson Blu (38 quai Rive Neuve)",
+      "libelleEn" : "\nImportant information:\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).Please be ready 10 minutes before the departure of the tour."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716864,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716864
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Individual ticket : 130,00 EUR",
+      "libelleEn" : "Individual ticket : 130,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Compris : Le transport en minibus climaisé avec chauffeur \nL'entrée au site du Pont du Gard\nLa dégusation de vin à Châteauneuf du Pape\nNon compris : Le déjeuner\nLes entrées au Palais des Papes et pont d'Avignon",
+      "libelleEn" : "Included: Transportation with an 8 seater minivan with a driver/guide\n\nEntrance fee at the Pont du Gard\n\nWine-tasting in Chateauneuf du Pape\nNot included: Lunch\n\nEntrance fee to the Popes Palace and the Bridge of Avignon"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915457,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5236755
+      },
+      "nom" : "Tylène Transport Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993250,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/excursion-a-day-in-provence"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813239,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "legende" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "copyright" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/233/15198504.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/233/15198504-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/233/15198504-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/233/15198504-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5d1d0a0690b232010936-cropped600-400-dpl-5e612a9c874d3_1",
+      "taille" : 111794,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:05.541+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813240,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "legende" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "copyright" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/41/233/15198505.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/41/233/15198505-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/41/233/15198505-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/41/233/15198505-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5d1dfabd68d444608935-cropped600-400-dpl-5e612a9cbb67e_1",
+      "taille" : 104063,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:06.155+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813241,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "legende" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "copyright" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/233/15198506.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/233/15198506-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/233/15198506-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/233/15198506-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5d1e4bbe74a782415299-cropped600-400-dpl-5e612a9ce9d9f_1",
+      "taille" : 49915,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:04.269+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813242,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "legende" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "copyright" : {
+      "libelleFr" : "Toute la Provence en un jour M12",
+      "libelleEn" : "Excursion A Day in Provence M12"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/233/15198507.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/233/15198507-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/233/15198507-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/233/15198507-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5d1e7609b00259960453-cropped600-400-dpl-5e612a9d279c5_1",
+      "taille" : 83598,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:27:04.766+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144328",
+        "product_supplier_id" : "32302",
+        "sku" : "T-TY50-155088",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

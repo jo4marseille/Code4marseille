@@ -1,0 +1,338 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6243548,
+  "nom" : {
+    "libelleFr" : "Maitre, vous avez la parole",
+    "libelleEn" : "Maitre, vous avez la parole",
+    "libelleEs" : "Maitre, vous avez la parole",
+    "libelleIt" : "Maitre, vous avez la parole",
+    "libelleDe" : "Maitre, vous avez la parole",
+    "libelleNl" : "Maitre, vous avez la parole",
+    "libelleRu" : "Maitre, vous avez la parole",
+    "libelleZh" : "Maitre, vous avez la parole",
+    "libellePtBR" : "Maitre, vous avez la parole",
+    "libelleJa" : "Maitre, vous avez la parole"
+  },
+  "identifier" : "SITRA2_EVE_6243548",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-27T18:02:51.350+0000",
+    "dateModification" : "2022-08-29T10:14:33.848+0000",
+    "dateExportModification" : "2022-08-29T10:14:34.565+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102657748,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    }, {
+      "identifiant" : 102657749,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resaflibustier@gmail.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230835
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "A mi-chemin entre pièce de théâtre et stand-up, un \"one avocat show\" politiquement incorrect et cruellement drôle !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il est en retard … encore ! Mais cette fois-ci, il n’est pas le seul.\r\nLorsque l’avocat entre dans la salle d’audience, il y a du public mais pas le Tribunal. Il est pressé de repartir. Et il déteste attendre. Mais puisqu’il est coincé ici – et qu’il faut bien passer le temps – il engage la discussion avec le public.\r\n\r\nMalmené par une greffière acariâtre, régulièrement interrompu par les appels téléphoniques de sa secrétaire, dérangé par des messages érotiques de personnes qu’il ne connaît pas, et tentant de contenir son épouse qui le presse de rentrer, l’heure qu’il va passer avec ce public pourrait bien se révéler pour lui, un moment de vérité.\r\n\r\nSébastien Wust égratigne sur un ton décalé et sans filtre, le monde de la justice. La défense des assassins, les moyens de preuve du Moyen-Âge, les avocats de séries télé, les décisions surprenantes du Code pénal, les clients menaçants ou le père Noël : il se moque des clichés … et de lui surtout."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Café théâtre Le Flibustier",
+      "adresse1" : "7 Rue Des Bretons",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453385, 43.528997 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729788
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 de 20h à 21h.\n\nMercredi 16 novembre 2022 de 20h à 21h.\n\nMercredi 23 novembre 2022 de 20h à 21h.",
+      "libelleEn" : "Wednesday 9 November 2022 between 8 pm and 9 pm.\n\nWednesday 16 November 2022 between 8 pm and 9 pm.\n\nWednesday 23 November 2022 between 8 pm and 9 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 de 20 a 21.\n\nMiércoles, 16 de noviembre de 2022 de 20 a 21.\n\nMiércoles, 23 de noviembre de 2022 de 20 a 21.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 dalle 20 alle 21.\n\nMercoledì 16 novembre 2022 dalle 20 alle 21.\n\nMercoledì 23 novembre 2022 dalle 20 alle 21.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 von 20 Uhr bis 21 Uhr.\n\nMittwoch, den 16. November 2022 von 20 Uhr bis 21 Uhr.\n\nMittwoch, den 23. November 2022 von 20 Uhr bis 21 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 van 20.00 tot en met 21.00 u.\n\nWoensdag 16 november 2022 van 20.00 tot en met 21.00 u.\n\nWoensdag 23 november 2022 van 20.00 tot en met 21.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  с 20h до 21h.\n\nСреда 16 ноября 2022  с 20h до 21h.\n\nСреда 23 ноября 2022  с 20h до 21h.",
+      "libelleZh" : "2022年11月9日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月16日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月23日, 星期三   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 de 20h a  21h.\n\nQuarta-feira 16 Novembro 2022 de 20h a  21h.\n\nQuarta-feira 23 Novembro 2022 de 20h a  21h.",
+      "libelleJa" : "水曜日 9 11月 2022 8 午後 と 9 午後 の間.\n\n水曜日 16 11月 2022 8 午後 と 9 午後 の間.\n\n水曜日 23 11月 2022 8 午後 と 9 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24171410,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24171410
+    }, {
+      "identifiant" : 24171411,
+      "dateDebut" : "2022-11-16",
+      "dateFin" : "2022-11-16",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24171411
+    }, {
+      "identifiant" : 24171412,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24171412
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 16 €.\n",
+      "libelleEn" : "Full price: from 16 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 16 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 16 €.\n",
+      "libelleDe" : "Voller Preis: ab 16 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 16 €.\n",
+      "libelleRu" : "Полную цену : с 16 €.\n",
+      "libelleZh" : "全额 : 从 16 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 16 €.\n",
+      "libelleJa" : "通常料金: 16 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13591531,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-23",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6510
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6746448,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230835
+      },
+      "nom" : "Café théâtre Le Flibustier",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 102696615,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.leflibustier.net/spectacles/maitre-vous-avez-la-parole-euh-vous-etes-sur/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21231925,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102657750,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.flibustier@gmail.com"
+      }
+    }, {
+      "identifiant" : 102657751,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 84 74"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13878567,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "le flibustier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/169/14133618.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/169/14133618-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/169/14133618-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/169/14133618-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "unnamed-454x640",
+      "taille" : 34466,
+      "hauteur" : 640,
+      "largeur" : 454,
+      "lastModifiedDate" : "2022-08-29T10:14:33.992+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-16", "2022-11-23" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Café théâtre Le Flibustier"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-23T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

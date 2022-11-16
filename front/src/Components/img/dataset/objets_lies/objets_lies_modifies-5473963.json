@@ -1,0 +1,410 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5473963,
+  "nom" : {
+    "libelleFr" : "La Terrasse",
+    "libelleEn" : "La Terrasse",
+    "libelleIt" : "La Terrasse",
+    "libelleDe" : "La Terrasse",
+    "libelleNl" : "La Terrasse"
+  },
+  "identifier" : "SITRA2_RES_5473963",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-05T10:51:48.670+0000",
+    "dateModification" : "2021-05-17T10:29:40.669+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77139922,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 92 92"
+      }
+    }, {
+      "identifiant" : 77139923,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@chateau-la-coste.com"
+      }
+    }, {
+      "identifiant" : 77139924,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://chateau-la-coste.com/la-terrasse/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5473962
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Terrasse est le café d'été du Château la Coste, située au coeur du vieux domaine. Utilisant des ingrédients du jardin potager, La Terrasse offre des salades fraîches, soupes froides, tartes maison, fromages affinés et charcuterie bio accompagnés des vi"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Terrasse est le café d'été du Château la Coste, située au coeur du vieux domaine. Utilisant des ingrédients du jardin potager, La Terrasse offre des salades fraîches, soupes froides, tartes maison, fromages affinés et charcuterie bio accompagnés des vins du Domaine.\r\nAvec de la musique live tout au long de l'été, La Terrasse est un petit coin de Provence à apprécier en compagnie de vos amis ou en famille."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2570 Route De la Cride",
+      "adresse2" : "Château la Coste",
+      "codePostal" : "13610",
+      "bureauDistribution" : "LE PUY SAINTE REPARADE",
+      "commune" : {
+        "id" : 4491
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.422511, 43.646866 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4491
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538077
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5537089
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1323
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 641
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking privé",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/05 au 01/11/2021, tous les jours de 10h30 à 20h.",
+      "libelleEn" : "From 19/05 to 01/11/2021, daily between 10.30 am and 8 pm.",
+      "libelleEs" : "Del 19/05 al 01/11/2021, todos los dias de 10:30 a 20.",
+      "libelleIt" : "Dal 19/05 al 01/11/2021, ogni giorno dalle 10:30 alle 20.",
+      "libelleDe" : "Vom 19/05 bis 01/11/2021, täglich von 10.30 Uhr bis 20 Uhr.",
+      "libelleNl" : "Van 19/05 tot en met 01/11/2021, iedere dag van 10.30 tot en met 20.00 u.",
+      "libelleRu" : "С 19/05 до 01/11/2021, ежедневно с 10h30 до 20h.",
+      "libelleZh" : "从 5月19日 到 2021年11月1日, 日常 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 19/05 a 01/11/2021, todos os dias de 10h30 a  20h.",
+      "libelleJa" : "19/05 から 01/11/2021 まで, 毎日 10.30 午前 と 8 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19392031,
+      "dateDebut" : "2021-05-19",
+      "dateFin" : "2021-11-01",
+      "horaireOuverture" : "10:30:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 20982002
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "A la carte : de 12 à 20 €.\n",
+      "libelleEn" : "A la carte: 12 to 20 €.\n",
+      "libelleEs" : "A la carta: de 12 a 20 €.\n",
+      "libelleIt" : "A scelta: da 12 a 20 €.\n",
+      "libelleDe" : "Nach der Karte: von 12 bis 20 €.\n",
+      "libelleNl" : "A la carte: € 12 tot en met € 20.\n",
+      "libelleRu" : "По карте : с 12 до  20 €.\n",
+      "libelleZh" : "菜单 : 从 12 到  20 €.\n",
+      "libellePtBR" : "A la carte: de 12 a 20 €.\n",
+      "libelleJa" : "アラカルト: 12 から 20 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 12072070,
+      "dateDebut" : "2021-05-19",
+      "dateFin" : "2021-11-01",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 20.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1501
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5788866,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5473962
+      },
+      "nom" : "La Terrasse",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77139919,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 61 92 92"
+        }
+      }, {
+        "identifiant" : 77139921,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://chateau-la-coste.com/la-terrasse/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 9999523,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Terrasse"
+    },
+    "copyright" : {
+      "libelleFr" : "Richard Haughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/247/9762638.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/247/9762638-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/247/9762638-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/247/9762638-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "La Coste 7-20 5122  bd",
+      "taille" : 390275,
+      "hauteur" : 595,
+      "largeur" : 892,
+      "lastModifiedDate" : "2021-05-17T10:07:15.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9999524,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Terrasse"
+    },
+    "copyright" : {
+      "libelleFr" : "Richard Haughton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/247/9762639.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/247/9762639-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/247/9762639-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/247/9762639-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "La Coste 7-20 5196  bd",
+      "taille" : 389319,
+      "hauteur" : 595,
+      "largeur" : 892,
+      "lastModifiedDate" : "2021-05-17T10:07:16.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1253
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 4463
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    } ],
+    "capacite" : {
+      "nombreMaximumCouverts" : 100
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-11-01T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : {
+    "enquetes" : [ {
+      "identifiant" : 1578549,
+      "annee" : 2021,
+      "retour" : true,
+      "titre" : {
+        "elementReferenceType" : "EnqueteTitre",
+        "id" : 3934
+      }
+    } ]
+  },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13REST003260"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "SI Le Puy Sainte Réparade"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.si-lepuy.fr"
+    }
+  } ]
+}

@@ -1,0 +1,275 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6151143,
+  "nom" : {
+    "libelleFr" : "Escape Game Le mystère d’Alix, dernière Dame des Baux"
+  },
+  "identifier" : "SITRA2_EVE_6151143",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-29T11:47:35.280+0000",
+    "dateModification" : "2022-05-29T12:00:08.604+0000",
+    "dateExportModification" : "2022-09-01T08:55:11.888+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79258032,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 20 02"
+      }
+    }, {
+      "identifiant" : 79258035,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "message@chateau-baux-provence.com"
+      }
+    }, {
+      "identifiant" : 79258037,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.chateau-baux-provence.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5530327
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Apprenez l’histoire du Château des Baux-de-Provence en vous amusant !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le Château des Baux présente la nouveauté de la saison 2022 : un Escape Game en plein air Le mystère d’Alix, dernière Dame des Baux.\r\n\r\nLe Château des Baux présente la nouveauté de la saison 2022 : un Escape Game en plein air : Le mystère d’Alix, dernière Dame des Baux.\r\n\r\nApprenez l’histoire du Château des Baux-de-Provence en vous amusant !\r\n\r\nEn équipe de 2 à 6 personnes, menez l’enquête, parcourez les vestiges du Château et découvrez les mystères qui entourent le testament de la dernière princesse des Baux en répondant à une série d’énigmes et de défis.\r\n\r\nJeu d’enquête pour 2 à 6 personnes\r\nDurée : 1h (dernier départ 1h30 avant la fermeture du Château des Baux)\r\nÂge minimum conseillé : 12 ans"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Château des Baux",
+      "adresse1" : "Esplanade du château",
+      "codePostal" : "13520",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.796760, 43.744339 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "nombrePersonnesMinimum" : 2,
+    "tailleGroupeMax" : 6,
+    "ageMin" : 144,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/06 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 19/06 to 31/12/2022, daily.",
+      "libelleEs" : "Del 19/06 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 19/06 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 19/06 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 19/06 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 19/06 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 6月19日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 19/06 a 31/12/2022, todos os dias.",
+      "libelleJa" : "19/06 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23440040,
+      "dateDebut" : "2022-06-19",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23440040
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : de 13 à 15 €, Enfant : de 11 à 13 €, Etudiant : de 11 à 13 €.\n\n\n(5€ en complément du billet d’entrée au Château des Baux).",
+      "libelleEn" : "Adult: 13 to 15 €, Child: 11 to 13 €, Student: 11 to 13 €.\n",
+      "libelleEs" : "Adulto: de 13 a 15 €, Niño: de 11 a 13 €, Estudiante: de 11 a 13 €.\n",
+      "libelleIt" : "Adulto: da 13 a 15 €, Bambino: da 11 a 13 €, Studente: da 11 a 13 €.\n",
+      "libelleDe" : "Erwachsene: von 13 bis 15 €, Kinder: von 11 bis 13 €, Student: von 11 bis 13 €.\n",
+      "libelleNl" : "Volwassene: € 13 tot en met € 15, Kind: € 11 tot en met € 13, Student: € 11 tot en met € 13.\n",
+      "libelleRu" : "Взрослый : с 13 до  15 €, Ребенок : с 11 до  13 €, Студент : с 11 до  13 €.\n",
+      "libelleZh" : "成人 : 从 13 到  15 €, 儿童 : 从 11 到  13 €, 学生 : 从 11 到  13 €.\n",
+      "libellePtBR" : "Adulto: de 13 a 15 €, Criança: de 11 a 13 €, Estudante: de 11 a 13 €.\n",
+      "libelleJa" : "大人: 13 から 15 €, 子供: 11 から 13 €, 学生: 11 から 13 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "(5€ en complément du billet d’entrée au Château des Baux)"
+    },
+    "periodes" : [ {
+      "identifiant" : 13281531,
+      "dateDebut" : "2022-06-19",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 13.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 11.00,
+        "maximum" : 13.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 11.00,
+        "maximum" : 13.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4134
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13115212,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Escape Game Le mystère d’Alix, dernière Dame des Baux"
+    },
+    "legende" : {
+      "libelleFr" : "Escape Game Le mystère d’Alix, dernière Dame des Baux"
+    },
+    "copyright" : {
+      "libelleFr" : "Culturespaces"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/225/13296002.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/225/13296002-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/225/13296002-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/225/13296002-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Escape Game",
+      "taille" : 299183,
+      "hauteur" : 1280,
+      "largeur" : 853,
+      "lastModifiedDate" : "2022-05-29T12:00:08.755+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nomLieu" : "Château des Baux"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

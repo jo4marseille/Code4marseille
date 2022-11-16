@@ -1,0 +1,229 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6030318,
+  "nom" : {
+    "libelleFr" : "The Asteroid No.4 + Magic Shoppe + Jack In Box + Sone"
+  },
+  "identifier" : "SITRA2_EVE_6030318",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-09T15:53:59.577+0000",
+    "dateModification" : "2022-11-08T11:04:05.297+0000",
+    "dateExportModification" : "2022-11-08T11:04:05.958+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 96621581,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/LemolotovMarseille"
+      }
+    }, {
+      "identifiant" : 77040117,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lemolotov.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464864
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez The Asteroid No.4 + Magic Shoppe sur la scène du Molotov."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "• The Asteroid No.4\r\nThe Asteroid No.4 est un groupe américain de musique psychédélique basé dans la baie de San Francisco. Originaire de Philadelphie dans la seconde moitié des années 1990, le groupe a commencé sa relocalisation sur la côte ouest en 2011.\r\nLe groupe est connu pour son dynamisme sur scène, intégrant des guitares aux textures multiples et des harmonies vocales imprégnées de réverbération sur une section rythmique inébranlable. \r\nLe son de The Asteroid No.4 a été qualifié d’\"hybride hypnotique de plusieurs genres différents filtrés par le kaléidoscope de toutes les choses psychédéliques\". Qu’il s’agisse de \"Krautrock\", de \"shoegaze\", de folkrock, ou même de countryrock \"cosmique\", le groupe n’a jamais hésité à porter ses influences sur ses manches.\r\n\r\n• Magic Shoppe\r\nMagic Shoppe de Boston, Massachusetts, est connu pour son plaisir de la distorsion et de la réverbération. Ils prennent des notes de My Bloody Valentine, The Jesus and Mary Chain, Spacemen 3, Loop et ont un son européen psych shoegaze qui flirte avec l’industriel et le new wave. La tonalité chaude et floue peut se fondre dans des paysages sonores ou s’écraser dans un maelström. Le groupe est composé de Josiah Webb (chant, guitare), Stevie Moonboots (basse), Dave Mulvaney (batterie), Richie Gibson (guitare rythmique) et Mat Durie (guitare rythmique). Magic Shoppe a offert son propre mélange de shoegaze fuzzy, influencé par des murs de son, à travers quatre EP, quatre albums studio complets et un album live au cours des neuf dernières années. Avec trois tournées européennes bien accueillies depuis 2017 et un cinquième album studio complet (Mono Lake) sorti en février 2021, le groupe se lancera dans sa quatrième tournée européenne au printemps 2022."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Molotov",
+      "adresse1" : "3 Place Paul Cézanne",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383167, 43.292696 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : {
+    "complement" : { }
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 20h30.",
+      "libelleEn" : "Friday 11 November 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 11 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22670317,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24721714
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 8 €.\n",
+      "libelleEn" : "Full price: from 8 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 8 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 8 €.\n",
+      "libelleDe" : "Voller Preis: ab 8 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 8 €.\n",
+      "libelleRu" : "Полную цену : с 8 €.\n",
+      "libelleZh" : "全额 : 从 8 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 8 €.\n",
+      "libelleJa" : "通常料金: 8 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 12928905,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14820961,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "The Asteroid No.4 + Magic Shoppe + Jack In Box + Sone"
+    },
+    "legende" : {
+      "libelleFr" : "Le Molotov"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Molotov"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/11/15207315.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/11/15207315-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/11/15207315-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/11/15207315-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "molotov logo 800",
+      "taille" : 24838,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-11-08T11:04:05.465+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Molotov"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

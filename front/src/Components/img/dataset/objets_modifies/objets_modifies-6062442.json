@@ -1,0 +1,383 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062442,
+  "nom" : {
+    "libelleFr" : "ExitGame - Jeux de piste et escape games"
+  },
+  "identifier" : "SITRA2_EVE_6062442",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:11:46.770+0000",
+    "dateModification" : "2022-11-08T09:21:20.486+0000",
+    "dateExportModification" : "2022-11-08T23:13:12.680+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816604,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33675433143"
+      }
+    }, {
+      "identifiant" : 97816605,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@exitgame.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5515470
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5515470
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "PistezMarseille est un jeu de piste unique qui rassemble :\n- Une enquête policière sous la forme de 19 énigmes à résoudre !\n- Un parcours insolite dans des quartiers pittoresques du vieux-port,\n- Une touche cuturelle avec des anecdotes historiques"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Résolvez l’affaire Barthelemy\n\nNous avons été cambriolés ! Aidez nous à retrouver le coupable ! Collectez les indices tout le long du parcours et coincez le coupable !\n\nDécouvrez (ou redécouvrez) Marseille autrement.\n\nNotre balade améliorée mêle promenade, visite historique et bien sur la résolution de l’enquête à laquelle vous participez.\n\nDécouvrez ce nouveau concept de balades « améliorées » : Le parcours dure environ 2h30. Vous découvrirez des endroits pittoresques de la ville, en apprendrez plus sur son histoire et bien sûr résoudrez les énigmes qui vous seront posées.\n\nAccessible à tout le monde. Si vous êtes compétiteurs, tentez d’établir un record de temps ou faites le à votre rythme en famille, comme vous voulez. Les énigmes proposées sont plus accessibles que dans nos salles et il n’y a pas de limites de temps.\n\nConseillé même aux marseillais de souche. Ils apprendront de nouvelles anecdotes et découvrirons de coins secrets de notre cité.\n\nComment se déroule le jeu de piste ?\n\nUne fois votre réservation effectuée, vous recevrez par email vos instructions dont l’adresse du point de rendez-vous et le mot de passe. En vous rendant sur place le jour et à l’heure dite, il vous sera remis sur place un « kit » d’enquêteurs contenant divers objets (des pièces à conviction).\n\nCe kit est offert et contient notamment un carnet qui vous guidera au travers du parcours. Muni du carnet servant de guide, chassez le suspect dans la ville. 17 énigmes sont à résoudre tout en découvrant la cité Phocéenne.\n\nVous êtes accuellis au début et à la fin. Vous êtes en autonomie pendant le parcours, vous pouvez donc évoluer à l’allure que vous souhaitez. Les énigmes portent uniquement sur les façades / monuments rencontrés en chemin. Une fois à l’issue de la balade, avec suffisamment de réponses aux énigmes vous pourrez identifier avec certitude le coupable !\n\nATTENTION, LE PARCOURS N’EST PAS UNE BOUCLE ! Il se termine au pied de l'Abbaye Saint-Victor. Vous pouvez utiliser le parking Place Estiennes d’Orves si vous souhaitez rester proche de l’arrivée. \n\nAidez-nous à coincer ce voleur ! Réservez maintenant votre jeu de piste à Marseille."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Jean Jaurès",
+      "codePostal" : "13005",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Toutes les instructions vous serons envoyés en temps et en heure (adresse et mot de passe !).\n4 minutes du métro / tram \"réformés - canebière\""
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.386940, 43.294500 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4535
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nLes énigmes sont de difficulté normale / corsée. Elles sont conçues pour les adultes et ados à partir de 9 ans. Les enfants de moins de 9 vous accompagnent gratuitement car les énigmes sont un peu trop difficiles pour eux.\n\nLe parcours n'est pas une boucle, il se termine au pied de l'Abbaye Saint-Victor."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716844,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716844
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Tous le matériel d'enquêteur, même pas besoin de téléphone."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Tous le matériel d'enquêteur, même pas besoin de téléphone."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915437,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5515470
+      },
+      "nom" : "Exit Game live escape room",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993190,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/pistezmarseille-escape-game-culturel-en-exterieur"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16636
+  }, {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813189,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "legende" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "copyright" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/232/15198454.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/232/15198454-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/232/15198454-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/246/232/15198454-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-615c1468beb7c263007829-cropped600-400",
+      "taille" : 101548,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:24.720+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813190,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "legende" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "copyright" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/232/15198455.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/232/15198455-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/232/15198455-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/232/15198455-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-615c0cb77983b788776351-cropped600-400",
+      "taille" : 97183,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:25.319+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813191,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "legende" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "copyright" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/248/232/15198456.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/248/232/15198456-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/248/232/15198456-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/248/232/15198456-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-615c0ce4d1014998641812-cropped600-400",
+      "taille" : 119212,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:23.814+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813192,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "legende" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "copyright" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/232/15198457.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/232/15198457-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/232/15198457-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/232/15198457-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-615c0cfb5aa95637341515-cropped600-400",
+      "taille" : 73149,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:24.179+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813193,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "legende" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "copyright" : {
+      "libelleFr" : "ExitGame - Jeux de piste et escape games"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/232/15198458.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/232/15198458-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/232/15198458-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/232/15198458-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-615c0d0343d41099174337-cropped600-400",
+      "taille" : 52884,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:23.331+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "190281",
+        "product_supplier_id" : "39137",
+        "sku" : "T-EX57-204823",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

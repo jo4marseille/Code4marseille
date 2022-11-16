@@ -1,0 +1,418 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5540091,
+  "nom" : {
+    "libelleFr" : "Marché de Sauset les Pins",
+    "libelleEn" : "Marché de Sauuset les Pins",
+    "libelleIt" : "Marché de Sauuset les Pins",
+    "libelleDe" : "Marché de Sauuset les Pins",
+    "libelleNl" : "Marché de Sauuset les Pins"
+  },
+  "identifier" : "SITRA2_EVE_5540091",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T21:56:40.106+0000",
+    "dateModification" : "2022-10-12T11:24:39.654+0000",
+    "dateExportModification" : "2022-10-12T11:24:39.839+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Mairie de Sausset-les-Pins",
+      "dateCreation" : "2020-02-18T15:18:02.637+0000",
+      "dateModification" : "2022-10-24T08:49:33.338+0000",
+      "id" : 1992
+    },
+    "signalerUnProblemeMails" : [ "tourisme@saussetlespins.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84527540,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 21 15 26 18"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Nous vous invitons à venir flâner entre les étals typiques du marché Saussetois."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous y trouverez toutes sortes de produits régionaux, habillement, artisanat.\r\nLe marché du jeudi se tient sur le port et le dimanche boulevard Armand Audibert et Adolphe Fouque."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Boulevard Armand Audibert",
+      "adresse1" : "Avenue Adolphe Fouque.",
+      "codePostal" : "13960",
+      "commune" : {
+        "id" : 4515
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Port du masque obligatoire, sens de circulation,"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.106447, 43.331074 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4515
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/02 au 31/12, tous les jeudis et dimanches de 8h à 13h30.",
+      "libelleEn" : "From 01/02 to 31/12, every Thursday and Sunday between 8 am and 1.30 pm.",
+      "libelleEs" : "Del 01/02 al 31/12, todos los jueves y domingos de 8 a 13:30.",
+      "libelleIt" : "Dal 01/02 al 31/12, tutti i giovedì e domeniche dalle 8 alle 13:30.",
+      "libelleDe" : "Vom 01/02 bis 31/12, jeden Donnerstag und Sonntag von 8 Uhr bis 13.30 Uhr.",
+      "libelleNl" : "Van 01/02 tot en met 31/12, elke donderdag en zondag van 8.00 tot en met 13.30 u.",
+      "libelleRu" : "С 01/02 до 31/12, каждый четверги и воскресенья с 8h до 13h30.",
+      "libelleZh" : "从 2月1日 到 12月31日, 每星期四 和 星期日 小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De 01/02 a 31/12, todas as quintas-feiras e domingos de 8h a  13h30.",
+      "libelleJa" : "01/02 から 31/12 まで, 毎木曜日 と 日曜日 8 午前 と 1.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20769579,
+      "dateDebut" : "2022-02-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "13:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24482879
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 17650565,
+    "referent" : true,
+    "nom" : "OFFICE DU TOURISME",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82134365,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 45 60 65"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12410357,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "legende" : {
+      "libelleFr" : "fruit"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/207/12570382.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/207/12570382-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/207/12570382-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/207/12570382-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDomGPFraises",
+      "taille" : 536145,
+      "hauteur" : 2048,
+      "largeur" : 1536,
+      "lastModifiedDate" : "2022-02-10T07:38:29.518+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12410358,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "legende" : {
+      "libelleFr" : "olives"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/207/12570383.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/207/12570383-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/207/12570383-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/207/12570383-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDomGPOlives",
+      "taille" : 152147,
+      "hauteur" : 1281,
+      "largeur" : 721,
+      "lastModifiedDate" : "2022-02-10T07:38:29.017+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12410364,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "legende" : {
+      "libelleFr" : "biscuit"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/207/12570389.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/207/12570389-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/207/12570389-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/21/207/12570389-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDomGPSabléS",
+      "taille" : 150080,
+      "hauteur" : 721,
+      "largeur" : 1281,
+      "lastModifiedDate" : "2022-02-10T07:38:32.600+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12410365,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "legende" : {
+      "libelleFr" : "Fruits sec"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/22/207/12570390.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/22/207/12570390-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/22/207/12570390-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/22/207/12570390-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDomGPSec",
+      "taille" : 172578,
+      "hauteur" : 1281,
+      "largeur" : 721,
+      "lastModifiedDate" : "2022-02-10T07:38:34.636+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12410366,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/207/12570391.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/207/12570391-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/207/12570391-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/207/12570391-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDominical",
+      "taille" : 2600553,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-02-10T07:38:33.090+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12410368,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Florance"
+    },
+    "copyright" : {
+      "libelleFr" : "Florance"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/207/12570393.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/207/12570393-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/207/12570393-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/25/207/12570393-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MarchéDominical2",
+      "taille" : 2690294,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-02-10T07:38:30.817+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-10-13", "2022-10-16", "2022-10-20", "2022-10-23", "2022-10-27", "2022-10-30", "2022-11-03", "2022-11-06", "2022-11-10", "2022-11-13", "2022-11-17", "2022-11-20", "2022-11-24", "2022-11-27", "2022-12-01", "2022-12-04", "2022-12-08", "2022-12-11", "2022-12-15", "2022-12-18", "2022-12-22", "2022-12-25", "2022-12-29", "2023-02-02", "2023-02-05", "2023-02-09", "2023-02-12", "2023-02-16", "2023-02-19", "2023-02-23", "2023-02-26", "2023-03-02", "2023-03-05", "2023-03-09", "2023-03-12", "2023-03-16", "2023-03-19", "2023-03-23", "2023-03-26", "2023-03-30", "2023-04-02", "2023-04-06", "2023-04-09", "2023-04-13", "2023-04-16", "2023-04-20", "2023-04-23", "2023-04-27", "2023-04-30", "2023-05-04", "2023-05-07", "2023-05-11", "2023-05-14", "2023-05-18", "2023-05-21", "2023-05-25", "2023-05-28", "2023-06-01", "2023-06-04", "2023-06-08", "2023-06-11", "2023-06-15", "2023-06-18", "2023-06-22", "2023-06-25", "2023-06-29", "2023-07-02", "2023-07-06", "2023-07-09", "2023-07-13", "2023-07-16", "2023-07-20", "2023-07-23", "2023-07-27", "2023-07-30", "2023-08-03", "2023-08-06", "2023-08-10", "2023-08-13", "2023-08-17", "2023-08-20", "2023-08-24", "2023-08-27", "2023-08-31", "2023-09-03", "2023-09-07", "2023-09-10", "2023-09-14", "2023-09-17", "2023-09-21", "2023-09-24", "2023-09-28", "2023-10-01", "2023-10-05", "2023-10-08", "2023-10-12", "2023-10-15", "2023-10-19", "2023-10-22", "2023-10-26", "2023-10-29", "2023-11-02", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-16", "2023-11-19", "2023-11-23", "2023-11-26", "2023-11-30", "2023-12-03", "2023-12-07", "2023-12-10", "2023-12-14", "2023-12-17", "2023-12-21", "2023-12-24", "2023-12-28", "2023-12-31", "2024-02-01", "2024-02-04", "2024-02-08", "2024-02-11", "2024-02-15", "2024-02-18", "2024-02-22", "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-07", "2024-03-10", "2024-03-14", "2024-03-17", "2024-03-21", "2024-03-24", "2024-03-28", "2024-03-31", "2024-04-04", "2024-04-07", "2024-04-11", "2024-04-14", "2024-04-18", "2024-04-21", "2024-04-25", "2024-04-28", "2024-05-02", "2024-05-05", "2024-05-09", "2024-05-12", "2024-05-16", "2024-05-19", "2024-05-23", "2024-05-26", "2024-05-30", "2024-06-02", "2024-06-06", "2024-06-09", "2024-06-13", "2024-06-16", "2024-06-20", "2024-06-23", "2024-06-27", "2024-06-30", "2024-07-04", "2024-07-07", "2024-07-11", "2024-07-14", "2024-07-18", "2024-07-21", "2024-07-25", "2024-07-28", "2024-08-01", "2024-08-04", "2024-08-08", "2024-08-11", "2024-08-15", "2024-08-18", "2024-08-22", "2024-08-25", "2024-08-29", "2024-09-01", "2024-09-05", "2024-09-08", "2024-09-12", "2024-09-15", "2024-09-19", "2024-09-22", "2024-09-26", "2024-09-29", "2024-10-03", "2024-10-06", "2024-10-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Boulevard Armand Audibert"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT018961"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Sausset les Pins"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ville-sausset-les-pins.fr/"
+    }
+  } ]
+}

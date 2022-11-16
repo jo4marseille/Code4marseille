@@ -1,0 +1,253 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6218011,
+  "nom" : {
+    "libelleFr" : "Et si les oeuvres d'art pouvaient parler ? - Stan"
+  },
+  "identifier" : "SITRA2_EVE_6218011",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-26T13:56:52.388+0000",
+    "dateModification" : "2022-10-20T12:14:15.046+0000",
+    "dateExportModification" : "2022-10-20T12:14:15.567+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101645356,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://lartdutheatre.fr/spectacles/tout-public-adultes/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5483454
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez le spectacle \"Et si les oeuvres d'art pouvaient parler ?\" sur la scène de l'Art Dû."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les oeuvres d’art ont vu, voient et verront défiler des générations d’êtres humains.\r\nObservées, critiquées, qu’auraient-elles à nous dire si désormais c’était elles qui prenaient la parole et nous renvoyaient l’image qu’elles ont de nous ?\r\n\r\nChaque oeuvre d’art aura ici sa propre incarnation et abordera avec humour un thème en écho avec son histoire, qui raisonnera avec la notre.\r\n\r\nMise en scène : Papy\r\nAvec Stan"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Art Dû",
+      "adresse1" : "83 Rue Marengo",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.385725, 43.287787 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au samedi 12 novembre 2022 à 19h30.",
+      "libelleEn" : "From Friday 11 to Saturday 12 November 2022 at 7.30 pm.",
+      "libelleEs" : "Del viernes, 11 al sábado, 12 de noviembre de 2022 a 19:30.",
+      "libelleIt" : "Dal venerdì 11 a sabato 12 novembre 2022 alle 19:30.",
+      "libelleDe" : "Von Freitag, den 11. bis Samstag, den 12. November 2022 um 19.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zaterdag 12 november 2022 om 19.30 u.",
+      "libelleRu" : "С пятница 11 до суббота 12 ноября 2022  до 19h30.",
+      "libelleZh" : "从 星期五 到 2022年11月12日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "De Sexta-feira 11 a Sábado 12 Novembro 2022 para  19h30.",
+      "libelleJa" : "金曜日 11 から 土曜日 12 11月 2022 まで 7.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23964626,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "19:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24545141
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 16 €.\n\n\nFrais de réservation inclus.",
+      "libelleEn" : "Full price: 16 €.\n",
+      "libelleEs" : "Tarifa completa: 16 €.\n",
+      "libelleIt" : "Tarrifa intera: 16 €.\n",
+      "libelleDe" : "Voller Preis: 16 €.\n",
+      "libelleNl" : "Vol tarief: € 16.\n",
+      "libelleRu" : "Полную цену : 16 €.\n",
+      "libelleZh" : "全额 : 16 €.\n",
+      "libellePtBR" : "Tarifa inteira: 16 €.\n",
+      "libelleJa" : "通常料金: 16 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Frais de réservation inclus"
+    },
+    "periodes" : [ {
+      "identifiant" : 13494497,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "maximum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14469425,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Et si les oeuvres d'art pouvaient parler ? - Stan"
+    },
+    "legende" : {
+      "libelleFr" : "Et si les oeuvres d'art pouvaient parler ? - Stan"
+    },
+    "copyright" : {
+      "libelleFr" : "Et si les oeuvres d'art pouvaient parler ? - Stan - L'Art Dû"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/37/14820661.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/37/14820661-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/37/14820661-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/37/14820661-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "oeuvres stan",
+      "taille" : 99786,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T12:14:15.149+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Art Dû"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT114139"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

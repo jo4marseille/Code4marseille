@@ -1,0 +1,349 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6308954,
+  "nom" : {
+    "libelleFr" : "Le cambrioleur de Noël"
+  },
+  "identifier" : "SITRA2_EVE_6308954",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-25T15:20:55.694+0000",
+    "dateModification" : "2022-10-25T15:27:09.548+0000",
+    "dateExportModification" : "2022-10-26T09:42:35.926+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104553068,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    }, {
+      "identifiant" : 104553069,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 104553070,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lafontainedargent.com/ma-sorciere-adoree-les-22-et-23-octobre-et-les-5-et-6-novembre-2022"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230856
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une jolie comédie de Noël pour les enfants, à partir de 3 ans, pleine d’humour et de personnages attachants. A la Fontaine d'Argent."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "C’est la nuit de Noël, Jack le cambrioleur s’introduit dans une maison où se cache un coffre-fort plein d’argent et de bijoux.\r\n \r\nMalheureusement pour Jack, les habitants de la maison ne dorment pas beaucoup et n’arrêtent pas d’interrompre son travail. Pour ne pas se faire attraper, il va devoir se faire passer pour le père Noël, ce sera une nuit drôlement mouvementée pour notre sympathique voleur !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Fontaine d'Argent - Théâtre d'humour",
+      "adresse1" : "5 Rue Fontaine d'Argent",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.453361, 43.527685 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5729787
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 36,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du samedi 17 au dimanche 18 décembre 2022 à 16h.\nMOMAIX.\n\nDu vendredi 30 au samedi 31 décembre 2022 à 16h.",
+      "libelleEn" : "From Saturday 17 to Sunday 18 December 2022 at 4 pm.\n\nFrom Friday 30 to Saturday 31 December 2022 at 4 pm.",
+      "libelleEs" : "Del sábado, 17 al domingo, 18 de diciembre de 2022 a 16.\n\nDel viernes, 30 al sábado, 31 de diciembre de 2022 a 16.",
+      "libelleIt" : "Dal sabato 17 a domenica 18 dicembre 2022 alle 16.\n\nDal venerdì 30 a sabato 31 dicembre 2022 alle 16.",
+      "libelleDe" : "Von Samstag, den 17. bis Sonntag, den 18. Dezember 2022 um 16 Uhr.\n\nVon Freitag, den 30. bis Samstag, den 31. Dezember 2022 um 16 Uhr.",
+      "libelleNl" : "Zaterdag 17 tot en met zondag 18 december 2022 om 16.00 u.\n\nVrijdag 30 tot en met zaterdag 31 december 2022 om 16.00 u.",
+      "libelleRu" : "С суббота 17 до воскресенье 18 декабря 2022  до 16h.\n\nС пятница 30 до суббота 31 декабря 2022  до 16h.",
+      "libelleZh" : "从 星期六 到 2022年12月18日, 星期日   在 小时小时.\n\n从 星期五 到 2022年12月31日, 星期六   在 小时小时.",
+      "libellePtBR" : "De Sábado 17 a Domingo 18 Dezembro 2022 para  16h.\n\nDe Sexta-feira 30 a Sábado 31 Dezembro 2022 para  16h.",
+      "libelleJa" : "土曜日 17 から 日曜日 18 12月 2022 まで 4 午後 に.\n\n金曜日 30 から 土曜日 31 12月 2022 まで 4 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24588654,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-18",
+      "complementHoraire" : {
+        "libelleFr" : "MOMAIX"
+      },
+      "horaireOuverture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24588654
+    }, {
+      "identifiant" : 24588655,
+      "dateDebut" : "2022-12-30",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24588655
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 10 €.\n",
+      "libelleEn" : "Full price: 10 €.\n",
+      "libelleEs" : "Tarifa completa: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: 10 €.\n",
+      "libelleDe" : "Voller Preis: 10 €.\n",
+      "libelleNl" : "Vol tarief: € 10.\n",
+      "libelleRu" : "Полную цену : 10 €.\n",
+      "libelleZh" : "全额 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: 10 €.\n",
+      "libelleJa" : "通常料金: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13796657,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6885107,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5230856
+      },
+      "nom" : "La Fontaine d'Argent - Théâtre d'humour",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104553065,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lafontainedargent.com/le-cambrioleur-de-noel-les-17-18-30-et-31-decembre-2022"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21489400,
+    "referent" : true,
+    "moyensCommunication" : [ {
+      "identifiant" : 104553066,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@lafontainedargent.com"
+      }
+    }, {
+      "identifiant" : 104553067,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 43 80"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14545311,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Fontaine d'Argent"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/115/14906339.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/115/14906339-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/115/14906339-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/115/14906339-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "voleur",
+      "taille" : 246587,
+      "hauteur" : 1606,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-25T15:27:09.772+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-17", "2022-12-18", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2230
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "La Fontaine d'Argent - Théâtre d'humour"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

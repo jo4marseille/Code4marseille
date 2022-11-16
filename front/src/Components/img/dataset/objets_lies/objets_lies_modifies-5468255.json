@@ -1,0 +1,115 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5468255,
+  "nom" : {
+    "libelleFr" : "Maison de la Culture de Trets",
+    "libelleEn" : "Maison de la Culture de Trets",
+    "libelleIt" : "Maison de la Culture de Trets",
+    "libelleDe" : "Maison de la Culture de Trets",
+    "libelleNl" : "Maison de la Culture de Trets"
+  },
+  "identifier" : "SITRA2_STR_5468255",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:40:11.518+0000",
+    "dateModification" : "2022-06-23T08:26:10.410+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Trets",
+      "dateCreation" : "2020-10-19T07:00:50.696+0000",
+      "dateModification" : "2022-10-24T08:49:45.505+0000",
+      "id" : 2110,
+      "siteWeb" : "http://trets.fr"
+    },
+    "signalerUnProblemeMails" : [ "regie.tourisme@ville-de-trets.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77077429,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 23 78"
+      }
+    }, {
+      "identifiant" : 77077430,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-de-trets.fr"
+      }
+    }, {
+      "identifiant" : 77077431,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://trets.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Nelson Mandela",
+      "adresse2" : "15 Avenue Mlirabeau",
+      "codePostal" : "13530",
+      "commune" : {
+        "id" : 4521
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.682588, 43.447486 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4521
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

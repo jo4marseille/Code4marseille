@@ -1,0 +1,193 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228559,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme des Saintes Maries de la Mer",
+    "libelleEn" : "Office de Tourisme des Saintes Maries de la Mer",
+    "libelleEs" : "Office de Tourisme des Saintes Maries de la Mer",
+    "libelleIt" : "Office de Tourisme des Saintes Maries de la Mer",
+    "libelleDe" : "Office de Tourisme des Saintes Maries de la Mer",
+    "libelleNl" : "Office de Tourisme des Saintes Maries de la Mer"
+  },
+  "identifier" : "SITRA2_STR_5228559",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:25:23.532+0000",
+    "dateModification" : "2022-06-17T11:25:57.743+0000",
+    "dateExportModification" : "2022-06-17T11:25:57.902+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537773,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 82 55"
+      }
+    }, {
+      "identifiant" : 70537774,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 88 77"
+      }
+    }, {
+      "identifiant" : 70537775,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 71 15"
+      }
+    }, {
+      "identifiant" : 70537776,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@saintesmaries.com"
+      }
+    }, {
+      "identifiant" : 70537777,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.saintesmaries.com"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "78276807100014",
+      "codeApeNaf" : "9712"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "5 Avenue Van Gogh",
+      "codePostal" : "13732",
+      "cedex" : "73",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.427001, 43.449914 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18024063,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "RONAT",
+    "prenom" : "Rachel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 462
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81963338,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 82 55"
+      }
+    } ]
+  }, {
+    "identifiant" : 18024068,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "FABI",
+    "prenom" : "Frédéric",
+    "titre" : {
+      "libelleFr" : "Responsable établissement"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81963369,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 82 55"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

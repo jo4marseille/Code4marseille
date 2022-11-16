@@ -1,0 +1,336 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5466992,
+  "nom" : {
+    "libelleFr" : "Le marché aux fruits et légumes d'Aix-en-Provence",
+    "libelleEn" : "The fruit and vegetable market of Aix-en-Provence",
+    "libelleEs" : "El mercado de frutas y verduras de Aix-en-Provence",
+    "libelleIt" : "Le marché aux fruits et légumes",
+    "libelleDe" : "Der Obst- und Gemüsemarkt in Aix-en-Provence",
+    "libelleNl" : "Le marché aux fruits et légumes"
+  },
+  "identifier" : "SITRA2_EVE_5466992",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:02:43.575+0000",
+    "dateModification" : "2022-09-26T06:26:06.486+0000",
+    "dateExportModification" : "2022-11-07T09:49:08.516+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77002296,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 90 00"
+      }
+    }, {
+      "identifiant" : 77002300,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovence.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5463105
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez les couleurs et les senteurs de Provence réunis sur ce marché traditionnel",
+      "libelleEn" : "Find the colors and scents of Provence gathered on this traditional market",
+      "libelleEs" : "Descubra los colores y aromas de la Provenza en este mercado tradicional",
+      "libelleDe" : "Finden Sie die Farben und Düfte der Provence vereint auf diesem traditionellen Markt wieder."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous trouverez sur le marché quotidien des places Comtales, des producteurs, fruits et légumes, huile d'olive, œufs, fromages de chèvres, miel, guirlandes d'ail, herbes aromatiques et bien d'autres saveurs.",
+      "libelleEn" : "You will find on this daily market producers of fruit, vegetables, olive oil, eggs, goat cheese, honey, garlic garlands, herbs and other flavors. \r\n\r\nThe market will be present on the Places Verdun and Prêcheurs on Tuesday, Thursday and Saturday from 8.30am till 1pm.",
+      "libelleEs" : "El mercado diario de la plaza Comtales ofrece productores, frutas y verduras, aceite de oliva, huevos, queso de cabra, miel, guirnaldas de ajo, hierbas aromáticas y mucho más.",
+      "libelleDe" : "Auf dem täglichen Markt auf den gräflichen Plätzen finden Sie Produzenten, Obst und Gemüse, Olivenöl, Eier, Ziegenkäse, Honig, Knoblauchgirlanden, aromatische Kräuter und viele andere Geschmäcker."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1676
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Tous les jours sur la place Richelme et Les mardis, jeudis et samedis places Comtales",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.448101, 43.529335 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5536926
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours de 8h30 à 13h.\nTous les jours sur la place Richelme\r\nLes mardis, jeudis et samedis places Comtales.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily between 8.30 am and 1 pm.\nEvery day on the Place Richelme\r\nTuesdays, Thursdays and Saturdays on the Place Comtales.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias de 8:30 a 13.\nTodos los días en la plaza Richelme\r\nMartes, jueves y sábados en la plaza Comtales.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno dalle 8:30 alle 13.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich von 8.30 Uhr bis 13 Uhr.\nTäglich auf dem Place Richelme\r\nDienstags, donnerstags und samstags Place Comtales.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag van 8.30 tot en met 13.00 u.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно с 8h30 до 13h.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias de 8h30 a  13h.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日 8.30 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20433486,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Tous les jours sur la place Richelme\r\nLes mardis, jeudis et samedis places Comtales",
+        "libelleEn" : "Every day on the Place Richelme\r\nTuesdays, Thursdays and Saturdays on the Place Comtales",
+        "libelleEs" : "Todos los días en la plaza Richelme\r\nMartes, jueves y sábados en la plaza Comtales",
+        "libelleDe" : "Täglich auf dem Place Richelme\r\nDienstags, donnerstags und samstags Place Comtales"
+      },
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24365539
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8589246,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT055970_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Daniel Kapikian"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/114/8352301.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/114/8352301-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/114/8352301-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/114/8352301-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 848875,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T15:32:39.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589247,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT055970_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Daniel Kapikian"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/114/8352302.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/114/8352302-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/114/8352302-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/46/114/8352302-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 661374,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T15:32:41.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8589248,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT055970_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Daniel Kapikian"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/114/8352303.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/114/8352303-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/114/8352303-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/114/8352303-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 538609,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-31T15:32:40.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Tous les jours sur la place Richelme et Les mardis, jeudis et samedis places Comtales"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT055970"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

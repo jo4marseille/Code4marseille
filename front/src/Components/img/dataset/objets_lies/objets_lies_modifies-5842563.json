@@ -1,0 +1,334 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5842563,
+  "nom" : {
+    "libelleFr" : "Mettez les voiles ! Balade découverte de la voile et de l'étang de Berre"
+  },
+  "identifier" : "SITRA2_ACT_5842563",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-17T13:19:55.460+0000",
+    "dateModification" : "2022-05-31T09:51:25.059+0000",
+    "dateExportModification" : "2022-05-31T09:51:25.255+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5570208
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Partez à la découverte des rives de l’étang de Berre avec le mentor, voilier de l’association l’ANOI. 4 soirs par semaine, pour un moment des plus paisibles au coucher du soleil sur l'étang de Berre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Observez les rives de l'étang, ses plages et criques préservées. Au large, le bateau jette l'ancre pour un moment de liberté avec baignade et apéritif en toute convivialité, offert par le club. Tout au long de la balade, le moniteur vous parlera de cet étang unique et de son environnement."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Base nautique Les Heures Claires",
+      "adresse1" : "Chemin du Port",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.997406, 43.499681 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15471
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540758
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 5416
+    } ],
+    "ageMin" : 60,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/06 au 28/06/2022, tous les mardis de 18h à 20h.\n\nDu lundi 4 au samedi 9 juillet 2022, tous les lundis, mardis et samedis de 18h à 20h.\n\nDu 11/07 au 03/09/2022, tous les lundis, mardis, jeudis et samedis de 18h à 20h.\nDe 18 à 20h.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "From 07/06 to 28/06/2022, every Tuesday between 6 pm and 8 pm.\n\nFrom Monday 4 to Saturday 9 July 2022, every Monday, Tuesday and Saturday between 6 pm and 8 pm.\n\nFrom 11/07 to 03/09/2022, every Monday, Tuesday, Thursday and Saturday between 6 pm and 8 pm.\n\nSubject to favorable weather.",
+      "libelleEs" : "Del 07/06 al 28/06/2022, todos los martes de 18 a 20.\n\nDel lunes, 4 al sábado, 9 de julio de 2022, todos los lunes, martes y sábados de 18 a 20.\n\nDel 11/07 al 03/09/2022, todos los lunes, martes, jueves y sábados de 18 a 20.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Dal 07/06 al 28/06/2022, tutti i martedì dalle 18 alle 20.\n\nDal lunedì 4 a sabato 9 luglio 2022, tutti i lunedì, martedì e sabati dalle 18 alle 20.\n\nDal 11/07 al 03/09/2022, tutti i lunedì, martedì, giovedì e sabati dalle 18 alle 20.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Vom 07/06 bis 28/06/2022, jeden Dienstag von 18 Uhr bis 20 Uhr.\n\nVon Montag, den 4. bis Samstag, den 9. Juli 2022, jeden Montag, Dienstag und Samstag von 18 Uhr bis 20 Uhr.\n\nVom 11/07 bis 03/09/2022, jeden Montag, Dienstag, Donnerstag und Samstag von 18 Uhr bis 20 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Van 07/06 tot en met 28/06/2022, elke dinsdag van 18.00 tot en met 20.00 u.\n\nMaandag 4 tot en met zaterdag 9 juli 2022, elke maandag, dinsdag en zaterdag van 18.00 tot en met 20.00 u.\n\nVan 11/07 tot en met 03/09/2022, elke maandag, dinsdag, donderdag en zaterdag van 18.00 tot en met 20.00 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "С 07/06 до 28/06/2022, каждый вторники с 18h до 20h.\n\nС понедельник 4 до суббота 9 июля 2022 , каждый понедельники, вторники и субботы с 18h до 20h.\n\nС 11/07 до 03/09/2022, каждый понедельники, вторники, четверги и субботы с 18h до 20h.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "从 6月7日 到 2022年6月28日, 每星期二 小时小时 和 小时小时 之间.\n\n从 星期一 到 2022年7月9日, 星期六  , 每星期一, 星期二 和 星期六 小时小时 和 小时小时 之间.\n\n从 7月11日 到 2022年9月3日, 每星期一, 星期二, 星期四 和 星期六 小时小时 和 小时小时 之间.\n\n需天气良好.",
+      "libellePtBR" : "De 07/06 a 28/06/2022, todas as terças-feiras de 18h a  20h.\n\nDe Segunda-feira 4 a Sábado 9 Julho 2022, todas as segundas-feiras, terças-feiras e sábados de 18h a  20h.\n\nDe 11/07 a 03/09/2022, todas as segundas-feiras, terças-feiras, quintas-feiras e sábados de 18h a  20h.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "07/06 から 28/06/2022 まで, 毎火曜日 6 午後 と 8 午後 の間.\n\n月曜日 4 から 土曜日 9 7月 2022 まで, 毎月曜日, 火曜日 と 土曜日 6 午後 と 8 午後 の間.\n\n11/07 から 03/09/2022 まで, 毎月曜日, 火曜日, 木曜日 と 土曜日 6 午後 と 8 午後 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23314373,
+      "dateDebut" : "2022-06-07",
+      "dateFin" : "2022-06-28",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      } ],
+      "identifiantTechnique" : 23454176
+    }, {
+      "identifiant" : 23314388,
+      "dateDebut" : "2022-07-04",
+      "dateFin" : "2022-07-09",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23454177
+    }, {
+      "identifiant" : 21212866,
+      "dateDebut" : "2022-07-11",
+      "dateFin" : "2022-09-03",
+      "complementHoraire" : {
+        "libelleFr" : "De 18 à 20h"
+      },
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23454178
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "20 € / 10 € moins de 15 ans."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "20 € / 10 € moins de 15 ans."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5856556,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89670226,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/mettez-les-voiles-balade-en-voilier-et-decouverte-de-letang-de-berre.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10354241,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade découverte de la voile"
+    },
+    "legende" : {
+      "libelleFr" : "Balade découverte de la voile"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/155/10132299.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/155/10132299-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/155/10132299-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/155/10132299-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Balade Voilier MENTOR ANOI Club Tourisme Eté 2018 (15)",
+      "taille" : 3467372,
+      "hauteur" : 3120,
+      "largeur" : 4160,
+      "lastModifiedDate" : "2021-06-24T07:02:08.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Base nautique Les Heures Claires",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1997
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 3762
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5570209
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5570209
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-09-03T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

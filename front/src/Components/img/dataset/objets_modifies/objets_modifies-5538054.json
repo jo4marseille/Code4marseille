@@ -1,0 +1,567 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538054,
+  "nom" : {
+    "libelleFr" : "Forteresse des Comtes de Provence",
+    "libelleEn" : "Le Château Féodal des Comtes de Provence",
+    "libelleEs" : "Le Château Féodal des Comtes de Provence",
+    "libelleIt" : "Le Château Féodal des Comtes de Provence",
+    "libelleDe" : "Le Château Féodal des Comtes de Provence",
+    "libelleNl" : "Le Château Féodal des Comtes de Provence"
+  },
+  "identifier" : "SITRA2_PCU_5538054",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:08:00.762+0000",
+    "dateModification" : "2022-10-20T08:53:45.801+0000",
+    "dateExportModification" : "2022-10-20T08:53:45.997+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512702,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 24 25 50"
+      },
+      "observation" : {
+        "libelleFr" : "Office de Tourisme Terre de Provence"
+      }
+    }, {
+      "identifiant" : 70512703,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil.oti@terredeprovence-agglo.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223036
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Forteresse des Comtes de Provence."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au sommet de la colline du Griffon se dresse le château des XIIème et XVème siècles. Cette ancienne forteresse des Comtes de Provence est classée monument historique. Les visites guidées permettent de découvrir Benoît XIII, un personnage hors du commun, l'architecture, la vie quotidienne et le rôle de ce site stratégique. Le jardin est une invitation à la promenade. Il est un véritable  havre de paix pour les oiseaux."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1603
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Montée des Tours",
+      "codePostal" : "13160",
+      "commune" : {
+        "id" : 4438
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "263 marches à partir de l'église.\r\nSitué sur le sommet d'un mammelon rocheux. 50m de dénivellé avec la ville."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.856908, 43.882648 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4438
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539222
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 612
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 613
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1130
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public (Parking de la Montée des Pins)\r\nParking public (Parking du château)\r\nParking pour autocar (Parking de la Montée des Pins)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMin" : 10,
+    "tailleGroupeMax" : 10
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 02/05 au 30/09, tous les mardis, mercredis, jeudis, vendredis, samedis et dimanches.\nFermeture exceptionnelle le 8 mai.\nDu Mardi au Samedi de 10h à 12h et 15h à 19h.\r\nDimanche de 15h à 19h.\n\nDu 01/10 au 30/04, tous les lundis, mardis, mercredis, jeudis, samedis et dimanches.\nFermetures exceptionnelles les 1er novembre, 11 novembre et 25 décembre.\nTous les après-midi de 15h à 17h sauf le vendredi.",
+      "libelleEn" : "From 02/05 to 30/09, every Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday.\nClosed exceptionally on May 8th.\n\nFrom 01/10 to 30/04, every Monday, Tuesday, Wednesday, Thursday, Saturday and Sunday.\nClosed exceptionally on November 1st, November 11th and December 25th.",
+      "libelleEs" : "Del 02/05 al 30/09, todos los martes, miércoles, jueves, viernes, sábados y domingos.\nSe cierra, excepcionalmente el 8 de mayo.\n\nDel 01/10 al 30/04, todos los lunes, martes, miércoles, jueves, sábados y domingos.\nSe cierra, excepcionalmente los días 1er de noviembre, 11 de noviembre y 25 de diciembre.",
+      "libelleIt" : "Dal 02/05 al 30/09, tutti i martedì, mercoledì, giovedì, venerdì, sabati e domeniche.\nChiusura eccezionale il 8 maggio.\n\nDal 01/10 al 30/04, tutti i lunedì, martedì, mercoledì, giovedì, sabati e domeniche.\nChiusura eccezionale 1° novembre, 11 novembre e 25 dicembre.",
+      "libelleDe" : "Vom 02/05 bis 30/09, jeden Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag.\nAusnahmsweise geschlossen am 8. Mai.\n\nVom 01/10 bis 30/04, jeden Montag, Dienstag, Mittwoch, Donnerstag, Samstag und Sonntag.\nAusnahmsweise geschlossen am 1. November, 11. Dezember und 25. Dezember.",
+      "libelleNl" : "Van 02/05 tot en met 30/09, elke dinsdag, woensdag, donderdag, vrijdag, zaterdag en zondag.\nBij uitzondering gesloten op 8 mei.\n\nVan 01/10 tot en met 30/04, elke maandag, dinsdag, woensdag, donderdag, zaterdag en zondag.\nBij uitzondering gesloten op 1er november, 11 november en 25 december.",
+      "libelleRu" : "С 02/05 до 30/09, каждый вторники, среды, четверги, пятницы, субботы и воскресенья.\nВ порядке исключения не работает 8 мая.\n\nС 01/10 до 30/04, каждый понедельники, вторники, среды, четверги, субботы и воскресенья.\nВ порядке исключения не работает 1 ноября, 11 ноября и 25 декабря.",
+      "libelleZh" : "从 5月2日 到 9月30日, 每星期二, 星期三, 星期四, 星期五, 星期六 和 星期日.\n在 5月8日 例外关闭.\n\n从 10月1日 到 4月30日, 每星期一, 星期二, 星期三, 星期四, 星期六 和 星期日.\n在 11月1日, 11月11日 和 12月25日 例外关闭.",
+      "libellePtBR" : "De 02/05 a 30/09, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras, sábados e domingos.\nFechamento excepcional em 8 de maio.\n\nDe 01/10 a 30/04, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras, sábados e domingos.\nFechamentos excepcionais em 1º de novembro, 11 de novembro e 25 de dezembro.",
+      "libelleJa" : "02/05 から 30/09 まで, 毎火曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日.\n5月8日 は特別休業.\n\n01/10 から 30/04 まで, 毎月曜日, 火曜日, 水曜日, 木曜日, 土曜日 と 日曜日.\n11月1日, 11月11日 と 12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19373987,
+      "dateDebut" : "2023-05-02",
+      "dateFin" : "2023-09-30",
+      "complementHoraire" : {
+        "libelleFr" : "Du Mardi au Samedi de 10h à 12h et 15h à 19h.\r\nDimanche de 15h à 19h."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24542321
+    }, {
+      "identifiant" : 20502035,
+      "dateDebut" : "2021-10-01",
+      "dateFin" : "2022-04-30",
+      "complementHoraire" : {
+        "libelleFr" : "Tous les après-midi de 15h à 17h sauf le vendredi."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24542322
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "HUIT_MAI"
+    }, {
+      "dateSpeciale" : "PREMIER_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "ONZE_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Du 01/10/2022 au 30/04/2023\nPlein tarif : 5 €\nTarif réduit : 3 €.\n\nDu 02/05 au 30/09/2023\nPlein tarif : 5 €\nTarif réduit : 3 €.\n\n Gratuit pour les moins de 12 ans, les personnes handicapées.\n Tarif groupe à partir de 10 personnes.",
+      "libelleEn" : "From 01/10/2022 to 30/04/2023\nFull price: 5 €\nReduced price: 3 €.\n\nFrom 02/05 to 30/09/2023\nFull price: 5 €\nReduced price: 3 €.\n\n Free entry for children < 12 years, disabled people.\n Group rate available for > 10 people.",
+      "libelleEs" : "Del 01/10/2022 al 30/04/2023\nTarifa completa: 5 €\nPrecio reducido: 3 €.\n\nDel 02/05 al 30/09/2023\nTarifa completa: 5 €\nPrecio reducido: 3 €.\n\n Gratuito para los niños menores de 12 años, personas discapacitadas.\n Tarifa grupo a partir de 10 personas.",
+      "libelleIt" : "Dal 01/10/2022 al 30/04/2023\nTarrifa intera: 5 €\nPrezzo ridotto: 3 €.\n\nDal 02/05 al 30/09/2023\nTarrifa intera: 5 €\nPrezzo ridotto: 3 €.\n\n Gratuito per i bambini di età inferiore a 12 anni, persone disabili.\n Tariffa gruppi a partire da 10 persone.",
+      "libelleDe" : "Vom 01/10/2022 bis 30/04/2023\nVoller Preis: 5 €\nReduzierter Preis: 3 €.\n\nVom 02/05 bis 30/09/2023\nVoller Preis: 5 €\nReduzierter Preis: 3 €.\n\n Kostenlos für Kinder unter 12 Jahren, behinderte Menschen.\n Gruppentarif ab 10 Personen.",
+      "libelleNl" : "Van 01/10/2022 tot en met 30/04/2023\nVol tarief: € 5\nKorting: € 3.\n\nVan 02/05 tot en met 30/09/2023\nVol tarief: € 5\nKorting: € 3.\n\n Gratis voor kinderen onder de 12 jaar, mensen met een handicap.\n Groepstarief vanaf 10 personen.",
+      "libelleRu" : "С 01/10/2022 до 30/04/2023\nполную цену : 5 €\nСниженная цена : 3 €.\n\nС 02/05 до 30/09/2023\nполную цену : 5 €\nСниженная цена : 3 €.\n\n Бесплатно для лицам младше 12 лет, инвалиды.\n Групповой тариф, начиная с 10 человек.",
+      "libelleZh" : "从 2022年10月1日 到 2023年4月30日\n全额 : 5 €\n减价 : 3 €.\n\n从 5月2日 到 2023年9月30日\n全额 : 5 €\n减价 : 3 €.\n\n 儿童 < 12 岁, 残疾人自由进入.\n 团队价格适用于 10 人以上.",
+      "libellePtBR" : "De 01/10/2022 a 30/04/2023\nTarifa inteira: 5 €\nPreço reduzido: 3 €.\n\nDe 02/05 a 30/09/2023\nTarifa inteira: 5 €\nPreço reduzido: 3 €.\n\n Gratuito para menores de 12 anos, os deficientes.\n Tarifa de grupo a partir de 10 pessoas.",
+      "libelleJa" : "01/10/2022 から 30/04/2023 まで\n通常料金: 5 €\n割引料金: 3 €.\n\n02/05 から 30/09/2023 まで\n通常料金: 5 €\n割引料金: 3 €.\n\n 子供 < 12 歳, 障害者 は入場無料.\n 団体料金利用可 > 10 人."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13677396,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2023-04-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      } ]
+    }, {
+      "identifiant" : 13677397,
+      "dateDebut" : "2023-05-02",
+      "dateFin" : "2023-09-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 3.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionsGratuite" : [ {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4255
+      } ],
+      "gratuitPourLesMoinsDe" : 12
+    }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16902
+  }, {
+    "id" : 23526
+  } ],
+  "contacts" : [ {
+    "identifiant" : 19076178,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Fournier",
+    "prenom" : "Vincent",
+    "titre" : {
+      "libelleFr" : "Visites guidées"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9522459,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Château Féodal des Comtes de Provence"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/158/9281267.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/158/9281267-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/158/9281267-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/158/9281267-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ChateaurenardChateau 78",
+      "taille" : 4322474,
+      "hauteur" : 1873,
+      "largeur" : 2806,
+      "lastModifiedDate" : "2021-02-11T14:51:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9522546,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Blason de Châteaurenard"
+    },
+    "copyright" : {
+      "libelleFr" : "OTI_LG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/74/159/9281354.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/74/159/9281354-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/74/159/9281354-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/74/159/9281354-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ChateaurenardPatrimoineChateau (103)",
+      "taille" : 8132693,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-02-11T14:51:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9522547,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Vue depuis la tour"
+    },
+    "copyright" : {
+      "libelleFr" : "OTI_LG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/159/9281355.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/159/9281355-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/159/9281355-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/159/9281355-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ChateaurenardPatrimoineChateau (110)",
+      "taille" : 6838865,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-02-11T14:52:00.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9522548,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OTI_LG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/159/9281356.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/159/9281356-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/159/9281356-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/159/9281356-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ChateaurenardPatrimoineChateau (128)",
+      "taille" : 7399442,
+      "hauteur" : 5184,
+      "largeur" : 3456,
+      "lastModifiedDate" : "2021-02-11T14:51:58.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9522549,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "OTI_LG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/159/9281357.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/159/9281357-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/159/9281357-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/159/9281357-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ChateaurenardPatrimoineChateau (202)",
+      "taille" : 9074766,
+      "hauteur" : 3456,
+      "largeur" : 5184,
+      "lastModifiedDate" : "2021-02-11T14:52:04.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1230
+    } ],
+    "nombreSallesReunionEquipees" : 5,
+    "capaciteMaxAccueil" : 30
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1189
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1200
+    } ],
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-07", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-14", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-20", "2023-05-21", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-28", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-04", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-11", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-18", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-25", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-02", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-09", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-14", "2023-07-15", "2023-07-16", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-23", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-30", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-06", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-13", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-20", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-27", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-03", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-10", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-17", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-24", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-05", "2024-05-07", "2024-05-09", "2024-05-10", "2024-05-11", "2024-05-12", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-19", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-26", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-02", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-09", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-16", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-23", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-06-30", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-07", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-14", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-21", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-28", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-04", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-11", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-18", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-25", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-01", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-08", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-15", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-22", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-09-29", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-29", "2022-10-30", "2022-10-31", "2022-11-02", "2022-11-03", "2022-11-05", "2022-11-06", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-25", "2023-02-26", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-04", "2023-03-05", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-11", "2023-03-12", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-18", "2023-03-19", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-25", "2023-03-26", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-04-01", "2023-04-02", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-08", "2023-04-09", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-15", "2023-04-16", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-22", "2023-04-23", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-29", "2023-04-30", "2023-10-01", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-07", "2023-10-08", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-14", "2023-10-15", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-28", "2023-10-29", "2023-10-30", "2023-10-31", "2023-11-02", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-12", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-23", "2023-12-24", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-30", "2023-12-31", "2024-01-01", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-06", "2024-01-07", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-13", "2024-01-14", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-20", "2024-01-21", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-27", "2024-01-28", "2024-01-29", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-03", "2024-02-04", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-10", "2024-02-11", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-17", "2024-02-18", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-02", "2024-03-03", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-09", "2024-03-10", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-16", "2024-03-17", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-23", "2024-03-24", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-30", "2024-03-31", "2024-04-01", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-06", "2024-04-07", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-13", "2024-04-14", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-20", "2024-04-21", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-27", "2024-04-28", "2024-04-29", "2024-04-30", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-05", "2024-10-06", "2024-10-07", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-19", "2024-10-20" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3328
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3374
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3379
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 5564
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000484"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

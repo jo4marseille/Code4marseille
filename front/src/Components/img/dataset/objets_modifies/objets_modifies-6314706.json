@@ -1,0 +1,307 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6314706,
+  "nom" : {
+    "libelleFr" : "Mémoire Désir"
+  },
+  "identifier" : "SITRA2_EVE_6314706",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-02T15:11:43.856+0000",
+    "dateModification" : "2022-11-02T15:57:06.776+0000",
+    "dateExportModification" : "2022-11-02T15:57:08.300+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104836350,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 53 84 37 61"
+      }
+    }, {
+      "identifiant" : 104836351,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@hoteldegallifet.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223184
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour \"Mémoire Désir\", Morgane Baroghel-Crucq propose une curation d’œuvres réalisées par des artistes artisans qui posent un regard contemporain sur le paysage à travers des savoir-faire millénaires."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Une exposition d'oeuvres-matières\r\n\r\n\"The landscape in which identity is supposed to be grounded is not solid stuff; it’s made out of memory and desire, rather than rock and soil.\"\r\n\r\nDans ce très bel extrait de \"A Field Guide to Getting Lost\", qui a inspiré cette exposition, Rebecca Solnit écrit que nous ne percevons pas les paysages qui ont fondé notre identité en tant que roches et terres matérielles mais à travers le filtre de notre mémoire et de notre désir. Nous transformons et sublimons ces territoires.\r\nLa matière, empruntée au paysage, constitue la mémoire de l’œuvre et est façonnée par un geste maîtrisé. Les artistes révèlent ainsi une vision sublimée de leur environnement.\r\n\r\nL’artisanat d’art, dans son rapport au temps, dans sa mesure et son humilité, nous rapproche de la terre, nous reconnecte à sa puissance, son abondance et sa patience. Loin d’être un catalogue de gestes d’artisans, cette sélection propose une rencontre avec des œuvres matières, des pièces uniques qui sont autant d’objets manifestes, des matières incarnées."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de Gallifet",
+      "adresse1" : "52 Rue Cardinale",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447867, 43.525141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539502
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11/2022 au 28/01/2023, tous les jours de 12h à 18h.",
+      "libelleEn" : "From 11/11/2022 to 28/01/2023, daily between 12 pm and 6 pm.",
+      "libelleEs" : "Del 11/11/2022 al 28/01/2023, todos los dias de 12 a 18.",
+      "libelleIt" : "Dal 11/11/2022 al 28/01/2023, ogni giorno dalle 12 alle 18.",
+      "libelleDe" : "Vom 11/11/2022 bis 28/01/2023, täglich von 12 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 11/11/2022 tot en met 28/01/2023, iedere dag van 12.00 tot en met 18.00 u.",
+      "libelleRu" : "С 11/11/2022 до 28/01/2023, ежедневно с 12h до 18h.",
+      "libelleZh" : "从 2022年11月11日 到 2023年1月28日, 日常 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 11/11/2022 a 28/01/2023, todos os dias de 12h a  18h.",
+      "libelleJa" : "11/11/2022 から 28/01/2023 まで, 毎日 12 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24680906,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-28",
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24680906
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21529222,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Mazet",
+    "prenom" : "Nicolas",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104836352,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nicolasmazet@gmail.com"
+      }
+    }, {
+      "identifiant" : 104836353,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 60 08 56 13"
+      }
+    } ]
+  }, {
+    "identifiant" : 21529581,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Perniola",
+    "prenom" : "Simona",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104838701,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "simona@hoteldegallifet.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14731211,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Morgane Baroghel-Crucq"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/132/15107186.jpeg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/132/15107186-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/132/15107186-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/132/15107186-diaporama.jpg",
+      "extension" : "jpeg",
+      "fileName" : "ANTONIN_ANZILÂ©Antonin_Anzil",
+      "taille" : 1250326,
+      "hauteur" : 2016,
+      "largeur" : 1512,
+      "lastModifiedDate" : "2022-11-02T15:57:06.955+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2069
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2169
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 4068
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 4069
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nbParticipantsAttendu" : 15,
+    "nbVisiteursAttendu" : 4000,
+    "nomLieu" : "Hôtel de Gallifet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-28T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

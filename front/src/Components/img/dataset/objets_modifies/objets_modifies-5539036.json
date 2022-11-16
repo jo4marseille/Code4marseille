@@ -1,0 +1,294 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539036,
+  "nom" : {
+    "libelleFr" : "Centre ancien de Grans",
+    "libelleEn" : "Le Centre Ancien",
+    "libelleIt" : "Le Centre Ancien",
+    "libelleDe" : "Le Centre Ancien",
+    "libelleNl" : "Le Centre Ancien"
+  },
+  "identifier" : "SITRA2_PCU_5539036",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T11:01:41.223+0000",
+    "dateModification" : "2020-12-11T13:04:31.093+0000",
+    "dateExportModification" : "2022-09-05T08:52:08.442+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Provence Tourisme",
+      "dateCreation" : "2019-11-08T09:11:11.347+0000",
+      "dateModification" : "2022-10-24T08:49:52.230+0000",
+      "id" : 1947,
+      "siteWeb" : "http://www.myprovence.fr"
+    },
+    "signalerUnProblemeMails" : [ "abartorello@myprovence.fr", "ccombrie@myprovence.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85019828,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 55 99 71"
+      }
+    }, {
+      "identifiant" : 85019829,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "otgrans@orange.fr"
+      }
+    }, {
+      "identifiant" : 85019835,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.grans.fr/sorties/point-accueil-tourisme"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5688638
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le centre ancien comprend un ensemble remarquable de façades ornées (fin 18e- début 19e siècles) en particulier sur le cours Camille Pelletan."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Plusieurs façades sont datées du règne de Louis XV (style Rocaille provençal) en particulier le n°34, à décor de mascarons l'hôtel au n°29 présente une façade à trois niveaux, scandés de panneaux sculptés de feuilles de chênes et d'oliviers, les fenêtres encadrées de crosses de fougères. Au n° 36, la façade d'inspiration néo-classique est ornée de pilastres collosaux cannelés unifiant les deux niveaux supérieurs d'une seule envolée. \r\nCe parti néo-classique sera repris à la Restauration (début 19e siècle), en plus emphatie et rigoureux avec épaississement des pilastres et augmentation du décor et de l'entablement, en particulier sur les hôtels place de la Fontaine d'Or et rue du Four. Le luxe de ces belles demeures de la bourgeoisie foncière locale, qui puise ses revenus dans la culture du mûrier et de l'olivier, dénote un sens du décor urbain, qui détonne dans un milieu rural et semble avoir été l'oeuvre d'architectes avignonnais ou aixois."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Boulevard Victor Jauffret",
+      "codePostal" : "13450",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4455
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.064035, 43.607887 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4455
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538345
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01/2019 au 31/12/2021, tous les jours.",
+      "libelleEn" : "From 01/01/2019 to 31/12/2021, daily.",
+      "libelleEs" : "Del 01/01/2019 al 31/12/2021, todos los dias.",
+      "libelleIt" : "Dal 01/01/2019 al 31/12/2021, ogni giorno.",
+      "libelleDe" : "Vom 01/01/2019 bis 31/12/2021, täglich.",
+      "libelleNl" : "Van 01/01/2019 tot en met 31/12/2021, iedere dag.",
+      "libelleRu" : "С 01/01/2019 до 31/12/2021, ежедневно.",
+      "libelleZh" : "从 2019年1月1日 到 2021年12月31日, 日常.",
+      "libellePtBR" : "De 01/01/2019 a 31/12/2021, todos os dias.",
+      "libelleJa" : "01/01/2019 から 31/12/2021 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19373332,
+      "dateDebut" : "2019-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 20153383
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 23313
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8489868,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000022_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits réservés."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/5/8258912.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/5/8258912-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/5/8258912-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/5/8258912-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 14939,
+      "hauteur" : 183,
+      "largeur" : 276,
+      "lastModifiedDate" : "2020-07-23T17:31:46.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8489869,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000022_2_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Droits réservés."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/5/8258913.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/5/8258913-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/5/8258913-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/5/8258913-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 17448,
+      "hauteur" : 276,
+      "largeur" : 183,
+      "lastModifiedDate" : "2020-07-23T17:31:46.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000022"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Provence Tourisme"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myprovence.fr"
+    }
+  } ]
+}

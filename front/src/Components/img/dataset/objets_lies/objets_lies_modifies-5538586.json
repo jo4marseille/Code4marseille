@@ -1,0 +1,471 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538586,
+  "nom" : {
+    "libelleFr" : "Villa Santa Lucia",
+    "libelleEn" : "Villa Santa Lucia",
+    "libelleIt" : "Villa Santa Lucia",
+    "libelleDe" : "Villa Santa Lucia",
+    "libelleNl" : "Villa Santa Lucia"
+  },
+  "identifier" : "SITRA2_PCU_5538586",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T19:57:11.635+0000",
+    "dateModification" : "2022-04-04T14:28:56.216+0000",
+    "dateExportModification" : "2022-07-01T09:40:55.236+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79630796,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 12 25 97 21"
+      }
+    }, {
+      "identifiant" : 79630797,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "movogelin@sfr.fr"
+      }
+    }, {
+      "identifiant" : 79630798,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "leopold.renard@gmail.com"
+      }
+    }, {
+      "identifiant" : 79630799,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "renard-elise@yahoo.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224221
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Située à Marseille, au coeur du Roucas Blanc, cette propriété, domine la Corniche Kennedy, au-dessus de l'anse du Prophète."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L'ensemble, datant du XIXe siècle, est constitué d'une demeure sur la partie haute du terrain et d'un vaste jardin clos de murs, composé d'une suite de terrasses sur plusieurs niveaux descendant vers la mer.\r\nLa maison et le jardin, adossés au rocher, se confondent dans une architecture complexe de grottes, cascades, serre, belvédère et sous-sol aménagés en pièces d'agrément. La villa est l'écrin de superbes décors de rocaille : l'art de la rocaille y est porté à son apogée (certains décors sont signés de Gaspard Gardini).\r\n\r\nLe jardin présente une collection de végétaux méditerranéens et subtropicaux rassemblant plus de 200 espèces, dont beaucoup d'essences rares.\r\n\r\nOuvert au public toute l'année sur rendez-vous, et de mi-juin à fin septembre sans rendez-vous du dimanche au mercredi inclus, ainsi que pour les Journées Européennes du Patrimoine.\r\n\r\nPossibilité de louer les jardins pour un événement, un séminaire, un tournage."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "60 Traverse Nicolas",
+      "codePostal" : "13007",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Escaliers de la Napoule depuis la Corniche, au niveau de la plage du Prophète.\r\nLigne 83, 73 Prophète : Arrêt de bus à 0.2km\r\nLigne 55 : Arrêt de bus à 0.2km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.363556, 43.274405 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538394
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 916
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 666
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3651
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 15/06 au 30/09/2022 de 8h à 14h.\nFermé jeudi, vendredi et samedi.\nOuvert les dimanches, lundis, mardis, mercredis et jours fériés de 8h à 14h ainsi qu.",
+      "libelleEn" : "From 15/06 to 30/09/2022 between 8 am and 2 pm.\nClosed Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 15/06 al 30/09/2022 de 8 a 14.\nCerrado jueves, viernes y sábado.",
+      "libelleIt" : "Dal 15/06 al 30/09/2022 dalle 8 alle 14.\nChiuso giovedì, venerdì e sabato.",
+      "libelleDe" : "Vom 15/06 bis 30/09/2022 von 8 Uhr bis 14 Uhr.\nDonnerstag, Freitag und Samstag geschlossen.",
+      "libelleNl" : "Van 15/06 tot en met 30/09/2022 van 8.00 tot en met 14.00 u.\nDonderdag, vrijdag en zaterdag gesloten.",
+      "libelleRu" : "С 15/06 до 30/09/2022 с 8h до 14h.\nНе работает четверг, пятница и суббота.",
+      "libelleZh" : "从 6月15日 到 2022年9月30日 小时小时 和 小时小时 之间.\n星期四, 星期五 和 星期六 关闭.",
+      "libellePtBR" : "De 15/06 a 30/09/2022 de 8h a  14h.\nFechado em quinta-feira, sexta-feira e sábado.",
+      "libelleJa" : "15/06 から 30/09/2022 まで 8 午前 と 2 午後 の間.\n木曜日, 金曜日 と 土曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19519155,
+      "dateDebut" : "2022-06-15",
+      "dateFin" : "2022-09-30",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert les dimanches, lundis, mardis, mercredis et jours fériés de 8h à 14h ainsi qu"
+      },
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "14:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23045425
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée : 6€ / Adulte\r\nEntrée : 3€"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "Entrée : 6€ / Adulte\r\nEntrée : 3€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16637
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636882,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 441
+    },
+    "nom" : "RENARD",
+    "prenom" : "Elise",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 464
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82275339,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 22 65 52 05"
+      }
+    }, {
+      "identifiant" : 82275340,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "villasantalucia.mh@gmail.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17636883,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "VOGELIN",
+    "prenom" : "Marie-Odile",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82275341,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 12 25 97 21"
+      }
+    }, {
+      "identifiant" : 82275342,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "movogelin@sfr.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 17636884,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "RENARD",
+    "prenom" : "Léopold",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 464
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82275343,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 10 07 50"
+      }
+    }, {
+      "identifiant" : 82275344,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 99 81 70"
+      }
+    }, {
+      "identifiant" : 82275345,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "avocats@renardassocies.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12787832,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Villa Santa Lucia Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Vue mer et jardin"
+    },
+    "copyright" : {
+      "libelleFr" : "Villa Santa Lucia Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/10/12978882.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/10/12978882-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/10/12978882-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/10/12978882-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Vue Mer",
+      "taille" : 1413939,
+      "hauteur" : 1692,
+      "largeur" : 2816,
+      "lastModifiedDate" : "2022-04-04T14:22:54.888+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10400793,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Villa Santa Lucia Marseille.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "DR E. Renard"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/83/10179395.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/83/10179395-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/83/10179395-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/83/10179395-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 51381,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2021-07-01T12:39:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "languesVisite" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : false,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 483
+    } ],
+    "prestationsVisitesGroupees" : [ {
+      "elementReferenceType" : "PrestationVisiteGroupee",
+      "id" : 491
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3500
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 6030
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-09-30T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MO000384"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

@@ -1,0 +1,233 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6317353,
+  "nom" : {
+    "libelleFr" : "Celeste Rojas Mugica"
+  },
+  "identifier" : "SITRA2_EVE_6317353",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-04T15:39:30.905+0000",
+    "dateModification" : "2022-11-04T15:43:55.069+0000",
+    "dateExportModification" : "2022-11-04T15:43:55.643+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104915643,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://p-a-c.fr/les-membres/galerie-librairie-zoeme/exposition"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558885
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Inventaire de l’artiste chilienne Celeste Rojas Mugica qui rend compte de la fonction critique et de la puissance créatrice des gestes iconoclastes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Inventario Iconoclasta de la Insurrección Chilena.\r\n\r\nÀ rebours des représentations médiatiques et des discours politiques qui fustigent l’iconoclasme, dénonçant une volonté de destruction qui menacerait l’ordre démocratique, cette inventaire de l’artiste chilienne Celeste Rojas Mugica rend compte de la fonction critique et de la puissance créatrice des gestes iconoclastes. Entre octobre 2019 et mars 2020, le Chili a connu l’un des plus vastes mouvements sociaux de son histoire. Durant les manifestations, de nombreuses statues et monuments publics ont été l’objet de gestes iconoclastes dans tout le pays. Elle a collecté sur les réseaux sociaux des centaines de photographies prises par les manifestant-e-s, qui donnent à voir l’ampleur et la diversité des interventions sur la statuaire publique. Les images ont été retravaillées et réunies dans une archive visuelle en ligne.\r\n\r\nCeleste Rojas Mugica née en 1987, Santiago, Chili est une artiste visuelle, photographe et cinéaste."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Zoème",
+      "adresse1" : "8 Rue Vian",
+      "codePostal" : "13006",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383665, 43.294681 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466379
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 19/01 au 04/02/2023 de 11h à 19h.\nFermé lundi et dimanche.\nDu mardi à samedi de 11h à 19h.",
+      "libelleEn" : "From 19/01 to 04/02/2023 between 11 am and 7 pm.\nClosed Monday and Sunday.",
+      "libelleEs" : "Del 19/01 al 04/02/2023 de 11 a 19.\nCerrado lunes y domingo.",
+      "libelleIt" : "Dal 19/01 al 04/02/2023 dalle 11 alle 19.\nChiuso lunedì e domenica.",
+      "libelleDe" : "Vom 19/01 bis 04/02/2023 von 11 Uhr bis 19 Uhr.\nMontag und Sonntag geschlossen.",
+      "libelleNl" : "Van 19/01 tot en met 04/02/2023 van 11.00 tot en met 19.00 u.\nMaandag en zondag gesloten.",
+      "libelleRu" : "С 19/01 до 04/02/2023 с 11h до 19h.\nНе работает понедельник и воскресенье.",
+      "libelleZh" : "从 1月19日 到 2023年2月4日 小时小时 和 小时小时 之间.\n星期一 和 星期日 关闭.",
+      "libellePtBR" : "De 19/01 a 04/02/2023 de 11h a  19h.\nFechado em segunda-feira e domingo.",
+      "libelleJa" : "19/01 から 04/02/2023 まで 11 午前 と 7 午後 の間.\n月曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24700258,
+      "dateDebut" : "2023-01-19",
+      "dateFin" : "2023-02-04",
+      "complementHoraire" : {
+        "libelleFr" : "Du mardi à samedi de 11h à 19h"
+      },
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24700258
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14771030,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Celeste Rojas Mugica"
+    },
+    "copyright" : {
+      "libelleFr" : "Celeste Rojas Mugica"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/46/15150623.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/46/15150623-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/46/15150623-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/46/15150623-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "chili",
+      "taille" : 125039,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-11-04T15:43:55.182+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2168
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Zoème"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-02-04T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

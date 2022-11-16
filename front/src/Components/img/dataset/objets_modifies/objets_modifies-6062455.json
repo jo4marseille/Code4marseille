@@ -1,0 +1,476 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062455,
+  "nom" : {
+    "libelleFr" : "Le Panier, cœur historique de Marseille",
+    "libelleEn" : "Old Marseille and Le Panier district"
+  },
+  "identifier" : "SITRA2_EVE_6062455",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:12:42.342+0000",
+    "dateModification" : "2022-11-08T09:21:35.049+0000",
+    "dateExportModification" : "2022-11-08T23:14:08.682+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816724,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 97816725,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L'emblématique \"Panier\", le plus vieux quartier de Marseille se visite en remontant les ruelles et les escaliers qui le constituent : entre histoire, anecdotes historiques et art de vivre, découvrez le premier cœur de la ville de ses origines à nos…",
+      "libelleEn" : "The emblematic Panier is Marseille’s oldest quarter. See its ancient history unfold as you climb its steps and narrow streets. Historical facts, anecdotes and a special art of living will help you discover the original heart of Marseille from its…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites guidées sont destinées à la clientèle individuelle (réservation possible jusqu'à 9 personnes max). Pour les GROUPES (à partir de 10 personnes) : la réservation est OBLIGATOIRE auprès de notre Service Groupes : groupes@marseille-tourisme.com",
+      "libelleEn" : "2 hour stroll inside the old winding streets\n\nUps and downs with  steps along the way.\n\ngentle walk"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Le panier, cœur historique de Marseille\" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Devant le Port antique",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374080, 43.297700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nPrérequis :\nParcours pédestre\nInformations importantes :\nParcours extérieur avec escaliers\n\nPoussettes et Animaux non autorisés (sauf chiens d'assistance)\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant la visite parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui).",
+      "libelleEn" : "\nRequirements:\nWalking tour with many ups and downs\nImportant information:\nBuggies and trolleys not authorised\n\nPets not authorised (except guide dogs)\n\nYour safety is our priority:We have taken all the necessary measures to ensure your health and safetywearing of face masks is compulsory, restricted visitor numbers (in accordancewith local restrictions currently in force), and social distancing.Please note that any group activity in a public spacemay involve an increased risk of exposure to COVID-19 and theMarseille Metropolitan Convention and Visitors’ Bureau cannot be heldresponsible for the transmission of the virus. We would like to remind you that youmust comply with all local health regulations."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716876,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716876
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Les entrées aux sites/monuments.",
+      "libelleEn" : "Included: Visit included in the 72h Pass\nNot included: Entrance fees to sites and museums not included."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Les entrées aux sites/monuments",
+      "libelleEn" : "Included: Visit included in the 72h Pass\nNot included: Entrance fees to sites and museums not included"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915469,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993286,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/vieux-marseille-quartier-du-panier"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813285,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/233/15198550.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/233/15198550-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/233/15198550-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/233/15198550-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dd96410d54789432107-cropped600-400",
+      "taille" : 103847,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:39.713+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813286,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/233/15198551.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/233/15198551-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/233/15198551-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/233/15198551-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dd9b33d39f948033532-cropped600-400",
+      "taille" : 129305,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:40.094+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813287,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/233/15198552.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/233/15198552-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/233/15198552-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/88/233/15198552-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dd9f965f11535642231-cropped600-400",
+      "taille" : 128070,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:38.765+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813288,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/233/15198553.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/233/15198553-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/233/15198553-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/233/15198553-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dda1ae2100072084621-cropped600-400",
+      "taille" : 132369,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:39.094+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813289,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/233/15198554.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/233/15198554-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/233/15198554-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/233/15198554-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dda4d872f8997544200-cropped600-400",
+      "taille" : 135229,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:38.155+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813290,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/15198555.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/15198555-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/15198555-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/233/15198555-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6dda74633c8130511726-cropped600-400",
+      "taille" : 119254,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:38.449+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813291,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier, cœur historique de Marseille",
+      "libelleEn" : "Old Marseille and Le Panier district"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/233/15198556.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/233/15198556-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/233/15198556-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/233/15198556-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f6ddb129ab55935462708-cropped600-400",
+      "taille" : 67810,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:21:39.418+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.7,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 140,
+        "dateMaj" : 1667920163798
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "122477",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-131257",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

@@ -1,0 +1,231 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6223830,
+  "nom" : {
+    "libelleFr" : "L’Elégance du bâtard - Antoine Lucciardi"
+  },
+  "identifier" : "SITRA2_EVE_6223830",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-03T08:15:23.487+0000",
+    "dateModification" : "2022-08-03T08:19:27.021+0000",
+    "dateExportModification" : "2022-08-05T08:35:55.153+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101891420,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://lartdutheatre.fr/spectacles/tout-public-adultes/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5483454
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "L’odyssée d’un inadapté, le récit initiatique d’un drôle de clown qui pilonne le monde réel avec poésie, humour et élégance."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Parti de rien et arrivé nulle part, le bâtard a bien du mal à prendre le train en marche. Pas grave, il change de quai et décide de voyager à contresens.\r\n\r\nOdyssée de l’intime à mi-chemin entre rien et tout le reste, \"L’Elégance du bâtard\" est un seul en scène qui fait la part belle à l’émerveillement de l’enfance, à la solitude enchantée.\r\nConcession d’un enfant du siècle, cette élégance est portée par un comédien métamorphe, véritable funambule textuel.\r\n\r\nUne échappée singulière et délirante multiprimée en festivals et lauréate du fonds humour de la SACD.\r\n\r\nMise en scène : Solène Haddad\r\nAvec Antoine Lucciardi"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Art Dû",
+      "adresse1" : "83 Rue Marengo",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.385730, 43.287795 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au samedi 12 novembre 2022 à 21h15.",
+      "libelleEn" : "From Friday 11 to Saturday 12 November 2022 at 9.15 pm.",
+      "libelleEs" : "Del viernes, 11 al sábado, 12 de noviembre de 2022 a 21:15.",
+      "libelleIt" : "Dal venerdì 11 a sabato 12 novembre 2022 alle 21:15.",
+      "libelleDe" : "Von Freitag, den 11. bis Samstag, den 12. November 2022 um 21.15 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zaterdag 12 november 2022 om 21.15 u.",
+      "libelleRu" : "С пятница 11 до суббота 12 ноября 2022  до 21h15.",
+      "libelleZh" : "从 星期五 到 2022年11月12日, 星期六   在 小时小时分钟.",
+      "libellePtBR" : "De Sexta-feira 11 a Sábado 12 Novembro 2022 para  21h15.",
+      "libelleJa" : "金曜日 11 から 土曜日 12 11月 2022 まで 9.15 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24019126,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "21:15:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24019126
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 16 €.\n\n\nFrais de réservation inclus.",
+      "libelleEn" : "Full price: 16 €.\n",
+      "libelleEs" : "Tarifa completa: 16 €.\n",
+      "libelleIt" : "Tarrifa intera: 16 €.\n",
+      "libelleDe" : "Voller Preis: 16 €.\n",
+      "libelleNl" : "Vol tarief: € 16.\n",
+      "libelleRu" : "Полную цену : 16 €.\n",
+      "libelleZh" : "全额 : 16 €.\n",
+      "libellePtBR" : "Tarifa inteira: 16 €.\n",
+      "libelleJa" : "通常料金: 16 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Frais de réservation inclus"
+    },
+    "periodes" : [ {
+      "identifiant" : 13518430,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "maximum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13643630,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L’Elégance du bâtard - Antoine Lucciardi"
+    },
+    "legende" : {
+      "libelleFr" : "L’Elégance du bâtard - Antoine Lucciardi"
+    },
+    "copyright" : {
+      "libelleFr" : "L’Elégance du bâtard - Antoine Lucciardi - L'Art Dû"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/13846397.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/13846397-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/13846397-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/71/13846397-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "elegance",
+      "taille" : 101813,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-08-03T08:19:27.115+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2145
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2166
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Art Dû"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

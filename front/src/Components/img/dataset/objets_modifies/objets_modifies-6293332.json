@@ -1,0 +1,227 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293332,
+  "nom" : {
+    "libelleFr" : "Maria Penraat - Au-delà des couleurs"
+  },
+  "identifier" : "SITRA2_EVE_6293332",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T09:09:21.881+0000",
+    "dateModification" : "2022-11-08T13:08:53.170+0000",
+    "dateExportModification" : "2022-11-08T13:08:53.327+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104069688,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.galeriegrossi.com/exposition-penraat/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5819813
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour cet automne, la galerie est heureuse de vous présenter une nouvelle exposition de l’artiste Maria Penraat."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’Ambrogiani du Nord qui est tombée amoureuse des couleurs du Sud.\r\n\r\nMaria Penraat est née au Pays Bas en 1951. Elle a exposé ses créations aux Pays-Bas, en Allemagne, en Suisse, aux Etats-Unis et en France depuis plus de trente ans. L’œuvre de Maria Penraat est principalement rattachée à la Provence, sa région de cœur et de vie. Remarquée dès ses débuts par\r\nles critiques pour son usage particulier et intense de la couleur, l’artiste peint d’après nature tout au long de sa carrière les paysages qu’elle habite et qu’elle découvre.\r\n\r\nLa peinture de Maria Penraat, par son seul talent, nous impose sa manière de recréer le monde.\r\nPersonne avant elle ne l’avait vu comme ça, et c’est elle, la peintre et son pinceau qui nous font entrer dans sa vision. Un exercice de virtuosité au service de l’art et pour notre simple bonheur.\r\n\r\nLa galerie vous invite le temps de cette exposition à découvrir une vingtaine d’oeuvres pour remettre la beauté et la couleur au cœur de notre quotidien.\r\n\r\nNocturne jeudi 13 octobre jusqu’à 21h00."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie Bertrand Grossi",
+      "adresse1" : "2 rue Edmond Rostand",
+      "codePostal" : "13006",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.379531, 43.289958 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    }, {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 06/10 au 19/11/2022, tous les mardis, mercredis, jeudis, vendredis et samedis de 10h à 19h.\nNocturne jeudi 13 octobre jusqu’à 21h00.",
+      "libelleEn" : "From 06/10 to 19/11/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 7 pm.",
+      "libelleEs" : "Del 06/10 al 19/11/2022, todos los martes, miércoles, jueves, viernes y sábados de 10 a 19.",
+      "libelleIt" : "Dal 06/10 al 19/11/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati dalle 10 alle 19.",
+      "libelleDe" : "Vom 06/10 bis 19/11/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 06/10 tot en met 19/11/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 19.00 u.",
+      "libelleRu" : "С 06/10 до 19/11/2022, каждый вторники, среды, четверги, пятницы и субботы с 10h до 19h.",
+      "libelleZh" : "从 10月6日 到 2022年11月19日, 每星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 06/10 a 19/11/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados de 10h a  19h.",
+      "libelleJa" : "06/10 から 19/11/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 10 午前 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24480804,
+      "dateDebut" : "2022-10-06",
+      "dateFin" : "2022-11-19",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturne jeudi 13 octobre jusqu’à 21h00"
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24722805
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14373289,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Galerie Grossi"
+    },
+    "legende" : {
+      "libelleFr" : "Galerie Grossi"
+    },
+    "copyright" : {
+      "libelleFr" : "Galerie Grossi"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/115/14709533.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/115/14709533-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/115/14709533-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/29/115/14709533-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "r5",
+      "taille" : 95795,
+      "hauteur" : 600,
+      "largeur" : 450,
+      "lastModifiedDate" : "2022-10-12T09:24:23.605+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Galerie Bertrand Grossi"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

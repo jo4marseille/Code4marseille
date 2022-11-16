@@ -1,0 +1,129 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228539,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme de La Roque d'Anthéron",
+    "libelleEn" : "Office de Tourisme de La Roque d'Anthéron",
+    "libelleEs" : "Office de Tourisme de La Roque d'Anthéron",
+    "libelleIt" : "Office de Tourisme de La Roque d'Anthéron",
+    "libelleDe" : "Office de Tourisme de La Roque d'Anthéron",
+    "libelleNl" : "Office de Tourisme de La Roque d'Anthéron"
+  },
+  "identifier" : "SITRA2_STR_5228539",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:24:47.724+0000",
+    "dateModification" : "2021-02-10T15:51:28.087+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Roque d'Anthéron",
+      "dateCreation" : "2020-11-04T10:41:06.262+0000",
+      "dateModification" : "2022-10-24T08:49:39.510+0000",
+      "id" : 2121,
+      "siteWeb" : "http://www.laroquedantheron-tourisme.fr"
+    },
+    "signalerUnProblemeMails" : [ "benedicte.roussy@ville-laroquedantheron.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537626,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 50 70 74"
+      }
+    }, {
+      "identifiant" : 70537628,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@ville-laroquedantheron.fr"
+      }
+    }, {
+      "identifiant" : 70537629,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.laroquedantheron-tourisme.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "41165157300015",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "13 Cours Foch",
+      "codePostal" : "13640",
+      "commune" : {
+        "id" : 4495
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.309393, 43.716899 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4495
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18849169,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "MICHAUD",
+    "prenom" : "Lionel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

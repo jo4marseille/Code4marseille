@@ -1,0 +1,224 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318576,
+  "nom" : {
+    "libelleFr" : "Fleuves Noirs + Arlette + Lac Observation + Travaux Pratiques"
+  },
+  "identifier" : "SITRA2_EVE_6318576",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T13:00:08.328+0000",
+    "dateModification" : "2022-11-07T13:04:26.474+0000",
+    "dateExportModification" : "2022-11-07T13:04:27.146+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77040105,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lembobineuse.biz"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464863
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez Ales groupes Fleuves Noirs + Arlette + Lac Observation + Travaux Pratique à L'Embobineuse vendredi 11 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "FLEUVES NOIRS\r\nNoise, Indus organique / Jarane, Tandori, Smart & Confused, Etienne Disqs, Te Koop, Poutrage. / Lille\r\nAmbiances no-wave glauque et incantations à la voix gluante sous triple chorus, guitares dehors et synthés derrière, ryhtmiques lacto-fermentées, Fleuves Noirs rappelle les plans malins voire mesquins de Dry Erase, trouverait sa place dans une Grande Triple Alliance de l'Est élargie au Nord, embrasse l'expérimentalisme de bassin industriel de leurs collègues de label (Tandori records) Toys R Noise, frôlant même le post-punk bruyant de Berlin maintenant (Lieek, Pigeon) aussi bien que la nervosité bien crispy de l'éternelle Manchester. Bref, le meilleur de la pluie. Glissant jusqu'à nos pieds dans un caniveau des rues de Wazemmes par une nuit d'octobre, leur nouveau cédé \"Respecte-toi\" jette le doute entre mysticisme et auto-dérision, yoga et épilepsie, enquête et satisfaction.\r\n\r\nARLETTE\r\nGroupe tout nouveau tout beau sorti des bas-fonds bruxellois - ènième truc de Valentin Noiret, membre du Baiser de la Sorcière qui a enregistré La Race, Nina Harker ou Charlène Darling. \"Flutios et sonnailles, percussions, violon dingue, cris et babils\". Ça devrait être foutraque et bien rythmé, du jaz avec un seul Z, joué avec des doigts sales.\r\n\r\nLAC OBSERVATION\r\npsych folk ambient / MyOwnPrivateRecords / Naples\r\nUn peu la surprise, Gianlorenzo a.k.a Lac Observation semble autonome à la guitare, rôdant autour du folk psyché avec un fort penchant pour le collage et l'immersion, les pieds dans l'eau. MyOwnPrivateRecords (Manu d'Holiday Inn / Fanfulla) sort ses cassettes, so it can't be wrong.\r\n\r\nTRAVAUX PRATIQUES\r\ntp bicolage / Lille\r\nProjet d'expérimentation psycho-acoustique de Cyril (Teubê)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Embobineuse",
+      "adresse1" : "11 Boulevard Bouès",
+      "codePostal" : "13003",
+      "commune" : {
+        "id" : 4533
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.383130, 43.311220 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4533
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 21h.",
+      "libelleEn" : "Friday 11 November 2022 at 9 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 21.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 21.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 21 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 21.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 21h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  21h.",
+      "libelleJa" : "金曜日 11 11月 2022 9 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24712591,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "complementHoraire" : { },
+      "horaireOuverture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24712591
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 7 €.\n\n\n+ Adhésion : 2 €.",
+      "libelleEn" : "Full price: 7 €.\n",
+      "libelleEs" : "Tarifa completa: 7 €.\n",
+      "libelleIt" : "Tarrifa intera: 7 €.\n",
+      "libelleDe" : "Voller Preis: 7 €.\n",
+      "libelleNl" : "Vol tarief: € 7.\n",
+      "libelleRu" : "Полную цену : 7 €.\n",
+      "libelleZh" : "全额 : 7 €.\n",
+      "libellePtBR" : "Tarifa inteira: 7 €.\n",
+      "libelleJa" : "通常料金: 7 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "+ Adhésion : 2 €"
+    },
+    "periodes" : [ {
+      "identifiant" : 13842377,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 7.00,
+        "maximum" : 7.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14805225,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Embobineuse"
+    },
+    "legende" : {
+      "libelleFr" : "L'Embobineuse"
+    },
+    "copyright" : {
+      "libelleFr" : "L'Embobineuse"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/198/15189692.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/198/15189692-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/198/15189692-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/198/15189692-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "embobineuse",
+      "taille" : 36960,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-11-07T13:04:26.564+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 5543
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "L'Embobineuse"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

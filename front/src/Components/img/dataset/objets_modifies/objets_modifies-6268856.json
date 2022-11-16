@@ -1,0 +1,269 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6268856,
+  "nom" : {
+    "libelleFr" : "Voyage au-delà des mers"
+  },
+  "identifier" : "SITRA2_EVE_6268856",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-22T07:00:25.471+0000",
+    "dateModification" : "2022-09-22T07:18:31.067+0000",
+    "dateExportModification" : "2022-10-17T14:28:55.025+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103437139,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.theatre-oeuvre.com/programmation/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228836
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un spectacle à venir écouter, qui saura plaire aux petits, comme aux grands enfants ! Rendez-vous au Théâtre de l'Oeuvre les 9 & 10 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "'Paloma et sa grande sœur Alma vivent au Brésil,  dans une réserve naturelle, où sont sauvés un grand nombre d’animaux marins.  Un jour, lors de leur balade quotidienne le long de la plage, Paloma entendit un drôle de bruit.  Alma nous raconte alors l’histoire d’une belle amitié entre Paloma et son ami des mers, appelé Voyage.\"\r\n\r\nVoyage au-delà des mers  est un conte musical jeune public destiné aux enfants de 6 à 10 ans. Le nouveau projet de Armelle Ita et Julie Meola aborde ici l’écologie, le respect de la Terre et des Océans, à travers une histoire d’empathie et d’amitié. La plupart des morceaux sont des créations et le spectacle est bercé par de nombreux paysages sonores ainsi que divers instruments (voix, guitare, piano, kazoo, loop station, boîte à rythme électronique). À travers ce spectacle, le duo souhaite sensibiliser les enfants à la musique, à l’écoute, mais aussi à la nature, au respect de l’autre et montrer que chacun, aussi petit qu’il soit peut faire sa part… \r\n\r\nUn spectacle à venir écouter, qui saura plaire aux petits, comme aux grands enfants !\r\n\r\nAvec Armelle Ita et Julie Meola"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre de L'Œuvre",
+      "adresse1" : "1 Rue Mission de France",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.380180, 43.298180 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "complement" : { }
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 14h.\n\nJeudi 10 novembre 2022 à 11h.",
+      "libelleEn" : "Wednesday 9 November 2022 at 2 pm.\n\nThursday 10 November 2022 at 11 am.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 14.\n\nJueves, 10 de noviembre de 2022 a 11.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 14.\n\nGiovedì 10 novembre 2022 alle 11.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 14 Uhr.\n\nDonnerstag, den 10. November 2022 um 11 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 14.00 u.\n\nDonderdag 10 november 2022 om 11.00 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 14h.\n\nЧетверг 10 ноября 2022  до 11h.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时.\n\n2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  14h.\n\nQuinta-feira 10 Novembro 2022 para  11h.",
+      "libelleJa" : "水曜日 9 11月 2022 2 午後 に.\n\n木曜日 10 11月 2022 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24340426,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "complementHoraire" : { },
+      "horaireOuverture" : "14:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24340640
+    }, {
+      "identifiant" : 24340642,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "complementHoraire" : { },
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24340642
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 10 €.\n",
+      "libelleEn" : "Full price: 10 €.\n",
+      "libelleEs" : "Tarifa completa: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: 10 €.\n",
+      "libelleDe" : "Voller Preis: 10 €.\n",
+      "libelleNl" : "Vol tarief: € 10.\n",
+      "libelleRu" : "Полную цену : 10 €.\n",
+      "libelleZh" : "全额 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: 10 €.\n",
+      "libelleJa" : "通常料金: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 13666072,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-10",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14126473,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Voyage au-delà des mers"
+    },
+    "legende" : {
+      "libelleFr" : "Voyage au-delà des mers"
+    },
+    "copyright" : {
+      "libelleFr" : "Armelle Ita et Julie Meola - Voyage au-delà des mers - Théâtre de l'Oeuvre"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/31/14425962.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/31/14425962-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/31/14425962-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/31/14425962-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "voyage",
+      "taille" : 87528,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-09-22T07:16:40.916+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Théâtre de L'Œuvre"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT115116"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Ville de Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille.fr"
+    }
+  } ]
+}

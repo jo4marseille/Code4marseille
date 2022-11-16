@@ -1,0 +1,188 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5530322,
+  "nom" : {
+    "libelleFr" : "Musée Estrine, Centre d'Interprétation Vincent van Gogh",
+    "libelleEn" : "Centre d'Art Présence Van Gogh",
+    "libelleEs" : "Musée Estrine Centre d'art Présence Van Gogh",
+    "libelleIt" : "Centre d'Art Présence Van Gogh",
+    "libelleDe" : "Kunstzentrum Van Gogh",
+    "libelleNl" : "Musée Estrine Centre d'art Présence Van Gogh"
+  },
+  "identifier" : "SITRA2_STR_5530322",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-13T12:29:38.289+0000",
+    "dateModification" : "2022-03-11T14:48:08.106+0000",
+    "dateExportModification" : "2022-03-11T14:48:08.248+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79257997,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 34 72",
+        "en" : "00 33 4 90 92 34 72",
+        "de" : "00 33 4 90 92 34 72"
+      }
+    }, {
+      "identifiant" : 79257998,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 36 73"
+      }
+    }, {
+      "identifiant" : 79257999,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@musee-estrine.fr",
+        "en" : "contact@musee-estrine.fr",
+        "de" : "contact@musee-estrine.fr"
+      }
+    }, {
+      "identifiant" : 79258000,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://musee-estrine.fr",
+        "en" : "http://musee-estrine.fr/en/home",
+        "de" : "http://musee-estrine.fr/en/home"
+      }
+    }, {
+      "identifiant" : 97639873,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/musee.estrine",
+        "en" : "https://www.facebook.com/musee.estrine",
+        "de" : "https://www.facebook.com/musee.estrine"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "34212994700020",
+      "codeApeNaf" : "913E",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "8 Rue Estrine",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.832330, 43.788799 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18520645,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "FARRAN",
+    "prenom" : "Elisa",
+    "moyensCommunication" : [ {
+      "identifiant" : 84770007,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 34 72"
+      }
+    }, {
+      "identifiant" : 84770019,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@musee-estrine.fr"
+      }
+    }, {
+      "identifiant" : 84770045,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.musee-estrine.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

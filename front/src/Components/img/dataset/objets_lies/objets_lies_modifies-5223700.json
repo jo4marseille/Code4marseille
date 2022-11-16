@@ -1,0 +1,111 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5223700,
+  "nom" : {
+    "libelleFr" : "Office de Tourisme",
+    "libelleEn" : "Village de Trets",
+    "libelleEs" : "Village de Trets",
+    "libelleIt" : "Village de Trets",
+    "libelleDe" : "Village de Trets",
+    "libelleNl" : "Village de Trets"
+  },
+  "identifier" : "SITRA2_STR_5223700",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:13:25.072+0000",
+    "dateModification" : "2021-01-29T08:15:06.713+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Trets",
+      "dateCreation" : "2020-10-19T07:00:50.696+0000",
+      "dateModification" : "2022-10-24T08:49:45.505+0000",
+      "id" : 2110,
+      "siteWeb" : "http://trets.fr"
+    },
+    "signalerUnProblemeMails" : [ "regie.tourisme@ville-de-trets.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70514613,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 23 75"
+      }
+    }, {
+      "identifiant" : 70514614,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://trets.fr"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Nelson Mandela",
+      "adresse2" : "15 Avenue Mirabeau",
+      "codePostal" : "13530",
+      "commune" : {
+        "id" : 4521
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.682564, 43.447451 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4521
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18626578,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

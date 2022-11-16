@@ -1,0 +1,288 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6296899,
+  "nom" : {
+    "libelleFr" : "Les étoiles ne dorment jamais",
+    "libelleEn" : "Les étoiles ne dorment jamais",
+    "libelleEs" : "Les étoiles ne dorment jamais",
+    "libelleIt" : "Les étoiles ne dorment jamais",
+    "libelleDe" : "Les étoiles ne dorment jamais",
+    "libelleNl" : "Les étoiles ne dorment jamais",
+    "libelleRu" : "Les étoiles ne dorment jamais",
+    "libelleZh" : "Les étoiles ne dorment jamais",
+    "libellePtBR" : "Les étoiles ne dorment jamais",
+    "libelleJa" : "Les étoiles ne dorment jamais"
+  },
+  "identifier" : "SITRA2_EVE_6296899",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T12:18:27.203+0000",
+    "dateModification" : "2022-10-14T12:56:07.943+0000",
+    "dateExportModification" : "2022-10-14T12:56:08.131+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512746,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.aixenprovence.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223062
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Dans cette exposition, Sophie Whettnall parvient à fixer le temps dans un éclat d’espace à travers un ensemble d’œuvres où dialoguent paysages et lumières, entre l’ici et l’ailleurs, dynamique et sérénité, rêve et réalité.",
+      "libelleEn" : "In this exhibition, Sophie Whettnall makes time stand still within a fragment of space, through a collection of works that creates a dialogue between landscape and light, between here and there, dynamic energy and serenity, dream and reality."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Sophie Whettnall nous invite ici à la contemplation, depuis le Jardin du Musée du Pavillon de Vendôme où une oeuvre d’ombres semblant sortie du fin fond de la forêt confère au paysage un caractère étrangement réel, jusqu’aux espaces intérieurs dont les installations donnent au visiteur l’impression de déambuler sous un ciel étoilé en plein jour.",
+      "libelleEn" : "Sophie Whettnall’s work is an invitation to contemplation, from the Garden of the Pavillon de Vendôme Museum – where a work composed of shadows that seems to be emerging from the depths of the forest lends the landscape a strangely real character – to the interior spaces, where the installations give the viewer the impression of taking a stroll under a starry sky in broad daylight."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée et Jardin du Pavillon de Vendôme",
+      "adresse1" : "13, rue de la Molle ou 32 rue Célony",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.442304, 43.530840 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5537914
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539372
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11/2022 au 22/01/2023 \nOuverture le lundi, mercredi, jeudi, vendredi, samedi et dimanche de 10h à 12h30 et de 13h30 à 17h.\nNocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+      "libelleEn" : "From 11/11/2022 to 22/01/2023 \nOpening hours on Monday, Wednesday, Thursday, Friday, Saturday and Sunday between 10 am and 12.30 pm and between 1.30 pm and 5 pm.\nNocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm.",
+      "libelleEs" : "Del 11/11/2022 al 22/01/2023 \nHorarios de apertura los lunes, miércoles, jueves, viernes, sábado y domingo de 10 a 12:30 y de 13:30 a 17.",
+      "libelleIt" : "Dal 11/11/2022 al 22/01/2023 \nOrari di apertura il lunedì, mercoledì, giovedì, venerdì, sabato e domenica dalle 10 alle 12:30 e dalle 13:30 alle 17.",
+      "libelleDe" : "Vom 11/11/2022 bis 22/01/2023 \nÖffnungszeiten jeden Montag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag von 10 Uhr bis 12.30 Uhr und von 13.30 Uhr bis 17 Uhr.",
+      "libelleNl" : "Van 11/11/2022 tot en met 22/01/2023 \nOpeningstijden op maandag, woensdag, donderdag, vrijdag, zaterdag en zondag van 10.00 tot en met 12.30 u en van 13.30 tot en met 17.00 u.",
+      "libelleRu" : "С 11/11/2022 до 22/01/2023 \nЧасы открытия на понедельник, среда, четверг, пятница, суббота и воскресенье с 10h до 12h30 и с 13h30 до 17h.",
+      "libelleZh" : "从 2022年11月11日 到 2023年1月22日 \n开放时间 上 星期一, 星期三, 星期四, 星期五, 星期六 和 星期日 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 11/11/2022 a 22/01/2023 \nOuverture na segunda-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo de 10h a  12h30 e de 13h30 a  17h.",
+      "libelleJa" : "11/11/2022 から 22/01/2023 まで \n開館時間 月曜日, 水曜日, 木曜日, 金曜日, 土曜日 と 日曜日 に 10 午前 と 12.30 午後 の間 と 1.30 午後 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24500807,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-22",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+        "libelleEn" : "Nocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24501202
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 3,70 €.\n\n\nGratuit avec le Pass Biennale (60€) qui donne accès :\r\n● à toutes les expositions à Aix-en-Provence, Marseille et Avignon\r\n● au spectacle au Grenier à Sel, Live Dream - Justine Émard et Jean-Emmanuel Rosnet le 18 janv. 2023\r\n● au spectacle au Pavillon Noir d’Aix-en-Provence, Second Body - Anarchy Dance Theatre le 19 janv. 2023\r\n● à la soirée du 20 janvier à la Friche la Belle de Mai\r\n● à la soirée de clôture au 6MIC d’Aix-en-Provence, Caterina Barbieri, Donato Dozzy le 21 janv. 2023.",
+      "libelleEn" : "Full price: 3.70 €.\n\n\nFree with the Biennial Pass (60€) which gives access :\r\n● to all exhibitions in Aix-en-Provence, Marseille and Avignon\r\n● to the show at the Grenier à Sel, Live Dream - Justine Émard and Jean-Emmanuel Rosnet on Jan. 18, 2023\r\n● at the show at the Pavillon Noir in Aix-en-Provence, Second Body - Anarchy Dance Theatre on Jan 19, 2023\r\n● at the evening of January 20th at the Friche la Belle de Mai\r\n● at the closing night at 6MIC in Aix-en-Provence, Caterina Barbieri, Donato Dozzy on Jan 21, 2023.",
+      "libelleEs" : "Tarifa completa: 3,70 €.\n",
+      "libelleIt" : "Tarrifa intera: 3,70 €.\n",
+      "libelleDe" : "Voller Preis: 3,70 €.\n",
+      "libelleNl" : "Vol tarief: € 3,70.\n",
+      "libelleRu" : "Полную цену : 3,70 €.\n",
+      "libelleZh" : "全额 : 3.70 €.\n",
+      "libellePtBR" : "Tarifa inteira: 3,70 €.\n",
+      "libelleJa" : "通常料金: 3.70 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "gratuit avec le Pass Biennale (60€) qui donne accès :\r\n● à toutes les expositions à Aix-en-Provence, Marseille et Avignon\r\n● au spectacle au Grenier à Sel, Live Dream - Justine Émard et Jean-Emmanuel Rosnet le 18 janv. 2023\r\n● au spectacle au Pavillon Noir d’Aix-en-Provence, Second Body - Anarchy Dance Theatre le 19 janv. 2023\r\n● à la soirée du 20 janvier à la Friche la Belle de Mai\r\n● à la soirée de clôture au 6MIC d’Aix-en-Provence, Caterina Barbieri, Donato Dozzy le 21 janv. 2023",
+      "libelleEn" : "Free with the Biennial Pass (60€) which gives access :\r\n● to all exhibitions in Aix-en-Provence, Marseille and Avignon\r\n● to the show at the Grenier à Sel, Live Dream - Justine Émard and Jean-Emmanuel Rosnet on Jan. 18, 2023\r\n● at the show at the Pavillon Noir in Aix-en-Provence, Second Body - Anarchy Dance Theatre on Jan 19, 2023\r\n● at the evening of January 20th at the Friche la Belle de Mai\r\n● at the closing night at 6MIC in Aix-en-Provence, Caterina Barbieri, Donato Dozzy on Jan 21, 2023."
+    },
+    "periodes" : [ {
+      "identifiant" : 13746004,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-22",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.70,
+        "maximum" : 3.70,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14404509,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Philippe de Gobert"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/0/14745623.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/0/14745623-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/0/14745623-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/23/0/14745623-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "etoiles",
+      "taille" : 176717,
+      "hauteur" : 442,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-14T12:42:46.295+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée et Jardin du Pavillon de Vendôme"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-22T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

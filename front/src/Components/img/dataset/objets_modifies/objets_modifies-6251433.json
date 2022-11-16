@@ -1,0 +1,272 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6251433,
+  "nom" : {
+    "libelleFr" : "\"Le cerveau : le chef étoilé de notre alimentation\""
+  },
+  "identifier" : "SITRA2_EVE_6251433",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-02T14:34:23.058+0000",
+    "dateModification" : "2022-11-07T13:44:28.761+0000",
+    "dateExportModification" : "2022-11-07T13:44:30.522+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Maison du Tourisme d'Allauch",
+      "dateCreation" : "2020-10-14T08:22:33.130+0000",
+      "dateModification" : "2022-10-24T08:49:33.880+0000",
+      "id" : 2104,
+      "siteWeb" : "https://tourisme.allauch.com"
+    },
+    "signalerUnProblemeMails" : [ "c.blin@allauch.com", "f.garzino@allauch.com", "g.geffroy@allauch.com", "s.liffaud@allauch.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071597,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 10 49 20"
+      }
+    }, {
+      "identifiant" : 77071598,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@allauch.com"
+      }
+    }, {
+      "identifiant" : 84328981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://tourisme.allauch.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466111
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223971
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférence dans le cadre des \"Sentiers de la Connaissance\" par Lourdes Mounien Maître de conférences à Aix-Marseille Université."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le contrôle de notre alimentation est un processus qui fait intervenir un dialogue entre notre cerveau et d'autres organes tels que le tissu adipeux et les intestins. L'objectif de cette conférence est de décrire ces échanges entre le cerveau et le reste du corps et de comprendre comment un dysfonctionnement de cette communication peut conduire à des pathologies comme l'obésité. Lourdes Mounien mène ses recherches au sein de l’équipe « Micronutrition Humaine » du Centre de recherche en CardioVasculaire et Nutrition (C2VN) de Marseille."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Espace François Mitterrand",
+      "adresse1" : "Espace François Mitterrand, traverse Chapelle des filles",
+      "adresse2" : "Vieux village",
+      "codePostal" : "13190",
+      "commune" : {
+        "id" : 4413
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.482639, 43.334688 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4413
+    } ],
+    "lieu" : {
+      "id" : 18471
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540501
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6266616
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 10 novembre 2022 à 19h.",
+      "libelleEn" : "Thursday 10 November 2022 at 7 pm.",
+      "libelleEs" : "Jueves, 10 de noviembre de 2022 a 19.",
+      "libelleIt" : "Giovedì 10 novembre 2022 alle 19.",
+      "libelleDe" : "Donnerstag, den 10. November 2022 um 19 Uhr.",
+      "libelleNl" : "Donderdag 10 november 2022 om 19.00 u.",
+      "libelleRu" : "Четверг 10 ноября 2022  до 19h.",
+      "libelleZh" : "2022年11月10日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 10 Novembro 2022 para  19h.",
+      "libelleJa" : "木曜日 10 11月 2022 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24215655,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24713256
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14805602,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Cerveau le chef étoilé de notre alimentation"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/200/15190068.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/200/15190068-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/200/15190068-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/200/15190068-diaporama.png",
+      "extension" : "png",
+      "fileName" : "SDLC 10 11 2022",
+      "taille" : 1569813,
+      "hauteur" : 1754,
+      "largeur" : 2481,
+      "lastModifiedDate" : "2022-11-07T13:44:28.911+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13972555,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Cerveau"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/108/14249032.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/108/14249032-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/108/14249032-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/72/108/14249032-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Cerveau",
+      "taille" : 520573,
+      "hauteur" : 1046,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-09-07T09:29:22.188+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-11-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2309
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Espace François Mitterrand"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-10T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

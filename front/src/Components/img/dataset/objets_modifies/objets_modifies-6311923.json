@@ -1,0 +1,211 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6311923,
+  "nom" : {
+    "libelleFr" : "Mediterraneum"
+  },
+  "identifier" : "SITRA2_EVE_6311923",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-28T10:25:47.373+0000",
+    "dateModification" : "2022-10-28T10:33:28.304+0000",
+    "dateExportModification" : "2022-10-28T15:39:49.978+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70647394,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.galeriedutableau.org"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5237068
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez les oeuvres de Jack Jeffrey à la Galerie du Tableau du 17 au 29 octobre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dédié à la Paix et à l'Union entre les peuples.\r\nIstanbul, Tarente, Reggio Calabre, Marseille, Mandurie.\r\n\r\nMariangela Agliata / Anne du Boistesselin / Arnaud du Boistesselin / Valérie Bourdel / Bernard Boyer / Frédéric Clavère / Virginie Chochoy / Roberto Comini / Eleonora Del Brocco / Michele Di Leo / Laurent Galland / Aurora Maletik / Patrick Michault / Sylvie Réno / Marta Santos\r\n\r\nVernissage lundi 31 octobre à partir de 18 heures."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Galerie du Tableau",
+      "adresse1" : "37 Rue Sylvabelle",
+      "codePostal" : "13006",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4536
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.379230, 43.289310 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4536
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 31/10 au 12/11/2022.\nFermé le dimanche.\nDu lundi au vendredi de 10h à 12h et de 15h à 19h.\r\nLe samedi de 10h à 12h et de 15h à 18h.",
+      "libelleEn" : "From 31/10 to 12/11/2022.\nClosed on Sunday.",
+      "libelleEs" : "Del 31/10 al 12/11/2022.\nCerrado los domingo.",
+      "libelleIt" : "Dal 31/10 al 12/11/2022.\nChiuso la domenica.",
+      "libelleDe" : "Vom 31/10 bis 12/11/2022.\nSonntag geschlossen.",
+      "libelleNl" : "Van 31/10 tot en met 12/11/2022.\nZondag gesloten.",
+      "libelleRu" : "С 31/10 до 12/11/2022.\nНе работает воскресенье.",
+      "libelleZh" : "从 10月31日 到 2022年11月12日.\n星期日 关闭.",
+      "libellePtBR" : "De 31/10 a 12/11/2022.\nFechado em domingo.",
+      "libelleJa" : "31/10 から 12/11/2022 まで.\n日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24630409,
+      "dateDebut" : "2022-10-31",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : {
+        "libelleFr" : "Du lundi au vendredi de 10h à 12h et de 15h à 19h.\r\nLe samedi de 10h à 12h et de 15h à 18h"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24630409
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14632035,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Mediterraneum"
+    },
+    "legende" : {
+      "libelleFr" : "Mediterraneum"
+    },
+    "copyright" : {
+      "libelleFr" : "Mediterraneum - Galerie du Tableau"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/217/14997840.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/217/14997840-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/217/14997840-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/217/14997840-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "galerie tableau",
+      "taille" : 62894,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-10-28T10:33:28.388+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Galerie du Tableau"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

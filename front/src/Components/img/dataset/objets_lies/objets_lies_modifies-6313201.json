@@ -1,0 +1,252 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6313201,
+  "nom" : {
+    "libelleFr" : "Arts et Neurosciences"
+  },
+  "identifier" : "SITRA2_EVE_6313201",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-31T10:34:45.147+0000",
+    "dateModification" : "2022-10-31T10:58:29.572+0000",
+    "dateExportModification" : "2022-10-31T10:58:30.254+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104766383,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 52 87 97"
+      },
+      "observation" : {
+        "libelleFr" : "Informations"
+      }
+    }, {
+      "identifiant" : 104766384,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.museegranet-aixenprovence.fr/votre-visite/les-evenements/arts-et-neurosciences"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223246
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférence animée par Anne Kavounoudias, directrice de NeuroSchool de l’université Aix-Marseille et Bruno Ely, conservateur en chef du musée Granet, au musée Granet"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "À l'occasion de l'expérience proposée aux visiteurs du musée Granet par Jésus Tamez-Duque à travers le dispositif Traduction mentale, Anne Kavounoudias, directrice de NeuroSchool de l’université Aix-Marseille et Bruno Ely, conservateur en chef du musée Granet, interrogent les liens entre recherche artistique et recherche neuroscientifique.\r\n\r\nArtistes et neuroscientifiques, dans une démarche individuelle ou conjointe, explorent les cerveaux et titillent les sens. Ils partagent une même passion pour la recherche. Leurs chemins se croisent sans qu’ils en aient toujours conscience, que ce soit autour des questions de l’espace, de la mémoire, de la vision ou du son."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Granet",
+      "adresse1" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.452673, 43.525507 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538995
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 10 décembre 2022 de 18h à 19h.",
+      "libelleEn" : "Saturday 10 December 2022 between 6 pm and 7 pm.",
+      "libelleEs" : "Sábado, 10 de diciembre de 2022 de 18 a 19.",
+      "libelleIt" : "Sabato 10 dicembre 2022 dalle 18 alle 19.",
+      "libelleDe" : "Samstag, den 10. Dezember 2022 von 18 Uhr bis 19 Uhr.",
+      "libelleNl" : "Zaterdag 10 december 2022 van 18.00 tot en met 19.00 u.",
+      "libelleRu" : "Суббота 10 декабря 2022  с 18h до 19h.",
+      "libelleZh" : "2022年12月10日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Sábado 10 Dezembro 2022 de 18h a  19h.",
+      "libelleJa" : "土曜日 10 12月 2022 6 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24658796,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24658972
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21520589,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104766385,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 52 87 97"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14691238,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Jesus Tamez-Duque"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/214/15062695.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/214/15062695-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/214/15062695-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/214/15062695-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "elybis",
+      "taille" : 153169,
+      "hauteur" : 797,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-31T10:58:29.744+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-10" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3832
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée Granet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-10T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

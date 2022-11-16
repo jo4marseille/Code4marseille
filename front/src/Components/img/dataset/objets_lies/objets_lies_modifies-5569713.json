@@ -1,0 +1,235 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5569713,
+  "nom" : {
+    "libelleFr" : "Centrale thermique EDF Martigues-Ponteau",
+    "libelleEn" : "EDF Martigues-Ponteau thermal power plant",
+    "libelleEs" : "Central térmica EDF Martigues-Ponteau",
+    "libelleDe" : "EDF Martigues-Ponteau Wärmekraftwerk"
+  },
+  "identifier" : "SITRA2_STR_5569713",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-11T00:56:17.672+0000",
+    "dateModification" : "2021-10-07T14:00:27.387+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80148324,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 35 56 00"
+      }
+    }, {
+      "identifiant" : 80148329,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "centrale-martigues@edf.fr"
+      }
+    }, {
+      "identifiant" : 80148332,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.edf.com"
+      }
+    }, {
+      "identifiant" : 90008347,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 28 45 21 84"
+      },
+      "observation" : {
+        "libelleFr" : "Mme Brunon, responsable visites"
+      }
+    }, {
+      "identifiant" : 92714094,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "upti-martigues-visites@edf.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Visites de la centrale EDF"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Service des visites",
+      "adresse2" : "La Villa Lotti",
+      "codePostal" : "13117",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.023495, 43.359549 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 176
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 4320
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18402156,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "HERAULT",
+    "prenom" : "Alexandra",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84147862,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "alexandra.herault@edf.fr"
+      }
+    }, {
+      "identifiant" : 84147863,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 35 56 43"
+      }
+    } ]
+  }, {
+    "identifiant" : 18402161,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ZAVATTONI",
+    "prenom" : "Stéphanie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84147875,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 35 56 52"
+      }
+    }, {
+      "identifiant" : 84147876,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "stephanie.zavattoni@edf.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 19403534,
+    "referent" : false,
+    "nom" : "BRUNON",
+    "prenom" : "Sabrina",
+    "titre" : {
+      "libelleFr" : "Responsable visites"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90008326,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 28 45 21 84"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,147 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5228490,
+  "nom" : {
+    "libelleFr" : "Vitrolles Tourisme Point Info",
+    "libelleEn" : "Bureau municipal du tourisme de Vitrolles",
+    "libelleEs" : "Bureau municipal du tourisme de Vitrolles",
+    "libelleIt" : "Bureau municipal du tourisme de Vitrolles",
+    "libelleDe" : "Bureau municipal du tourisme de Vitrolles",
+    "libelleNl" : "Bureau municipal du tourisme de Vitrolles"
+  },
+  "identifier" : "SITRA2_STR_5228490",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-02T07:23:08.814+0000",
+    "dateModification" : "2022-10-17T13:41:45.526+0000",
+    "dateExportModification" : "2022-10-17T13:41:45.539+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "VITROLLES TOURISME Point info",
+      "dateCreation" : "2020-11-26T13:15:13.649+0000",
+      "dateModification" : "2022-10-24T08:49:52.006+0000",
+      "id" : 2138,
+      "siteWeb" : "http://www.vitrolles13.fr"
+    },
+    "signalerUnProblemeMails" : [ "pascale.campo@ville-vitrolles13.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537243,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 77 90 27"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 70537244,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 77 91 50"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 70537245,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@ville-vitrolles13.fr"
+      },
+      "observation" : { }
+    }, {
+      "identifiant" : 70537246,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.vitrolles13.fr"
+      },
+      "observation" : { }
+    } ],
+    "informationsLegales" : {
+      "siret" : "38947205100017",
+      "codeApeNaf" : "633Z"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "10 avenue Maréchal JOFFRE",
+      "codePostal" : "13127",
+      "commune" : {
+        "id" : 4528
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.248600, 43.457700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4528
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18916471,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DASILVA",
+    "prenom" : "Valérie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

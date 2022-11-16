@@ -1,0 +1,193 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537874,
+  "nom" : {
+    "libelleFr" : "Village de Saint-Savournin",
+    "libelleEn" : "Le Village de Saint-Savournin",
+    "libelleEs" : "Le Village de Saint-Savournin",
+    "libelleIt" : "Le Village de Saint-Savournin",
+    "libelleDe" : "Le Village de Saint-Savournin",
+    "libelleNl" : "Le Village de Saint-Savournin"
+  },
+  "identifier" : "SITRA2_PCU_5537874",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:56:27.735+0000",
+    "dateModification" : "2021-04-27T14:21:42.563+0000",
+    "dateExportModification" : "2022-07-03T18:40:10.441+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627073,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 04 64 03"
+      }
+    }, {
+      "identifiant" : 88371062,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.saint-savournin.com/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5562504
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Petit village provençal, Saint Savournin est construit sous le rocher de la chaîne de l'Etoile. Il est situé entre Aix et Marseille. Composé de plusieurs quartiers et du hameau de la Valentine, le village s'étend au milieu de terres cultivables et de forêts.\r\nPlusieurs sentiers balisés côtoyés de murs pleins d'histoire existent pour des idées de promenades (la fontaine située en face à la Poste, le cercle philharmonique, le château comtal et sa ferme...). \r\nDu Chemin de Croix et de l'ancien château féodal du Castellas, on peut admirer un magnifique panorama qui s'étend jusqu'à la Sainte Victoire, \r\n\r\nCe village a pour particularité d'avoir dû construire pas moins de 4 églises depuis l'an 768!\r\nUne première église fut construite entre 768 et 923, probablement sur les ruines d'un temple consacré à Saturne sur la place occupée actuellement par la Poste. \r\nUne deuxième église fut construite sur l'emplacement de la première en 1683:elle fut démolie en 1865. \r\nUne troisième fut construite 200 mètres plus loin entre 1851 et 1853 par l’archevêque de Marseille sur la place de l’hôtel de ville actuel. En 1873, on orna l'église de superbes peintures rappelant le martyr de Saint Saturnin. En 1932, on rajouta à la seule cloche baptisée « Félicité » deux autres cloches, la « Philomène Noémie » et la « Louise Noémie » \r\nA partir de 1937-38, les travaux du Puits Germain ont provoqué de nombreux ébranlements dans tout le village et notamment dans les environs de l'église. En octobre 1942, un violent orage inonde le pays et fragilise encore l'édifice qui glisse et s'enfonce. Les pluies qui suivront aggraveront la situation et en 1946, l'église est partagée en deux : le haut resta accroché au rocher, le bas glissant peu à peu. Après quelques travaux d'infortune, le conseil municipal se résout à démolir l'église en 1960. Une quatrième église fut alors bâtie en 1961 sur le terrain de la salle paroissiale, de style plus contemporain, faisant table rase des églises précédentes."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13119",
+      "bureauDistribution" : "SAINT SAVOURNIN",
+      "commune" : {
+        "id" : 4512
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.524600, 43.412358 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4512
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8490181,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001687_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/6/8259225.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/6/8259225-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/6/8259225-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/153/6/8259225-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 61790,
+      "hauteur" : 400,
+      "largeur" : 300,
+      "lastModifiedDate" : "2020-07-23T17:36:58.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001687"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

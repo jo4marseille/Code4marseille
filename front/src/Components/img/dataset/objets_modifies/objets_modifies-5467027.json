@@ -1,0 +1,436 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5467027,
+  "nom" : {
+    "libelleFr" : "Marché Provençal hebdomadaire d'Aureille",
+    "libelleEn" : "Weekly Provencal market in Aureille",
+    "libelleEs" : "Marché d'Aureille",
+    "libelleIt" : "Marché d'Aureille",
+    "libelleDe" : "Provenzalischer Wochenmarkt in Aureille",
+    "libelleNl" : "Marché d'Aureille"
+  },
+  "identifier" : "SITRA2_EVE_5467027",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:04:28.180+0000",
+    "dateModification" : "2022-09-29T14:22:53.316+0000",
+    "dateExportModification" : "2022-09-29T14:22:53.725+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77073803,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 59 92 01",
+        "en" : "00 33 4 90 59 92 01",
+        "de" : "00 33 4 90 59 92 01"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5467026
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Marché provençal alimentaire à Aureille, tous les jeudis matins !",
+      "libelleEn" : "Provencal food market in Aureille, every Thursday morning !",
+      "libelleDe" : "Provenzalischer Lebensmittelmarkt in Aureille, jeden Donnerstagmorgen !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les aureillois et leurs voisins peuvent se rendre au marché pour acheter légumes, viandes, poissons mais aussi d'autres produits non alimentaire style vêtements, chaussures, articles de la maison…\r\n\r\nIl se trouve rue de la Fontaine, nommé aussi place de la Fontaine. C'est au nord du centre du village. Sur ce marché on y vend: fruits et légumes ainsi que produits de producteurs et produits locaux.",
+      "libelleEn" : "The residents of Aurelia and their neighbours can go to the market to buy vegetables, meat, fish but also other non-food products such as clothes, shoes, household items...\r\n\r\nIt is located in the rue de la Fontaine, also known as the Place de la Fontaine. It is north of the village centre. On this marke it sells fruit and vegetables as well as products from local producers and products.",
+      "libelleEs" : "Mercado de Abastos.",
+      "libelleIt" : "Mercato alimentare.",
+      "libelleDe" : "Die Einwohner von Aurelia und ihre Nachbarn können auf dem Markt Gemüse, Fleisch, Fisch, aber auch andere Non-Food-Produkte wie Kleidung, Schuhe, Haushaltswaren usw. kaufen.\r\n\r\nDer Markt befindet sich in der Rue de la Fontaine, die auch Place de la Fontaine genannt wird. Er liegt nördlich des Dorfzentrums. Es werden Obst und Gemüse sowie Produkte von Erzeugern und aus der Region verkauft.",
+      "libelleNl" : "Markt voor levensmiddelen."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Marché Provençal",
+      "adresse1" : "Place de la Fontaine",
+      "codePostal" : "13930",
+      "commune" : {
+        "id" : 4417
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.946268, 43.706990 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4417
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 29 septembre 2022 de 8h30 à 13h.\n\nJeudi 6 octobre 2022 de 8h30 à 13h.\n\nJeudi 13 octobre 2022 de 8h30 à 13h.\n\nJeudi 20 octobre 2022 de 8h30 à 13h.\n\nJeudi 27 octobre 2022 de 8h30 à 13h.\n\nJeudi 3 novembre 2022 de 8h30 à 13h.\n\nJeudi 10 novembre 2022 de 8h30 à 13h.\n\nJeudi 17 novembre 2022 de 8h30 à 13h.\n\nJeudi 24 novembre 2022 de 8h30 à 13h.\n\nJeudi 1er décembre 2022 de 8h30 à 13h.\n\nJeudi 8 décembre 2022 de 8h30 à 13h.\n\nJeudi 15 décembre 2022 de 8h30 à 13h.\n\nJeudi 22 décembre 2022 de 8h30 à 13h.\n\nJeudi 29 décembre 2022 de 8h30 à 13h.",
+      "libelleEn" : "Thursday 29 September 2022 between 8.30 am and 1 pm.\n\nThursday 6 October 2022 between 8.30 am and 1 pm.\n\nThursday 13 October 2022 between 8.30 am and 1 pm.\n\nThursday 20 October 2022 between 8.30 am and 1 pm.\n\nThursday 27 October 2022 between 8.30 am and 1 pm.\n\nThursday 3 November 2022 between 8.30 am and 1 pm.\n\nThursday 10 November 2022 between 8.30 am and 1 pm.\n\nThursday 17 November 2022 between 8.30 am and 1 pm.\n\nThursday 24 November 2022 between 8.30 am and 1 pm.\n\nThursday 1st of December 2022 between 8.30 am and 1 pm.\n\nThursday 8 December 2022 between 8.30 am and 1 pm.\n\nThursday 15 December 2022 between 8.30 am and 1 pm.\n\nThursday 22 December 2022 between 8.30 am and 1 pm.\n\nThursday 29 December 2022 between 8.30 am and 1 pm.",
+      "libelleEs" : "Jueves, 29 de septiembre de 2022 de 8:30 a 13.\n\nJueves, 6 de octubre de 2022 de 8:30 a 13.\n\nJueves, 13 de octubre de 2022 de 8:30 a 13.\n\nJueves, 20 de octubre de 2022 de 8:30 a 13.\n\nJueves, 27 de octubre de 2022 de 8:30 a 13.\n\nJueves, 3 de noviembre de 2022 de 8:30 a 13.\n\nJueves, 10 de noviembre de 2022 de 8:30 a 13.\n\nJueves, 17 de noviembre de 2022 de 8:30 a 13.\n\nJueves, 24 de noviembre de 2022 de 8:30 a 13.\n\nJueves, 1 de diciembre de 2022 de 8:30 a 13.\n\nJueves, 8 de diciembre de 2022 de 8:30 a 13.\n\nJueves, 15 de diciembre de 2022 de 8:30 a 13.\n\nJueves, 22 de diciembre de 2022 de 8:30 a 13.\n\nJueves, 29 de diciembre de 2022 de 8:30 a 13.",
+      "libelleIt" : "Giovedì 29 settembre 2022 dalle 8:30 alle 13.\n\nGiovedì 6 ottobre 2022 dalle 8:30 alle 13.\n\nGiovedì 13 ottobre 2022 dalle 8:30 alle 13.\n\nGiovedì 20 ottobre 2022 dalle 8:30 alle 13.\n\nGiovedì 27 ottobre 2022 dalle 8:30 alle 13.\n\nGiovedì 3 novembre 2022 dalle 8:30 alle 13.\n\nGiovedì 10 novembre 2022 dalle 8:30 alle 13.\n\nGiovedì 17 novembre 2022 dalle 8:30 alle 13.\n\nGiovedì 24 novembre 2022 dalle 8:30 alle 13.\n\nGiovedì 1° dicembre 2022 dalle 8:30 alle 13.\n\nGiovedì 8 dicembre 2022 dalle 8:30 alle 13.\n\nGiovedì 15 dicembre 2022 dalle 8:30 alle 13.\n\nGiovedì 22 dicembre 2022 dalle 8:30 alle 13.\n\nGiovedì 29 dicembre 2022 dalle 8:30 alle 13.",
+      "libelleDe" : "Donnerstag, den 29. September 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 6. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 13. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 20. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 27. Oktober 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 3. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 10. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 17. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 24. November 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 1. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 8. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 15. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 22. Dezember 2022 von 8.30 Uhr bis 13 Uhr.\n\nDonnerstag, den 29. Dezember 2022 von 8.30 Uhr bis 13 Uhr.",
+      "libelleNl" : "Donderdag 29 september 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 6 oktober 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 13 oktober 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 20 oktober 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 27 oktober 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 3 november 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 10 november 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 17 november 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 24 november 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 1 december 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 8 december 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 15 december 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 22 december 2022 van 8.30 tot en met 13.00 u.\n\nDonderdag 29 december 2022 van 8.30 tot en met 13.00 u.",
+      "libelleRu" : "Четверг 29 сентября 2022  с 8h30 до 13h.\n\nЧетверг 6 октября 2022  с 8h30 до 13h.\n\nЧетверг 13 октября 2022  с 8h30 до 13h.\n\nЧетверг 20 октября 2022  с 8h30 до 13h.\n\nЧетверг 27 октября 2022  с 8h30 до 13h.\n\nЧетверг 3 ноября 2022  с 8h30 до 13h.\n\nЧетверг 10 ноября 2022  с 8h30 до 13h.\n\nЧетверг 17 ноября 2022  с 8h30 до 13h.\n\nЧетверг 24 ноября 2022  с 8h30 до 13h.\n\nЧетверг 1-й декабря 2022 с 8h30 до 13h.\n\nЧетверг 8 декабря 2022  с 8h30 до 13h.\n\nЧетверг 15 декабря 2022  с 8h30 до 13h.\n\nЧетверг 22 декабря 2022  с 8h30 до 13h.\n\nЧетверг 29 декабря 2022  с 8h30 до 13h.",
+      "libelleZh" : "2022年9月29日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年10月6日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年10月13日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年10月20日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年10月27日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年11月3日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年11月10日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年11月17日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年11月24日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年12月1日, 星期四 小时小时分钟  和 小时小时 之间.\n\n2022年12月8日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年12月15日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年12月22日, 星期四   小时小时分钟  和 小时小时 之间.\n\n2022年12月29日, 星期四   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quinta-feira 29 Setembro 2022 de 8h30 a  13h.\n\nQuinta-feira 6 Outubro 2022 de 8h30 a  13h.\n\nQuinta-feira 13 Outubro 2022 de 8h30 a  13h.\n\nQuinta-feira 20 Outubro 2022 de 8h30 a  13h.\n\nQuinta-feira 27 Outubro 2022 de 8h30 a  13h.\n\nQuinta-feira 3 Novembro 2022 de 8h30 a  13h.\n\nQuinta-feira 10 Novembro 2022 de 8h30 a  13h.\n\nQuinta-feira 17 Novembro 2022 de 8h30 a  13h.\n\nQuinta-feira 24 Novembro 2022 de 8h30 a  13h.\n\nQuinta-feira 1º Dezembro 2022 de 8h30 a  13h.\n\nQuinta-feira 8 Dezembro 2022 de 8h30 a  13h.\n\nQuinta-feira 15 Dezembro 2022 de 8h30 a  13h.\n\nQuinta-feira 22 Dezembro 2022 de 8h30 a  13h.\n\nQuinta-feira 29 Dezembro 2022 de 8h30 a  13h.",
+      "libelleJa" : "木曜日 29 9月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 6 10月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 13 10月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 20 10月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 27 10月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 3 11月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 10 11月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 17 11月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 24 11月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 1st of 12月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 8 12月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 15 12月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 22 12月 2022 8.30 午前 と 1 午後 の間.\n\n木曜日 29 12月 2022 8.30 午前 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23798497,
+      "dateDebut" : "2022-09-29",
+      "dateFin" : "2022-09-29",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399559
+    }, {
+      "identifiant" : 23798501,
+      "dateDebut" : "2022-10-06",
+      "dateFin" : "2022-10-06",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399560
+    }, {
+      "identifiant" : 23798509,
+      "dateDebut" : "2022-10-13",
+      "dateFin" : "2022-10-13",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399561
+    }, {
+      "identifiant" : 23798517,
+      "dateDebut" : "2022-10-20",
+      "dateFin" : "2022-10-20",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399562
+    }, {
+      "identifiant" : 23798524,
+      "dateDebut" : "2022-10-27",
+      "dateFin" : "2022-10-27",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399563
+    }, {
+      "identifiant" : 23798529,
+      "dateDebut" : "2022-11-03",
+      "dateFin" : "2022-11-03",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399564
+    }, {
+      "identifiant" : 23798535,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399565
+    }, {
+      "identifiant" : 23798544,
+      "dateDebut" : "2022-11-17",
+      "dateFin" : "2022-11-17",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399566
+    }, {
+      "identifiant" : 23798546,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399567
+    }, {
+      "identifiant" : 23798551,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-01",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399568
+    }, {
+      "identifiant" : 23798553,
+      "dateDebut" : "2022-12-08",
+      "dateFin" : "2022-12-08",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399569
+    }, {
+      "identifiant" : 23798557,
+      "dateDebut" : "2022-12-15",
+      "dateFin" : "2022-12-15",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399570
+    }, {
+      "identifiant" : 23798566,
+      "dateDebut" : "2022-12-22",
+      "dateFin" : "2022-12-22",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399571
+    }, {
+      "identifiant" : 23798570,
+      "dateDebut" : "2022-12-29",
+      "dateFin" : "2022-12-29",
+      "horaireOuverture" : "08:30:00",
+      "horaireFermeture" : "13:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24399572
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  }, {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9518201,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Aureille"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/142/9277022.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/142/9277022-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/142/9277022-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/142/9277022-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_fruits",
+      "taille" : 1081172,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-02-10T15:15:45.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9518202,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Aureille"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/142/9277023.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/142/9277023-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/142/9277023-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/142/9277023-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Marche_saint_remy_tomates",
+      "taille" : 652646,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-02-10T15:15:44.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9518203,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Aureille"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/142/9277024.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/142/9277024-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/142/9277024-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/96/142/9277024-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "tomatoes-4050245_1920",
+      "taille" : 980045,
+      "hauteur" : 1440,
+      "largeur" : 2283,
+      "lastModifiedDate" : "2021-02-10T15:15:47.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9518204,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Aureille"
+    },
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/142/9277025.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/142/9277025-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/142/9277025-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/142/9277025-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "vegetables-3793697_1920",
+      "taille" : 787243,
+      "hauteur" : 1440,
+      "largeur" : 2160,
+      "lastModifiedDate" : "2021-02-10T15:15:46.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2273
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Marché Provençal"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-29T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV019599"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OTI Saint Rémy de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintremy-de-provence.com"
+    }
+  } ]
+}

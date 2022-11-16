@@ -1,0 +1,285 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6297337,
+  "nom" : {
+    "libelleFr" : "Pointillisme : Provence",
+    "libelleEn" : "Pointillisme : Provence",
+    "libelleEs" : "Pointillisme : Provence",
+    "libelleIt" : "Pointillisme : Provence",
+    "libelleDe" : "Pointillisme : Provence",
+    "libelleNl" : "Pointillisme : Provence",
+    "libelleRu" : "Pointillisme : Provence",
+    "libelleZh" : "Pointillisme : Provence",
+    "libellePtBR" : "Pointillisme : Provence",
+    "libelleJa" : "Pointillisme : Provence"
+  },
+  "identifier" : "SITRA2_EVE_6297337",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-14T14:55:22.122+0000",
+    "dateModification" : "2022-10-14T15:19:37.762+0000",
+    "dateExportModification" : "2022-10-31T14:11:38.215+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512652,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.fondationvasarely.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223016
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Créée cette année, l’œuvre Pointilisme : Provence, prendra comme point de départ les paysages environnants de la Sainte-Victoire que l’artiste Quayola a scannés à l’automne et au printemps.",
+      "libelleEn" : "Pointillisme: Provence is a new work which continues Quayola’s ongoing exploration of high-precision laser scanning systems and their inherited imperfections."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "À l’occasion de la deuxième édition de la Biennale des Imaginaires Numériques, l’artiste Quayola a remporté le 3e Prix International de la Fondation Vasarely & Chroniques. \r\nPointillisme : Provence est une nouvelle œuvre qui poursuit l’exploration de Quayola sur les systèmes de balayage laser de haute précision et de leurs imperfections héritées.\r\nEn établissant un parallèle entre les traditions picturales historiques et l’esthétique computationnelle, ce projet spécule sur de nouvelles peintures de paysages créées par des machines. Tout en reproduisant des conditions similaires à celles des peintres en plein air de la fin du 19e siècle, les paysages naturels sont en fait observés et analysés par le biais d’appareils technologiques sophistiqués et réaffectés à de nouveaux modes de synthèse visuelle.",
+      "libelleEn" : "Drawing a parallel between historical pictorial traditions and computational aesthetics, this project speculates new landscape paintings created by machines. While reproducing similar conditions to those favoured by the ‘en plein air’ painters of the late 19th century, the natural landscapes are actually observed and analysed through extensive technological apparatuses and re-purposed through new modes of visual synthesis."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Fondation Vasarely",
+      "adresse1" : "1 Avenue Marcel Pagnol",
+      "adresse2" : "CS 50490",
+      "codePostal" : "13096",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.424981, 43.521293 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538712
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11/2022 au 22/01/2023, tous les jours de 10h à 18h.\nNocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+      "libelleEn" : "From 11/11/2022 to 22/01/2023, daily between 10 am and 6 pm.\nNocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm.",
+      "libelleEs" : "Del 11/11/2022 al 22/01/2023, todos los dias de 10 a 18.",
+      "libelleIt" : "Dal 11/11/2022 al 22/01/2023, ogni giorno dalle 10 alle 18.",
+      "libelleDe" : "Vom 11/11/2022 bis 22/01/2023, täglich von 10 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 11/11/2022 tot en met 22/01/2023, iedere dag van 10.00 tot en met 18.00 u.",
+      "libelleRu" : "С 11/11/2022 до 22/01/2023, ежедневно с 10h до 18h.",
+      "libelleZh" : "从 2022年11月11日 到 2023年1月22日, 日常 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 11/11/2022 a 22/01/2023, todos os dias de 10h a  18h.",
+      "libelleJa" : "11/11/2022 から 22/01/2023 まで, 毎日 10 午前 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24503262,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-22",
+      "complementHoraire" : {
+        "libelleFr" : "Nocturnes le 11 novembre de 17h à 22h et le 12 de 14h à 22h.",
+        "libelleEn" : "Nocturnal on November 11th from 5pm to 10pm and on November 12th from 2pm to 10pm."
+      },
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24503506
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 8 €, Enfant : 5 € (5/9 ans).\n\n\nGratuit avec le Pass Biennale (60€) qui donne accès :\r\n● à toutes les expositions à Aix-en-Provence, Marseille et Avignon\r\n● au spectacle au Grenier à Sel, Live Dream - Justine Émard et Jean-Emmanuel Rosnet le 18 janv. 2023\r\n● au spectacle au Pavillon Noir d’Aix-en-Provence, Second Body - Anarchy Dance Theatre le 19 janv. 2023\r\n● à la soirée du 20 janvier à la Friche la Belle de Mai\r\n● à la soirée de clôture au 6MIC d’Aix-en-Provence, Caterina Barbieri, Donato Dozzy le 21 janv. 2023.",
+      "libelleEn" : "Full price: 8 €, Child: 5 €.\n",
+      "libelleEs" : "Tarifa completa: 8 €, Niño: 5 €.\n",
+      "libelleIt" : "Tarrifa intera: 8 €, Bambino: 5 €.\n",
+      "libelleDe" : "Voller Preis: 8 €, Kinder: 5 €.\n",
+      "libelleNl" : "Vol tarief: € 8, Kind: € 5.\n",
+      "libelleRu" : "Полную цену : 8 €, Ребенок : 5 €.\n",
+      "libelleZh" : "全额 : 8 €, 儿童 : 5 €.\n",
+      "libellePtBR" : "Tarifa inteira: 8 €, Criança: 5 €.\n",
+      "libelleJa" : "通常料金: 8 €, 子供: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "gratuit avec le Pass Biennale (60€) qui donne accès :\r\n● à toutes les expositions à Aix-en-Provence, Marseille et Avignon\r\n● au spectacle au Grenier à Sel, Live Dream - Justine Émard et Jean-Emmanuel Rosnet le 18 janv. 2023\r\n● au spectacle au Pavillon Noir d’Aix-en-Provence, Second Body - Anarchy Dance Theatre le 19 janv. 2023\r\n● à la soirée du 20 janvier à la Friche la Belle de Mai\r\n● à la soirée de clôture au 6MIC d’Aix-en-Provence, Caterina Barbieri, Donato Dozzy le 21 janv. 2023"
+    },
+    "periodes" : [ {
+      "identifiant" : 13747783,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-01-22",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "maximum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "5/9 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14409179,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Quayola"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/21/14751088.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/21/14751088-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/21/14751088-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/21/14751088-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "point",
+      "taille" : 306330,
+      "hauteur" : 450,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-14T15:18:47.759+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Fondation Vasarely"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-22T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,298 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6300462,
+  "nom" : {
+    "libelleFr" : "Etape de création I Breathing I Liam Warren"
+  },
+  "identifier" : "SITRA2_EVE_6300462",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-17T10:15:47.185+0000",
+    "dateModification" : "2022-10-17T12:11:24.646+0000",
+    "dateExportModification" : "2022-10-17T12:11:29.961+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104233966,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    }, {
+      "identifiant" : 104233967,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.3bisf.com/programme/etapes-de-creation/breathing"
+      },
+      "observation" : {
+        "libelleFr" : "Page web de l'événement"
+      }
+    }, {
+      "identifiant" : 104233968,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://chroniques.org/event/rendez-vous-performance-2/"
+      },
+      "observation" : {
+        "libelleFr" : "Page web de l'événement"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468112
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cette nouvelle création de Liam Warren explore la possibilité d’augmenter son pouvoir d’adaptation et possiblement d’amélioration de son rapport au monde à travers le souffle. [dans le cadre du festival Chroniques – biennale des imaginaires numériques]"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cette nouvelle création de Liam Warren explore la possibilité d’augmenter son pouvoir d’adaptation et possiblement d’amélioration de son rapport au monde à travers le souffle. Breathing, solo écrit et interprété par Liam Warren avec le musicien Hugo Mir-Valette, s’appuie sur les potentialités esthétiques du souffle, sa matérialité, via une gestion libératrice de son propre état, physique et mental.\r\n\r\nCorps polymorphe, parfois spectral, le performeur se déplacera sur une scène en miroir : ses respirations, jusque dans ses spasmes, seront enregistrées en direct et se répandront dans l’espace selon une boucle incessante et paroxystique. Entre épuisement et résistance, le souffle se tord, se multiplie et son intensité monte en crescendo. Dans cette chambre d’écho, émerge un nouveau rythme de respiration, une nouvelle phase d’empathie pour le corps collectif.\r\n\r\n\r\nCréation le 28 janvier 2023 dans le cadre du festival Parallèle à Klap, Maison pour la danse à Marseille.\r\n\r\nConception : Liam Warren, en collaboration avec Hugo Mir-Valette\r\nPerformeur / chorégraphe : Liam Warren\r\nComposition sonore : Hugo Mir-Valette\r\nLumière : Cécile Giovansili-Vissière\r\nRéalisateur en informatique musicale : Matisse Vrignaud\r\nDramaturgie : Marco Herløv Høst\r\nScénographie : Paf atelier"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "3 bis f, lieu d'arts contemporains",
+      "adresse1" : "Hôpital Montperrin",
+      "adresse2" : "109 Avenue Du Petit Barthélémy",
+      "codePostal" : "13617",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.440408, 43.520936 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5484537
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au samedi 12 novembre 2022 de 20h à 21h30.",
+      "libelleEn" : "From Friday 11 to Saturday 12 November 2022 between 8 pm and 9.30 pm.",
+      "libelleEs" : "Del viernes, 11 al sábado, 12 de noviembre de 2022 de 20 a 21:30.",
+      "libelleIt" : "Dal venerdì 11 a sabato 12 novembre 2022 dalle 20 alle 21:30.",
+      "libelleDe" : "Von Freitag, den 11. bis Samstag, den 12. November 2022 von 20 Uhr bis 21.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zaterdag 12 november 2022 van 20.00 tot en met 21.30 u.",
+      "libelleRu" : "С пятница 11 до суббота 12 ноября 2022  с 20h до 21h30.",
+      "libelleZh" : "从 星期五 到 2022年11月12日, 星期六   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "De Sexta-feira 11 a Sábado 12 Novembro 2022 de 20h a  21h30.",
+      "libelleJa" : "金曜日 11 から 土曜日 12 11月 2022 まで 8 午後 と 9.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24513555,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24513555
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21440259,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Girard",
+    "prenom" : "Laureline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104233969,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "laureline.girard@3bisf.com"
+      }
+    }, {
+      "identifiant" : 104233970,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 16 17 75"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14430800,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "© Marc-Antoine Serra"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/122/14777073.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/122/14777073-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/122/14777073-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/122/14777073-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/122/14777073-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "LIAM WARREN BREATHE HORIZONTAL",
+      "taille" : 6907388,
+      "hauteur" : 3840,
+      "largeur" : 5760,
+      "lastModifiedDate" : "2022-10-17T12:11:24.996+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nbParticipantsAttendu" : 40,
+    "nomLieu" : "3 bis f, lieu d'arts contemporains"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

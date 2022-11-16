@@ -1,0 +1,326 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305669,
+  "nom" : {
+    "libelleFr" : "Quand je serai grand je serai Père Noël"
+  },
+  "identifier" : "SITRA2_EVE_6305669",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T12:23:55.005+0000",
+    "dateModification" : "2022-10-21T12:42:06.659+0000",
+    "dateExportModification" : "2022-10-24T13:52:26.758+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 88833674,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.16-19.fr/comedieaix"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228820
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Qui n’a jamais rêvé de devenir le père noël ? en effet à l’heure où tous les petits garçons rêvent de devenir pompier, policier, ou pilote de course, Hugo lui veut prendre la relève du Père Noël."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il décide alors de tout mettre en œuvre pour y arriver et cela commence par le pôle nord ! Il apprendra dans son périple et au travers de ses rencontres avec un lutin, un renne ou encore la mère noël, que pour devenir le père noël il faut un tas de qualité : de la patience, de la persévérance, mais surtout un grand cœur plein d’amour et de magie …."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Comédie d'Aix",
+      "adresse1" : "8 Avenue de la Violette",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447610, 43.535085 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228821
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 36,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 3 décembre 2022 à 11h.\n\nMercredi 7 décembre 2022 à 11h.\n\nSamedi 10 décembre 2022 à 11h.\n\nMercredi 14 décembre 2022 à 11h.\n\nDu 17/12 au 24/12/2022, tous les jours à 11h.",
+      "libelleEn" : "Saturday 3 December 2022 at 11 am.\n\nWednesday 7 December 2022 at 11 am.\n\nSaturday 10 December 2022 at 11 am.\n\nWednesday 14 December 2022 at 11 am.\n\nFrom 17/12 to 24/12/2022, daily at 11 am.",
+      "libelleEs" : "Sábado, 3 de diciembre de 2022 a 11.\n\nMiércoles, 7 de diciembre de 2022 a 11.\n\nSábado, 10 de diciembre de 2022 a 11.\n\nMiércoles, 14 de diciembre de 2022 a 11.\n\nDel 17/12 al 24/12/2022, todos los dias a 11.",
+      "libelleIt" : "Sabato 3 dicembre 2022 alle 11.\n\nMercoledì 7 dicembre 2022 alle 11.\n\nSabato 10 dicembre 2022 alle 11.\n\nMercoledì 14 dicembre 2022 alle 11.\n\nDal 17/12 al 24/12/2022, ogni giorno alle 11.",
+      "libelleDe" : "Samstag, den 3. Dezember 2022 um 11 Uhr.\n\nMittwoch, den 7. Dezember 2022 um 11 Uhr.\n\nSamstag, den 10. Dezember 2022 um 11 Uhr.\n\nMittwoch, den 14. Dezember 2022 um 11 Uhr.\n\nVom 17/12 bis 24/12/2022, täglich um 11 Uhr.",
+      "libelleNl" : "Zaterdag 3 december 2022 om 11.00 u.\n\nWoensdag 7 december 2022 om 11.00 u.\n\nZaterdag 10 december 2022 om 11.00 u.\n\nWoensdag 14 december 2022 om 11.00 u.\n\nVan 17/12 tot en met 24/12/2022, iedere dag om 11.00 u.",
+      "libelleRu" : "Суббота 3 декабря 2022  до 11h.\n\nСреда 7 декабря 2022  до 11h.\n\nСуббота 10 декабря 2022  до 11h.\n\nСреда 14 декабря 2022  до 11h.\n\nС 17/12 до 24/12/2022, ежедневно до 11h.",
+      "libelleZh" : "2022年12月3日, 星期六   在 小时小时.\n\n2022年12月7日, 星期三   在 小时小时.\n\n2022年12月10日, 星期六   在 小时小时.\n\n2022年12月14日, 星期三   在 小时小时.\n\n从 12月17日 到 2022年12月24日, 日常 在 小时小时.",
+      "libellePtBR" : "Sábado 3 Dezembro 2022 para  11h.\n\nQuarta-feira 7 Dezembro 2022 para  11h.\n\nSábado 10 Dezembro 2022 para  11h.\n\nQuarta-feira 14 Dezembro 2022 para  11h.\n\nDe 17/12 a 24/12/2022, todos os dias para  11h.",
+      "libelleJa" : "土曜日 3 12月 2022 11 午前 に.\n\n水曜日 7 12月 2022 11 午前 に.\n\n土曜日 10 12月 2022 11 午前 に.\n\n水曜日 14 12月 2022 11 午前 に.\n\n17/12 から 24/12/2022 まで, 毎日 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24555889,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-03",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556171
+    }, {
+      "identifiant" : 24556021,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556172
+    }, {
+      "identifiant" : 24556023,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556173
+    }, {
+      "identifiant" : 24556025,
+      "dateDebut" : "2022-12-14",
+      "dateFin" : "2022-12-14",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556174
+    }, {
+      "identifiant" : 24556042,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-24",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556175
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 16 €, Tarif réduit : 10 €.\n",
+      "libelleEn" : "Full price: from 16 €, Reduced price: 10 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 16 €, Precio reducido: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 16 €, Prezzo ridotto: 10 €.\n",
+      "libelleDe" : "Voller Preis: ab 16 €, Reduzierter Preis: 10 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 16 €, Korting: € 10.\n",
+      "libelleRu" : "Полную цену : с 16 €, Сниженная цена : 10 €.\n",
+      "libelleZh" : "全额 : 从 16 €, 减价 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 16 €, Preço reduzido: 10 €.\n",
+      "libelleJa" : "通常料金: 16 €から, 割引料金: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13778918,
+      "dateDebut" : "2022-12-03",
+      "dateFin" : "2022-12-24",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6875418,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228820
+      },
+      "nom" : "Comédie d'Aix",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104407566,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.16-19.fr/spectacle/read?esp-spec_id_spectacle=2235"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14481588,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/90/14834396.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/90/14834396-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/90/14834396-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/90/14834396-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "pere noel",
+      "taille" : 221740,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T12:41:13.523+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-03", "2022-12-07", "2022-12-10", "2022-12-14", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2230
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Comédie d'Aix"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-24T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

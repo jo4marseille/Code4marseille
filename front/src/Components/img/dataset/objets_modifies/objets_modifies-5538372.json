@@ -1,0 +1,266 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538372,
+  "nom" : {
+    "libelleFr" : "Auriol",
+    "libelleEn" : "Village d'Auriol",
+    "libelleEs" : "Village d'Auriol",
+    "libelleIt" : "Village d'Auriol",
+    "libelleDe" : "Village d'Auriol",
+    "libelleNl" : "Village d'Auriol"
+  },
+  "identifier" : "SITRA2_PCU_5538372",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:30:27.426+0000",
+    "dateModification" : "2020-10-23T13:13:19.120+0000",
+    "dateExportModification" : "2022-11-06T17:40:10.482+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628775,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 04 70 06"
+      }
+    }, {
+      "identifiant" : 82630920,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://mairie-auriol.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224818
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Pour découvrir Auriol, il faut prendre le temps de flâner dans les rues du centre ancien. Des ruelles étroites aux noms évocateurs vous racontent son histoire.\nAu centre ville, vous irez admirer la Tour de l'Horloge à deux cadrans (1564), l'église paroissiale dont la chaire et l'autel sont classés monuments historiques.\nLe temps d'une halte sur la place Sainte-Barbe, vous apprécierez la fraîcheur de la fontaine et le beffroi du XVIIe siècle.\nD'autres vestiges médiévaux sont encore visibles comme la porte \nSt - Eloi, les anciennes portes d'Amont et de Sainte-Barbe, les ruines du vieux château.\nA voir également :\nRue Etroite, rue Augustine-Dupuy (ancienne place de la loge aux grains), le moulin de la paroisse et sa fontaine, les Fours du moyen-âge, le cours du 4 septembre et ses platanes centenaires (classés parmi les plus beaux de Provence).\nLe trésor d'Auriol (monnaies grecques enfouies vers 480 avant JC) est connu des numismates du monde entier.",
+      "libelleEn" : "Auriol has a heritage presenting various periods of history :\nRuins of the medieval castle (dating from the 1001 year)\nThe Sainte Barbe place and its fountain\nThe ‘Sainte-Croix chapel' and its panoramic view on the village (cover of this file)\nThe ‘Clock Tower' (1564)\nThe ‘Barres Treasury': more than 2000 coins of pure silver dating from the 6th century before J.C.\nMore than 20 oratories in the village area\nThe hamlet of Moulin de Redon: a typical of the smallest Provencal villages."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13390",
+      "bureauDistribution" : "AURIOL",
+      "commune" : {
+        "id" : 4418
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.633465, 43.370359 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4418
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Parking(En centre ville)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8703802,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001285_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/43/8465187.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/43/8465187-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/43/8465187-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/35/43/8465187-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 783992,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-09-02T10:08:34.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8703803,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001285_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/43/8465188.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/43/8465188-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/43/8465188-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/36/43/8465188-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 196993,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-09-02T10:08:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8703804,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001285_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "JPVallorani"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/43/8465189.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/43/8465189-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/43/8465189-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/43/8465189-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 551882,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-09-02T10:08:33.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001285"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

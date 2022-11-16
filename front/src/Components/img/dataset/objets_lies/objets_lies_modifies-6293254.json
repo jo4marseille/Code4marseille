@@ -1,0 +1,347 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6293254,
+  "nom" : {
+    "libelleFr" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleEn" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleEs" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleIt" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleDe" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleNl" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleRu" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleZh" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libellePtBR" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry",
+    "libelleJa" : "Annick Tangorra et Alain Jean-Marie - Time For A Cry"
+  },
+  "identifier" : "SITRA2_EVE_6293254",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T08:47:54.719+0000",
+    "dateModification" : "2022-11-07T12:54:43.445+0000",
+    "dateExportModification" : "2022-11-07T12:54:43.651+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104068467,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 37 39"
+      }
+    }, {
+      "identifiant" : 104068468,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "public@lepetitduc.net"
+      }
+    }, {
+      "identifiant" : 104068469,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lepetitduc.net"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5237306
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les mélodieuses harmonies vocales d’Annick Tangorra épousent avec grâce la virtuosité délicate d’Alain Jean-Marie. Time for a Cry suscite le frisson, mais pouvait-il en être autrement ?"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le duo est une forme qui permet une intimité musicale particulière, ce d’autant que l’album a été enregistré pour l’essentiel dans une église où la réverbération naturelle et le lieu participaient à une certaine exaltation. Rencontre avec l’illustre pianiste Alain Jean-Marie, autour de standards de jazz et de ses compositions qui n’étaient jusqu’alors qu’instrumentales."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Petit Duc",
+      "adresse1" : "1 Rue Emile Tavan",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.441762, 43.530129 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5541048
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "tailleGroupeMax" : 15
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 25 novembre 2022 à 20h30.",
+      "libelleEn" : "Friday 25 November 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 25 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 25 novembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 25. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 25 november 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 25 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月25日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 25 Novembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 25 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24480430,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24712505
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 19 €, Tarif réduit : 6 € (bénéficiaires du RSA, étudiants et moins de 18 ans).\n\n\nTarif chaine web 5€\r\nTarif Adhérent 15€\r\nTarif Adhérent chômeur 10€\r\nTarif Adhérent étudiants, RSA, minimum vieillesse 6€.",
+      "libelleEn" : "Full price: 19 €, Reduced price: 6 €.\n",
+      "libelleEs" : "Tarifa completa: 19 €, Precio reducido: 6 €.\n",
+      "libelleIt" : "Tarrifa intera: 19 €, Prezzo ridotto: 6 €.\n",
+      "libelleDe" : "Voller Preis: 19 €, Reduzierter Preis: 6 €.\n",
+      "libelleNl" : "Vol tarief: € 19, Korting: € 6.\n",
+      "libelleRu" : "Полную цену : 19 €, Сниженная цена : 6 €.\n",
+      "libelleZh" : "全额 : 19 €, 减价 : 6 €.\n",
+      "libellePtBR" : "Tarifa inteira: 19 €, Preço reduzido: 6 €.\n",
+      "libelleJa" : "通常料金: 19 €, 割引料金: 6 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Tarif chaine web 5€\r\nTarif Adhérent 15€\r\nTarif Adhérent chômeur 10€\r\nTarif Adhérent étudiants, RSA, minimum vieillesse 6€"
+    },
+    "periodes" : [ {
+      "identifiant" : 13734720,
+      "dateDebut" : "2022-11-25",
+      "dateFin" : "2022-11-25",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 19.00,
+        "maximum" : 19.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 6.00,
+        "precisionTarif" : {
+          "libelleFr" : "bénéficiaires du RSA, étudiants et moins de 18 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6851993,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5237306
+      },
+      "nom" : "Le Petit Duc",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104068464,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lepetitduc.net/spectacle/annick-tangorra-alain-jean-marie-time-for-a-cry/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21417102,
+    "referent" : true,
+    "nom" : "Duc",
+    "prenom" : "Le Petit",
+    "moyensCommunication" : [ {
+      "identifiant" : 104068465,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "public@lepetitduc.net"
+      }
+    }, {
+      "identifiant" : 104068466,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 27 37 39"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14373104,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Le Petit Duc"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/114/14709352.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/114/14709352-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/114/14709352-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/114/14709352-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "time",
+      "taille" : 46758,
+      "hauteur" : 690,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-12T08:56:18.768+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-25" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 15,
+    "nomLieu" : "Le Petit Duc"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-25T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

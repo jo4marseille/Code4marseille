@@ -1,0 +1,321 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318438,
+  "nom" : {
+    "libelleFr" : "Exposition Annabel Aoun Blanco \"Coups après coups\""
+  },
+  "identifier" : "SITRA2_EVE_6318438",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T10:58:13.970+0000",
+    "dateModification" : "2022-11-07T15:39:12.028+0000",
+    "dateExportModification" : "2022-11-07T15:39:13.574+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512882,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    }, {
+      "identifiant" : 70512885,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee.reattu@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 70512886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museereattu.arles.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223116
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Annabel Aoun Blanco est une artiste photographe/vidéaste plasticienne dont le travail est fondé sur une dynamique de va et vient."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Annabel Aoun Blanco \"Coups après coups\"\r\n19.11.2022 → 30.04.2023\r\nLe musée Réattu, musée des Beaux-Arts et d'art contemporain de la ville d’Arles, organise une exposition consacrée à l’artiste Annabel Aoun Blanco.\r\n\r\nAnnabel Aoun Blanco est une artiste photographe/vidéaste plasticienne dont le travail est fondé sur une dynamique de va et vient, faisant émerger une notion fondamentale dans son travail : « la boucle », entre la mémoire et l’oubli, l’apparition et la disparition, le blanc et le noir, le solide et le liquide, la photographie et la vidéo…\r\nTout le travail de l’artiste suit une progression et est toujours en cours. La notion de boucle se retrouve dans la production des œuvres rigoureusement organisée et pensée en amont de la création.\r\nL’exposition de 2022 Coups après coups consacre la Boucle 2, indissociable de la Boucle 1 présentée en 2019 dans l'exposition Éloigne moi de toi, car elle en est une évolution. L'objectif final étant la Boucle 3, qui fera disparaître la distinction entre les deux médiums au profit de la révélation du « Passage »."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Réattu",
+      "adresse1" : "10 Rue Du Grand Prieuré",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627457, 43.679059 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539256
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318852
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318903
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/11/2022 au 28/02/2023 de 10h à 17h sauf les 1er janvier et 25 décembre.\nFermé le lundi.\n\nDu 01/03 au 30/04/2023 de 10h à 18h.\nFermé le lundi.",
+      "libelleEn" : "From 11/11/2022 to 28/02/2023 between 10 am and 5 pm except on January 1st and December 25th.\nClosed on Monday.\n\nFrom 01/03 to 30/04/2023 between 10 am and 6 pm.\nClosed on Monday.",
+      "libelleEs" : "Del 11/11/2022 al 28/02/2023 de 10 a 17 excepto los días 1er de enero y 25 de diciembre.\nCerrado los lunes.\n\nDel 01/03 al 30/04/2023 de 10 a 18.\nCerrado los lunes.",
+      "libelleIt" : "Dal 11/11/2022 al 28/02/2023 dalle 10 alle 17 tranne 1° gennaio e 25 dicembre.\nChiuso il lunedì.\n\nDal 01/03 al 30/04/2023 dalle 10 alle 18.\nChiuso il lunedì.",
+      "libelleDe" : "Vom 11/11/2022 bis 28/02/2023 von 10 Uhr bis 17 Uhr (außer 1. Januar und 25. Dezember).\nMontag geschlossen.\n\nVom 01/03 bis 30/04/2023 von 10 Uhr bis 18 Uhr.\nMontag geschlossen.",
+      "libelleNl" : "Van 11/11/2022 tot en met 28/02/2023 van 10.00 tot en met 17.00 u m.u.v. 1 januari en 25 december.\nMaandag gesloten.\n\nVan 01/03 tot en met 30/04/2023 van 10.00 tot en met 18.00 u.\nMaandag gesloten.",
+      "libelleRu" : "С 11/11/2022 до 28/02/2023 с 10h до 17h кроме 1 января и 25 декабря.\nНе работает понедельник.\n\nС 01/03 до 30/04/2023 с 10h до 18h.\nНе работает понедельник.",
+      "libelleZh" : "从 2022年11月11日 到 2023年2月28日 小时小时 和 小时小时 之间 不包括 1月1日 和 12月25日.\n星期一 关闭.\n\n从 3月1日 到 2023年4月30日 小时小时 和 小时小时 之间.\n星期一 关闭.",
+      "libellePtBR" : "De 11/11/2022 a 28/02/2023 de 10h a  17h exceto em 1º de janeiro e 25 de dezembro.\nFechado em segunda-feira.\n\nDe 01/03 a 30/04/2023 de 10h a  18h.\nFechado em segunda-feira.",
+      "libelleJa" : "11/11/2022 から 28/02/2023 まで 10 午前 と 5 午後 の間 1月1日 と 12月25日 を除き.\n月曜日 は休み.\n\n01/03 から 30/04/2023 まで 10 午前 と 6 午後 の間.\n月曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24711275,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-02-28",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24715460
+    }, {
+      "identifiant" : 24712333,
+      "dateDebut" : "2023-03-01",
+      "dateFin" : "2023-04-30",
+      "horaireOuverture" : "10:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24715461
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 3 à 12 € (Plein : 6 € / Réduit*: 4 €\r\nAudioguide : 3 €\r\nBillet couplé musée Réattu +\r\nFondation Vincent van Gogh Arles : 12 €\r\n(uniquement valable pour les visiteurs individuels)).\n",
+      "libelleEn" : "Full price: 3 to 12 €.\n",
+      "libelleEs" : "Tarifa completa: de 3 a 12 €.\n",
+      "libelleIt" : "Tarrifa intera: da 3 a 12 €.\n",
+      "libelleDe" : "Voller Preis: von 3 bis 12 €.\n",
+      "libelleNl" : "Vol tarief: € 3 tot en met € 12.\n",
+      "libelleRu" : "Полную цену : с 3 до  12 €.\n",
+      "libelleZh" : "全额 : 从 3 到  12 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 3 a 12 €.\n",
+      "libelleJa" : "通常料金: 3 から 12 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13842269,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2023-04-30",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "maximum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "Plein : 6 € / Réduit*: 4 €\r\nAudioguide : 3 €\r\nBillet couplé musée Réattu +\r\nFondation Vincent van Gogh Arles : 12 €\r\n(uniquement valable pour les visiteurs individuels)"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14810187,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/221/15195459.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/221/15195459-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/221/15195459-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/221/15195459-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cap",
+      "taille" : 1044175,
+      "hauteur" : 2381,
+      "largeur" : 1684,
+      "lastModifiedDate" : "2022-11-07T15:39:12.128+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-22", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-29", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-05", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-12", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-19", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-26", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-05", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-12", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-19", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-26", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-02", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-09", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-16", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-23", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-04-30" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "Musée Réattu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-04-30T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

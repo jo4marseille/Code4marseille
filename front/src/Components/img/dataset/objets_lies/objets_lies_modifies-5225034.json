@@ -1,0 +1,89 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5225034,
+  "nom" : {
+    "libelleFr" : "Quartier des Savonniers",
+    "libelleEn" : "Quartier des Savonniers",
+    "libelleEs" : "Quartier des Savonniers",
+    "libelleIt" : "Quartier des Savonniers",
+    "libelleDe" : "Quartier des Savonniers",
+    "libelleNl" : "Quartier des Savonniers"
+  },
+  "identifier" : "SITRA2_STR_5225034",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:43:24.365+0000",
+    "dateModification" : "2020-10-16T14:23:36.452+0000",
+    "dateExportModification" : "2022-11-01T19:10:04.282+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Salon de Provence",
+      "dateCreation" : "2020-02-14T10:43:25.088+0000",
+      "dateModification" : "2022-10-24T08:49:43.996+0000",
+      "id" : 1989,
+      "siteWeb" : "http://www.visitsalondeprovence.com/"
+    },
+    "signalerUnProblemeMails" : [ "m.quaglia@visitsalondeprovence.com", "projet@visitsalondeprovence.com", "s.kheloufi@visitsalondeprovence.com", "v.bailly@visitsalondeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70518490,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 44 89 00"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13300",
+      "commune" : {
+        "id" : 4514
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4514
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

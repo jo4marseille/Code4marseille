@@ -1,0 +1,333 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318852,
+  "nom" : {
+    "libelleFr" : "Visite commentée de l'exposition Annabel Aoun Blanco \" Coups après coups \" en présence de l'artiste et du commissaire de l'exposition."
+  },
+  "identifier" : "SITRA2_EVE_6318852",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T14:41:56.992+0000",
+    "dateModification" : "2022-11-07T14:45:29.221+0000",
+    "dateExportModification" : "2022-11-07T15:26:43.477+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104979680,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    }, {
+      "identifiant" : 104979681,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reattu.reservation@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 104979682,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museereattu.arles.fr/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223116
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Visite commentée de l'exposition Annabel Aoun Blanco \" Coups après coups \" en présence de l'artiste et du commissaire de l'exposition."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Dans le cadre de l'exposition consacrée à l’artiste photographe/vidéaste plasticienne Annabel Aoun Blanco, le musée Réattu, musée des Beaux-Arts et d'art contemporain de la ville d’Arles, organise une rencontre privilégiée en présence de l'artiste et du commissaire de l'exposition..\r\n\r\nGratuit, sur réservation avant le jeudi 1er décembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Réattu",
+      "adresse1" : "10 Rue Du Grand Prieuré",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "MISE EN PLACE DE MESURES SANITAIRES :\r\n\r\nDistance de 1m50 entre les personnes \r\nPort du masque pour nos salariés \r\nPort du masque pour nos clients \r\nVitre de protection \r\nMise à disposition de gel hydroalcoolique\r\nNettoyage renforcé\r\nEffectif limité"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627937, 43.679141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "lieu" : {
+      "id" : 15613
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5539256
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318438
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539256
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6318903
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 2 décembre 2022 de 18h à 19h30.",
+      "libelleEn" : "Friday 2 December 2022 between 6 pm and 7.30 pm.",
+      "libelleEs" : "Viernes, 2 de diciembre de 2022 de 18 a 19:30.",
+      "libelleIt" : "Venerdì 2 dicembre 2022 dalle 18 alle 19:30.",
+      "libelleDe" : "Freitag, den 2. Dezember 2022 von 18 Uhr bis 19.30 Uhr.",
+      "libelleNl" : "Vrijdag 2 december 2022 van 18.00 tot en met 19.30 u.",
+      "libelleRu" : "Пятница 2 декабря 2022  с 18h до 19h30.",
+      "libelleZh" : "2022年12月2日, 星期五   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Sexta-feira 2 Dezembro 2022 de 18h a  19h30.",
+      "libelleJa" : "金曜日 2 12月 2022 6 午後 と 7.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24714400,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24714400
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Gratuit, sur réservation avant le jeudi 1er décembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Gratuit, sur réservation avant le jeudi 1er décembre au 04 90 49 37 58 ou reattu.reservation@ville-arles.fr"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21551921,
+    "referent" : true,
+    "nom" : "SERRES",
+    "prenom" : "Patricia",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104979683,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "p.serres@ville-arles.fr"
+      }
+    }, {
+      "identifiant" : 104979684,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 37 58"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14806612,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Danse contemporaine II, 2014"
+    },
+    "copyright" : {
+      "libelleFr" : "© Annabel Aoun Blanco"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/204/15191119.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/204/15191119-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/204/15191119-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/204/15191119-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "MR2022_ExpoAABCoupsaprescoups_AffA3_REAL1-A",
+      "taille" : 844539,
+      "hauteur" : 2480,
+      "largeur" : 1754,
+      "lastModifiedDate" : "2022-11-07T14:45:29.355+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-12-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2235
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2270
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Musée Réattu"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-02T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

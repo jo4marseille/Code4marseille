@@ -1,0 +1,599 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5713563,
+  "nom" : {
+    "libelleFr" : "Cité médiévale de Trets",
+    "libelleEn" : "Village de Trets",
+    "libelleEs" : "Village de Trets",
+    "libelleIt" : "Village de Trets",
+    "libelleDe" : "Village de Trets",
+    "libelleNl" : "Village de Trets"
+  },
+  "identifier" : "SITRA2_EVE_5713563",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-02-02T10:11:22.865+0000",
+    "dateModification" : "2022-04-21T12:02:40.667+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Trets",
+      "dateCreation" : "2020-10-19T07:00:50.696+0000",
+      "dateModification" : "2022-10-24T08:49:45.505+0000",
+      "id" : 2110,
+      "siteWeb" : "http://trets.fr"
+    },
+    "signalerUnProblemeMails" : [ "regie.tourisme@ville-de-trets.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628259,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 61 23 75"
+      }
+    }, {
+      "identifiant" : 79628260,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://trets.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223700
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Trets est une charmante ville gardant l'esprit des cités provençales à caractère médiéval. Trets présente un patrimoine riche et varié avec son enceinte fortifiée, son Château, son église à l'intérieur baroque, et son Ermitage au point de vue magnifique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Trets se trouve en plein cœur de la Provence. Située dans la haute Vallée de l'Arc, enveloppée par la célèbre montagne Sainte-Victoire, Trets est aux pieds de la chaine du Regagnas, dont font partie le site naturel classé l'Ermitage Saint-Jean-du-Puy, le Mont Olympe et le Mont Aurélien.\r\n Capital mondiale de l'iris, les domaines viticoles tretsois sont aussi un attrait touristique.\r\n\r\nL'office de tourisme propose des visites guidées de la cité médiévale, du Château des Remparts et de l'église Notre Dame de Nazareth. Les visites sont payantes et sur réservation."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Centre-ville",
+      "adresse1" : "Place du 14 Juillet",
+      "codePostal" : "13530",
+      "commune" : {
+        "id" : 4521
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.708924, 43.437664 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4521
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année, tous les lundis, mardis, mercredis, jeudis, vendredis et samedis sauf les 1er janvier, Lundi de Pâques, Jeudi de l'Ascension, Lundi de Pentecôte, 1er mai, 8 mai, 14 juillet, 1er novembre, 11 novembre et 25 décembre.\nDu lundi au vendredi d’octobre à mai.\r\nDu mardi au samedi de juin à septembre.",
+      "libelleEn" : "All year round, every Monday, Tuesday, Wednesday, Thursday, Friday and Saturday except on January 1st, Easter Monday, Feast of the Ascension, Whit Monday, May 1st, May 8th, July 14th, November 1st, November 11th and December 25th.",
+      "libelleEs" : "Todo el año, todos los lunes, martes, miércoles, jueves, viernes y sábados excepto los días 1er de enero, lunes de Pascua, Ascension, lunes de Pentecostés, 1er de mayo, 8 de mayo, 14 de julio, 1er de noviembre, 11 de noviembre y 25 de diciembre.",
+      "libelleIt" : "Tutto l'anno, tutti i lunedì, martedì, mercoledì, giovedì, venerdì e sabati tranne 1° gennaio, Lunedì di Pasqua, Ascensione, Lunedì di Pentecoste, 1° maggio, 8 maggio, 14 luglio, 1° novembre, 11 novembre e 25 dicembre.",
+      "libelleDe" : "Ganzjährig, jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag (außer 1. Januar, Ostermontag, Himmelfahrt, Pfingstmontag, 1. Mai, 8. Mai, 14. Juli, 1. November, 11. Dezember und 25. Dezember).",
+      "libelleNl" : "Het hele jaar, elke maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag m.u.v. 1 januari, Paasmaandag, Hemelvaartsdag, Tweede Pinksterdag, 1 mei, 8 mei, 14 juli, 1er november, 11 november en 25 december.",
+      "libelleRu" : "В течение всего года, каждый понедельники, вторники, среды, четверги, пятницы и субботы кроме 1 января, Пасхальный понедельник, Вознесение, Духов день, 1 мая, 8 мая, 14 июля, 1 ноября, 11 ноября и 25 декабря.",
+      "libelleZh" : "全年, 每星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 不包括 1月1日, 复活节星期一, 耶稣升天节, 圣灵降临节, 5月1日, 5月8日, 7月14日, 11月1日, 11月11日 和 12月25日.",
+      "libellePtBR" : "Todo o ano, todas as segundas-feiras, terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados exceto em 1º de janeiro, Páscoa, Ascensão de Nossa Senhora, Pentecostes, 1º de maio, 8 de maio, 14 de julho, 1º de novembro, 11 de novembro e 25 de dezembro.",
+      "libelleJa" : "オールシーズン, 毎月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 1月1日, イースターマンデー, キリストの昇天, 聖霊降臨節の月曜日, 5月1日, 5月8日, 7月14日, 11月1日, 11月11日 と 12月25日 を除き."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20227024,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Du lundi au vendredi d’octobre à mai.\r\nDu mardi au samedi de juin à septembre."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 23164973
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "LUNDI_PAQUES"
+    }, {
+      "dateSpeciale" : "ASCENSION"
+    }, {
+      "dateSpeciale" : "LUNDI_PENTECOTE"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "HUIT_MAI"
+    }, {
+      "dateSpeciale" : "QUATORZE_JUILLET"
+    }, {
+      "dateSpeciale" : "PREMIER_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "ONZE_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 4 €.\n\n Gratuit pour les moins de 16 ans.",
+      "libelleEn" : "Full price: 4 €.\n\n Free entry for children < 16 years.",
+      "libelleEs" : "Tarifa completa: 4 €.\n\n Gratuito para los niños menores de 16 años.",
+      "libelleIt" : "Tarrifa intera: 4 €.\n\n Gratuito per i bambini di età inferiore a 16 anni.",
+      "libelleDe" : "Voller Preis: 4 €.\n\n Kostenlos für Kinder unter 16 Jahren.",
+      "libelleNl" : "Vol tarief: € 4.\n\n Gratis voor kinderen onder de 16 jaar.",
+      "libelleRu" : "Полную цену : 4 €.\n\n Бесплатно для лицам младше 16 лет.",
+      "libelleZh" : "全额 : 4 €.\n\n 儿童 < 16 岁自由进入.",
+      "libellePtBR" : "Tarifa inteira: 4 €.\n\n Gratuito para menores de 16 anos.",
+      "libelleJa" : "通常料金: 4 €.\n\n 子供 < 16 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 11815832,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 4.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 16
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5490701,
+      "nom" : "Office de Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "observation" : {
+        "libelleFr" : "04 42 61 23 75"
+      },
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Les visites guidées sont sur réservation auprès de l'office de tourisme."
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18626578,
+    "referent" : true
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9262854,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "centre-ville"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/155/9018212.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/155/9018212-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/155/9018212-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/100/155/9018212-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Centre-ville",
+      "taille" : 157009,
+      "hauteur" : 921,
+      "largeur" : 1385,
+      "lastModifiedDate" : "2020-12-23T13:54:30.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262865,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Trou Mme Lion"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/155/9018222.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/155/9018222-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/155/9018222-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/155/9018222-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Trou Mme Lion",
+      "taille" : 148274,
+      "hauteur" : 923,
+      "largeur" : 613,
+      "lastModifiedDate" : "2020-12-23T13:54:28.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262875,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Place Pailheiret"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/155/9018233.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/155/9018233-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/155/9018233-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/155/9018233-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Place Pailheiret",
+      "taille" : 267936,
+      "hauteur" : 922,
+      "largeur" : 1386,
+      "lastModifiedDate" : "2020-12-23T13:54:30.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262859,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "oratoire"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/155/9018217.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/155/9018217-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/155/9018217-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/155/9018217-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Oratoire",
+      "taille" : 121213,
+      "hauteur" : 925,
+      "largeur" : 614,
+      "lastModifiedDate" : "2020-12-23T13:54:29.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262860,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Remparts"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/155/9018218.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/155/9018218-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/155/9018218-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/155/9018218-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Remparts",
+      "taille" : 313983,
+      "hauteur" : 924,
+      "largeur" : 1387,
+      "lastModifiedDate" : "2020-12-23T13:54:29.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262450,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Porte St Jean"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/153/9017810.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/153/9017810-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/153/9017810-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/153/9017810-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "P8 Porte Saint-Jean",
+      "taille" : 9202714,
+      "hauteur" : 5315,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2020-12-23T13:36:47.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262449,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Porte de Pourrières"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/153/9017809.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/153/9017809-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/153/9017809-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/153/9017809-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "P8 Porte de Pourrières",
+      "taille" : 10385092,
+      "hauteur" : 5315,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2020-12-23T13:36:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262479,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Studium Papal"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/153/9017839.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/153/9017839-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/153/9017839-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/153/9017839-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "P17 Studium Papal",
+      "taille" : 8296387,
+      "hauteur" : 5315,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2020-12-23T13:36:42.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262602,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Centre-ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/154/9017962.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/154/9017962-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/154/9017962-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/154/9017962-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 41764,
+      "hauteur" : 400,
+      "largeur" : 300,
+      "lastModifiedDate" : "2020-12-23T13:36:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262598,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Iris"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/154/9017958.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/154/9017958-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/154/9017958-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/154/9017958-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "P23 Iris",
+      "taille" : 5210221,
+      "hauteur" : 3543,
+      "largeur" : 2362,
+      "lastModifiedDate" : "2020-12-23T13:36:40.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262607,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "vue Sainte-Victoire"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/154/9017967.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/154/9017967-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/154/9017967-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/154/9017967-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 47757,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-12-23T13:36:46.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262612,
+    "link" : true,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Guide bilingue A la découverte de la ville"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://fr.calameo.com/read/0012604970ac7699d300d?page=1"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9262870,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "vignes"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/155/9018228.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/155/9018228-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/155/9018228-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/155/9018228-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "vignes",
+      "taille" : 397054,
+      "hauteur" : 922,
+      "largeur" : 1388,
+      "lastModifiedDate" : "2020-12-23T13:54:27.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 9331045,
+    "link" : true,
+    "type" : "BROCHURE_VIRTUELLE",
+    "nom" : {
+      "libelleFr" : "Guide bilingue A la découverte de Trets"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Trets"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://fr.calameo.com/read/0012604970ac7699d300d?page=1"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-21", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-28", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-04", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-11", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-18", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-25", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-04", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-11", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-18", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-25", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-01", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-08", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-15", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-22", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-04-29", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-06", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-13", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-19", "2023-05-20", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-27", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-03", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09", "2023-06-10", "2023-06-12", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-16", "2023-06-17", "2023-06-19", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-23", "2023-06-24", "2023-06-26", "2023-06-27", "2023-06-28", "2023-06-29", "2023-06-30", "2023-07-01", "2023-07-03", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-07", "2023-07-08", "2023-07-10", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-15", "2023-07-17", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-21", "2023-07-22", "2023-07-24", "2023-07-25", "2023-07-26", "2023-07-27", "2023-07-28", "2023-07-29", "2023-07-31", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-04", "2023-08-05", "2023-08-07", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-11", "2023-08-12", "2023-08-14", "2023-08-15", "2023-08-16", "2023-08-17", "2023-08-18", "2023-08-19", "2023-08-21", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-25", "2023-08-26", "2023-08-28", "2023-08-29", "2023-08-30", "2023-08-31", "2023-09-01", "2023-09-02", "2023-09-04", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-08", "2023-09-09", "2023-09-11", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-15", "2023-09-16", "2023-09-18", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-22", "2023-09-23", "2023-09-25", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-29", "2023-09-30", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-06", "2023-10-07", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-13", "2023-10-14", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-20", "2023-10-21", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-27", "2023-10-28", "2023-10-30", "2023-10-31", "2023-11-02", "2023-11-03", "2023-11-04", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-10", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-17", "2023-11-18", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-24", "2023-11-25", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-01", "2023-12-02", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-08", "2023-12-09", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-15", "2023-12-16", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-22", "2023-12-23", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-29", "2023-12-30", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-05", "2024-01-06", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-12", "2024-01-13", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-19", "2024-01-20", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-26", "2024-01-27", "2024-01-29", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-02", "2024-02-03", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-09", "2024-02-10", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-16", "2024-02-17", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23", "2024-02-24", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-01", "2024-03-02", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-08", "2024-03-09", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-15", "2024-03-16", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-22", "2024-03-23", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-29", "2024-03-30", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-05", "2024-04-06", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-12", "2024-04-13", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-19", "2024-04-20", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-26", "2024-04-27", "2024-04-29", "2024-04-30", "2024-05-02", "2024-05-03", "2024-05-04", "2024-05-06", "2024-05-07", "2024-05-10", "2024-05-11", "2024-05-13", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-17", "2024-05-18", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-24", "2024-05-25", "2024-05-27", "2024-05-28", "2024-05-29", "2024-05-30", "2024-05-31", "2024-06-01", "2024-06-03", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-07", "2024-06-08", "2024-06-10", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-14", "2024-06-15", "2024-06-17", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-21", "2024-06-22", "2024-06-24", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-28", "2024-06-29", "2024-07-01", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-05", "2024-07-06", "2024-07-08", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-12", "2024-07-13", "2024-07-15", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-19", "2024-07-20", "2024-07-22", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-26", "2024-07-27", "2024-07-29", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-02", "2024-08-03", "2024-08-05", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-09", "2024-08-10", "2024-08-12", "2024-08-13", "2024-08-14", "2024-08-15", "2024-08-16", "2024-08-17", "2024-08-19", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-23", "2024-08-24", "2024-08-26", "2024-08-27", "2024-08-28", "2024-08-29", "2024-08-30", "2024-08-31", "2024-09-02", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-06", "2024-09-07", "2024-09-09", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-13", "2024-09-14", "2024-09-16", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-20", "2024-09-21", "2024-09-23", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-27", "2024-09-28", "2024-09-30", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-04", "2024-10-05", "2024-10-07", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-11", "2024-10-12", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", "2024-10-19", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2214
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Centre-ville"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

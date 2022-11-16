@@ -1,0 +1,255 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6309214,
+  "nom" : {
+    "libelleFr" : "Ascendance"
+  },
+  "identifier" : "SITRA2_EVE_6309214",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-26T08:13:02.532+0000",
+    "dateModification" : "2022-10-26T08:24:06.099+0000",
+    "dateExportModification" : "2022-10-26T08:24:06.673+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77076933,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 15 63"
+      }
+    }, {
+      "identifiant" : 77076934,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@mrofoundation.org"
+      }
+    }, {
+      "identifiant" : 77076935,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://mrofoundation.org"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468118
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le programme Ascendance relie une quinzaine d’artistes proposant des regards singuliers sur la notion de droits humains."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les droits humains sont les droits inaliénables de tous les êtres humains, sans distinction aucune, notamment de race, de sexe, de nationalité, d’origine ethnique, de langue, de religion ou de toute autre situation. Les droits humains incluent le droit à la vie et à la liberté.\r\n\r\nAscendance caractérise ce croisement des générations qui génère et perpétue des traditions tout en ayant un caractère de progression, une volonté de changement bénéfique de la société sur les droits humains, l’acceptation des autres ; seulement cela réfère au comportement social caractérisé par la tendance à dominer les autres, qui joue l’ambivalence de notre société actuelle.\r\n\r\nAvec les travaux de Zoé Aubry, Guillaume Delleuse, Isabelle Ha Eav, Pierre-Kastriot Jashari, Joanne Joho, Younès Klouche, Margot Lançon, Thomas Yaël Lopez, Florent Meng Lechevallier, Leslie Moquin, Laurence Rasti, Dorian Sari, Chloé Simonin et Francesca Todde."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Fondation Manuel Rivera - Ortiz",
+      "adresse1" : "18 Rue De la Calade",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.628129, 43.676997 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 29/10 au 24/12/2022 de 11h à 19h.\nFermé le lundi.\nLa vente des billets cesse 30 minutes avant la fermeture\r\n\r\nVisite guidée en présence des artistes Samedi 29 octobre 15h.",
+      "libelleEn" : "From 29/10 to 24/12/2022 between 11 am and 7 pm.\nClosed on Monday.",
+      "libelleEs" : "Del 29/10 al 24/12/2022 de 11 a 19.\nCerrado los lunes.",
+      "libelleIt" : "Dal 29/10 al 24/12/2022 dalle 11 alle 19.\nChiuso il lunedì.",
+      "libelleDe" : "Vom 29/10 bis 24/12/2022 von 11 Uhr bis 19 Uhr.\nMontag geschlossen.",
+      "libelleNl" : "Van 29/10 tot en met 24/12/2022 van 11.00 tot en met 19.00 u.\nMaandag gesloten.",
+      "libelleRu" : "С 29/10 до 24/12/2022 с 11h до 19h.\nНе работает понедельник.",
+      "libelleZh" : "从 10月29日 到 2022年12月24日 小时小时 和 小时小时 之间.\n星期一 关闭.",
+      "libellePtBR" : "De 29/10 a 24/12/2022 de 11h a  19h.\nFechado em segunda-feira.",
+      "libelleJa" : "29/10 から 24/12/2022 まで 11 午前 と 7 午後 の間.\n月曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24597206,
+      "dateDebut" : "2022-10-29",
+      "dateFin" : "2022-12-24",
+      "complementHoraire" : {
+        "libelleFr" : "La vente des billets cesse 30 minutes avant la fermeture\r\n\r\nVisite guidée en présence des artistes Samedi 29 octobre 15h"
+      },
+      "horaireOuverture" : "11:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 24597274
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : de 4 à 6 € (Gratuité sur justificatifs : Arlésiens (sur présentation d’un justificatif de domicile);\r\nétudiants en individuels (français et étrangers) jusqu’à 25 ans ; moins de\r\n18 ans ; bénéficiaires du RSA ; personnes en situation de handicap et leur\r\naccompagnateur ; journalistes ; conservateurs de musées ; adhérents de\r\nl’ICOM\r\nRéduction sur justificatifs : enseignants ; demandeurs d’emploi.).\n",
+      "libelleEn" : "Adult: 4 to 6 €.\n",
+      "libelleEs" : "Adulto: de 4 a 6 €.\n",
+      "libelleIt" : "Adulto: da 4 a 6 €.\n",
+      "libelleDe" : "Erwachsene: von 4 bis 6 €.\n",
+      "libelleNl" : "Volwassene: € 4 tot en met € 6.\n",
+      "libelleRu" : "Взрослый : с 4 до  6 €.\n",
+      "libelleZh" : "成人 : 从 4 到  6 €.\n",
+      "libellePtBR" : "Adulto: de 4 a 6 €.\n",
+      "libelleJa" : "大人: 4 から 6 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13799907,
+      "dateDebut" : "2022-10-29",
+      "dateFin" : "2022-12-24",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 4.00,
+        "maximum" : 6.00,
+        "precisionTarif" : {
+          "libelleFr" : "Gratuité sur justificatifs : Arlésiens (sur présentation d’un justificatif de domicile);\r\nétudiants en individuels (français et étrangers) jusqu’à 25 ans ; moins de\r\n18 ans ; bénéficiaires du RSA ; personnes en situation de handicap et leur\r\naccompagnateur ; journalistes ; conservateurs de musées ; adhérents de\r\nl’ICOM\r\nRéduction sur justificatifs : enseignants ; demandeurs d’emploi."
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14572662,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Guillaume DELLEUSE"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/226/14934748.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/226/14934748-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/226/14934748-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/226/14934748-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "cap",
+      "taille" : 153573,
+      "hauteur" : 652,
+      "largeur" : 418,
+      "lastModifiedDate" : "2022-10-26T08:24:06.186+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-12-25T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-29", "2022-10-30", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Fondation Manuel Rivera - Ortiz"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-24T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

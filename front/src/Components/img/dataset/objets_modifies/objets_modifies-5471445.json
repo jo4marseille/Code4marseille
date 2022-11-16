@@ -1,0 +1,273 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5471445,
+  "nom" : {
+    "libelleFr" : "Marché du mercredi matin",
+    "libelleEn" : "Marché du mercredi",
+    "libelleEs" : "Marché du mercredi",
+    "libelleIt" : "Marché du mercredi",
+    "libelleDe" : "Marché du mercredi",
+    "libelleNl" : "Marché du mercredi"
+  },
+  "identifier" : "SITRA2_EVE_5471445",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T14:37:59.787+0000",
+    "dateModification" : "2021-02-05T13:28:42.768+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.ginoux@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 775880
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Moment très apprécié des arlésiens, le marché du mercredi regorge de produits lrais et locaux."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "C'est un marché qui foisonne d’odeurs et de couleurs. \r\nOn y trouve de tout : fruits et légumes, fromages, fleurs et épices, viandes et poissons, miel, tous les produits frais et régionaux, mais aussi vêtements et chaussures.",
+      "libelleEn" : "It is a market that is full of smells and colours. There is everything: fruit and vegetables, cheese, fruits, flowers and spices, meats and fish, honey, all fresh and regional products, but also clothing and footwear.",
+      "libelleEs" : "Es un mercado que está lleno de olores y colores. Hay de todo: frutas y verduras, queso, frutas, miel, flores y especias, carnes y pescados, todos productos frescos y regionales, pero también ropa y calzado.",
+      "libelleIt" : "È un mercato che è pieno di odori e colori. C'è di tutto: frutta e verdure, formaggio, frutta, fiori e spezie, carni e pesce, miele, tutti prodotti freschi e regionali, ma anche abbigliamento e calzature.",
+      "libelleDe" : "Es ist ein Markt, der voller Gerüche und Farben ist. Gibt es alles: Obst und Gemüse, Käse, Früchte, Blüten und Gewürze, Fleisch und Fisch, Honig, alle frische und regionale Produkte, aber auch Kleidung und Schuhe.",
+      "libelleNl" : "Het is een markt die is vol geuren en kleuren. Er is alles: groenten en fruit, kaas, fruit, bloemen en kruiden, vlees en vis, honing, alle verse, regionale producten, maar ook kleding en schoeisel."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Boulevard Emile Combes",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.627804, 43.676651 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Le mercredi matin"
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19480894,
+      "dateDebut" : "2020-01-01",
+      "dateFin" : "2020-12-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 20466701
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9191797,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marché d'Arles - Mercredi"
+    },
+    "legende" : {
+      "libelleFr" : "Marché d'Arles - Mercredi"
+    },
+    "copyright" : {
+      "libelleFr" : "Hervé Hôte"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/130/8946368.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/130/8946368-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/130/8946368-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/130/8946368-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "marché arles©Herve_Hote_agence_cameleon (158)",
+      "taille" : 8669167,
+      "hauteur" : 3006,
+      "largeur" : 4453,
+      "lastModifiedDate" : "2020-12-09T10:27:18.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-12", "2022-10-19", "2022-10-26", "2022-11-02", "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28", "2023-01-04", "2023-01-11", "2023-01-18", "2023-01-25", "2023-02-01", "2023-02-08", "2023-02-15", "2023-02-22", "2023-03-01", "2023-03-08", "2023-03-15", "2023-03-22", "2023-03-29", "2023-04-05", "2023-04-12", "2023-04-19", "2023-04-26", "2023-05-03", "2023-05-10", "2023-05-17", "2023-05-24", "2023-05-31", "2023-06-07", "2023-06-14", "2023-06-21", "2023-06-28", "2023-07-05", "2023-07-12", "2023-07-19", "2023-07-26", "2023-08-02", "2023-08-09", "2023-08-16", "2023-08-23", "2023-08-30", "2023-09-06", "2023-09-13", "2023-09-20", "2023-09-27", "2023-10-04", "2023-10-11", "2023-10-18", "2023-10-25", "2023-11-01", "2023-11-08", "2023-11-15", "2023-11-22", "2023-11-29", "2023-12-06", "2023-12-13", "2023-12-20", "2023-12-27", "2024-01-03", "2024-01-10", "2024-01-17", "2024-01-24", "2024-01-31", "2024-02-07", "2024-02-14", "2024-02-21", "2024-02-28", "2024-03-06", "2024-03-13", "2024-03-20", "2024-03-27", "2024-04-03", "2024-04-10", "2024-04-17", "2024-04-24", "2024-05-01", "2024-05-08", "2024-05-15", "2024-05-22", "2024-05-29", "2024-06-05", "2024-06-12", "2024-06-19", "2024-06-26", "2024-07-03", "2024-07-10", "2024-07-17", "2024-07-24", "2024-07-31", "2024-08-07", "2024-08-14", "2024-08-21", "2024-08-28", "2024-09-04", "2024-09-11", "2024-09-18", "2024-09-25", "2024-10-02", "2024-10-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV048375"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Arles"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.arlestourisme.com"
+    }
+  } ]
+}

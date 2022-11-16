@@ -1,0 +1,222 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6318949,
+  "nom" : {
+    "libelleFr" : "Far Away"
+  },
+  "identifier" : "SITRA2_EVE_6318949",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-11-07T15:16:38.742+0000",
+    "dateModification" : "2022-11-07T15:39:49.429+0000",
+    "dateExportModification" : "2022-11-07T15:39:49.736+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104987328,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.hoteldegallifet.com/fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5523934
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Far Away s’apparente à une scène d’exploration spatiale, matérialisée par 12 Sentinelles en rotation, scannant le terrain à la recherche d’un signe, d’un mouvement, d’une ressource."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces Sentinelles, mi-scanners, mi-girouettes, s’activent sous nos yeux, dans un ballet cyclique, minimal et envoûtant.\r\n\r\nQue cherchent ces sentinelles ? Comment communiquent-elles ? À quoi sont-elles sensibles ? Le passage du public sous ces objets semble perturber leur fonctions exploratoires…\r\nÀ mi-chemin entre une étude scientifique et une chorégraphie poétique, l’installation Far Away renvoie à la condition et à l’isolement des robots d’exploration (comme Perseverance sur Mars). Cette dernière création de Chevalvert s’intéresse aux conditions de transmission d’un message dans l’espace, aux interactions homme-machine, autant qu’à la présence de la vie, ici, comme très loin d’ici…"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de Gallifet",
+      "adresse1" : "52 Rue Cardinale",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447867, 43.525141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6277116
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du vendredi 11 au samedi 12 novembre 2022 de 18h à 22h.",
+      "libelleEn" : "From Friday 11 to Saturday 12 November 2022 between 6 pm and 10 pm.",
+      "libelleEs" : "Del viernes, 11 al sábado, 12 de noviembre de 2022 de 18 a 22.",
+      "libelleIt" : "Dal venerdì 11 a sabato 12 novembre 2022 dalle 18 alle 22.",
+      "libelleDe" : "Von Freitag, den 11. bis Samstag, den 12. November 2022 von 18 Uhr bis 22 Uhr.",
+      "libelleNl" : "Vrijdag 11 tot en met zaterdag 12 november 2022 van 18.00 tot en met 22.00 u.",
+      "libelleRu" : "С пятница 11 до суббота 12 ноября 2022  с 18h до 22h.",
+      "libelleZh" : "从 星期五 到 2022年11月12日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De Sexta-feira 11 a Sábado 12 Novembro 2022 de 18h a  22h.",
+      "libelleJa" : "金曜日 11 から 土曜日 12 11月 2022 まで 6 午後 と 10 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24715075,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715465
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14810058,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Chevalvert"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/220/15195330.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/220/15195330-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/220/15195330-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/220/15195330-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "far away",
+      "taille" : 425090,
+      "hauteur" : 1600,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-07T15:21:57.211+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5651
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Hôtel de Gallifet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

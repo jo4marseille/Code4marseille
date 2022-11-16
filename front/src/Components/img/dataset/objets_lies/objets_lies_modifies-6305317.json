@@ -1,0 +1,367 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305317,
+  "nom" : {
+    "libelleFr" : "Randonnée pédestre dans la Réserve Naturelle National des Marais du Viguierat"
+  },
+  "identifier" : "SITRA2_EVE_6305317",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T09:02:46.024+0000",
+    "dateModification" : "2022-10-24T06:41:54.580+0000",
+    "dateExportModification" : "2022-10-24T06:42:22.765+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104399861,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 98 70 91"
+      }
+    }, {
+      "identifiant" : 104399862,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marais-vigueirat.reserves-naturelles.org/billetterie/?re-product-id=230629"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222946
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Venez découvrir le paysage automnal de la réserve ainsi que les oiseaux hivernants, lors d'une randonnée accompagné de l'un de nos guide naturaliste."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L’automne offre des couleurs orangées sublimes dans les Marais du Vigueirat, faisant ressortir la beauté des paysages et de la végétation. La lumière est beaucoup plus douce que durant l’été et les fortes chaleurs estivales laissent place à un climat doux et agréable. Les plantes se transforment, les roselières arborent leurs plumeaux de graines, les sansouïres deviennent rouges et l’eau inonde à nouveau les nombreux étangs.\r\n\r\nL’automne annonce le retour des oiseaux hivernants, qui viendront passer l’hiver dans les Marais du Vigueirat.\r\n\r\nTous les samedis à partir du 1er octobre, participez à une randonnée pédestre de 5 km dans le coeur de la réserve naturelle, en compagnie d’un guide naturaliste.\r\n\r\nInfos pratiques :\r\n\r\nTransfert avec vos véhicules vers le sanctuaire de la réserve situé à 5 km au sud de l’accueil.\r\nPrévoir son pique-nique, chaussures de marche, vêtements adaptés aux conditions météo."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Accueil des Marais du Viguierat",
+      "adresse1" : "Les Amis des Marais du Vigueirat",
+      "adresse2" : "Chemin de l étourneau, 13104 Mas-Thibert",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.730816, 43.553835 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5846117
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539178
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 28 octobre 2022 de 9h30 à 15h30.\n\nSamedi 5 novembre 2022 de 9h30 à 15h30.\n\nSamedi 12 novembre 2022 de 9h30 à 15h30.\n\nSamedi 19 novembre 2022 de 9h30 à 15h30.\n\nSamedi 26 novembre 2022 de 9h30 à 15h30.",
+      "libelleEn" : "Friday 28 October 2022 between 9.30 am and 3.30 pm.\n\nSaturday 5 November 2022 between 9.30 am and 3.30 pm.\n\nSaturday 12 November 2022 between 9.30 am and 3.30 pm.\n\nSaturday 19 November 2022 between 9.30 am and 3.30 pm.\n\nSaturday 26 November 2022 between 9.30 am and 3.30 pm.",
+      "libelleEs" : "Viernes, 28 de octubre de 2022 de 9:30 a 15:30.\n\nSábado, 5 de noviembre de 2022 de 9:30 a 15:30.\n\nSábado, 12 de noviembre de 2022 de 9:30 a 15:30.\n\nSábado, 19 de noviembre de 2022 de 9:30 a 15:30.\n\nSábado, 26 de noviembre de 2022 de 9:30 a 15:30.",
+      "libelleIt" : "Venerdì 28 ottobre 2022 dalle 9:30 alle 15:30.\n\nSabato 5 novembre 2022 dalle 9:30 alle 15:30.\n\nSabato 12 novembre 2022 dalle 9:30 alle 15:30.\n\nSabato 19 novembre 2022 dalle 9:30 alle 15:30.\n\nSabato 26 novembre 2022 dalle 9:30 alle 15:30.",
+      "libelleDe" : "Freitag, den 28. Oktober 2022 von 9.30 Uhr bis 15.30 Uhr.\n\nSamstag, den 5. November 2022 von 9.30 Uhr bis 15.30 Uhr.\n\nSamstag, den 12. November 2022 von 9.30 Uhr bis 15.30 Uhr.\n\nSamstag, den 19. November 2022 von 9.30 Uhr bis 15.30 Uhr.\n\nSamstag, den 26. November 2022 von 9.30 Uhr bis 15.30 Uhr.",
+      "libelleNl" : "Vrijdag 28 oktober 2022 van 9.30 tot en met 15.30 u.\n\nZaterdag 5 november 2022 van 9.30 tot en met 15.30 u.\n\nZaterdag 12 november 2022 van 9.30 tot en met 15.30 u.\n\nZaterdag 19 november 2022 van 9.30 tot en met 15.30 u.\n\nZaterdag 26 november 2022 van 9.30 tot en met 15.30 u.",
+      "libelleRu" : "Пятница 28 октября 2022  с 9h30 до 15h30.\n\nСуббота 5 ноября 2022  с 9h30 до 15h30.\n\nСуббота 12 ноября 2022  с 9h30 до 15h30.\n\nСуббота 19 ноября 2022  с 9h30 до 15h30.\n\nСуббота 26 ноября 2022  с 9h30 до 15h30.",
+      "libelleZh" : "2022年10月28日, 星期五   小时小时分钟  和 小时小时分钟  之间.\n\n2022年11月5日, 星期六   小时小时分钟  和 小时小时分钟  之间.\n\n2022年11月12日, 星期六   小时小时分钟  和 小时小时分钟  之间.\n\n2022年11月19日, 星期六   小时小时分钟  和 小时小时分钟  之间.\n\n2022年11月26日, 星期六   小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "Sexta-feira 28 Outubro 2022 de 9h30 a  15h30.\n\nSábado 5 Novembro 2022 de 9h30 a  15h30.\n\nSábado 12 Novembro 2022 de 9h30 a  15h30.\n\nSábado 19 Novembro 2022 de 9h30 a  15h30.\n\nSábado 26 Novembro 2022 de 9h30 a  15h30.",
+      "libelleJa" : "金曜日 28 10月 2022 9.30 午前 と 3.30 午後 の間.\n\n土曜日 5 11月 2022 9.30 午前 と 3.30 午後 の間.\n\n土曜日 12 11月 2022 9.30 午前 と 3.30 午後 の間.\n\n土曜日 19 11月 2022 9.30 午前 と 3.30 午後 の間.\n\n土曜日 26 11月 2022 9.30 午前 と 3.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24553586,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-10-22",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567008
+    }, {
+      "identifiant" : 24553587,
+      "dateDebut" : "2022-10-28",
+      "dateFin" : "2022-10-28",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567009
+    }, {
+      "identifiant" : 24553588,
+      "dateDebut" : "2022-11-05",
+      "dateFin" : "2022-11-05",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567010
+    }, {
+      "identifiant" : 24553589,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567011
+    }, {
+      "identifiant" : 24553590,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-19",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567012
+    }, {
+      "identifiant" : 24553591,
+      "dateDebut" : "2022-11-26",
+      "dateFin" : "2022-11-26",
+      "horaireOuverture" : "09:30:00",
+      "horaireFermeture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24567013
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 35 € (Réservez vos places par téléphone au 04 90 98 70 91 ou sur notre billetterie en ligne .), Adolescent : 25 €, Enfant : 5 €.\n",
+      "libelleEn" : "Adult: 35 €, Teenager: 25 €, Child: 5 €.\n",
+      "libelleEs" : "Adulto: 35 €, Adolescente: 25 €, Niño: 5 €.\n",
+      "libelleIt" : "Adulto: 35 €, Adolescente: 25 €, Bambino: 5 €.\n",
+      "libelleDe" : "Erwachsene: 35 €, Jugendliche: 25 €, Kinder: 5 €.\n",
+      "libelleNl" : "Volwassene: € 35, Jongere: € 25, Kind: € 5.\n",
+      "libelleRu" : "Взрослый : 35 €, Подросток : 25 €, Ребенок : 5 €.\n",
+      "libelleZh" : "成人 : 35 €, 少年 : 25 €, 儿童 : 5 €.\n",
+      "libellePtBR" : "Adulto: 35 €, Adolescente: 25 €, Criança: 5 €.\n",
+      "libelleJa" : "大人: 35 €, 若者: 25 €, 子供: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13777596,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-26",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 35.00,
+        "maximum" : 35.00,
+        "precisionTarif" : {
+          "libelleFr" : "Réservez vos places par téléphone au 04 90 98 70 91 ou sur notre billetterie en ligne ."
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 25.00,
+        "maximum" : 25.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4204
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1755
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21467423,
+    "referent" : true,
+    "nom" : "Meffre",
+    "prenom" : "Caroline",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104399863,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "caroline.meffre@espaces-naturels.fr"
+      }
+    }, {
+      "identifiant" : 104399864,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 98 70 91"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14480195,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "photothèque marais"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/85/14833016.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/85/14833016-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/85/14833016-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/85/14833016-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6333fd4b2daae673313252-cropped600-400",
+      "taille" : 83511,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-24T06:37:50.201+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-28", "2022-11-05", "2022-11-12", "2022-11-19", "2022-11-26" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1966
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2180
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2282
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2327
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Accueil des Marais du Viguierat"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-26T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

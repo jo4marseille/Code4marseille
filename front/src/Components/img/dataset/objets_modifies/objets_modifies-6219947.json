@@ -1,0 +1,280 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6219947,
+  "nom" : {
+    "libelleFr" : "1850-1950 : Les grandes fêtes aubagnaises"
+  },
+  "identifier" : "SITRA2_EVE_6219947",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-28T11:48:54.320+0000",
+    "dateModification" : "2022-07-28T12:11:13.736+0000",
+    "dateExportModification" : "2022-07-28T12:11:13.897+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101710103,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 18 18 87"
+      }
+    }, {
+      "identifiant" : 101710104,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "archives@aubagne.fr"
+      }
+    }, {
+      "identifiant" : 101710105,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aubagne.fr/agenda-133/1850-1950-les-grandes-fetes-aubagnaises-4035.html?cHash=8c771df149e08e9b34d62533294dfe1b"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5482368
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Saint Matthieu et ses foires, les fêtes de Charité et leurs mémorables défilés, les fêtes de Pentecôte, autant de réjouissances populaires aujourd'hui disparues  qui retrouvent ici leur lustre d'antan."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Cette exposition à laquelle participent Lei Dansaire de Garlaban et le Club Cartophile Aubagnais vous propose de retrouver ce passé grâce notamment à de nombreuses photographies et documents d'archives."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Hôtel de ville",
+      "adresse1" : "7 boulevard Jean-Jaurès",
+      "codePostal" : "13400",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.569389, 43.292271 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 28/07 au 28/11/2022 de 8h à 18h.\nFermé samedi et dimanche.",
+      "libelleEn" : "From 28/07 to 28/11/2022 between 8 am and 6 pm.\nClosed Saturday and Sunday.",
+      "libelleEs" : "Del 28/07 al 28/11/2022 de 8 a 18.\nCerrado sábado y domingo.",
+      "libelleIt" : "Dal 28/07 al 28/11/2022 dalle 8 alle 18.\nChiuso sabato e domenica.",
+      "libelleDe" : "Vom 28/07 bis 28/11/2022 von 8 Uhr bis 18 Uhr.\nSamstag und Sonntag geschlossen.",
+      "libelleNl" : "Van 28/07 tot en met 28/11/2022 van 8.00 tot en met 18.00 u.\nZaterdag en zondag gesloten.",
+      "libelleRu" : "С 28/07 до 28/11/2022 с 8h до 18h.\nНе работает суббота и воскресенье.",
+      "libelleZh" : "从 7月28日 到 2022年11月28日 小时小时 和 小时小时 之间.\n星期六 和 星期日 关闭.",
+      "libellePtBR" : "De 28/07 a 28/11/2022 de 8h a  18h.\nFechado em sábado e domingo.",
+      "libelleJa" : "28/07 から 28/11/2022 まで 8 午前 と 6 午後 の間.\n土曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23981055,
+      "dateDebut" : "2022-07-28",
+      "dateFin" : "2022-11-28",
+      "horaireOuverture" : "08:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23981211
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21119117,
+    "referent" : true,
+    "nom" : "Rouqueirol",
+    "prenom" : "Sandra",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101710106,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "archives@aubagne.fr"
+      }
+    }, {
+      "identifiant" : 101710107,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 18 18 87"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13585865,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Affiche"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aubagne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/51/13775694.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/51/13775694-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/51/13775694-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/78/51/13775694-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "vignette-expo-fetes-aubagnaises",
+      "taille" : 250902,
+      "hauteur" : 1333,
+      "largeur" : 2000,
+      "lastModifiedDate" : "2022-07-28T12:08:12.383+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 13585866,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Livret d'exposition"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville d'Aubagne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/79/51/13775695/livret-expo-fetes-aubagnaises.pdf",
+      "extension" : "pdf",
+      "fileName" : "livret-expo-fetes-aubagnaises",
+      "taille" : 7079816,
+      "lastModifiedDate" : "2022-07-28T12:08:12.334+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-10-31", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nbVisiteursAttendu" : 200,
+    "nomLieu" : "Hôtel de ville"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-28T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,399 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539361,
+  "nom" : {
+    "libelleFr" : "Musée municipal Paul Lafran",
+    "libelleEn" : "Musée municipal Paul Lafran",
+    "libelleEs" : "Musée municipal Paul Lafran",
+    "libelleIt" : "Musée municipal Paul Lafran",
+    "libelleDe" : "Musée municipal Paul Lafran",
+    "libelleNl" : "Musée municipal Paul Lafran"
+  },
+  "identifier" : "SITRA2_PCU_5539361",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T14:55:17.730+0000",
+    "dateModification" : "2021-06-28T08:18:46.465+0000",
+    "dateExportModification" : "2021-06-28T14:00:57.498+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Saint Chamas",
+      "dateCreation" : "2020-09-28T07:02:16.554+0000",
+      "dateModification" : "2022-10-24T08:49:43.484+0000",
+      "id" : 2089,
+      "siteWeb" : "http://www.tourismesaintchamas.fr"
+    },
+    "signalerUnProblemeMails" : [ "tourisme-saintchamas@orange.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79673391,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 85 61"
+      }
+    }, {
+      "identifiant" : 79673392,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee.paullafran@free.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5688784
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Musée Municipal porte, depuis le 10 mars 2000, le nom de Paul LAFRAN, Président fondateur de l'association des Amis du Vieux Saint-Chamas. Il est installé depuis 1951 au coeur du vieux village, dans l'ancien hôtel de ville du 17ème Place des Pénitents."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La grande majorité des collections provient de dons ou du résultat de quarante années de recherches archéologiques effectuées par Paul Lafran et son équipe. Accueillis par une magnifique arlésienne en costume traditionnel de la fin du 19ème siècle, on peut y découvrir des vêtements, rubans... témoignages de l'appartenance de notre village au pays d'Arles. On peut aussi y découvrir des collections d'objets de la vie courante et des documents religieux dont. A l'arrière, une petite salle recèle des trésors archéologiques découverts lors des fouilles entreprises par Paul Lafran. (pour l'instant, cette partie n'est pas visible). Au 1er étage, un magnifique espace, sous de majestueuses poutres apparentes du 17ème siècle, est réservé à la peinture. C'est un cadre idéal pour découvrir des ex-votos du 19ème siècle provenant de la Chapelle Notre Dame de Miséricorde et des tableaux d'artistes contemporains, inspirés par Saint-Chamas : des oeuvres de M. Liéger, A. Charrier, V. Monte, M. Berle, M. Truc et J. Ordonneaud accompagnent celles des grands maîtres P. Ambrogiani et René Seyssaud.\r\nSurface de l'exposition permanente : 130\r\nSurface de l'exposition temporaire : 30"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Des Pénitents",
+      "codePostal" : "13250",
+      "bureauDistribution" : "ST CHAMAS",
+      "commune" : {
+        "id" : 4503
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Gare de Saint Chamas : Gare ferroviaire à 2km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.034038, 43.549521 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4503
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 143
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 197
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 185
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1026
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 6032
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 582
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking autocar(Port de pêche)\r\nParking public(Sur le port)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Toute l'année. Tous les jours.\nFermé mercredi, samedi et dimanche.\nDu Lundi au Vendredi de 14h à 17h sauf mercredi.",
+      "libelleEn" : "Every day throughout the year.\nClosed Wednesday, Saturday and Sunday.",
+      "libelleEs" : "Todo el año. Todos los dias.\nCerrado miércoles, sábado y domingo.",
+      "libelleIt" : "Tutto l'anno. Tutti i giorni.\nChiuso mercoledì, sabato e domenica.",
+      "libelleDe" : "Ganzjährig. Täglich.\nMittwoch, Samstag und Sonntag geschlossen.",
+      "libelleNl" : "Het hele jaar door.\nWoensdag, zaterdag en zondag gesloten.",
+      "libelleRu" : "В течение всего года. Ежедневно.\nНе работает среда, суббота и воскресенье.",
+      "libelleZh" : "每天.\n星期三, 星期六 和 星期日 关闭.",
+      "libellePtBR" : "Todo o ano. Todos os dias.\nFechado em quarta-feira, sábado e domingo.",
+      "libelleJa" : "年間を通して毎日.\n水曜日, 土曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20736655,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Du Lundi au Vendredi de 14h à 17h sauf mercredi"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 21292762
+    } ],
+    "ouvertTouteLAnnee" : "OUVERT_TOUTE_L_ANNEE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17643966,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "VALADE",
+    "prenom" : "Evelyne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 6026
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81742156,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 85 61"
+      }
+    } ]
+  }, {
+    "identifiant" : 17643967,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "HEYRAUD",
+    "prenom" : "Marie-Anne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81742157,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 85 61"
+      }
+    } ]
+  }, {
+    "identifiant" : 17643968,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "OFFICE DE TOURISME",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 456
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81742158,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 50 90 54"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8489492,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000390_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/3/8258536.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/3/8258536-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/3/8258536-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/3/8258536-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 470495,
+      "hauteur" : 1920,
+      "largeur" : 1440,
+      "lastModifiedDate" : "2020-07-23T17:24:53.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 3,
+    "capaciteMaxAccueil" : 50
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "datesOuverture" : [ "2022-11-07", "2022-11-08", "2022-11-10", "2022-11-11", "2022-11-14", "2022-11-15", "2022-11-17", "2022-11-18", "2022-11-21", "2022-11-22", "2022-11-24", "2022-11-25", "2022-11-28", "2022-11-29", "2022-12-01", "2022-12-02", "2022-12-05", "2022-12-06", "2022-12-08", "2022-12-09", "2022-12-12", "2022-12-13", "2022-12-15", "2022-12-16", "2022-12-19", "2022-12-20", "2022-12-22", "2022-12-23", "2022-12-26", "2022-12-27", "2022-12-29", "2022-12-30", "2023-01-02", "2023-01-03", "2023-01-05", "2023-01-06", "2023-01-09", "2023-01-10", "2023-01-12", "2023-01-13", "2023-01-16", "2023-01-17", "2023-01-19", "2023-01-20", "2023-01-23", "2023-01-24", "2023-01-26", "2023-01-27", "2023-01-30", "2023-01-31", "2023-02-02", "2023-02-03", "2023-02-06", "2023-02-07", "2023-02-09", "2023-02-10", "2023-02-13", "2023-02-14", "2023-02-16", "2023-02-17", "2023-02-20", "2023-02-21", "2023-02-23", "2023-02-24", "2023-02-27", "2023-02-28", "2023-03-02", "2023-03-03", "2023-03-06", "2023-03-07", "2023-03-09", "2023-03-10", "2023-03-13", "2023-03-14", "2023-03-16", "2023-03-17", "2023-03-20", "2023-03-21", "2023-03-23", "2023-03-24", "2023-03-27", "2023-03-28", "2023-03-30", "2023-03-31", "2023-04-03", "2023-04-04", "2023-04-06", "2023-04-07", "2023-04-10", "2023-04-11", "2023-04-13", "2023-04-14", "2023-04-17", "2023-04-18", "2023-04-20", "2023-04-21", "2023-04-24", "2023-04-25", "2023-04-27", "2023-04-28", "2023-05-01", "2023-05-02", "2023-05-04", "2023-05-05", "2023-05-08", "2023-05-09", "2023-05-11", "2023-05-12", "2023-05-15", "2023-05-16", "2023-05-18", "2023-05-19", "2023-05-22", "2023-05-23", "2023-05-25", "2023-05-26", "2023-05-29", "2023-05-30", "2023-06-01", "2023-06-02", "2023-06-05", "2023-06-06", "2023-06-08", "2023-06-09", "2023-06-12", "2023-06-13", "2023-06-15", "2023-06-16", "2023-06-19", "2023-06-20", "2023-06-22", "2023-06-23", "2023-06-26", "2023-06-27", "2023-06-29", "2023-06-30", "2023-07-03", "2023-07-04", "2023-07-06", "2023-07-07", "2023-07-10", "2023-07-11", "2023-07-13", "2023-07-14", "2023-07-17", "2023-07-18", "2023-07-20", "2023-07-21", "2023-07-24", "2023-07-25", "2023-07-27", "2023-07-28", "2023-07-31", "2023-08-01", "2023-08-03", "2023-08-04", "2023-08-07", "2023-08-08", "2023-08-10", "2023-08-11", "2023-08-14", "2023-08-15", "2023-08-17", "2023-08-18", "2023-08-21", "2023-08-22", "2023-08-24", "2023-08-25", "2023-08-28", "2023-08-29", "2023-08-31", "2023-09-01", "2023-09-04", "2023-09-05", "2023-09-07", "2023-09-08", "2023-09-11", "2023-09-12", "2023-09-14", "2023-09-15", "2023-09-18", "2023-09-19", "2023-09-21", "2023-09-22", "2023-09-25", "2023-09-26", "2023-09-28", "2023-09-29", "2023-10-02", "2023-10-03", "2023-10-05", "2023-10-06", "2023-10-09", "2023-10-10", "2023-10-12", "2023-10-13", "2023-10-16", "2023-10-17", "2023-10-19", "2023-10-20", "2023-10-23", "2023-10-24", "2023-10-26", "2023-10-27", "2023-10-30", "2023-10-31", "2023-11-02", "2023-11-03", "2023-11-06", "2023-11-07", "2023-11-09", "2023-11-10", "2023-11-13", "2023-11-14", "2023-11-16", "2023-11-17", "2023-11-20", "2023-11-21", "2023-11-23", "2023-11-24", "2023-11-27", "2023-11-28", "2023-11-30", "2023-12-01", "2023-12-04", "2023-12-05", "2023-12-07", "2023-12-08", "2023-12-11", "2023-12-12", "2023-12-14", "2023-12-15", "2023-12-18", "2023-12-19", "2023-12-21", "2023-12-22", "2023-12-25", "2023-12-26", "2023-12-28", "2023-12-29", "2024-01-01", "2024-01-02", "2024-01-04", "2024-01-05", "2024-01-08", "2024-01-09", "2024-01-11", "2024-01-12", "2024-01-15", "2024-01-16", "2024-01-18", "2024-01-19", "2024-01-22", "2024-01-23", "2024-01-25", "2024-01-26", "2024-01-29", "2024-01-30", "2024-02-01", "2024-02-02", "2024-02-05", "2024-02-06", "2024-02-08", "2024-02-09", "2024-02-12", "2024-02-13", "2024-02-15", "2024-02-16", "2024-02-19", "2024-02-20", "2024-02-22", "2024-02-23", "2024-02-26", "2024-02-27", "2024-02-29", "2024-03-01", "2024-03-04", "2024-03-05", "2024-03-07", "2024-03-08", "2024-03-11", "2024-03-12", "2024-03-14", "2024-03-15", "2024-03-18", "2024-03-19", "2024-03-21", "2024-03-22", "2024-03-25", "2024-03-26", "2024-03-28", "2024-03-29", "2024-04-01", "2024-04-02", "2024-04-04", "2024-04-05", "2024-04-08", "2024-04-09", "2024-04-11", "2024-04-12", "2024-04-15", "2024-04-16", "2024-04-18", "2024-04-19", "2024-04-22", "2024-04-23", "2024-04-25", "2024-04-26", "2024-04-29", "2024-04-30", "2024-05-02", "2024-05-03", "2024-05-06", "2024-05-07", "2024-05-09", "2024-05-10", "2024-05-13", "2024-05-14", "2024-05-16", "2024-05-17", "2024-05-20", "2024-05-21", "2024-05-23", "2024-05-24", "2024-05-27", "2024-05-28", "2024-05-30", "2024-05-31", "2024-06-03", "2024-06-04", "2024-06-06", "2024-06-07", "2024-06-10", "2024-06-11", "2024-06-13", "2024-06-14", "2024-06-17", "2024-06-18", "2024-06-20", "2024-06-21", "2024-06-24", "2024-06-25", "2024-06-27", "2024-06-28", "2024-07-01", "2024-07-02", "2024-07-04", "2024-07-05", "2024-07-08", "2024-07-09", "2024-07-11", "2024-07-12", "2024-07-15", "2024-07-16", "2024-07-18", "2024-07-19", "2024-07-22", "2024-07-23", "2024-07-25", "2024-07-26", "2024-07-29", "2024-07-30", "2024-08-01", "2024-08-02", "2024-08-05", "2024-08-06", "2024-08-08", "2024-08-09", "2024-08-12", "2024-08-13", "2024-08-15", "2024-08-16", "2024-08-19", "2024-08-20", "2024-08-22", "2024-08-23", "2024-08-26", "2024-08-27", "2024-08-29", "2024-08-30", "2024-09-02", "2024-09-03", "2024-09-05", "2024-09-06", "2024-09-09", "2024-09-10", "2024-09-12", "2024-09-13", "2024-09-16", "2024-09-17", "2024-09-19", "2024-09-20", "2024-09-23", "2024-09-24", "2024-09-26", "2024-09-27", "2024-09-30", "2024-10-01", "2024-10-03", "2024-10-04", "2024-10-07", "2024-10-08", "2024-10-10", "2024-10-11", "2024-10-14", "2024-10-15", "2024-10-17", "2024-10-18", "2024-10-21", "2024-10-22", "2024-10-24", "2024-10-25", "2024-10-28", "2024-10-29", "2024-10-31", "2024-11-01", "2024-11-04", "2024-11-05" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3456
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3226
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000390"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Saint Chamas"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : { }
+  } ]
+}

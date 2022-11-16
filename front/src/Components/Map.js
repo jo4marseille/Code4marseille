@@ -1,72 +1,72 @@
-import axios from "axios";
-import { useEffect } from 'react';
-import mapboxgl from 'mapbox-gl';
+import React, { useRef, useEffect, useState, useContext } from "react";
+import { JOContext } from '../context/JOContext';
+import JOJson from '../context/JOEvent.json';
+import mapboxgl from "!mapbox-gl"; // eslint-disable-line import/no-webpack-loader-syntax
+import './style/Map.css'
+mapboxgl.accessToken =
+  "pk.eyJ1IjoianVsaWFubWFuY2hlYyIsImEiOiJjbGFpMGkwaXAwaDE5M3dtejY1aXVmZzZoIn0.xxr5qSlakNCcOmRQh9RKMg";
 
-function Map()
-{
-    mapboxgl.accessToken = 'pk.eyJ1IjoianVsaWFubWFuY2hlYyIsImEiOiJjbGFpMGkwaXAwaDE5M3dtejY1aXVmZzZoIn0.xxr5qSlakNCcOmRQh9RKMg';
-    var mapBox = new mapboxgl.Map({
-        container: 'map', // container ID
-        style: 'mapbox://styles/mapbox/streets-v11', // style URL
-        center: [-122.486052, 37.830348], // starting position [lng, lat]
-        zoom: 15, // starting zoom
+function Map() {
+  const {JO} = useContext(JOContext);
+  const mapContainer = useRef(null);
+  const map = useRef(null);
+  const [lng, setLng] = useState(5.3722);
+  const [lat, setLat] = useState(43.2950);
+  const [zoom, setZoom] = useState(12);
+  let arrayLocalisation = [];
+
+  JO.forEach((item) => {
+    arrayLocalisation.push([JOJson[item].lng, JOJson[item].lat]);
+    console.log(arrayLocalisation);
+  }, [JO]);
+
+  useEffect(() => {
+    if (map.current) return; // initialize map only once
+      map.current = new mapboxgl.Map({
+        container: mapContainer.current,
+        style: "mapbox://styles/mapbox/streets-v11",
+        center: [lng, lat],
+        zoom: zoom,
     });
+  });
 
-    mapBox.on('load', () => {
-        mapBox.addSource('route', {
+  useEffect(() => {
+    if (!map.current) return; // wait for map to initialize
+    map.current.on('load', () => {
+        map.current.addSource('route', {
             'type': 'geojson',
             'data': {
-                'type': 'Feature',
+                'type': 'Feature', 
                 'properties': {},
                 'geometry': {
                     'type': 'LineString',
-                    'coordinates': [
-                        [-122.483696, 37.833818],
-                        [-122.483482, 37.833174],
-                        [-122.483396, 37.8327],
-                        [-122.483568, 37.832056],
-                        [-122.48404, 37.831141],
-                        [-122.48404, 37.830497],
-                        [-122.483482, 37.82992],
-                        [-122.483568, 37.829548],
-                        [-122.48507, 37.829446],
-                        [-122.4861, 37.828802],
-                        [-122.486958, 37.82931],
-                        [-122.487001, 37.830802],
-                        [-122.487516, 37.831683],
-                        [-122.488031, 37.832158],
-                        [-122.488889, 37.832971],
-                        [-122.489876, 37.832632],
-                        [-122.490434, 37.832937],
-                        [-122.49125, 37.832429],
-                        [-122.491636, 37.832564],
-                        [-122.492237, 37.833378],
-                        [-122.493782, 37.833683]
-                    ]
+                    'coordinates': arrayLocalisation 
                 }
             }
         });
-
-        mapBox.addLayer({
+        map.current.addLayer({
             'id': 'route',
             'type': 'line',
             'source': 'route',
             'layout': {
-            'line-join': 'round',
-            'line-cap': 'round'
+                'line-join': 'round',
+                'line-cap': 'round'
             },
             'paint': {
-            'line-color': '#888',
-            'line-width': 8
+                'line-color': '#888',
+                'line-width': 8
             }
         });
     });
+    
+  });
 
-    return (
-        <div id='map' style='width: 400px; height: 300px;'>
-
-        </div>
-    )
+  return (
+    <div>
+      
+      <div ref={mapContainer} className="map-container" />
+    </div>
+  );
 }
-
 export default Map;
+

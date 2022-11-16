@@ -1,0 +1,250 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6275868,
+  "nom" : {
+    "libelleFr" : "Krystle Warren"
+  },
+  "identifier" : "SITRA2_EVE_6275868",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-28T08:33:15.338+0000",
+    "dateModification" : "2022-09-28T08:37:40.899+0000",
+    "dateExportModification" : "2022-10-01T15:10:00.051+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77886824,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lameson.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5504675
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Une incroyable artiste à la voix unique de retour \"à la maison\".\r\nConcert proposé dans le cadre du festival Jazz sur la Ville"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Jazz ? Blues ? Folk ? Country ? Difficile de vouloir ranger Krystle Warren dans une seule boîte ; le \"genre\" dresse une liste trop étriquée pour elle.  Ce qui est clair, c’est cette voix ; un contralto qui peut grogner et couler tour à tour dans l’espace de la chanson. \r\nOriginaire de Kansas City, son premier album, Circles, fut salué par la critique dès sa sortie en 2009. La suite, ambitieuse, Love Songs (2012), impressionnera autant. Avec vingt-sept musiciens en studio, ce double album est magnifié par des cordes, des cuivres et de splendides harmonies. The Guardian titre \"un des meilleurs albums de l’année\". \r\n\r\nEn 2017 sort Three The Hard Way : une sélection pure et brute qui met Krystle en valeur à la batterie, basse, guitare, piano et dobro. Un  album, co-produit avec un ami de longue date, Ben Kane (D’Angelo, PJ Morton, Cece Winans). En explorant gospel, chants de travail, blues et folk, l’album nous raconte l’histoire de l’émeute raciale de Tulsa en 1921, tout particulièrement dans ‘Red Clay’. Toujours hybride et sans concession, fidèle à l’âme des musiques noires qu’elle transcende avec une incroyable force émotionnelle, elle est actuellement en cours de création d’un nouvel album.\r\n\r\n\"J’ai grandi parmi des Baptistes du Sud des Etats-Unis, avec à l’église une chorale incroyable\" explique Krystle. \"J’ai commencé à écouter de vieux enregistrements provenant de différentes chorales gospel, et le blues. J’ai commencé à réapprendre son langage. Il fait partie de moi depuis toujours.\" Three The Hard Way, 2017, Parlour Door Music."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Mesón",
+      "adresse1" : "52 rue Consolat",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.387830, 43.300330 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "complement" : {
+      "libelleFr" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6VX9lcqDY5Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466286
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 2 décembre 2022 à 20h30.\nOuverture des portes à 19h30\r\nDébut du concert à 20h30.",
+      "libelleEn" : "Friday 2 December 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 2 de diciembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 2 dicembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 2. Dezember 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 2 december 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 2 декабря 2022  до 20h30.",
+      "libelleZh" : "2022年12月2日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 2 Dezembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 2 12月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24384950,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "complementHoraire" : {
+        "libelleFr" : "Ouverture des portes à 19h30\r\nDébut du concert à 20h30"
+      },
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24384950
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 15 €.\n\n\nAdhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert.",
+      "libelleEn" : "Full price: 15 €.\n",
+      "libelleEs" : "Tarifa completa: 15 €.\n",
+      "libelleIt" : "Tarrifa intera: 15 €.\n",
+      "libelleDe" : "Voller Preis: 15 €.\n",
+      "libelleNl" : "Vol tarief: € 15.\n",
+      "libelleRu" : "Полную цену : 15 €.\n",
+      "libelleZh" : "全额 : 15 €.\n",
+      "libellePtBR" : "Tarifa inteira: 15 €.\n",
+      "libelleJa" : "通常料金: 15 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Adhésion 2022 obligatoire si pas déjà prise cette année (3 €) avec un verre offert."
+    },
+    "periodes" : [ {
+      "identifiant" : 13687861,
+      "dateDebut" : "2022-12-02",
+      "dateFin" : "2022-12-02",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 15.00,
+        "maximum" : 15.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16639
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14206469,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Krystle Warren"
+    },
+    "legende" : {
+      "libelleFr" : "Krystle Warren"
+    },
+    "copyright" : {
+      "libelleFr" : "Matthew Placek - Krystle Warren - La Mesón"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/129/14516586.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/129/14516586-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/129/14516586-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/129/14516586-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "warren",
+      "taille" : 62873,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-09-28T08:37:40.994+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-12-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2128
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "La Mesón"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-02T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

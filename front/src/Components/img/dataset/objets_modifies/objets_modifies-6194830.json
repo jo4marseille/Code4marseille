@@ -1,0 +1,490 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6194830,
+  "nom" : {
+    "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+  },
+  "identifier" : "SITRA2_EVE_6194830",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-04T22:13:34.953+0000",
+    "dateModification" : "2022-11-08T09:25:28.598+0000",
+    "dateExportModification" : "2022-11-08T23:13:08.265+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 101011531,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 101011532,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Trouve le code qui t'amènera au trésor des Borély! En compagnie du guide, il te faudra suivre les indices dans différents endroits du parc et résoudre des devinettes. Cette visite te permettra de découvrir le patrimoine riche et varié de ce…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites sont destinées à une clientèle individuelle (Résevation possible jusqu'à 9 personnes max.) Pour les GROUPES (à partir de 10 personnes): réservation OBLIGATOIRE auprès du Service Groupes: groupes@marseille-tourisme.com"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre engagement : \"A la recherche du trésor perdu des Borély\"  est une activité bas carbone. \r\nEn choisissant cette prestation, vous limitez considérablement votre impact environnemental.\r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Entrée principale  Parc Borély ",
+      "adresse2" : "Allée Borély",
+      "codePostal" : "13008",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nBus 19,83. arrêt parc Borély"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.377800, 43.263600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nPrérequis :\nRéservation obligatoire\n\nA partir de 5 ans\n\n1 adulte accompagnant par inscription\nInformations importantes :\nAnimaux de compagnie non autorisés (sauf chiens d'assistance)\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui)."
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 60,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716841,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716841
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Livret pédagogique.\n\nCrayons de couleur\nNon compris : Entrées aux sites et musées."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Livret pédagogique.\n\nCrayons de couleur\nNon compris : Entrées aux sites et musées"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915434,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993178,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/a-la-recherche-du-tresor-perdu-des-borely-famille"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16643
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813180,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/232/15198445.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/232/15198445-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/232/15198445-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/232/15198445-diaporama.png",
+      "extension" : "png",
+      "fileName" : "big-ticket-image-616445f5caeb6326880400-cropped600-400",
+      "taille" : 381969,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:33.352+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813181,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/232/15198446.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/232/15198446-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/232/15198446-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/232/15198446-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-616446720db6d131857761-cropped600-400",
+      "taille" : 48365,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:32.309+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813182,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/232/15198447.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/232/15198447-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/232/15198447-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/232/15198447-diaporama.png",
+      "extension" : "png",
+      "fileName" : "big-ticket-image-616446986271a806614737-cropped600-400",
+      "taille" : 480731,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:32.681+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813183,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/232/15198448.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/232/15198448-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/232/15198448-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/240/232/15198448-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-616446a3acfe0569369675-cropped600-400",
+      "taille" : 110733,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:35.456+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813184,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/232/15198449.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/232/15198449-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/232/15198449-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/232/15198449-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-616446ae34c10797446838-cropped600-400",
+      "taille" : 141890,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:35.752+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813185,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/232/15198450.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/232/15198450-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/232/15198450-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/232/15198450-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-616446d377069930119770-cropped600-400",
+      "taille" : 107009,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:34.851+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813186,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/232/15198451.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/232/15198451-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/232/15198451-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/243/232/15198451-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-616446de77825889088750-cropped600-400",
+      "taille" : 136348,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:35.158+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813187,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "legende" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "copyright" : {
+      "libelleFr" : "A la recherche du trésor perdu des Borély (Enfants)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/232/15198452.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/232/15198452-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/232/15198452-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/232/15198452-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-61644a8b2dca5177219051-cropped600-400",
+      "taille" : 165954,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:25:36.083+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2112
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "190928",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-205531",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

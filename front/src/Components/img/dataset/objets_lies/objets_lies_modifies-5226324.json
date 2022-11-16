@@ -1,0 +1,169 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5226324,
+  "nom" : {
+    "libelleFr" : "Château de Montauban",
+    "libelleEn" : "Château de Montauban",
+    "libelleEs" : "Château de Montauban",
+    "libelleIt" : "Château de Montauban",
+    "libelleDe" : "Château de Montauban",
+    "libelleNl" : "Château de Montauban"
+  },
+  "identifier" : "SITRA2_STR_5226324",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T13:27:22.747+0000",
+    "dateModification" : "2021-10-01T07:20:59.604+0000",
+    "dateExportModification" : "2022-09-28T09:37:17.431+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70523023,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 67 49",
+        "en" : "00 33 4 90 54 67 49",
+        "de" : "00 33 4 90 54 67 49"
+      }
+    }, {
+      "identifiant" : 70523024,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 75 12",
+        "en" : "00 33 4 90 54 75 12",
+        "de" : "00 33 4 90 54 75 12"
+      }
+    }, {
+      "identifiant" : 84162066,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "fontvieille@alpillesenprovence.com",
+        "en" : "fontvieille@alpillesenprovence.com",
+        "de" : "fontvieille@alpillesenprovence.com"
+      }
+    }, {
+      "identifiant" : 92569372,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chateaudemontauban@fontvieille.fr",
+        "en" : "chateaudemontauban@fontvieille.fr",
+        "de" : "chateaudemontauban@fontvieille.fr"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 134
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin Montauban",
+      "codePostal" : "13990",
+      "commune" : {
+        "id" : 4449
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.713540, 43.725931 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4449
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18035926,
+    "referent" : true,
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 82031772,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 75 12"
+      }
+    }, {
+      "identifiant" : 82031773,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chateaudemontauban@fontvieille.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,363 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5941256,
+  "nom" : {
+    "libelleFr" : "Visite guidée de l'amphithéâtre",
+    "libelleEn" : "Guided tour of the amphitheatre",
+    "libelleEs" : "Visita guiada del anfiteatro",
+    "libelleIt" : "Visita guidata dell'anfiteatro",
+    "libelleDe" : "Führung durch das Amphitheater",
+    "libelleNl" : "Rondleiding van het amfitheater"
+  },
+  "identifier" : "SITRA2_EVE_5941256",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-11T14:34:27.095+0000",
+    "dateModification" : "2022-10-14T14:25:14.647+0000",
+    "dateExportModification" : "2022-10-14T14:25:14.992+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466420
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Envie de découvrir l'amphithéâtre ? Suivez le guide pour 30 minutes de visite.",
+      "libelleEn" : "Want to discover the amphitheatre? Follow the guide for a 45-minute tour."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Accompagnés d'une guide conférencière, vous serez captivés par l'histoire et l'architecture de l'amphithéâtre, monument de spectacle consacré aux jeux et aux combats, construit à la fin du Ier siècle.",
+      "libelleEn" : "Accompanied by a guide speaker, you will be captivated by the history and architecture of the amphitheatre, the show dedicated to games and battles, monument built at the end of the first century.",
+      "libelleEs" : "Acompañado por un altavoz de la guía, será cautivado por la historia y la arquitectura del anfiteatro, la feria dedicada a juegos y batallas, monumento construido a finales del primer siglo.",
+      "libelleIt" : "Accompagnato da un altoparlante Guida, sarete catturati dalla storia e architettura dell'anfiteatro, il salone dedicato ai giochi e battaglie, monumento costruito alla fine del primo secolo.",
+      "libelleDe" : "Begleitet von einem Führer, werden Sie fasziniert von der Geschichte und Architektur des Amphitheaters, die Show Spiele und Kämpfe, Monument, erbaut am Ende des ersten Jahrhunderts gewidmet.",
+      "libelleNl" : "Vergezeld door een gids speaker, zal u worden gefascineerd door de geschiedenis en de architectuur van het amfitheater, de show gewijd aan games en veldslagen, monument gebouwd aan het einde van de eerste eeuw."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L' Amphithéâtre romain",
+      "adresse1" : "1 Rond-point Des Arènes",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.631612, 43.677953 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ],
+    "lieu" : {
+      "id" : 15594
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538604
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538604
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290551
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 22/10 au 06/11/2022 \nOuverture tous les jours de 10h à 10h30 et de 10h30 à 11h et de 11h à 11h30 et de 11h30 à 12h et de 12h à 12h30 et de 12h30 à 13h.\n\nDu 17/12 au 31/12/2022 \nOuverture tous les jours de 10h à 10h30 et de 10h30 à 11h et de 11h à 11h30 et de 11h30 à 12h et de 12h à 12h30 et de 12h30 à 13h. sauf les jours fériés.\n\nDu 04/02 au 05/03/2023 \nOuverture tous les jours de 10h à 10h30 et de 10h30 à 11h et de 11h à 11h30 et de 11h30 à 12h et de 12h à 12h30 et de 12h30 à 13h.",
+      "libelleEn" : "From 22/10 to 06/11/2022 \nOpening hours daily between 10 am and 10.30 am and between 10.30 am and 11 am and between 11 am and 11.30 am and between 11.30 am and 12 pm and between 12 pm and 12.30 pm and between 12.30 pm and 1 pm.\n\nFrom 17/12 to 31/12/2022 \nOpening hours daily between 10 am and 10.30 am and between 10.30 am and 11 am and between 11 am and 11.30 am and between 11.30 am and 12 pm and between 12 pm and 12.30 pm and between 12.30 pm and 1 pm. except on bank holidays.\n\nFrom 04/02 to 05/03/2023 \nOpening hours daily between 10 am and 10.30 am and between 10.30 am and 11 am and between 11 am and 11.30 am and between 11.30 am and 12 pm and between 12 pm and 12.30 pm and between 12.30 pm and 1 pm.",
+      "libelleEs" : "Del 22/10 al 06/11/2022 \nHorarios de apertura todos los dias de 10 a 10:30 y de 10:30 a 11 y de 11 a 11:30 y de 11:30 a 12 y de 12 a 12:30 y de 12:30 a 13.\n\nDel 17/12 al 31/12/2022 \nHorarios de apertura todos los dias de 10 a 10:30 y de 10:30 a 11 y de 11 a 11:30 y de 11:30 a 12 y de 12 a 12:30 y de 12:30 a 13. excepto los días festivos.\n\nDel 04/02 al 05/03/2023 \nHorarios de apertura todos los dias de 10 a 10:30 y de 10:30 a 11 y de 11 a 11:30 y de 11:30 a 12 y de 12 a 12:30 y de 12:30 a 13.",
+      "libelleIt" : "Dal 22/10 al 06/11/2022 \nOrari di apertura ogni giorno dalle 10 alle 10:30 e dalle 10:30 alle 11 e dalle 11 alle 11:30 e dalle 11:30 alle 12 e dalle 12 alle 12:30 e dalle 12:30 alle 13.\n\nDal 17/12 al 31/12/2022 \nOrari di apertura ogni giorno dalle 10 alle 10:30 e dalle 10:30 alle 11 e dalle 11 alle 11:30 e dalle 11:30 alle 12 e dalle 12 alle 12:30 e dalle 12:30 alle 13. tranne festivi.\n\nDal 04/02 al 05/03/2023 \nOrari di apertura ogni giorno dalle 10 alle 10:30 e dalle 10:30 alle 11 e dalle 11 alle 11:30 e dalle 11:30 alle 12 e dalle 12 alle 12:30 e dalle 12:30 alle 13.",
+      "libelleDe" : "Vom 22/10 bis 06/11/2022 \nÖffnungszeiten täglich von 10 Uhr bis 10.30 Uhr und von 10.30 Uhr bis 11 Uhr und von 11 Uhr bis 11.30 Uhr und von 11.30 Uhr bis 12 Uhr und von 12 Uhr bis 12.30 Uhr und von 12.30 Uhr bis 13 Uhr.\n\nVom 17/12 bis 31/12/2022 \nÖffnungszeiten täglich von 10 Uhr bis 10.30 Uhr und von 10.30 Uhr bis 11 Uhr und von 11 Uhr bis 11.30 Uhr und von 11.30 Uhr bis 12 Uhr und von 12 Uhr bis 12.30 Uhr und von 12.30 Uhr bis 13 Uhr. (außer feiertagen).\n\nVom 04/02 bis 05/03/2023 \nÖffnungszeiten täglich von 10 Uhr bis 10.30 Uhr und von 10.30 Uhr bis 11 Uhr und von 11 Uhr bis 11.30 Uhr und von 11.30 Uhr bis 12 Uhr und von 12 Uhr bis 12.30 Uhr und von 12.30 Uhr bis 13 Uhr.",
+      "libelleNl" : "Van 22/10 tot en met 06/11/2022 \nOpeningstijden iedere dag van 10.00 tot en met 10.30 u en van 10.30 tot en met 11.00 u en van 11.00 tot en met 11.30 u en van 11.30 tot en met 12.00 u en van 12.00 tot en met 12.30 u en van 12.30 tot en met 13.00 u.\n\nVan 17/12 tot en met 31/12/2022 \nOpeningstijden iedere dag van 10.00 tot en met 10.30 u en van 10.30 tot en met 11.00 u en van 11.00 tot en met 11.30 u en van 11.30 tot en met 12.00 u en van 12.00 tot en met 12.30 u en van 12.30 tot en met 13.00 u. m.u.v. feestdagen.\n\nVan 04/02 tot en met 05/03/2023 \nOpeningstijden iedere dag van 10.00 tot en met 10.30 u en van 10.30 tot en met 11.00 u en van 11.00 tot en met 11.30 u en van 11.30 tot en met 12.00 u en van 12.00 tot en met 12.30 u en van 12.30 tot en met 13.00 u.",
+      "libelleRu" : "С 22/10 до 06/11/2022 \nЧасы открытия ежедневно с 10h до 10h30 и с 10h30 до 11h и с 11h до 11h30 и с 11h30 до 12h и с 12h до 12h30 и с 12h30 до 13h.\n\nС 17/12 до 31/12/2022 \nЧасы открытия ежедневно с 10h до 10h30 и с 10h30 до 11h и с 11h до 11h30 и с 11h30 до 12h и с 12h до 12h30 и с 12h30 до 13h. кроме праздничные дни.\n\nС 04/02 до 05/03/2023 \nЧасы открытия ежедневно с 10h до 10h30 и с 10h30 до 11h и с 11h до 11h30 и с 11h30 до 12h и с 12h до 12h30 и с 12h30 до 13h.",
+      "libelleZh" : "从 10月22日 到 2022年11月6日 \n开放时间 日常 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间.\n\n从 12月17日 到 2022年12月31日 \n开放时间 日常 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间. 不包括 银行假日.\n\n从 2月4日 到 2023年3月5日 \n开放时间 日常 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间 和 小时小时 和 小时小时分钟  之间 和 小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 22/10 a 06/11/2022 \nOuverture todos os dias de 10h a  10h30 e de 10h30 a  11h e de 11h a  11h30 e de 11h30 a  12h e de 12h a  12h30 e de 12h30 a  13h.\n\nDe 17/12 a 31/12/2022 \nOuverture todos os dias de 10h a  10h30 e de 10h30 a  11h e de 11h a  11h30 e de 11h30 a  12h e de 12h a  12h30 e de 12h30 a  13h. exceto em feriados.\n\nDe 04/02 a 05/03/2023 \nOuverture todos os dias de 10h a  10h30 e de 10h30 a  11h e de 11h a  11h30 e de 11h30 a  12h e de 12h a  12h30 e de 12h30 a  13h.",
+      "libelleJa" : "22/10 から 06/11/2022 まで \n開館時間 毎日 10 午前 と 10.30 午前 の間 と 10.30 午前 と 11 午前 の間 と 11 午前 と 11.30 午前 の間 と 11.30 午前 と 12 午後 の間 と 12 午後 と 12.30 午後 の間 と 12.30 午後 と 1 午後 の間.\n\n17/12 から 31/12/2022 まで \n開館時間 毎日 10 午前 と 10.30 午前 の間 と 10.30 午前 と 11 午前 の間 と 11 午前 と 11.30 午前 の間 と 11.30 午前 と 12 午後 の間 と 12 午後 と 12.30 午後 の間 と 12.30 午後 と 1 午後 の間. 公休日 を除き.\n\n04/02 から 05/03/2023 まで \n開館時間 毎日 10 午前 と 10.30 午前 の間 と 10.30 午前 と 11 午前 の間 と 11 午前 と 11.30 午前 の間 と 11.30 午前 と 12 午後 の間 と 12 午後 と 12.30 午後 の間 と 12.30 午後 と 1 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22555862,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-06",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24502735
+    }, {
+      "identifiant" : 24502749,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24502749
+    }, {
+      "identifiant" : 24502753,
+      "dateDebut" : "2023-02-04",
+      "dateFin" : "2023-03-05",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24502753
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Compris dans le billet d'entrée au monument.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris dans le billet d'entrée au monument"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  }, {
+    "id" : 18002
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10149438,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13VIS002174_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Office de tourisme d'Arles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/108/9923780.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/108/9923780-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/108/9923780-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/108/9923780-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 586993,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2021-05-31T10:24:15.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-23", "2022-10-25", "2022-10-27", "2022-10-28", "2022-10-30", "2022-11-01", "2022-11-03", "2022-11-04", "2022-11-06", "2022-12-18", "2022-12-20", "2022-12-22", "2022-12-23", "2022-12-27", "2022-12-29", "2022-12-30", "2023-02-05", "2023-02-07", "2023-02-09", "2023-02-10", "2023-02-12", "2023-02-14", "2023-02-16", "2023-02-17", "2023-02-19", "2023-02-21", "2023-02-23", "2023-02-24", "2023-02-26", "2023-02-28", "2023-03-02", "2023-03-03", "2023-03-05" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "L' Amphithéâtre romain"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-03-05T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

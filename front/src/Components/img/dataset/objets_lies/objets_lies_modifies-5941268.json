@@ -1,0 +1,371 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5941268,
+  "nom" : {
+    "libelleFr" : "Visite guidée du théâtre antique",
+    "libelleEn" : "Guided tour in french  of the ancient theatre in French",
+    "libelleEs" : "Visita guiada al teatro antiguo en frances",
+    "libelleIt" : "Visita guidata del teatro antico in francese"
+  },
+  "identifier" : "SITRA2_EVE_5941268",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-11T14:41:56.181+0000",
+    "dateModification" : "2022-10-14T14:29:38.019+0000",
+    "dateExportModification" : "2022-10-14T14:29:38.369+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70515433,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 18 41 20"
+      }
+    }, {
+      "identifiant" : 70515436,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot-arles@arlestourisme.com"
+      }
+    }, {
+      "identifiant" : 70515437,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.arlestourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Envie de découvrir le théâtre antique ? Suivez le guide pour  environ 45 minutes de visite.",
+      "libelleEn" : "Want to discover the ancient theatre? Follow the guide for a 45-minute tour.",
+      "libelleEs" : "¿Quiere descubrir el teatro antiguo? Siga al guía durante una visita de 45 minutos.",
+      "libelleIt" : "Vuoi scoprire il teatro antico? Segui la guida per un tour di 45 minuti."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Accompagnés d'une guide conférencière, vous découvrirez les secrets du théâtre antique. Son histoire ainsi que celle de ceux qui en son teps ont assisté aux événements et spectacles qui y étaient donnés.",
+      "libelleEn" : "Accompanied by a guide, you will discover the secrets of the ancient theatre. Its history as well as that of those who attended the events and shows that were given there.",
+      "libelleEs" : "Acompañado por un guía, descubrirá los secretos del antiguo teatro. Su historia, así como la de los asistentes a los eventos y espectáculos que allí se han realizado.",
+      "libelleIt" : "Accompagnati da una guida, scoprirete i segreti del teatro antico. La sua storia così come quella di coloro che hanno partecipato agli eventi e agli spettacoli che vi sono stati dati."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre Antique",
+      "adresse1" : "Rue De la Calade",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.629254, 43.676968 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ],
+    "lieu" : {
+      "id" : 15599
+    },
+    "lieuObjetTouristique" : {
+      "type" : "PATRIMOINE_CULTUREL",
+      "id" : 5538494
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 6061548
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538494
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 6061461
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 6061544
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 22/10 au 06/11/2022, tous les lundis, mercredis et samedis de 10h45 à 11h30.\n\nDu 17/12 au 31/12/2022, tous les lundis, mercredis et samedis de 10h45 à 11h30.\n\nDu 04/02 au 05/03/2023, tous les lundis, mercredis et samedis de 10h45 à 11h30.",
+      "libelleEn" : "From 22/10 to 06/11/2022, every Monday, Wednesday and Saturday between 10.45 am and 11.30 am.\n\nFrom 17/12 to 31/12/2022, every Monday, Wednesday and Saturday between 10.45 am and 11.30 am.\n\nFrom 04/02 to 05/03/2023, every Monday, Wednesday and Saturday between 10.45 am and 11.30 am.",
+      "libelleEs" : "Del 22/10 al 06/11/2022, todos los lunes, miércoles y sábados de 10:45 a 11:30.\n\nDel 17/12 al 31/12/2022, todos los lunes, miércoles y sábados de 10:45 a 11:30.\n\nDel 04/02 al 05/03/2023, todos los lunes, miércoles y sábados de 10:45 a 11:30.",
+      "libelleIt" : "Dal 22/10 al 06/11/2022, tutti i lunedì, mercoledì e sabati dalle 10:45 alle 11:30.\n\nDal 17/12 al 31/12/2022, tutti i lunedì, mercoledì e sabati dalle 10:45 alle 11:30.\n\nDal 04/02 al 05/03/2023, tutti i lunedì, mercoledì e sabati dalle 10:45 alle 11:30.",
+      "libelleDe" : "Vom 22/10 bis 06/11/2022, jeden Montag, Mittwoch und Samstag von 10.45 Uhr bis 11.30 Uhr.\n\nVom 17/12 bis 31/12/2022, jeden Montag, Mittwoch und Samstag von 10.45 Uhr bis 11.30 Uhr.\n\nVom 04/02 bis 05/03/2023, jeden Montag, Mittwoch und Samstag von 10.45 Uhr bis 11.30 Uhr.",
+      "libelleNl" : "Van 22/10 tot en met 06/11/2022, elke maandag, woensdag en zaterdag van 10.45 tot en met 11.30 u.\n\nVan 17/12 tot en met 31/12/2022, elke maandag, woensdag en zaterdag van 10.45 tot en met 11.30 u.\n\nVan 04/02 tot en met 05/03/2023, elke maandag, woensdag en zaterdag van 10.45 tot en met 11.30 u.",
+      "libelleRu" : "С 22/10 до 06/11/2022, каждый понедельники, среды и субботы с 10h45 до 11h30.\n\nС 17/12 до 31/12/2022, каждый понедельники, среды и субботы с 10h45 до 11h30.\n\nС 04/02 до 05/03/2023, каждый понедельники, среды и субботы с 10h45 до 11h30.",
+      "libelleZh" : "从 10月22日 到 2022年11月6日, 每星期一, 星期三 和 星期六 小时小时分钟  和 小时小时分钟  之间.\n\n从 12月17日 到 2022年12月31日, 每星期一, 星期三 和 星期六 小时小时分钟  和 小时小时分钟  之间.\n\n从 2月4日 到 2023年3月5日, 每星期一, 星期三 和 星期六 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 22/10 a 06/11/2022, todas as segundas-feiras, quartas-feiras e sábados de 10h45 a  11h30.\n\nDe 17/12 a 31/12/2022, todas as segundas-feiras, quartas-feiras e sábados de 10h45 a  11h30.\n\nDe 04/02 a 05/03/2023, todas as segundas-feiras, quartas-feiras e sábados de 10h45 a  11h30.",
+      "libelleJa" : "22/10 から 06/11/2022 まで, 毎月曜日, 水曜日 と 土曜日 10.45 午前 と 11.30 午前 の間.\n\n17/12 から 31/12/2022 まで, 毎月曜日, 水曜日 と 土曜日 10.45 午前 と 11.30 午前 の間.\n\n04/02 から 05/03/2023 まで, 毎月曜日, 水曜日 と 土曜日 10.45 午前 と 11.30 午前 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21919245,
+      "dateDebut" : "2022-10-22",
+      "dateFin" : "2022-11-06",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502827
+    }, {
+      "identifiant" : 24502798,
+      "dateDebut" : "2022-12-17",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502828
+    }, {
+      "identifiant" : 24502805,
+      "dateDebut" : "2023-02-04",
+      "dateFin" : "2023-03-05",
+      "complementHoraire" : { },
+      "horaireOuverture" : "10:45:00",
+      "horaireFermeture" : "11:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24502829
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Compris dans le billet d'entrée au monument.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris dans le billet d'entrée au monument"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12660488,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "M.Louvet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/31/12853243.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/31/12853243-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/31/12853243-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/31/12853243-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20200714_161332",
+      "taille" : 1429706,
+      "hauteur" : 4032,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-03-08T13:59:28.549+0000"
+    } ],
+    "dateLimiteDePublication" : "2022-12-31T00:00:00.000+0000",
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-10-22", "2022-10-24", "2022-10-26", "2022-10-29", "2022-10-31", "2022-11-02", "2022-11-05", "2022-12-17", "2022-12-19", "2022-12-21", "2022-12-24", "2022-12-26", "2022-12-28", "2022-12-31", "2023-02-04", "2023-02-06", "2023-02-08", "2023-02-11", "2023-02-13", "2023-02-15", "2023-02-18", "2023-02-20", "2023-02-22", "2023-02-25", "2023-02-27", "2023-03-01", "2023-03-04" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2274
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Théâtre Antique"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-03-05T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

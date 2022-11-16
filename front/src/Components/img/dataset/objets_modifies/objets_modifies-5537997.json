@@ -1,0 +1,316 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537997,
+  "nom" : {
+    "libelleFr" : "Terrain des peintres",
+    "libelleEn" : "The Painters' ground",
+    "libelleIt" : "Terrain des peintres",
+    "libelleDe" : "Terrain des peintres",
+    "libelleNl" : "Terrain des peintres"
+  },
+  "identifier" : "SITRA2_PCU_5537997",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:03:16.537+0000",
+    "dateModification" : "2020-12-18T07:01:18.760+0000",
+    "dateExportModification" : "2022-10-17T12:22:46.173+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5221370
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Le terrain des Peintres se situe sur les hauteurs d'Aix-en-Provence, chemin de la Marguerite, à 15 minutes à pied de l'atelier Cezanne. Il est en accès libre toute l'année.\n\nUn peu d'histoire...\nLe terrain des Peintres est inscrit dans le Domaine de la Marguerite. C'est à l'époque de la construction du domaine que la municipalité d'Aix décida de préserver ce terrain comme espace public pour sa vue extraordinaire sur la montagne Sainte-Victoire. Cezanne venait souvent peindre dans cet environnement pendant la dernière partie de sa vie. Le terrain des Peintres a été aménagé sur un belvédère, face à la montagne Sainte-Victoire et ses jeux de lumière.\n\nAujourd'hui\nUn chemin a été aménagé de manière agréable le long du terrain et permet de franchir un dénivelé de l'ordre d'une trentaine de mètres pour finir sur une petite esplanade. On retrouve ainsi des bancaous ou restanques agrémentés de végétaux typiquement méditerranéens. \nPlusieurs reproductions de tableaux, représentant Sainte-Victoire, sont disposées sur l'esplanade. Ce musée en plein air constitue un complément naturel et vivant aux sites de Cézanne. \n\nAccès : \nLe terrain des Peintres est à quelques centaines de mètres de l'atelier Cezanne, sur l'avenue qui porte aussi le nom du célèbre peintre. Pour ceux qui veulent prolonger la promenade, il est possible de rejoindre l'oppidum d'Entremont, situé à environ 1 km, par le chemin de la Marguerite qui est piétonnier depuis une dizaine d'années. L'oppidum d'Entremont est un des plus beaux oppidums de Provence et abritait la communauté des salyens, des celto-ligures qui y étaient installés avant l'arrivée des romains.\n\n⚠ ⚠ Il n'y a pas de toilettes publiques sur place.",
+      "libelleEn" : "The queen of his childhood landscapes, and the obsession of his life as an artist, the Sainte-Victoire mountain dominates the painter's work: 44 oil paintings and 43 water-colours of it are conserved in the world's great museums and in private collections.\n\nThe most famous pictures were painted from this marvellous vantage point on Chemin de la Marguerite on the Lauves hill. \n\nThe city of Aix-en-Provence has created the Painters' Ground here: facing the mountain, nine reproductions on lava stone of Cézanne's finest \"Saint-Victoires\" invite you to contemplation...\n\n⚠ ⚠ There is no public toilets on site."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin De la Marguerite",
+      "codePostal" : "13090",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.441687, 43.547988 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8491506,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/11/8260550.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/11/8260550-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/11/8260550-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/11/8260550-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1363334,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:13.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491507,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/11/8260551.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/11/8260551-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/11/8260551-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/11/8260551-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1457539,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:15.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491508,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/11/8260552.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/11/8260552-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/11/8260552-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/11/8260552-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1245678,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:14.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491509,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_4_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/11/8260553.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/11/8260553-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/11/8260553-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/11/8260553-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1651941,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:18.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491510,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_5_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/11/8260554.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/11/8260554-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/11/8260554-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/11/8260554-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1758946,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:16.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8491511,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13SI000085_6_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "P. Biolatto - Labo photo ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/11/8260555.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/11/8260555-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/11/8260555-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/11/8260555-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 1124472,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:52:12.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3516
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3388
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000085"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

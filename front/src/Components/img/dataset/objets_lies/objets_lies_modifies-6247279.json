@@ -1,0 +1,364 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6247279,
+  "nom" : {
+    "libelleFr" : "Porkopolis",
+    "libelleEn" : "Porkopolis",
+    "libelleEs" : "Porkopolis",
+    "libelleIt" : "Porkopolis",
+    "libelleDe" : "Porkopolis",
+    "libelleNl" : "Porkopolis",
+    "libelleRu" : "Porkopolis",
+    "libelleZh" : "Porkopolis",
+    "libellePtBR" : "Porkopolis",
+    "libelleJa" : "Porkopolis"
+  },
+  "identifier" : "SITRA2_EVE_6247279",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-31T08:00:51.319+0000",
+    "dateModification" : "2022-08-31T10:17:48.324+0000",
+    "dateExportModification" : "2022-10-17T14:27:58.800+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102764742,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 94 22 67"
+      }
+    }, {
+      "identifiant" : 102764743,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billeterie-theatrevitez@outlook.fr"
+      }
+    }, {
+      "identifiant" : 70540154,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://theatre-vitez.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228773
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Théâtre cinémarionnettique de la Cie Traversant 3 à découvrir dès 11 ans au théâtre Antoine Vitez.\r\nLes animaux ont renversé le fermier et commencent à créer un monde nouveau."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Breb’s, brebis à la mémoire longue et parfois incertaine, vient nous raconter l’histoire de la Ferme du Manoir.\r\n\r\nLes animaux y ont renversé le fermier et commencent à créer un monde nouveau où tous seront libres, égaux et fraternels : la ferme des animaux. Sous l’impulsion des cochons, qui prennent le pouvoir pour le bien de tous, ils établissent des commandements, installent une école, mettent en place la retraite, construisent un moulin… et tous travaillent à l’unisson.\r\n\r\nMais dans cette cité idéale quelque chose ne tourne pas rond. D’abord le lait, puis les pommes disparaissent mystérieusement, les commandements changent, et la Ferme devient Porkopolis.\r\n\r\nTexte de Marilyn Mattei d’après Animal Farm : A Fairy Story de George Orwell\r\nMise en scène : Clément Arnaud\r\nAvec Elise Combet, Robert Magurno & Yonnel Perrier\r\nCréation graphique : Rodolphe Brun\r\nCréation sonore : Julien Lafosse\r\nCréation et régie lumière : Ludovic Bouaud\r\nConstruction décors : Pierre Josserand\r\nAdministration et production : Audrey Vozel"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre Antoine Vitez",
+      "adresse1" : "Aix-Marseille Université Le Cube",
+      "adresse2" : "29 Avenue Robert Schuman",
+      "codePostal" : "13621",
+      "cedex" : "1",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447139, 43.515474 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5540614
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 132,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 29 novembre 2022 de 18h30 à 19h45.",
+      "libelleEn" : "Tuesday 29 November 2022 between 6.30 pm and 7.45 pm.",
+      "libelleEs" : "Martes, 29 de noviembre de 2022 de 18:30 a 19:45.",
+      "libelleIt" : "Martedì 29 novembre 2022 dalle 18:30 alle 19:45.",
+      "libelleDe" : "Dienstag, den 29. November 2022 von 18.30 Uhr bis 19.45 Uhr.",
+      "libelleNl" : "Dinsdag 29 november 2022 van 18.30 tot en met 19.45 u.",
+      "libelleRu" : "Вторник 29 ноября 2022  с 18h30 до 19h45.",
+      "libelleZh" : "2022年11月29日, 星期二   小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "Terça-feira 29 Novembro 2022 de 18h30 a  19h45.",
+      "libelleJa" : "火曜日 29 11月 2022 6.30 午後 と 7.45 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24193375,
+      "dateDebut" : "2022-11-29",
+      "dateFin" : "2022-11-29",
+      "horaireOuverture" : "18:30:00",
+      "horaireFermeture" : "19:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24195704
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : à partir de 16 €, Tarif réduit : à partir de 8 €, Etudiant : à partir de 3 € (étudiants AMU uniquement sur présentation de la carte).\n",
+      "libelleEn" : "Full price: from 16 €, Reduced price: from 8 €, Student: from 3 €.\n",
+      "libelleEs" : "Tarifa completa: a partir de 16 €, Precio reducido: a partir de 8 €, Estudiante: a partir de 3 €.\n",
+      "libelleIt" : "Tarrifa intera: a partire da 16 €, Prezzo ridotto: a partire da 8 €, Studente: a partire da 3 €.\n",
+      "libelleDe" : "Voller Preis: ab 16 €, Reduzierter Preis: ab 8 €, Student: ab 3 €.\n",
+      "libelleNl" : "Vol tarief: vanaf 16 €, Korting: vanaf 8 €, Student: vanaf 3 €.\n",
+      "libelleRu" : "Полную цену : с 16 €, Сниженная цена : с 8 €, Студент : с 3 €.\n",
+      "libelleZh" : "全额 : 从 16 €, 减价 : 从 8 €, 学生 : 从 3 €.\n",
+      "libellePtBR" : "Tarifa inteira: a partir de 16 €, Preço reduzido: a partir de 8 €, Estudante: a partir de 3 €.\n",
+      "libelleJa" : "通常料金: 16 €から, 割引料金: 8 €から, 学生: 3 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13602450,
+      "dateDebut" : "2022-11-29",
+      "dateFin" : "2022-11-29",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 16.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 8.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 3.00,
+        "precisionTarif" : {
+          "libelleFr" : "étudiants AMU uniquement sur présentation de la carte"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4134
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6752398,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228773
+      },
+      "nom" : "Théâtre Antoine Vitez",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 102772744,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://theatre-vitez.com/2022/07/theatre-cinemarionnettique/"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21244897,
+    "referent" : true,
+    "nom" : "Dutour",
+    "prenom" : "Jessica",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102764745,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 13 94 22 61"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13906726,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Rodolphe Brun"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/49/14168407.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/49/14168407-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/49/14168407-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/49/14168407-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Porkopolis_RodolpheBrun",
+      "taille" : 643744,
+      "hauteur" : 2480,
+      "largeur" : 3508,
+      "lastModifiedDate" : "2022-08-31T10:13:30.675+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 13906727,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/88/49/14168408/La+Ferme+des+animaux+-+dossier+artistique+-+Traversant+3.pdf",
+      "extension" : "pdf",
+      "fileName" : "La Ferme des animaux - dossier artistique - Traversant 3",
+      "taille" : 2411110,
+      "lastModifiedDate" : "2022-08-31T10:13:30.611+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-29" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2213
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Théâtre Antoine Vitez"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-29T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,150 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5681966,
+  "nom" : {
+    "libelleFr" : "Mairie du Paradou",
+    "libelleEn" : "Mairie du Paradou",
+    "libelleEs" : "Mairie du Paradou",
+    "libelleIt" : "Mairie du Paradou",
+    "libelleDe" : "Mairie du Paradou",
+    "libelleNl" : "Mairie du Paradou",
+    "libelleRu" : "Mairie du Paradou",
+    "libelleZh" : "Mairie du Paradou",
+    "libellePtBR" : "Mairie du Paradou",
+    "libelleJa" : "Mairie du Paradou"
+  },
+  "identifier" : "SITRA2_STR_5681966",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-12-01T15:07:46.655+0000",
+    "dateModification" : "2022-06-01T10:18:26.618+0000",
+    "dateExportModification" : "2022-06-01T10:18:26.780+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84719910,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 54 54 01",
+        "en" : "00 33 4 90 54 54 01",
+        "de" : "00 33 4 90 54 54 01"
+      }
+    }, {
+      "identifiant" : 84721076,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil@mairie-du-paradou.fr"
+      }
+    }, {
+      "identifiant" : 84721111,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.mairie-du-paradou.fr/"
+      }
+    }, {
+      "identifiant" : 99857339,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/LeParadoucommune/"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Charloun Rieu",
+      "codePostal" : "13520",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4479
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.800724, 43.722709 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4479
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18510891,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Licari",
+    "prenom" : "Pascale",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 469
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

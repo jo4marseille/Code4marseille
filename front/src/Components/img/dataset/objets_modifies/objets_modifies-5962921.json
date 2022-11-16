@@ -1,0 +1,234 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5962921,
+  "nom" : {
+    "libelleFr" : "Commémoration du 11 Novembre"
+  },
+  "identifier" : "SITRA2_EVE_5962921",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-09T11:17:41.879+0000",
+    "dateModification" : "2022-11-05T14:24:11.133+0000",
+    "dateExportModification" : "2022-11-05T14:24:11.661+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70524959,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 03 51"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Mollégès"
+      }
+    }, {
+      "identifiant" : 70524961,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-molleges.fr"
+      }
+    }, {
+      "identifiant" : 93587980,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/villedemolleges/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226438
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Commémoration du 11 Novembre à Mollégès."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La commémoration de l'Armistice de 1918 se tiendra sur le parvis de la mairie à 11h."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Mairie de Mollégès",
+      "adresse1" : "1 Place de l'Hôtel de Ville",
+      "codePostal" : "13940",
+      "commune" : {
+        "id" : 4475
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.948747, 43.806084 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4475
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022.",
+      "libelleEn" : "Friday 11 November 2022.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022.",
+      "libelleIt" : "Venerdì 11 novembre 2022.",
+      "libelleDe" : "Freitag, den 11. November 2022.",
+      "libelleNl" : "Vrijdag 11 november 2022.",
+      "libelleRu" : "Пятница 11 ноября 2022.",
+      "libelleZh" : "2022年11月11日, 星期五.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022.",
+      "libelleJa" : "金曜日 11 11月 2022."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24704320,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24704320
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19084056,
+    "referent" : true,
+    "titre" : {
+      "libelleFr" : "Mairie de Mollégès"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 93588015,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 03 51"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14779537,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "© Mollégès"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/83/15160209.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/83/15160209-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/83/15160209-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/83/15160209-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "312610912_442069164750765_8289775621511362697_n",
+      "taille" : 225480,
+      "hauteur" : 440,
+      "largeur" : 1160,
+      "lastModifiedDate" : "2022-11-05T14:24:11.237+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Mairie de Mollégès"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,210 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538221,
+  "nom" : {
+    "libelleFr" : "Chapelle Notre Dame du Rouet",
+    "libelleEn" : "Chapelle Notre Dame du Rouet",
+    "libelleEs" : "Chapelle Notre Dame du Rouet",
+    "libelleIt" : "Chapelle Notre Dame du Rouet",
+    "libelleDe" : "Chapelle Notre Dame du Rouet",
+    "libelleNl" : "Chapelle Notre Dame du Rouet"
+  },
+  "identifier" : "SITRA2_PCU_5538221",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:19:10.895+0000",
+    "dateModification" : "2021-01-07T14:08:45.033+0000",
+    "dateExportModification" : "2022-06-10T06:07:31.114+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Carry-le-Rouet",
+      "dateCreation" : "2020-10-01T12:13:22.314+0000",
+      "dateModification" : "2022-10-24T08:49:36.330+0000",
+      "id" : 2094,
+      "siteWeb" : "http://www.otcarrylerouet.fr"
+    },
+    "signalerUnProblemeMails" : [ "asmarangon@mairie-carrylerouet.fr", "mdominguezloza@mairie-carrylerouet.fr", "oolivierdallard@mairie-carrylerouet.fr", "scoutsouras@mairie-carrylerouet.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628180,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 71 74"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223993
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "La commune de Carry-le-Rouet est située sur la \"Côte bleue\", un merveilleux massif calcaire creusé d'une succession de criques et de calanques au nord-ouest de Marseille. A l'est de Carry, entre la plage du Rouet et la calanque des Eaux-Salées, le cap de la Vierge est un promontoire triangulaire qui domine la mer du haut d'une falaise. Au milieu de cette aire plantée d'une pinède, la chapelle Notre-Dame-du-Rouet a été bâtie en remplacement d'une autre plus ancienne qui existait depuis l'époque des Sarrazins. Cette première construction s'appelait alors \"chapelle du désespoir\", car les habitants venaient s'y réfugier en cas d'attaque des pirates mauresques (805-905).\n\n De ce premier édifice il reste encore les fondations, visibles en bordure de la falaise à quarante mètres au nord-ouest de l'actuel. La plus ancienne référence qui en parle est un document de 1253, qui précise qu'il appartenait à l'abbaye de Saint-Victor. Celle-ci y possédait également sur place un troupeau de moutons dont le revenu servait à entretenir la chapelle. Celle-ci est encore citée en 1278, 1290, 1302 et 1370. En 1302, sous le nom du \"Rot\" ou du \"Rouet\", le lieu servait à la surveillance du littoral organisée par le grand sénéchal à l'aide de signaux.\nOn y célèbre chaque année, le 8 septembre, pour la fête de la Nativité, la bénédiction de la mer et des bateaux."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13620",
+      "bureauDistribution" : "CARRY LE ROUET",
+      "commune" : {
+        "id" : 4432
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Quartier du rouet plage, av blanche calvet vers Vacanciel"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.159182, 43.346074 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4432
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636508,
+    "referent" : true,
+    "nom" : "LA PAROISSE DE CARRY LE ROUET",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 456
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81747907,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 44 71 74"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8491129,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000057_1_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/10/8260173.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/10/8260173-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/10/8260173-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/77/10/8260173-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 33070,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:48:52.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3488
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3530
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3328
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000057"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "BMT Carry le Rouet"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.otcarrylerouet.fr"
+    }
+  } ]
+}

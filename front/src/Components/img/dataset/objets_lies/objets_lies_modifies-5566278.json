@@ -1,0 +1,107 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5566278,
+  "nom" : {
+    "libelleFr" : "Savonnerie Marius Fabre",
+    "libelleEn" : "Marius Fabre SOAP",
+    "libelleIt" : "Marius Fabre sapone",
+    "libelleDe" : "Marius Fabre Seife",
+    "libelleNl" : "Savonnerie Marius Fabre"
+  },
+  "identifier" : "SITRA2_STR_5566278",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T23:35:31.734+0000",
+    "dateModification" : "2020-10-16T14:24:18.424+0000",
+    "dateExportModification" : "2022-11-01T19:30:10.177+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Salon de Provence",
+      "dateCreation" : "2020-02-14T10:43:25.088+0000",
+      "dateModification" : "2022-10-24T08:49:43.996+0000",
+      "id" : 1989,
+      "siteWeb" : "http://www.visitsalondeprovence.com/"
+    },
+    "signalerUnProblemeMails" : [ "m.quaglia@visitsalondeprovence.com", "projet@visitsalondeprovence.com", "s.kheloufi@visitsalondeprovence.com", "v.bailly@visitsalondeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80139232,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 53 24 77"
+      }
+    }, {
+      "identifiant" : 80139233,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "boutique@marius-fabre.fr"
+      }
+    }, {
+      "identifiant" : 80139234,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.marius-fabre.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Paul Bourret",
+      "codePostal" : "13300",
+      "commune" : {
+        "id" : 4514
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4514
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

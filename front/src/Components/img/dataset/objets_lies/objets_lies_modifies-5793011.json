@@ -1,0 +1,365 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5793011,
+  "nom" : {
+    "libelleFr" : "Atelier nature : créer son jardin zen"
+  },
+  "identifier" : "SITRA2_ACT_5793011",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-04-30T09:15:31.760+0000",
+    "dateModification" : "2022-05-31T09:59:48.827+0000",
+    "dateExportModification" : "2022-09-26T05:21:45.887+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Cet atelier vous permettra de venir avec vos enfants pour que chacun puisse repartir avec sa création de petit jardin zen."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Choisissez un contenant par personne, une coupe en terre, une boule en verre ou tout autre récipient original comme un service en porcelaine, une an-cienne passoire, un panier à champignons en fer, une vieille louche en émail ou une belle souche en bois flotté.\r\nNous fournissons toutes les petites plantes et le terreau dont vous aurez besoin.\r\nUn moment de pure détente et de recentrage sur sa tranquillité intérieure, dans le parc de la Bambouseraie avec Nathalie, de l’association « Les Glaneurs des Possibles », qui vous gui-dera dans vos plantations."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Moun Mazet",
+      "adresse1" : "Lieu Dit Sulauze - le Mazet",
+      "adresse2" : "D 569N",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.002136, 43.588896 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 16860
+    },
+    "lieuObjetTouristique" : {
+      "type" : "HEBERGEMENT_LOCATIF",
+      "id" : 5227709
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 4 août 2022 de 14h à 17h.",
+      "libelleEn" : "Thursday 4 August 2022 between 2 pm and 5 pm.",
+      "libelleEs" : "Jueves, 4 de agosto de 2022 de 14 a 17.",
+      "libelleIt" : "Giovedì 4 agosto 2022 dalle 14 alle 17.",
+      "libelleDe" : "Donnerstag, den 4. August 2022 von 14 Uhr bis 17 Uhr.",
+      "libelleNl" : "Donderdag 4 augustus 2022 van 14.00 tot en met 17.00 u.",
+      "libelleRu" : "Четверг 4 августа 2022  с 14h до 17h.",
+      "libelleZh" : "2022年8月4日, 星期四   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quinta-feira 4 Agosto 2022 de 14h a  17h.",
+      "libelleJa" : "木曜日 4 8月 2022 2 午後 と 5 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20897460,
+      "dateDebut" : "2021-07-14",
+      "dateFin" : "2021-07-14",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454366
+    }, {
+      "identifiant" : 21164370,
+      "dateDebut" : "2022-08-04",
+      "dateFin" : "2022-08-04",
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454367
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit pour les moins de 12 ans.\n\n10 €.",
+      "libelleEn" : "Free entry for children < 12 years.",
+      "libelleEs" : "Gratuito para los niños menores de 12 años.",
+      "libelleIt" : "Gratuito per i bambini di età inferiore a 12 anni.",
+      "libelleDe" : "Kostenlos für Kinder unter 12 Jahren.",
+      "libelleNl" : "Gratis voor kinderen onder de 12 jaar.",
+      "libelleRu" : "Бесплатно для лицам младше 12 лет.",
+      "libelleZh" : "儿童 < 12 岁自由进入.",
+      "libellePtBR" : "Gratuito para menores de 12 anos.",
+      "libelleJa" : "子供 < 12 歳 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "10 €"
+    },
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 12
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6495644,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 473
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99822619,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/creer-son-jardin-zen-a-la-bambouseraie.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9893961,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/54/9647804.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/54/9647804-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/54/9647804-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/188/54/9647804-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20200704_125141 (2)",
+      "taille" : 2803800,
+      "hauteur" : 1836,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2021-04-30T09:24:54.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9893964,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/54/9647807.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/54/9647807-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/54/9647807-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/54/9647807-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20200705_084437 (3)",
+      "taille" : 3174099,
+      "hauteur" : 1836,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2021-04-30T09:24:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9893965,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/54/9647808.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/54/9647808-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/54/9647808-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/54/9647808-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20210213_141148 (2)",
+      "taille" : 2936475,
+      "hauteur" : 3264,
+      "largeur" : 1836,
+      "lastModifiedDate" : "2021-04-30T09:24:48.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9893962,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/54/9647805.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/54/9647805-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/54/9647805-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/54/9647805-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20200704_130028 (2)",
+      "taille" : 2947876,
+      "hauteur" : 3264,
+      "largeur" : 1836,
+      "lastModifiedDate" : "2021-04-30T09:24:56.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9893963,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/54/9647806.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/54/9647806-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/54/9647806-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/54/9647806-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20200704_174940 (2)",
+      "taille" : 3231378,
+      "hauteur" : 1836,
+      "largeur" : 3264,
+      "lastModifiedDate" : "2021-04-30T09:24:50.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Moun Mazet",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1790
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1886
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1782
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1788
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-08-04T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

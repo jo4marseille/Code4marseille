@@ -1,0 +1,412 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6162853,
+  "nom" : {
+    "libelleFr" : "Anarchy Dance Theatre - Second Body"
+  },
+  "identifier" : "SITRA2_EVE_6162853",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-08T15:54:29.061+0000",
+    "dateModification" : "2022-08-02T07:57:05.161+0000",
+    "dateExportModification" : "2022-08-02T07:57:10.079+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100208039,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 93 48 14"
+      },
+      "observation" : {
+        "libelleFr" : "Du mardi au vendredi de 12h à 18h et le samedi uniquement les jours de spectacles de 15h à 18h."
+      }
+    }, {
+      "identifiant" : 100208040,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@preljocaj.org"
+      }
+    }, {
+      "identifiant" : 100208041,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://preljocaj.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468154
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Un corps qui brille à la lisière de l’illumination, des effets à couper le souffle. Le spectacle du chorégraphe Chieh-hua Hsieh est un condensé de spiritualité asiatique et de technologie futuriste qui nous arrive de Taïwan."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Biennale des Imaginaires Numériques et le Pavillon Noir s’associent pour présenter la création du taïwanais Chieh-hua Hsieh. Une fascinante fusion entre le réel et le virtuel, aux images et sons qui  défient nos imaginaires. \r\n\r\nTout commence à zéro, avec une silhouette humaine qui, pas par pas, construit la conscience de soi et de l’espace. Mais la danseuse va rapidement se confondre avec une ville de lumières, sa ville, la grande ville de Taipei. Une ville interactive qu’elle transforme par ses mouvements, en temps réel. Une nouvelle ère peut alors commencer, celle du corps qui se confond avec le monde virtuel. Quand ce deuxième corps traverse le premier et se confond avec lui, le réel et le virtuel ne font plus qu’un. Nos sens vacillent et la chair rayonne comme si elle produisait sa propre lumière. Aussi un nouveau corps s’incarne dans une seconde peau... Second Body est un condensé de spiritualité asiatique et de technologie futuriste, qui nous arrive de Taïwan où toute distinction entre les arts de la scène et le monde virtuel appartient au passé. \r\n\r\nAnarchy Dance Theatre du chorégraphe Chieh-hua Hsieh façonne ses spectacles de manière à redéfinir les arts de la scène et ses espaces de représentation. Le studio Ultra Combos produit des œuvres d’arts visuels et de création sonore qui créent des ponts entre les mondes des arts et des nouveaux médias, inventant un nouveau vocabulaire pour la danse. \r\n\r\nEn co-réalisation avec la Biennale des Imaginaires Numériques."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Théâtre du Pavillon Noir",
+      "adresse1" : "530 Avenue Mozart",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.440201, 43.525478 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5490060
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5499390
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 19 janvier 2023 de 19h à 19h45.\n\nVendredi 20 janvier 2023 de 20h à 20h45.",
+      "libelleEn" : "Thursday 19 January 2023 between 7 pm and 7.45 pm.\n\nFriday 20 January 2023 between 8 pm and 8.45 pm.",
+      "libelleEs" : "Jueves, 19 de enero de 2023 de 19 a 19:45.\n\nViernes, 20 de enero de 2023 de 20 a 20:45.",
+      "libelleIt" : "Giovedì 19 gennaio 2023 dalle 19 alle 19:45.\n\nVenerdì 20 gennaio 2023 dalle 20 alle 20:45.",
+      "libelleDe" : "Donnerstag, den 19. Januar 2023 von 19 Uhr bis 19.45 Uhr.\n\nFreitag, den 20. Januar 2023 von 20 Uhr bis 20.45 Uhr.",
+      "libelleNl" : "Donderdag 19 januari 2023 van 19.00 tot en met 19.45 u.\n\nVrijdag 20 januari 2023 van 20.00 tot en met 20.45 u.",
+      "libelleRu" : "Четверг 19 января 2023  с 19h до 19h45.\n\nПятница 20 января 2023  с 20h до 20h45.",
+      "libelleZh" : "2023年1月19日, 星期四   小时小时 和 小时小时分钟  之间.\n\n2023年1月20日, 星期五   小时小时 和 小时小时分钟  之间.",
+      "libellePtBR" : "Quinta-feira 19 Janeiro 2023 de 19h a  19h45.\n\nSexta-feira 20 Janeiro 2023 de 20h a  20h45.",
+      "libelleJa" : "木曜日 19 1月 2023 7 午後 と 7.45 午後 の間.\n\n金曜日 20 1月 2023 8 午後 と 8.45 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23554365,
+      "dateDebut" : "2023-01-19",
+      "dateFin" : "2023-01-19",
+      "horaireOuverture" : "19:00:00",
+      "horaireFermeture" : "19:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23554365
+    }, {
+      "identifiant" : 23554366,
+      "dateDebut" : "2023-01-20",
+      "dateFin" : "2023-01-20",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "20:45:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23554366
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 23 €, Tarif réduit : 20 €, Etudiant : 10 € (et moins de 18 ans).\n\n\nPass 4 spectacles au Pavillon Noir : 72 €\r\nLes spectacles supplémentaires au Pavillon Noir sont à 18 €.\r\n\r\nPass Jeunes : 2 spectacles pour soi ou un spectacle à 2 : 20 €\r\nRéservé aux moins de 30 ans.",
+      "libelleEn" : "Full price: 23 €, Reduced price: 20 €, Student: 10 €.\n",
+      "libelleEs" : "Tarifa completa: 23 €, Precio reducido: 20 €, Estudiante: 10 €.\n",
+      "libelleIt" : "Tarrifa intera: 23 €, Prezzo ridotto: 20 €, Studente: 10 €.\n",
+      "libelleDe" : "Voller Preis: 23 €, Reduzierter Preis: 20 €, Student: 10 €.\n",
+      "libelleNl" : "Vol tarief: € 23, Korting: € 20, Student: € 10.\n",
+      "libelleRu" : "Полную цену : 23 €, Сниженная цена : 20 €, Студент : 10 €.\n",
+      "libelleZh" : "全额 : 23 €, 减价 : 20 €, 学生 : 10 €.\n",
+      "libellePtBR" : "Tarifa inteira: 23 €, Preço reduzido: 20 €, Estudante: 10 €.\n",
+      "libelleJa" : "通常料金: 23 €, 割引料金: 20 €, 学生: 10 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Pass 4 spectacles au Pavillon Noir : 72 €\r\nLes spectacles supplémentaires au Pavillon Noir sont à 18 €.\r\n\r\nPass Jeunes : 2 spectacles pour soi ou un spectacle à 2 : 20 €\r\nRéservé aux moins de 30 ans."
+    },
+    "periodes" : [ {
+      "identifiant" : 13337468,
+      "dateDebut" : "2023-01-19",
+      "dateFin" : "2023-01-20",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 23.00,
+        "maximum" : 23.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 20.00,
+        "maximum" : 20.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 10.00,
+        "precisionTarif" : {
+          "libelleFr" : "et moins de 18 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4134
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6684724,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5468154
+      },
+      "nom" : "Pavillon Noir",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 101851672,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://billetterie.preljocaj.org/spectacle?id_spectacle=755&lng=1"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 20899202,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Paul",
+    "prenom" : "Sophie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 100208042,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@preljocaj.org"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13199758,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Ching-Ju Cheng"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/38/13379244.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/38/13379244-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/38/13379244-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/38/13379244-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Second_Body_credit_Ching-Ju_Cheng_1",
+      "taille" : 455552,
+      "hauteur" : 1827,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2022-08-02T07:57:08.367+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13199759,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Ching-Ju Cheng"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/38/13379245.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/38/13379245-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/38/13379245-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/38/13379245-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Second_Body_credit_Ching-Ju_Cheng_2",
+      "taille" : 325368,
+      "hauteur" : 2062,
+      "largeur" : 2081,
+      "lastModifiedDate" : "2022-08-02T07:57:07.136+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13199760,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Ching-Ju Cheng"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/38/13379246.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/38/13379246-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/38/13379246-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/38/13379246-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Second_Body_credit_Ching-Ju_Cheng",
+      "taille" : 5689703,
+      "hauteur" : 1828,
+      "largeur" : 2736,
+      "lastModifiedDate" : "2022-08-02T07:57:05.550+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2023-01-19", "2023-01-20" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2151
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2349
+    },
+    "nbParticipantsAttendu" : 378,
+    "nbVisiteursAttendu" : 378,
+    "nomLieu" : "Théâtre du Pavillon Noir"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-20T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

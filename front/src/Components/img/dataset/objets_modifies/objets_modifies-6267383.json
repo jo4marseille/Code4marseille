@@ -1,0 +1,268 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6267383,
+  "nom" : {
+    "libelleFr" : "Exposition \"Mouvement\" - Hommage à Denise René"
+  },
+  "identifier" : "SITRA2_EVE_6267383",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-20T14:25:59.384+0000",
+    "dateModification" : "2022-09-20T15:34:39.233+0000",
+    "dateExportModification" : "2022-09-20T15:34:39.369+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Municipal de Tourisme de Rognes",
+      "dateCreation" : "2020-11-20T09:40:48.696+0000",
+      "dateModification" : "2022-10-24T08:49:49.984+0000",
+      "id" : 2133,
+      "siteWeb" : "http://www.ville-rognes.fr/"
+    },
+    "signalerUnProblemeMails" : [ "a.tuccelli@rognes.fr", "c.puopolo@rognes.fr", "m.apprin@rognes.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77135270,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 66 90 20"
+      }
+    }, {
+      "identifiant" : 77135271,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@bonisson.com"
+      }
+    }, {
+      "identifiant" : 77135272,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.bonisson.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5472991
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "En clôture de la saison 2022, le Bonisson Art Center présente l’exposition « MOUVEMENT | Hommage à Denise René », organisée en collaboration avec Denis Kilian, directeur de la galerie Denise René, commissaire de l’exposition."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La manifestation, qui regroupe plus d'une cinquantaine d'oeuvres et de quarante artistes, propose une plongée dans l'art cinétique, une tendance majeure de l'art du XXème siècle, dont l'acte fondateur fut posé par la célèbre exposition \"le mouvement\", organisée en 1955 par Denise RENÉ dans sa galerie de la rue de la Boétie à Paris, avec VASARELY, CALDER,\r\nDUCHAMP, JACOBSEN, TINGUELY, AGAM, POL BURY ET SOTO."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Bonisson Art Center",
+      "adresse1" : "177 Route des Mauvares",
+      "codePostal" : "13840",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4493
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.342943, 43.656646 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4493
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 195
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 08/10/2022 au 08/01/2023 de 13h30 à 18h30.\nFermé lundi, mardi et mercredi.",
+      "libelleEn" : "From 08/10/2022 to 08/01/2023 between 1.30 pm and 6.30 pm.\nClosed Monday, Tuesday and Wednesday.",
+      "libelleEs" : "Del 08/10/2022 al 08/01/2023 de 13:30 a 18:30.\nCerrado lunes, martes y miércoles.",
+      "libelleIt" : "Dal 08/10/2022 al 08/01/2023 dalle 13:30 alle 18:30.\nChiuso lunedì, martedì e mercoledì.",
+      "libelleDe" : "Vom 08/10/2022 bis 08/01/2023 von 13.30 Uhr bis 18.30 Uhr.\nMontag, Dienstag und Mittwoch geschlossen.",
+      "libelleNl" : "Van 08/10/2022 tot en met 08/01/2023 van 13.30 tot en met 18.30 u.\nMaandag, dinsdag en woensdag gesloten.",
+      "libelleRu" : "С 08/10/2022 до 08/01/2023 с 13h30 до 18h30.\nНе работает понедельник, вторник и среда.",
+      "libelleZh" : "从 2022年10月8日 到 2023年1月8日 小时小时分钟  和 小时小时分钟  之间.\n星期一, 星期二 和 星期三 关闭.",
+      "libellePtBR" : "De 08/10/2022 a 08/01/2023 de 13h30 a  18h30.\nFechado em segunda-feira, terça-feira e quarta-feira.",
+      "libelleJa" : "08/10/2022 から 08/01/2023 まで 1.30 午後 と 6.30 午後 の間.\n月曜日, 火曜日 と 水曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24329252,
+      "dateDebut" : "2022-10-08",
+      "dateFin" : "2023-01-08",
+      "horaireOuverture" : "13:30:00",
+      "horaireFermeture" : "18:30:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 24329917
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6799841,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5472991
+      },
+      "nom" : "SCEA Château Bonisson",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "observation" : {
+        "libelleFr" : "04 42 66 90 20"
+      },
+      "locked" : false
+    }, {
+      "identifiant" : 6799844,
+      "nom" : "Château Bonisson site web",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "observation" : {
+        "libelleFr" : "www.bonisson.com"
+      },
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "Réservation requise pour les visites commentées.\r\nVisites guidées possible les samedis ou dimanches à 16h."
+    }
+  },
+  "illustrations" : [ {
+    "identifiant" : 14112847,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Château Bonisson"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/225/14410070.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/225/14410070-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/225/14410070-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/225/14410070-diaporama.png",
+      "extension" : "png",
+      "fileName" : "Expo Bonisson octobre 2022_affiche",
+      "taille" : 1010832,
+      "hauteur" : 4763,
+      "largeur" : 3369,
+      "lastModifiedDate" : "2022-09-20T14:37:02.977+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-05", "2023-01-06", "2023-01-07", "2023-01-08" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Bonisson Art Center"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-08T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

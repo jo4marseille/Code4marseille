@@ -1,0 +1,394 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 6127511,
+  "nom" : {
+    "libelleFr" : "Maison Ferroni"
+  },
+  "identifier" : "SITRA2_COS_6127511",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-05-11T09:52:50.192+0000",
+    "dateModification" : "2022-07-12T08:09:50.875+0000",
+    "dateExportModification" : "2022-07-12T08:09:51.433+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 99283160,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 24 88 91"
+      }
+    }, {
+      "identifiant" : 99283161,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@ferroni.com"
+      }
+    }, {
+      "identifiant" : 99283162,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ferroni.com"
+      }
+    }, {
+      "identifiant" : 99283163,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/MaisonFerroni/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236028
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Maison FERRONI vous propose une gamme de spiritueux français avec un ancrage historique fort ou lié à son terroir provençal."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Certains produits sont anciens et classiques, d'autres innovants, d'autres avaient disparus....mais ils ont tous un point commun : une belle histoire à raconter !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Château des Creissauds",
+      "adresse1" : "44 impasse de la Badiane",
+      "codePostal" : "13400",
+      "bureauDistribution" : "AUBAGNE",
+      "commune" : {
+        "id" : 4416
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.535773, 43.278004 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4416
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "ORGANISATEUR_VISITE",
+      "libelleFr" : "Propose la visite guidée ...",
+      "libelleEn" : "Proposes a guided tour entitled...",
+      "libelleEs" : "Ofrece la visita guiada...",
+      "libelleIt" : "Propone la visita guidata...",
+      "libelleDe" : "Bietet die Führung ... an.",
+      "libelleNl" : "Biedt de rondleiding ...",
+      "libelleRu" : "Предлагает экскурсию",
+      "libelleZh" : "提供导览参观",
+      "libellePtBR" : "Propõe a visita guiada ...",
+      "libelleJa" : "ガイド付きツアーを提案します",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5635043
+      }
+    }, {
+      "type" : "VEND_ICI",
+      "libelleFr" : "Vend ses produits ici",
+      "libelleEn" : "Sell their products here",
+      "libelleEs" : "Vende aquí sus productos",
+      "libelleIt" : "Vende i suoi prodotti qui",
+      "libelleDe" : "Verkauft seine/ihre Produkte hier",
+      "libelleNl" : "Verkoopt zijn producten hier",
+      "libelleRu" : "Продаёт свою продукцию здесь",
+      "libelleZh" : "在这里售卖他们的产品",
+      "libellePtBR" : "Vende seus produtos aqui",
+      "libelleJa" : "はこちらで製品を販売",
+      "objetTouristique" : {
+        "type" : "DEGUSTATION",
+        "id" : 5537618
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 4770
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 6298
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/07 au 31/08/2022 \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 12h et de 14h à 17h.\n\nDu 01/09 au 31/10/2022 \nOuverture le mardi, mercredi, jeudi, vendredi et samedi de 10h à 12h et de 14h à 17h.\n\nDu 01/12 au 31/12/2022 \nOuverture le lundi, mardi, mercredi, jeudi, vendredi et samedi de 10h à 12h et de 14h à 19h.",
+      "libelleEn" : "From 01/07 to 31/08/2022 \nOpening hours on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 12 pm and between 2 pm and 5 pm.\n\nFrom 01/09 to 31/10/2022 \nOpening hours on Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 12 pm and between 2 pm and 5 pm.\n\nFrom 01/12 to 31/12/2022 \nOpening hours on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday between 10 am and 12 pm and between 2 pm and 7 pm.",
+      "libelleEs" : "Del 01/07 al 31/08/2022 \nHorarios de apertura los lunes, martes, miércoles, jueves, viernes y sábado de 10 a 12 y de 14 a 17.\n\nDel 01/09 al 31/10/2022 \nHorarios de apertura los martes, miércoles, jueves, viernes y sábado de 10 a 12 y de 14 a 17.\n\nDel 01/12 al 31/12/2022 \nHorarios de apertura los lunes, martes, miércoles, jueves, viernes y sábado de 10 a 12 y de 14 a 19.",
+      "libelleIt" : "Dal 01/07 al 31/08/2022 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 12 e dalle 14 alle 17.\n\nDal 01/09 al 31/10/2022 \nOrari di apertura il martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 12 e dalle 14 alle 17.\n\nDal 01/12 al 31/12/2022 \nOrari di apertura il lunedì, martedì, mercoledì, giovedì, venerdì e sabato dalle 10 alle 12 e dalle 14 alle 19.",
+      "libelleDe" : "Vom 01/07 bis 31/08/2022 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 17 Uhr.\n\nVom 01/09 bis 31/10/2022 \nÖffnungszeiten jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 17 Uhr.\n\nVom 01/12 bis 31/12/2022 \nÖffnungszeiten jeden Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Samstag von 10 Uhr bis 12 Uhr und von 14 Uhr bis 19 Uhr.",
+      "libelleNl" : "Van 01/07 tot en met 31/08/2022 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 17.00 u.\n\nVan 01/09 tot en met 31/10/2022 \nOpeningstijden op dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 17.00 u.\n\nVan 01/12 tot en met 31/12/2022 \nOpeningstijden op maandag, dinsdag, woensdag, donderdag, vrijdag en zaterdag van 10.00 tot en met 12.00 u en van 14.00 tot en met 19.00 u.",
+      "libelleRu" : "С 01/07 до 31/08/2022 \nЧасы открытия на понедельник, вторник, среда, четверг, пятница и суббота с 10h до 12h и с 14h до 17h.\n\nС 01/09 до 31/10/2022 \nЧасы открытия на вторник, среда, четверг, пятница и суббота с 10h до 12h и с 14h до 17h.\n\nС 01/12 до 31/12/2022 \nЧасы открытия на понедельник, вторник, среда, четверг, пятница и суббота с 10h до 12h и с 14h до 19h.",
+      "libelleZh" : "从 7月1日 到 2022年8月31日 \n开放时间 上 星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\n\n从 9月1日 到 2022年10月31日 \n开放时间 上 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.\n\n从 12月1日 到 2022年12月31日 \n开放时间 上 星期一, 星期二, 星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间 和 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 01/07 a 31/08/2022 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  12h e de 14h a  17h.\n\nDe 01/09 a 31/10/2022 \nOuverture na terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  12h e de 14h a  17h.\n\nDe 01/12 a 31/12/2022 \nOuverture na segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira e sábado de 10h a  12h e de 14h a  19h.",
+      "libelleJa" : "01/07 から 31/08/2022 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 5 午後 の間.\n\n01/09 から 31/10/2022 まで \n開館時間 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 5 午後 の間.\n\n01/12 から 31/12/2022 まで \n開館時間 月曜日, 火曜日, 水曜日, 木曜日, 金曜日 と 土曜日 に 10 午前 と 12 午後 の間 と 2 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23310330,
+      "dateDebut" : "2022-01-04",
+      "dateFin" : "2022-06-30",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23858932
+    }, {
+      "identifiant" : 23310889,
+      "dateDebut" : "2022-07-01",
+      "dateFin" : "2022-08-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23858933
+    }, {
+      "identifiant" : 23310936,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-10-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23858934
+    }, {
+      "identifiant" : 23310956,
+      "dateDebut" : "2022-12-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23858935
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6486048,
+      "nom" : "Maison Ferroni",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "observation" : {
+        "libelleFr" : "04 91 24 88 91"
+      },
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 20741103,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Ferroni",
+    "prenom" : "Guillaume",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99283158,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 24 88 91"
+      }
+    }, {
+      "identifiant" : 99283159,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@ferroni.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13010386,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13ART005978_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/80/13193422.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/80/13193422-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/80/13193422-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/80/13193422-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 91867,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-05-11T09:52:37.880+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13010388,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13ART005978_2_WEB.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/80/13193424.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/80/13193424-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/80/13193424-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/80/13193424-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 45318,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2022-05-11T09:52:37.523+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13010389,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/80/13193425.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/80/13193425-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/80/13193425-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/80/13193425-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Ferroni Fut",
+      "taille" : 112540,
+      "hauteur" : 801,
+      "largeur" : 797,
+      "lastModifiedDate" : "2022-05-11T09:52:36.464+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-24", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-10-31", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1874
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2070
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2241
+    } ],
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1820
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    } ],
+    "nomLieu" : "Château des Creissauds"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true,
+    "activitesCulturelles" : [ {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1820
+    }, {
+      "elementReferenceType" : "ActiviteCulturellePrestation",
+      "id" : 1833
+    } ]
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,343 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5793028,
+  "nom" : {
+    "libelleFr" : "Initiation à la voile habitable sur l'étang de Berre"
+  },
+  "identifier" : "SITRA2_ACT_5793028",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-04-30T09:28:02.376+0000",
+    "dateModification" : "2022-05-31T07:07:31.576+0000",
+    "dateExportModification" : "2022-09-19T11:37:46.158+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 84593211,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://ecole-habitable-4emecap.e-monsite.com/"
+      }
+    }, {
+      "identifiant" : 98687310,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0647271994"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5679615
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Initiez-vous à la voile et aux manœuvres de base sur un Sélection 37 (Tour de France à la Voile). \r\nAu programme : hissage des voiles, virements de bord, tenue de barre, etc... Sensations garanties."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Rendez-vous au Centre Nautique Istréen (CNI) pour ce cours collectif sur l'étang de Berre. \r\nRéservations auprès de l'école de voile 4ème CAp"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Club Nautique Istréen",
+      "adresse1" : "17, Chemin du Port",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.997363, 43.499671 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 18178
+    },
+    "lieuObjetTouristique" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 6038169
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    } ],
+    "ageMin" : 216,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 20897597,
+      "dateDebut" : "2022-04-23",
+      "dateFin" : "2022-04-23",
+      "complementHoraire" : {
+        "libelleFr" : "Rdv 13h30"
+      },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "17:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23451326
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "35 €."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "35 €"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5759391,
+      "nom" : "Ecole de voile 4ème Cap",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 98687001,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "0647271994"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18488850,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "IMBERT",
+    "prenom" : "Frédric",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 84593414,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 11 18 78 47"
+      }
+    }, {
+      "identifiant" : 84593481,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "imbert.frederic13800@gmail.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9894080,
+    "link" : false,
+    "type" : "IMAGE",
+    "legende" : {
+      "libelleFr" : "Voile sur l'étang de Berre"
+    },
+    "copyright" : {
+      "libelleFr" : "OT istres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/55/9647926.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/55/9647926-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/55/9647926-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/55/9647926-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "BALADE EN MENTOR ANOI VOILIER JUILLET 2020 (13)",
+      "taille" : 2618079,
+      "hauteur" : 3968,
+      "largeur" : 2976,
+      "lastModifiedDate" : "2021-04-30T09:35:36.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10493398,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/255/10289073.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/255/10289073-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/255/10289073-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/255/10289073-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "BALADE VOILIER DE CROISIERE ETE 2020 (32)",
+      "taille" : 894501,
+      "hauteur" : 3648,
+      "largeur" : 2736,
+      "lastModifiedDate" : "2021-07-15T07:21:21.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10493399,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/255/10289074.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/255/10289074-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/255/10289074-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/255/10289074-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "BALADE VOILIER DE CROISIERE ETE 2020 (35)",
+      "taille" : 1218395,
+      "hauteur" : 3648,
+      "largeur" : 2736,
+      "lastModifiedDate" : "2021-07-15T07:21:19.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Club Nautique Istréen",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1830
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1899
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1886
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1997
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5571435
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5571435
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-05-31T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,130 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5225204,
+  "nom" : {
+    "libelleFr" : "Parc animalier de La Barben",
+    "libelleEn" : "Zoo de La Barben",
+    "libelleEs" : "Zoo de La Barben",
+    "libelleIt" : "Zoo de La Barben",
+    "libelleDe" : "Zoo de La Barben",
+    "libelleNl" : "Zoo de La Barben",
+    "libelleRu" : "Zoo de La Barben",
+    "libelleZh" : "Zoo de La Barben",
+    "libellePtBR" : "Zoo de La Barben",
+    "libelleJa" : "Zoo de La Barben"
+  },
+  "identifier" : "SITRA2_STR_5225204",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:47:29.842+0000",
+    "dateModification" : "2022-03-16T11:10:08.434+0000",
+    "dateExportModification" : "2022-03-16T11:10:08.588+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Massif des Costes",
+      "dateCreation" : "2020-10-21T12:23:44.707+0000",
+      "dateModification" : "2022-10-24T08:49:46.051+0000",
+      "id" : 2114,
+      "siteWeb" : "http://www.ot-massifdescostes.com"
+    },
+    "signalerUnProblemeMails" : [ "accueil@massifdescostes.com", "promotion.tourisme@massifdescostes.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70519101,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 (0)4 90 55 19 12"
+      }
+    }, {
+      "identifiant" : 89078886,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@zoolabarben.com"
+      }
+    }, {
+      "identifiant" : 89078965,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.parcanimalierlabarben.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Route Du Château",
+      "codePostal" : "13330",
+      "commune" : {
+        "id" : 4420
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.205263, 43.625782 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4420
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19269343,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427363
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

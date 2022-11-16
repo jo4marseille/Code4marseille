@@ -1,0 +1,475 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062453,
+  "nom" : {
+    "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+    "libelleEn" : "Marseille Today, The Road to the Mucem"
+  },
+  "identifier" : "SITRA2_EVE_6062453",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:12:40.221+0000",
+    "dateModification" : "2022-11-08T09:18:51.355+0000",
+    "dateExportModification" : "2022-11-08T23:13:50.782+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816711,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 97816712,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Parcours architectural des sites et monuments remarquables, témoins d'une Marseille moderne, du Vieux-Port  au Mucem de Rudy Ricciotti, avec la Villa Méditerranée de Boeri et la Station sanitaire de Pouillon et Egger actuel musée Regards de Provence.",
+      "libelleEn" : "Architectural walk among  sites and monuments  opened during  2013: taking in the Vieux-Port and its Ombrière (mirrored sunshade) Foster, Rudi Ricciotti’s Mucem, the Villa Méditerrannée by S. Boeri and the Station Sanitaire now the Regards de…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ces visites guidées sont destinées à la clientèle individuelle (réservation possible jusqu'à 9 personnes max). Pour les GROUPES (à partir de 10 personnes) : la réservation est OBLIGATOIRE auprès de notre Service Groupes : groupes@marseille-tourisme.com",
+      "libelleEn" : "Discovery of the evolution of Marseille historical centre. Spanning the centuries, from the Antiquity to 2013 nomination as European Cultural Capital, the visit intensely displays the new feature of the city."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Marseille aujourd'hui, en route vers le Mucem \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Quai des Belges",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "\nMétro Vieux Port ligne 1 - Métro Noalles Ligne 2, Tram ligne 3",
+        "libelleEn" : "\nMétro ligne 1 La Rose- La Fourragère/ Arrêt Vieux-Port (sortie Vieux-Port)"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374250, 43.295700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nPrérequis :\nParcours pédestre\nInformations importantes :\nParcours extérieur\n\nCGV spécifiques au contexte Covid : si le participant doit annuler sa visite moins de 48h avant la visite parce qu'il est positif au covid (pas cas contact), nous acceptons un report dans les 6 mois (test positif à l'appui).",
+      "libelleEn" : "\nRequirements:\nWalking tour\nImportant information:\nBooking is mandatory (limited places are available)\n\nPets are forbidden (except assistant dog)\n\nSpecific GTO during COVID: if the participant must cancel their visit less than 48 hours before the visit because of a positive test to Covid (not just contact case), we propose a report of the visit in the next 6 months (with proof of a positive test)"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716870,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716870
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Les entrées aux sites/monuments.",
+      "libelleEn" : "Included: Visit included in the 72h Pass\nNot included: Entrance fees to sites and museums not included\n\nBuggies and trolleys not authorised\n\nPets and dogs not authorised (except guide dogs)."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Compris dans le City pass Marseille\nNon compris : Les entrées aux sites/monuments",
+      "libelleEn" : "Included: Visit included in the 72h Pass\nNot included: Entrance fees to sites and museums not included\n\nBuggies and trolleys not authorised\n\nPets and dogs not authorised (except guide dogs)"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915463,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993268,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/promenade-architecturale-du-vieux-port-au-mucem"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813258,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/233/15198523.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/233/15198523-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/233/15198523-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/233/15198523-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e0f03a06770c312648604-cropped600-400",
+      "taille" : 55008,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:54.799+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813259,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/233/15198524.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/233/15198524-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/233/15198524-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/60/233/15198524-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e3444442c0a7509633910-cropped600-400",
+      "taille" : 75349,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:55.634+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813260,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/233/15198525.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/233/15198525-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/233/15198525-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/233/15198525-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c8b300516436775631-cropped600-400",
+      "taille" : 93409,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:55.900+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813261,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/233/15198526.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/233/15198526-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/233/15198526-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/233/15198526-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ef9c8d0c7122159078499-cropped600-400",
+      "taille" : 128725,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:55.064+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813262,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/233/15198527.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/233/15198527-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/233/15198527-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/233/15198527-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f8998013aa78036045677-cropped600-400",
+      "taille" : 85835,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:55.370+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813263,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/233/15198528.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/233/15198528-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/233/15198528-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/64/233/15198528-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f899818c5114161957337-cropped600-400",
+      "taille" : 106444,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:56.196+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813264,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "legende" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "copyright" : {
+      "libelleFr" : "Marseille aujourd’hui, en route vers le Mucem",
+      "libelleEn" : "Marseille Today, The Road to the Mucem"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/233/15198529.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/233/15198529-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/233/15198529-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/233/15198529-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f89983ac3db2968598243-cropped600-400",
+      "taille" : 90554,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:18:56.498+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "128652",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-137842",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

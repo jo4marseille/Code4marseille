@@ -1,0 +1,330 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6059629,
+  "nom" : {
+    "libelleFr" : "DJ et dîner au Domaine d'Aix"
+  },
+  "identifier" : "SITRA2_EVE_6059629",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-15T14:08:00.699+0000",
+    "dateModification" : "2022-03-16T08:02:46.125+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70500676,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 87 89 92 29"
+      }
+    }, {
+      "identifiant" : 91421017,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.domaine-aix.com/"
+      }
+    }, {
+      "identifiant" : 70500679,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/domainedaix13100"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5220826
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Toute l'année, du jeudi soir au samedi soir le Domaine d’Aix vous convie à ses dîners festifs !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Chaque semaine, un groupe de musique se produit en live pour vous régaler le temps de votre afterwork et dîner.\r\n\r\nParking disponible et gratuit.\r\nTenue correcte exigée."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    }, {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6533
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Domaine d'Aix",
+      "adresse1" : "2530 Chemin D'Eguilles",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.391971, 43.561723 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5577036
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jeudis, vendredis et samedis de 19h à 2h.",
+      "libelleEn" : "From 01/01 to 31/12/2022, every Thursday, Friday and Saturday between 7 pm and 2 am.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los jueves, viernes y sábados de 19 a 2.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, tutti i giovedì, venerdì e sabati dalle 19 alle 2.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, jeden Donnerstag, Freitag und Samstag von 19 Uhr bis 2 Uhr.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, elke donderdag, vrijdag en zaterdag van 19.00 tot en met 2.00 u.",
+      "libelleRu" : "С 01/01 до 31/12/2022, каждый четверги, пятницы и субботы с 19h до 2h.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 每星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todas as quintas-feiras, sextas-feiras e sábados de 19h a  2h.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎木曜日, 金曜日 と 土曜日 7 午後 と 2 午前 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22904638,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "19:00:00",
+      "horaireFermeture" : "02:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 22908747
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6361096,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5220826
+      },
+      "nom" : "Le Domaine d'Aix",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70500676,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "07 87 89 92 29"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 19502599,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Marine",
+    "prenom" : "Boscq",
+    "titre" : {
+      "libelleFr" : "commercial"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 90757209,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "commercial.domainedaix@gmail.com"
+      }
+    }, {
+      "identifiant" : 90757214,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 58 36 76 58"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 12692316,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Domaine d'Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/154/12884727.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/154/12884727-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/154/12884727-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/247/154/12884727-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "domaine aix",
+      "taille" : 264477,
+      "hauteur" : 1279,
+      "largeur" : 1118,
+      "lastModifiedDate" : "2022-03-15T14:23:42.652+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-13", "2022-10-14", "2022-10-15", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-27", "2022-10-28", "2022-10-29", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-24", "2022-11-25", "2022-11-26", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2121
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2137
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2139
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2228
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2240
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 3815
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 5543
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Le Domaine d'Aix"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

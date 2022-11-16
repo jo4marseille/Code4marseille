@@ -1,0 +1,653 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537927,
+  "nom" : {
+    "libelleFr" : "Carrières des Lumières",
+    "libelleEn" : "Carrières des Lumières",
+    "libelleEs" : "Carrières des Lumières",
+    "libelleIt" : "Carrières des Lumières",
+    "libelleDe" : "Carrières des Lumières",
+    "libelleNl" : "Carrières des Lumières"
+  },
+  "identifier" : "SITRA2_PCU_5537927",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:59:24.331+0000",
+    "dateModification" : "2022-11-03T10:03:59.230+0000",
+    "dateExportModification" : "2022-11-08T15:37:20.144+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Baux de Provence",
+      "dateCreation" : "2020-09-25T06:26:38.958+0000",
+      "dateModification" : "2022-10-24T08:49:44.523+0000",
+      "id" : 2087,
+      "siteWeb" : "http://www.lesbauxdeprovence.com"
+    },
+    "signalerUnProblemeMails" : [ "bernadettebrummelhuis@lesbauxdeprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627206,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 20 02"
+      }
+    }, {
+      "identifiant" : 79627207,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "message@carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 79627208,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "groupes@carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 79627209,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.carrieres-lumieres.com"
+      }
+    }, {
+      "identifiant" : 88078571,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/CarrieresDeLumieres"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "99757681400047",
+      "codeApeNaf" : "923F"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5222913
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Au cœur des Alpilles dans le village des Baux-de-Provence, les monumentales Carrières de Lumières de 14 mètres de haut accueillent des spectacles multimédia uniques au monde."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Chaque année un grand spectacle inédit est proposé présentant les plus grands noms de l'Histoire de l'Art. Ces spectacles sont projetés sur les immenses parois de 14 mètres de haut, les piliers et les sols de la carrière et vous transporte en musique dans les mondes colorés. Une nouvelle mise en lumière des Carrières vous fait découvrir le caractère unique et insolite du lieu et révèle sa beauté minérale.\r\n\r\nUn équipement Multimédia unique en France : Les Carrières de Lumières bénéficient d'un équipement et de procédés à la pointe de la technologie"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Route des Carrières - D27",
+      "codePostal" : "13520",
+      "bureauDistribution" : "LES BAUX DE PROVENCE",
+      "commune" : {
+        "id" : 4422
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "A 400 mètres du village sur la route de Maillane."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.796734, 43.748576 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4422
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 5592
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 916
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 691
+    } ],
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "languesDocumentation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking public(Route de Maillane, gratuit)\r\nParking autocar(Gratuit)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    },
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3653
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 509
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ],
+    "tailleGroupeMin" : 20
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 04/03/2022 au 02/01/2023, tous les jours.\nMai / Juin / Septembre / Octobre de 9h30 à 19h. Juillet & Août de 9h à 19h30. \r\nNovembre / Décembre / Janvier de 10h à 18h.\r\nDernière entrée 1 heure avant la fermeture.",
+      "libelleEn" : "From 04/03/2022 to 02/01/2023, daily.",
+      "libelleEs" : "Del 04/03/2022 al 02/01/2023, todos los dias.",
+      "libelleIt" : "Dal 04/03/2022 al 02/01/2023, ogni giorno.",
+      "libelleDe" : "Vom 04/03/2022 bis 02/01/2023, täglich.",
+      "libelleNl" : "Van 04/03/2022 tot en met 02/01/2023, iedere dag.",
+      "libelleRu" : "С 04/03/2022 до 02/01/2023, ежедневно.",
+      "libelleZh" : "从 2022年3月4日 到 2023年1月2日, 日常.",
+      "libellePtBR" : "De 04/03/2022 a 02/01/2023, todos os dias.",
+      "libelleJa" : "04/03/2022 から 02/01/2023 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19884533,
+      "dateDebut" : "2022-03-04",
+      "dateFin" : "2023-01-02",
+      "complementHoraire" : {
+        "libelleFr" : "Mai / Juin / Septembre / Octobre de 9h30 à 19h. Juillet & Août de 9h à 19h30. \r\nNovembre / Décembre / Janvier de 10h à 18h.\r\nDernière entrée 1 heure avant la fermeture."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24686090
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 14,50 €\nTarif réduit : 12 € (Étudiants, demandeurs d'emploi, enseignants)\nAdulte : 13,50 € (Seniors + 65 ans)\nEnfant  : 12 €\nFamille nombreuse : 41 € (2 adultes et 2 enfants - soit le 2ème enfant gratuit)\nGroupe adultes : 12 € (de 20 à 50 participants)\nGroupe enfants  : 7,50 € (groupes scolaire de 20 à 50 participants - âge minimum 6 ans conseillé).\n\n Gratuit pour les moins de 7 ans.\n Tarif enfant accordé aux 7 - 25 ans.\n Tarif groupe à partir de 20 personnes.",
+      "libelleEn" : "Full price: 14.50 €\nReduced price: 12 €\nAdult: 13.50 €\nChild : 12 €\nLarge family: 41 €\nGroup adults: 12 €\nGroup children : 7.50 €.\n\n Free entry for children < 7 years.\n Child entry valid for 7 - 25 years.\n Group rate available for > 20 people.",
+      "libelleEs" : "Tarifa completa: 14,50 €\nPrecio reducido: 12 €\nAdulto: 13,50 €\nNiño : 12 €\nFamilia numerosa: 41 €\nGrupo adultos: 12 €\nGrupo niños : 7,50 €.\n\n Gratuito para los niños menores de 7 años.\n Tarifa niño concedida a los 7 - 25 años.\n Tarifa grupo a partir de 20 personas.",
+      "libelleIt" : "Tarrifa intera: 14,50 €\nPrezzo ridotto: 12 €\nAdulto: 13,50 €\nBambino : 12 €\nFamiglia numerosa: 41 €\nGruppo adulti: 12 €\nGruppo bambini : 7,50 €.\n\n Gratuito per i bambini di età inferiore a 7 anni.\n Tariffa bambini tra 7 e 25 anni.\n Tariffa gruppi a partire da 20 persone.",
+      "libelleDe" : "Voller Preis: 14,50 €\nReduzierter Preis: 12 €\nErwachsene: 13,50 €\nKinder : 12 €\nKinderreiche Familie: 41 €\nErwachsene Gruppe: 12 €\nKinder Gruppenkarte : 7,50 €.\n\n Kostenlos für Kinder unter 7 Jahren.\n Tarif Kinder von 7 - 25 Jahren.\n Gruppentarif ab 20 Personen.",
+      "libelleNl" : "Vol tarief: € 14,50\nKorting: € 12\nVolwassene: € 13,50\nKind : € 12\nGrote gezinnen: € 41\nGroep volwassenen: € 12\nGroep kinderen : € 7,50.\n\n Gratis voor kinderen onder de 7 jaar.\n Kindertarief voor 7 - 25 jaar.\n Groepstarief vanaf 20 personen.",
+      "libelleRu" : "Полную цену : 14,50 €\nСниженная цена : 12 €\nВзрослый : 13,50 €\nРебенок  : 12 €\nМногодетная семья : 41 €\nГруппа взрослых : 12 €\nДетская группа  : 7,50 €.\n\n Бесплатно для лицам младше 7 лет.\n Детский тариф предоставляется до 7 - 25 лет.\n Групповой тариф, начиная с 20 человек.",
+      "libelleZh" : "全额 : 14.50 €\n减价 : 12 €\n成人 : 13.50 €\n儿童  : 12 €\n大家庭 : 41 €\n成人团体 : 12 €\n儿童团体  : 7.50 €.\n\n 儿童 < 7 岁自由进入.\n 儿童票适用年龄 7 - 25 岁.\n 团队价格适用于 20 人以上.",
+      "libellePtBR" : "Tarifa inteira: 14,50 €\nPreço reduzido: 12 €\nAdulto: 13,50 €\nCriança : 12 €\nFamília grande: 41 €\nGrupo de adultos: 12 €\nGrupo de crianças : 7,50 €.\n\n Gratuito para menores de 7 anos.\n Tarifa infantil acordada para aqueles entre 7 e 25 anos.\n Tarifa de grupo a partir de 20 pessoas.",
+      "libelleJa" : "通常料金: 14.50 €\n割引料金: 12 €\n大人: 13.50 €\n子供 : 12 €\n大家族: 41 €\n大人 グループ: 12 €\n子供 グループ : 7.50 €.\n\n 子供 < 7 歳 は入場無料.\n 7 - 25 歳の子供は入場可.\n 団体料金利用可 > 20 人."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : { },
+    "periodes" : [ {
+      "identifiant" : 11990243,
+      "dateDebut" : "2022-03-04",
+      "dateFin" : "2023-01-02",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 14.50,
+        "maximum" : 14.50,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5250
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "Étudiants, demandeurs d'emploi, enseignants"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5251
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 13.50,
+        "maximum" : 13.50,
+        "precisionTarif" : {
+          "libelleFr" : "Seniors + 65 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1750
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1751
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 41.00,
+        "maximum" : 41.00,
+        "precisionTarif" : {
+          "libelleFr" : "2 adultes et 2 enfants - soit le 2ème enfant gratuit"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4129
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "maximum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "de 20 à 50 participants"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1748
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 7.50,
+        "maximum" : 7.50,
+        "precisionTarif" : {
+          "libelleFr" : "groupes scolaire de 20 à 50 participants - âge minimum 6 ans conseillé"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1749
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1281
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1284
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "gratuitPourLesMoinsDe" : 7,
+      "conditionEnfantAgeMin" : 7,
+      "conditionEnfantAgeMax" : 25
+    }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5728972,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5222913
+      },
+      "nom" : "Carrières des Lumières",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70512298,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "http://www.carrieres-lumieres.com"
+        }
+      }, {
+        "identifiant" : 70512296,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "groupes@carrieres-lumieres.com"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636364,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DEVIC",
+    "prenom" : "Etienne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81745420,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 86 36 77 13"
+      }
+    }, {
+      "identifiant" : 81745421,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "etienne.devic@carrieres-lumieres.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17636365,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "HARDOUIN",
+    "prenom" : "Elise",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 471
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81745422,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 49 20 03"
+      }
+    }, {
+      "identifiant" : 81745423,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "elise.hardouin@carrieres-lumieres.com"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8974250,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Carrieres de lumieres"
+    },
+    "legende" : {
+      "libelleFr" : "Carrieres de lumieres"
+    },
+    "copyright" : {
+      "libelleFr" : "©carrieresdelumieres"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/93/8740146.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/93/8740146-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/93/8740146-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/93/8740146-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "8 exterieur ©virginieovessian",
+      "taille" : 1045340,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2020-10-27T08:05:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8490453,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000666_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "culturespaces"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/7/8259497.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/7/8259497-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/7/8259497-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/169/7/8259497-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 659111,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:41:37.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13332020,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "legende" : {
+      "libelleFr" : "Venise, la Sérénissime"
+    },
+    "copyright" : {
+      "libelleFr" : "culturespaces-nuit-de-Chine-Venise-web"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/7/13502405.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/7/13502405-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/7/13502405-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/197/7/13502405-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "culturespaces-nuit-de-Chine-Venise-web",
+      "taille" : 4012958,
+      "hauteur" : 2422,
+      "largeur" : 3543,
+      "lastModifiedDate" : "2022-06-25T13:59:43.258+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13332026,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Yves Klein, l'infini bleu"
+    },
+    "legende" : {
+      "libelleFr" : "Yves Klein, l'infini bleu"
+    },
+    "copyright" : {
+      "libelleFr" : "Klein ©CulturespacesCutback"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/7/13502411.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/7/13502411-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/7/13502411-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/7/13502411-diaporama.png",
+      "extension" : "png",
+      "fileName" : "2 Klein ©CulturespacesCutback",
+      "taille" : 10338686,
+      "hauteur" : 2160,
+      "largeur" : 3840,
+      "lastModifiedDate" : "2022-06-25T13:59:45.362+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "nombreSallesReunionEquipees" : 5,
+    "capaciteMaxAccueil" : 800
+  },
+  "visites" : {
+    "languesPanneauInformation" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "visitable" : true,
+    "dureeMoyenneVisiteIndividuelle" : 60,
+    "prestationsVisitesIndividuelles" : [ {
+      "elementReferenceType" : "PrestationVisiteIndividuelle",
+      "id" : 480
+    } ]
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 392
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31", "2023-01-01", "2023-01-02" ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3201
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3393
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3419
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3451
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-01-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000666"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Les Baux de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.lesbauxdeprovence.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.5,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 9315,
+        "dateMaj" : 1667919166519
+      }
+    } ]
+  } ]
+}

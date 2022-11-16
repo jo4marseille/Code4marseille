@@ -1,0 +1,394 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5862459,
+  "nom" : {
+    "libelleFr" : "Le Panier : Premier village de Marseille"
+  },
+  "identifier" : "SITRA2_EVE_5862459",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-06T10:53:55.878+0000",
+    "dateModification" : "2022-11-08T09:20:39.262+0000",
+    "dateExportModification" : "2022-11-08T23:12:46.784+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816809,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 6 62 19 48 39"
+      }
+    }, {
+      "identifiant" : 97816810,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sanchorio@free.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5584533
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5584533
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Promenades Urbaines dans le Panier : premier Village de Marseille. Le comédien/tchatcheur Jean Marie A. Sanchez vous propose de sortir des chemins balisés et de croiser les regards : entre vie de village et réflexion philosophique sur l'usage de…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les Promenades Urbaines.\n\nUne Promenade Urbaine, c'est un instant suspendu, une approche différente et curieuse de la ville qui mêle tourisme, théâtre, découverte et réflexion philosophique.\n\nUne Promenade Urbaine c'est poétique, littéraire durant 3 heures dans le dédale des ruelles, des escaliers et des impasses d'un quartier mythique, propice à la découverte, à l'émotion, à la réflexion.\n\nJean Marie Arnaud Sanchez, comédien tchatcheur, amoureux des mots de G. Perec, combine lieux historiques de Marseille, réflexions sur l'espace et textes incisifs de l'écrivain célèbre, entre autre, pour son regard urbain. Parcourir l’espace, l’espace d’un moment, Voir ce que l’on ne voit plus, la rue, le passant, le détail qui fait sourire, la perspective, les passages matérialisés… Voir ce que l'on ne sait plus voir, ce que l'on a toujours rêvé de voir.\n\nUne Promenade Urbaine, c'est aussi, un peu, comme une Visité Guidée de l'espace qui nous entoure et qu'on ne regarde plus.\n\nA Marseille, il y a 2 Promenades Urbaines : Le Panier, Premier village de Marseille &amp; L'Estaque, un village aux confins."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Le Panier : premier village de Marseille\" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 La Canebière",
+      "codePostal" : "13001",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "C'est tout à côté du Vieux-Port. Bâtiment du Club Pernod Ricard.\nLigne 1 Vieux-Port Hôtel de Ville\nParkings souterrains : Q-Park, Place Jules Verne 13002 ou Place aux Huiles 13001"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374570, 43.295600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4546
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nAttention beaucoup d'escaliers, de montées et de descentes : difficile en fauteuil, poussette, enfants en bas âge, cannes, béquilles... mais pas impossible !! Déconseillé aux enfants de moins de 10 ans."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716821,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716821
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915419,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5584533
+      },
+      "nom" : "Jean-Marie Arnaud Sanchez",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993121,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/le-panier-premier-villages-de-marseille"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813122,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/232/15198387.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/232/15198387-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/232/15198387-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/232/15198387-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-604a35e5a493c049649883-cropped600-400",
+      "taille" : 132242,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:39.558+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813123,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/232/15198388.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/232/15198388-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/232/15198388-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/180/232/15198388-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-604a35f7118bc667970093-cropped600-400",
+      "taille" : 134436,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:40.495+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813124,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/232/15198389.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/232/15198389-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/232/15198389-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/232/15198389-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-604a3610640ee947244792-cropped600-400",
+      "taille" : 89311,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:40.854+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813125,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/232/15198390.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/232/15198390-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/232/15198390-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/232/15198390-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-604a363f8a541161317129-cropped600-400",
+      "taille" : 58274,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:39.842+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813126,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Panier : Premier village de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/232/15198391.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/232/15198391-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/232/15198391-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/232/15198391-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-604a364d7089d980442225-cropped600-400",
+      "taille" : 117344,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:40.178+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.6,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 61,
+        "dateMaj" : 1667556814122
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "169378",
+        "product_supplier_id" : "32317",
+        "sku" : "T-RI10-182276",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

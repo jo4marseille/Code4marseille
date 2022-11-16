@@ -1,0 +1,457 @@
+{
+  "type" : "EQUIPEMENT",
+  "id" : 5540460,
+  "nom" : {
+    "libelleFr" : "Bibliothèque municipale Bernard Monge",
+    "libelleEn" : "Bibliothèque municipale Bernard Monge",
+    "libelleEs" : "Bibliothèque municipale Bernard Monge",
+    "libelleIt" : "Bibliothèque municipale Bernard Monge",
+    "libelleDe" : "Bibliothèque municipale Bernard Monge",
+    "libelleNl" : "Bibliothèque municipale Bernard Monge"
+  },
+  "identifier" : "SITRA2_LOI_5540460",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-28T08:33:23.653+0000",
+    "dateModification" : "2022-04-30T09:39:19.206+0000",
+    "dateExportModification" : "2022-04-30T09:39:22.085+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Maison du Tourisme d'Allauch",
+      "dateCreation" : "2020-10-14T08:22:33.130+0000",
+      "dateModification" : "2022-10-24T08:49:33.880+0000",
+      "id" : 2104,
+      "siteWeb" : "https://tourisme.allauch.com"
+    },
+    "signalerUnProblemeMails" : [ "c.blin@allauch.com", "f.garzino@allauch.com", "g.geffroy@allauch.com", "s.liffaud@allauch.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79733842,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 10 49 30"
+      }
+    }, {
+      "identifiant" : 79733843,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bibliotheque@allauch.com"
+      }
+    }, {
+      "identifiant" : 79733844,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://biblio.allauch.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5488471
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Créée en 1982, la Bibliothèque municipale Bernard Monge a pour mission de favoriser l'accès du public à l'écrit, à l'image, au son, aux technologies de l'information et de la communication."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La bibliothèque est un lieu de loisirs et de détente pour le public. Elle participe au développement culturel, à la diffusion de l'information, à la recherche, à la formation, à l'éducation et à la culture de tous, en respectant la diversité des goûts et des choix.\r\nLa Bibliothèque mène régulièrement des actions d'animation autour des livres et de la lecture, de la création, du numérique et des jeux vidéo : rencontres avec des auteurs, ateliers d'écriture, le coin des P'tits bouts (réservé aux 0-3 ans), Raconte-moi une histoire... (réservé aux 3-7 ans), séances de jeux vidéo, la \" Nuit de la Lecture \", festival de BD \" Bulles électriques \", concours de dessin...\r\n\r\nRégulièrement, de nouvelles acquisitions viennent enrichir le catalogue de la bibliothèque en respectant une pluralité des collections (romans, documentaires, albums, livres, livres audio, bandes dessinées, dvd, cd)."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Biblio Drive :\r\n\"Des prêts à emporter\" sur rdv :\r\nLundi : 10h à 12h\r\nMardi : 13h30 à 18h\r\nMercredi : 10h à 12h / 13h30 à 18h\r\nVendredi : 10h à 12h\r\nSamedi : 10h à 13h\r\n\r\n1) Faites votre choix et réservez vos documents sur le site de la bibliothèque : http://biblio.allauch.com (pour vous connecter à votre compte : numéro de carte + année de naissance)\r\nOu envoyez votre commande par mail en notant les références des ouvrages, votre nom et le numéro de votre carte abonné.\r\nOu par téléphone (pour ceux qui n'ont pas internet) au 04 91 10 49 30.\r\n2) Vous serez notifié par mail ou par téléphone de la disponibilité de votre commande, vous recevrez des propositions de rendez-vous.\r\n3) Venez retirer votre commande à la date convenue à l'entrée de la bibliothèque municipale muni d'un sac (n'oubliez pas votre attestation).\r\n4) Les retours des documents se font par la boîte de retour 24h/24 et 7j/7.\r\n\r\nPour votre sécurité, tous les documents sont désinfectés et respectent une période de quarantaine."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Bibliothèque municipale Bernard Monge, rue Fernand Rambert",
+      "codePostal" : "13190",
+      "bureauDistribution" : "ALLAUCH",
+      "commune" : {
+        "id" : 4413
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.482730, 43.334719 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4413
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1126
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 582
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 696
+    }, {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 726
+    } ],
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 3652
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 596
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3729
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3896
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3897
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3899
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 5078
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 5079
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 30/06.\nFermé le vendredi.\nFermetures exceptionnelles les 1er janvier, Lundi de Pâques, Jeudi de l'Ascension, Lundi de Pentecôte, 1er mai et 8 mai.\nOuvert le lundi de 10h à 12h, le mardi de 10h  à 12h et de 13h30 à 18h, le mercredi de 10h à 12h et de 13h30 à 18h, le jeudi de 10h à 12h et de 13h30 à 17h, le samedi de 10h à 12h et de 13h30 à 17h.\n\nDu 01/07 au 31/08, tous les mardis, mercredis et jeudis.\nFermetures exceptionnelles les 14 juillet et 15 août.\nOuvert le mardi de 13h30 à 18h, le mercredi de 9h à12h et de 13h30 à 18h, le jeudi de 9h à 12h30 et de 13h30 à 17h.\n\nDu 01/09 au 31/12.\nFermé le vendredi.\nFermetures exceptionnelles les 1er novembre, 11 novembre et 25 décembre.\nOuvert le lundi de 10h à 12h, le mardi de 10h  à 12h et de 13h30 à 18h, le mercredi de 10h à 12h et de 13h30 à 18h, le jeudi de 10h à 12h et de 13h30 à 17h, le samedi de 10h à 12h et de 13h30 à 17h.",
+      "libelleEn" : "From 01/01 to 30/06.\nClosed on Friday.\nClosed exceptionally on January 1st, Easter Monday, Feast of the Ascension, Whit Monday, May 1st and May 8th.\n\nFrom 01/07 to 31/08, every Tuesday, Wednesday and Thursday.\nClosed exceptionally on July 14th and August 15th.\n\nFrom 01/09 to 31/12.\nClosed on Friday.\nClosed exceptionally on November 1st, November 11th and December 25th.",
+      "libelleEs" : "Del 01/01 al 30/06.\nCerrado los viernes.\nSe cierra, excepcionalmente los días 1er de enero, lunes de Pascua, Ascension, lunes de Pentecostés, 1er de mayo y 8 de mayo.\n\nDel 01/07 al 31/08, todos los martes, miércoles y jueves.\nSe cierra, excepcionalmente los días 14 de julio y 15 de agosto.\n\nDel 01/09 al 31/12.\nCerrado los viernes.\nSe cierra, excepcionalmente los días 1er de noviembre, 11 de noviembre y 25 de diciembre.",
+      "libelleIt" : "Dal 01/01 al 30/06.\nChiuso il venerdì.\nChiusura eccezionale 1° gennaio, Lunedì di Pasqua, Ascensione, Lunedì di Pentecoste, 1° maggio e 8 maggio.\n\nDal 01/07 al 31/08, tutti i martedì, mercoledì e giovedì.\nChiusura eccezionale 14 luglio e 15 agosto.\n\nDal 01/09 al 31/12.\nChiuso il venerdì.\nChiusura eccezionale 1° novembre, 11 novembre e 25 dicembre.",
+      "libelleDe" : "Vom 01/01 bis 30/06.\nFreitag geschlossen.\nAusnahmsweise geschlossen am 1. Januar, Ostermontag, Himmelfahrt, Pfingstmontag, 1. Mai und 8. Mai.\n\nVom 01/07 bis 31/08, jeden Dienstag, Mittwoch und Donnerstag.\nAusnahmsweise geschlossen am 14. Juli und 15. August.\n\nVom 01/09 bis 31/12.\nFreitag geschlossen.\nAusnahmsweise geschlossen am 1. November, 11. Dezember und 25. Dezember.",
+      "libelleNl" : "Van 01/01 tot en met 30/06.\nVrijdag gesloten.\nBij uitzondering gesloten op 1 januari, Paasmaandag, Hemelvaartsdag, Tweede Pinksterdag, 1 mei en 8 mei.\n\nVan 01/07 tot en met 31/08, elke dinsdag, woensdag en donderdag.\nBij uitzondering gesloten op 14 juli en 15 augustus.\n\nVan 01/09 tot en met 31/12.\nVrijdag gesloten.\nBij uitzondering gesloten op 1er november, 11 november en 25 december.",
+      "libelleRu" : "С 01/01 до 30/06.\nНе работает пятница.\nВ порядке исключения не работает 1 января, Пасхальный понедельник, Вознесение, Духов день, 1 мая и 8 мая.\n\nС 01/07 до 31/08, каждый вторники, среды и четверги.\nВ порядке исключения не работает 14 июля и 15 августа.\n\nС 01/09 до 31/12.\nНе работает пятница.\nВ порядке исключения не работает 1 ноября, 11 ноября и 25 декабря.",
+      "libelleZh" : "从 1月1日 到 6月30日.\n星期五 关闭.\n在 1月1日, 复活节星期一, 耶稣升天节, 圣灵降临节, 5月1日 和 5月8日 例外关闭.\n\n从 7月1日 到 8月31日, 每星期二, 星期三 和 星期四.\n在 7月14日 和 8月15日 例外关闭.\n\n从 9月1日 到 12月31日.\n星期五 关闭.\n在 11月1日, 11月11日 和 12月25日 例外关闭.",
+      "libellePtBR" : "De 01/01 a 30/06.\nFechado em sexta-feira.\nFechamentos excepcionais em 1º de janeiro, Páscoa, Ascensão de Nossa Senhora, Pentecostes, 1º de maio e 8 de maio.\n\nDe 01/07 a 31/08, todas as terças-feiras, quartas-feiras e quintas-feiras.\nFechamentos excepcionais em 14 de julho e 15 de agosto.\n\nDe 01/09 a 31/12.\nFechado em sexta-feira.\nFechamentos excepcionais em 1º de novembro, 11 de novembro e 25 de dezembro.",
+      "libelleJa" : "01/01 から 30/06 まで.\n金曜日 は休み.\n1月1日, イースターマンデー, キリストの昇天, 聖霊降臨節の月曜日, 5月1日 と 5月8日 は特別休業.\n\n01/07 から 31/08 まで, 毎火曜日, 水曜日 と 木曜日.\n7月14日 と 8月15日 は特別休業.\n\n01/09 から 31/12 まで.\n金曜日 は休み.\n11月1日, 11月11日 と 12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19951569,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-06-30",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert le lundi de 10h à 12h, le mardi de 10h  à 12h et de 13h30 à 18h, le mercredi de 10h à 12h et de 13h30 à 18h, le jeudi de 10h à 12h et de 13h30 à 17h, le samedi de 10h à 12h et de 13h30 à 17h."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 23225077
+    }, {
+      "identifiant" : 20000841,
+      "dateDebut" : "2021-07-01",
+      "dateFin" : "2021-08-31",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert le mardi de 13h30 à 18h, le mercredi de 9h à12h et de 13h30 à 18h, le jeudi de 9h à 12h30 et de 13h30 à 17h"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 23225078
+    }, {
+      "identifiant" : 20000822,
+      "dateDebut" : "2021-09-01",
+      "dateFin" : "2021-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Ouvert le lundi de 10h à 12h, le mardi de 10h  à 12h et de 13h30 à 18h, le mercredi de 10h à 12h et de 13h30 à 18h, le jeudi de 10h à 12h et de 13h30 à 17h, le samedi de 10h à 12h et de 13h30 à 17h."
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 23225079
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "LUNDI_PAQUES"
+    }, {
+      "dateSpeciale" : "ASCENSION"
+    }, {
+      "dateSpeciale" : "LUNDI_PENTECOTE"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "HUIT_MAI"
+    }, {
+      "dateSpeciale" : "QUATORZE_JUILLET"
+    }, {
+      "dateSpeciale" : "QUINZE_AOUT"
+    }, {
+      "dateSpeciale" : "PREMIER_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "ONZE_NOVEMBRE"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Du 01/01 au 30/06/2022.\n\nDu 01/07 au 31/08/2022.\n\nDu 01/09 au 31/12/2022.\n",
+      "libelleEn" : "From 01/01 to 30/06/2022.\n\nFrom 01/07 to 31/08/2022.\n\nFrom 01/09 to 31/12/2022.\n",
+      "libelleEs" : "Del 01/01 al 30/06/2022.\n\nDel 01/07 al 31/08/2022.\n\nDel 01/09 al 31/12/2022.\n",
+      "libelleIt" : "Dal 01/01 al 30/06/2022.\n\nDal 01/07 al 31/08/2022.\n\nDal 01/09 al 31/12/2022.\n",
+      "libelleDe" : "Vom 01/01 bis 30/06/2022.\n\nVom 01/07 bis 31/08/2022.\n\nVom 01/09 bis 31/12/2022.\n",
+      "libelleNl" : "Van 01/01 tot en met 30/06/2022.\n\nVan 01/07 tot en met 31/08/2022.\n\nVan 01/09 tot en met 31/12/2022.\n",
+      "libelleRu" : "С 01/01 до 30/06/2022.\n\nС 01/07 до 31/08/2022.\n\nС 01/09 до 31/12/2022.\n",
+      "libelleZh" : "从 1月1日 到 2022年6月30日.\n\n从 7月1日 到 2022年8月31日.\n\n从 9月1日 到 2022年12月31日.\n",
+      "libellePtBR" : "De 01/01 a 30/06/2022.\n\nDe 01/07 a 31/08/2022.\n\nDe 01/09 a 31/12/2022.\n",
+      "libelleJa" : "01/01 から 30/06/2022 まで.\n\n01/07 から 31/08/2022 まで.\n\n01/09 から 31/12/2022 まで.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 11517754,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-06-30"
+    }, {
+      "identifiant" : 12818530,
+      "dateDebut" : "2022-07-01",
+      "dateFin" : "2022-08-31"
+    }, {
+      "identifiant" : 12818534,
+      "dateDebut" : "2022-09-01",
+      "dateFin" : "2022-12-31"
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 12902265,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bibliothèque Bernard Monge"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/189/13090193.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/189/13090193-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/189/13090193-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/189/13090193-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 556119,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-04-30T09:39:21.313+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12902267,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bibliothèque Bernard Monge"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/189/13090195.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/189/13090195-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/189/13090195-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/189/13090195-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 625962,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-04-30T09:39:19.355+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12902268,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bibliothèque Bernard Monge"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/189/13090196.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/189/13090196-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/189/13090196-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/148/189/13090196-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 443576,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-04-30T09:39:19.995+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 12902269,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Bibliothèque Bernard Monge"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/189/13090197.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/189/13090197-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/189/13090197-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/189/13090197-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 759139,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-04-30T09:39:20.607+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-07", "2023-01-08", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-14", "2023-01-15", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-21", "2023-01-22", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-28", "2023-01-29", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-04", "2023-02-05", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-11", "2023-02-12", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-18", "2023-02-19", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-25", "2023-02-26", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-04", "2023-03-05", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-11", "2023-03-12", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-18", "2023-03-19", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-25", "2023-03-26", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-04-01", "2023-04-02", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-08", "2023-04-09", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-15", "2023-04-16", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-22", "2023-04-23", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-29", "2023-04-30", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-06", "2023-05-07", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-13", "2023-05-14", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-20", "2023-05-21", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-27", "2023-05-28", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-03", "2023-06-04", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-10", "2023-06-11", "2023-06-12", "2023-06-13", "2023-06-14", "2023-06-15", "2023-06-17", "2023-06-18", "2023-06-19", "2023-06-20", "2023-06-21", "2023-06-22", "2023-06-24", "2023-06-25", "2023-06-26", "2023-06-27", "2023-06-28", "2023-06-29", "2024-01-02", "2024-01-03", "2024-01-04", "2024-01-06", "2024-01-07", "2024-01-08", "2024-01-09", "2024-01-10", "2024-01-11", "2024-01-13", "2024-01-14", "2024-01-15", "2024-01-16", "2024-01-17", "2024-01-18", "2024-01-20", "2024-01-21", "2024-01-22", "2024-01-23", "2024-01-24", "2024-01-25", "2024-01-27", "2024-01-28", "2024-01-29", "2024-01-30", "2024-01-31", "2024-02-01", "2024-02-03", "2024-02-04", "2024-02-05", "2024-02-06", "2024-02-07", "2024-02-08", "2024-02-10", "2024-02-11", "2024-02-12", "2024-02-13", "2024-02-14", "2024-02-15", "2024-02-17", "2024-02-18", "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-27", "2024-02-28", "2024-02-29", "2024-03-02", "2024-03-03", "2024-03-04", "2024-03-05", "2024-03-06", "2024-03-07", "2024-03-09", "2024-03-10", "2024-03-11", "2024-03-12", "2024-03-13", "2024-03-14", "2024-03-16", "2024-03-17", "2024-03-18", "2024-03-19", "2024-03-20", "2024-03-21", "2024-03-23", "2024-03-24", "2024-03-25", "2024-03-26", "2024-03-27", "2024-03-28", "2024-03-30", "2024-03-31", "2024-04-02", "2024-04-03", "2024-04-04", "2024-04-06", "2024-04-07", "2024-04-08", "2024-04-09", "2024-04-10", "2024-04-11", "2024-04-13", "2024-04-14", "2024-04-15", "2024-04-16", "2024-04-17", "2024-04-18", "2024-04-20", "2024-04-21", "2024-04-22", "2024-04-23", "2024-04-24", "2024-04-25", "2024-04-27", "2024-04-28", "2024-04-29", "2024-04-30", "2024-05-02", "2024-05-04", "2024-05-05", "2024-05-06", "2024-05-07", "2024-05-11", "2024-05-12", "2024-05-13", "2024-05-14", "2024-05-15", "2024-05-16", "2024-05-18", "2024-05-19", "2024-05-21", "2024-05-22", "2024-05-23", "2024-05-25", "2024-05-26", "2024-05-27", "2024-05-28", "2024-05-29", "2024-05-30", "2024-06-01", "2024-06-02", "2024-06-03", "2024-06-04", "2024-06-05", "2024-06-06", "2024-06-08", "2024-06-09", "2024-06-10", "2024-06-11", "2024-06-12", "2024-06-13", "2024-06-15", "2024-06-16", "2024-06-17", "2024-06-18", "2024-06-19", "2024-06-20", "2024-06-22", "2024-06-23", "2024-06-24", "2024-06-25", "2024-06-26", "2024-06-27", "2024-06-29", "2024-06-30", "2023-07-04", "2023-07-05", "2023-07-06", "2023-07-11", "2023-07-12", "2023-07-13", "2023-07-18", "2023-07-19", "2023-07-20", "2023-07-25", "2023-07-26", "2023-07-27", "2023-08-01", "2023-08-02", "2023-08-03", "2023-08-08", "2023-08-09", "2023-08-10", "2023-08-16", "2023-08-17", "2023-08-22", "2023-08-23", "2023-08-24", "2023-08-29", "2023-08-30", "2023-08-31", "2024-07-02", "2024-07-03", "2024-07-04", "2024-07-09", "2024-07-10", "2024-07-11", "2024-07-16", "2024-07-17", "2024-07-18", "2024-07-23", "2024-07-24", "2024-07-25", "2024-07-30", "2024-07-31", "2024-08-01", "2024-08-06", "2024-08-07", "2024-08-08", "2024-08-13", "2024-08-14", "2024-08-20", "2024-08-21", "2024-08-22", "2024-08-27", "2024-08-28", "2024-08-29", "2022-11-09", "2022-11-10", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-24", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-31", "2023-09-02", "2023-09-03", "2023-09-04", "2023-09-05", "2023-09-06", "2023-09-07", "2023-09-09", "2023-09-10", "2023-09-11", "2023-09-12", "2023-09-13", "2023-09-14", "2023-09-16", "2023-09-17", "2023-09-18", "2023-09-19", "2023-09-20", "2023-09-21", "2023-09-23", "2023-09-24", "2023-09-25", "2023-09-26", "2023-09-27", "2023-09-28", "2023-09-30", "2023-10-01", "2023-10-02", "2023-10-03", "2023-10-04", "2023-10-05", "2023-10-07", "2023-10-08", "2023-10-09", "2023-10-10", "2023-10-11", "2023-10-12", "2023-10-14", "2023-10-15", "2023-10-16", "2023-10-17", "2023-10-18", "2023-10-19", "2023-10-21", "2023-10-22", "2023-10-23", "2023-10-24", "2023-10-25", "2023-10-26", "2023-10-28", "2023-10-29", "2023-10-30", "2023-10-31", "2023-11-02", "2023-11-04", "2023-11-05", "2023-11-06", "2023-11-07", "2023-11-08", "2023-11-09", "2023-11-12", "2023-11-13", "2023-11-14", "2023-11-15", "2023-11-16", "2023-11-18", "2023-11-19", "2023-11-20", "2023-11-21", "2023-11-22", "2023-11-23", "2023-11-25", "2023-11-26", "2023-11-27", "2023-11-28", "2023-11-29", "2023-11-30", "2023-12-02", "2023-12-03", "2023-12-04", "2023-12-05", "2023-12-06", "2023-12-07", "2023-12-09", "2023-12-10", "2023-12-11", "2023-12-12", "2023-12-13", "2023-12-14", "2023-12-16", "2023-12-17", "2023-12-18", "2023-12-19", "2023-12-20", "2023-12-21", "2023-12-23", "2023-12-24", "2023-12-26", "2023-12-27", "2023-12-28", "2023-12-30", "2023-12-31", "2024-09-01", "2024-09-02", "2024-09-03", "2024-09-04", "2024-09-05", "2024-09-07", "2024-09-08", "2024-09-09", "2024-09-10", "2024-09-11", "2024-09-12", "2024-09-14", "2024-09-15", "2024-09-16", "2024-09-17", "2024-09-18", "2024-09-19", "2024-09-21", "2024-09-22", "2024-09-23", "2024-09-24", "2024-09-25", "2024-09-26", "2024-09-28", "2024-09-29", "2024-09-30", "2024-10-01", "2024-10-02", "2024-10-03", "2024-10-05", "2024-10-06", "2024-10-07", "2024-10-08", "2024-10-09", "2024-10-10", "2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-26", "2024-10-27", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-02", "2024-11-03", "2024-11-04", "2024-11-05", "2024-11-06", "2024-11-07" ],
+  "informationsEquipement" : {
+    "rubrique" : {
+      "elementReferenceType" : "EquipementRubrique",
+      "id" : 2991
+    },
+    "activites" : [ {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3344
+    }, {
+      "elementReferenceType" : "EquipementActivite",
+      "id" : 3207
+    } ],
+    "itineraire" : { }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1022989"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "Maison du Tourisme Allauch"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme.allauch.com"
+    }
+  } ]
+}

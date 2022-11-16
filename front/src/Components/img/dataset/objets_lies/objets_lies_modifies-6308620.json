@@ -1,0 +1,303 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6308620,
+  "nom" : {
+    "libelleFr" : "Arts Éphémères. Itinérance",
+    "libelleEn" : "Arts Éphémères. Itinérance",
+    "libelleEs" : "Arts Éphémères. Itinérance",
+    "libelleIt" : "Arts Éphémères. Itinérance",
+    "libelleDe" : "Arts Éphémères. Itinérance",
+    "libelleNl" : "Arts Éphémères. Itinérance",
+    "libelleRu" : "Arts Éphémères. Itinérance",
+    "libelleZh" : "Arts Éphémères. Itinérance",
+    "libellePtBR" : "Arts Éphémères. Itinérance",
+    "libelleJa" : "Arts Éphémères. Itinérance"
+  },
+  "identifier" : "SITRA2_EVE_6308620",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-25T13:11:31.615+0000",
+    "dateModification" : "2022-10-26T13:07:45.062+0000",
+    "dateExportModification" : "2022-10-26T13:07:45.270+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104535880,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 19 23 33 92"
+      }
+    }, {
+      "identifiant" : 104535881,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.arteum@gmail.com"
+      }
+    }, {
+      "identifiant" : 104535882,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mac-arteum.com"
+      }
+    }, {
+      "identifiant" : 104590755,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/macarteum"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223089
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Rafael Garcia-Lara, Laurine Schott et Olivier Jacques, Flore Saunois, Elvia Teotski, Cyril Zarcone, exposent à Châteauneuf-Le-Rouge dans le cadre des Arts Éphémères Itinérance."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les œuvres, fondues dans la nature, vous invitent à traverser le labyrinthe végétal et le parc du Château pour les découvrir.\r\n\r\nSur le thème Occurrence, ces créateurs des arts visuels et plastiques déploient leurs œuvres pour renouveler le regard porté sur l’espace contraint du jardin. Libre cours est laissé à l’imagination des artistes et des visiteurs, pour un résultat toujours étonnant.\r\n\r\nVenez découvrir tous ces changements jusqu'au samedi 17 décembre."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "MAC Arteum",
+      "adresse1" : "Le Château - Hôtel de Ville",
+      "adresse2" : "Place Auguste Baret",
+      "adresse3" : "RN7",
+      "codePostal" : "13790",
+      "commune" : {
+        "id" : 4436
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.569011, 43.489110 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4436
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538501
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Samedi 19 novembre 2022.",
+      "libelleEn" : "Saturday 19 November 2022.",
+      "libelleEs" : "Sábado, 19 de noviembre de 2022.",
+      "libelleIt" : "Sabato 19 novembre 2022.",
+      "libelleDe" : "Samstag, den 19. November 2022.",
+      "libelleNl" : "Zaterdag 19 november 2022.",
+      "libelleRu" : "Суббота 19 ноября 2022.",
+      "libelleZh" : "2022年11月19日, 星期六.",
+      "libellePtBR" : "Sábado 19 Novembro 2022.",
+      "libelleJa" : "土曜日 19 11月 2022."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24584980,
+      "dateDebut" : "2022-11-19",
+      "dateFin" : "2022-11-19",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24602141
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21486985,
+    "referent" : true,
+    "nom" : "Courbon",
+    "prenom" : "Christiane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104535883,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ch.c.direction.arteum@gmail.com"
+      }
+    }, {
+      "identifiant" : 104535884,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 19 23 33 92"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14536783,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Arteum MAC"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/79/14897015.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/79/14897015-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/79/14897015-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/79/14897015-diaporama.png",
+      "extension" : "png",
+      "fileName" : "vlcsnap-2022-10-12-16h36m44s189",
+      "taille" : 3407657,
+      "hauteur" : 1080,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2022-10-26T13:01:32.639+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 14577302,
+    "link" : true,
+    "type" : "CHAINE_YOUTUBE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.youtube.com/watch?v=UornjTQ7GAc"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14577250,
+    "link" : true,
+    "type" : "INSTAGRAM",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://www.instagram.com/arteummac/?hl=fr"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2350
+    },
+    "nomLieu" : "MAC Arteum"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

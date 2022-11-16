@@ -1,0 +1,104 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5224914,
+  "nom" : {
+    "libelleFr" : "Aqueduc romain de Traconnade",
+    "libelleEn" : "Meyrargues Aqueduct",
+    "libelleEs" : "Aqueduc de Meyrargues",
+    "libelleIt" : "Aqueduc de Meyrargues",
+    "libelleDe" : "Aqueduc de Meyrargues",
+    "libelleNl" : "Aqueduc de Meyrargues"
+  },
+  "identifier" : "SITRA2_STR_5224914",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T12:38:54.363+0000",
+    "dateModification" : "2021-01-09T16:58:36.774+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Mairie de Meyrargues",
+      "dateCreation" : "2020-11-30T10:52:00.632+0000",
+      "dateModification" : "2022-10-24T08:49:32.795+0000",
+      "id" : 2141,
+      "siteWeb" : "http://www.meyrargues.fr"
+    },
+    "signalerUnProblemeMails" : [ "bim@meyrargues.fr", "philippe.gregoire@meyrargues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70518108,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 57 50 09"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Chemin Du passage de l'étroit",
+      "codePostal" : "13650",
+      "commune" : {
+        "id" : 4470
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.533570, 43.633545 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4470
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18689817,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693855
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

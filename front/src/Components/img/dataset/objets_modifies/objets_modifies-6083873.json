@@ -1,0 +1,319 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6083873,
+  "nom" : {
+    "libelleFr" : "Sport Santé Séniors"
+  },
+  "identifier" : "SITRA2_EVE_6083873",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-04-08T09:49:19.621+0000",
+    "dateModification" : "2022-09-26T14:58:18.305+0000",
+    "dateExportModification" : "2022-09-26T14:58:18.969+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 98383448,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.marseille.fr/sports-loisirs/le-sport-%C3%A0-marseille/sport-sante-seniors"
+      }
+    }, {
+      "identifiant" : 103593549,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "3013"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468311
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Vous avez 65 ans ou plus? Venez suivre des cours adaptés pour garder la forme !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La Ville de Marseille met en place pour vous un programme gratuit d’activités physiques en plein air pour les séniors, qui vise à améliorer la qualité de vie, le bien-être et la santé de ses habitants.\r\n\r\nDes séances dure 1h30 et se décompose ainsi : une phase d'échauffement, une série d’ateliers, une phase de récupération et d'assouplissement.\r\n\r\nLes ateliers proposés peuvent être des jeux collectifs, des exercices d'adresse, du fitness avec ou sans matériel, de la marche nordique, de la danse, du renforcement musculaire,etc.\r\n\r\nLundi de 9h30 à 11h parc de la Maison Blanche (9e)\r\nLundi de 14h à 15h30 parc de la Maison Blanche (9e)\r\n\r\nMardi de 9h30 à 11h parc Longchamp (4e)\r\nMardi de 14h à 15h30 parc Bagatelle (8e)\r\n\r\nMercredi de 9h30 à 11h Espace Mistral (16e)\r\n\r\nJeudi de 9h30 à 11h parc Athena (13e)\r\nJeudi de 14h à 15h30 plage des Catalans (7e)\r\n\r\nVendredi de 9h30 à 11h parc de la Moline (12e)\r\nVendredi de 14h à 15h30 parvis de la Major (2e)\r\n\r\nLes séances sont gratuites, du lundi au vendredi (sauf jours fériés), sur inscription en appelant Allô Mairie (appel gratuit 3013)."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Marseille",
+      "adresse1" : "Rue Girardin",
+      "adresse2" : "HLM Les Bourrely  15e, stade Estaque Vernazza rue JJ Vernazza 16e",
+      "codePostal" : "13007",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4537
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.355321, 43.290639 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 4813
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 03/10/2022 au 09/06/2023.\nFermé samedi et dimanche.\nLundi de 9h30 à 11h, de 14h à 15h30 parc de la Maison Blanche\r\n\r\nMardi de 9h30 à 11h parc Longchamp \r\nMardi de 14h à 15h30 parc Bagatelle \r\n\r\nMercredi de 9h30 à 11h Espace Mistral \r\n\r\nJeudi de 9h30 à 11h parc Athena \r\nJeudi de 14h à 15h30 plage des Catalans \r\n\r\nVendredi de 9h30 à 11h parc de la Moline \r\nVendredi de 14h à 15h30 parvis de la Major.",
+      "libelleEn" : "From 03/10/2022 to 09/06/2023.\nClosed Saturday and Sunday.",
+      "libelleEs" : "Del 03/10/2022 al 09/06/2023.\nCerrado sábado y domingo.",
+      "libelleIt" : "Dal 03/10/2022 al 09/06/2023.\nChiuso sabato e domenica.",
+      "libelleDe" : "Vom 03/10/2022 bis 09/06/2023.\nSamstag und Sonntag geschlossen.",
+      "libelleNl" : "Van 03/10/2022 tot en met 09/06/2023.\nZaterdag en zondag gesloten.",
+      "libelleRu" : "С 03/10/2022 до 09/06/2023.\nНе работает суббота и воскресенье.",
+      "libelleZh" : "从 2022年10月3日 到 2023年6月9日.\n星期六 和 星期日 关闭.",
+      "libellePtBR" : "De 03/10/2022 a 09/06/2023.\nFechado em sábado e domingo.",
+      "libelleJa" : "03/10/2022 から 09/06/2023 まで.\n土曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23309120,
+      "dateDebut" : "2022-10-03",
+      "dateFin" : "2023-06-09",
+      "complementHoraire" : {
+        "libelleFr" : "Lundi de 9h30 à 11h, de 14h à 15h30 parc de la Maison Blanche\r\n\r\nMardi de 9h30 à 11h parc Longchamp \r\nMardi de 14h à 15h30 parc Bagatelle \r\n\r\nMercredi de 9h30 à 11h Espace Mistral \r\n\r\nJeudi de 9h30 à 11h parc Athena \r\nJeudi de 14h à 15h30 plage des Catalans \r\n\r\nVendredi de 9h30 à 11h parc de la Moline \r\nVendredi de 14h à 15h30 parvis de la Major"
+      },
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 24371435
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Gratuit sur inscription en téléphonant au 3013.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Gratuit sur inscription en téléphonant au 3013"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16541
+  }, {
+    "id" : 16637
+  }, {
+    "id" : 16641
+  }, {
+    "id" : 16642
+  }, {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14188480,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sport Santé Seniors Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Sport Santé Seniors Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/51/14496542.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/51/14496542-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/51/14496542-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/30/51/14496542-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Sante",
+      "taille" : 102777,
+      "hauteur" : 903,
+      "largeur" : 1250,
+      "lastModifiedDate" : "2022-09-26T14:58:18.391+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14188004,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Sport Santé Seniors Marseille"
+    },
+    "legende" : {
+      "libelleFr" : "Sport Santé Seniors Marseille"
+    },
+    "copyright" : {
+      "libelleFr" : "Ville de Marseille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/49/14496067.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/49/14496067-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/49/14496067-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/49/14496067-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "sport sante",
+      "taille" : 123940,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-09-26T14:25:05.893+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-07", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2023-01-02", "2023-01-03", "2023-01-04", "2023-01-05", "2023-01-06", "2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-16", "2023-01-17", "2023-01-18", "2023-01-19", "2023-01-20", "2023-01-23", "2023-01-24", "2023-01-25", "2023-01-26", "2023-01-27", "2023-01-30", "2023-01-31", "2023-02-01", "2023-02-02", "2023-02-03", "2023-02-06", "2023-02-07", "2023-02-08", "2023-02-09", "2023-02-10", "2023-02-13", "2023-02-14", "2023-02-15", "2023-02-16", "2023-02-17", "2023-02-20", "2023-02-21", "2023-02-22", "2023-02-23", "2023-02-24", "2023-02-27", "2023-02-28", "2023-03-01", "2023-03-02", "2023-03-03", "2023-03-06", "2023-03-07", "2023-03-08", "2023-03-09", "2023-03-10", "2023-03-13", "2023-03-14", "2023-03-15", "2023-03-16", "2023-03-17", "2023-03-20", "2023-03-21", "2023-03-22", "2023-03-23", "2023-03-24", "2023-03-27", "2023-03-28", "2023-03-29", "2023-03-30", "2023-03-31", "2023-04-03", "2023-04-04", "2023-04-05", "2023-04-06", "2023-04-07", "2023-04-10", "2023-04-11", "2023-04-12", "2023-04-13", "2023-04-14", "2023-04-17", "2023-04-18", "2023-04-19", "2023-04-20", "2023-04-21", "2023-04-24", "2023-04-25", "2023-04-26", "2023-04-27", "2023-04-28", "2023-05-01", "2023-05-02", "2023-05-03", "2023-05-04", "2023-05-05", "2023-05-08", "2023-05-09", "2023-05-10", "2023-05-11", "2023-05-12", "2023-05-15", "2023-05-16", "2023-05-17", "2023-05-18", "2023-05-19", "2023-05-22", "2023-05-23", "2023-05-24", "2023-05-25", "2023-05-26", "2023-05-29", "2023-05-30", "2023-05-31", "2023-06-01", "2023-06-02", "2023-06-05", "2023-06-06", "2023-06-07", "2023-06-08", "2023-06-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1971
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2084
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 3871
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2182
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2295
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2296
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2297
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2300
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2301
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2331
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2348
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2362
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2367
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2371
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2379
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Marseille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-06-09T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

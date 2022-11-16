@@ -1,0 +1,267 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6294112,
+  "nom" : {
+    "libelleFr" : "Jérémy Ferrari",
+    "libelleEn" : "Jérémy Ferrari",
+    "libelleEs" : "Jérémy Ferrari",
+    "libelleIt" : "Jérémy Ferrari",
+    "libelleDe" : "Jérémy Ferrari",
+    "libelleNl" : "Jérémy Ferrari",
+    "libelleRu" : "Jérémy Ferrari",
+    "libelleZh" : "Jérémy Ferrari",
+    "libellePtBR" : "Jérémy Ferrari",
+    "libelleJa" : "Jérémy Ferrari"
+  },
+  "identifier" : "SITRA2_EVE_6294112",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-12T15:10:47.042+0000",
+    "dateModification" : "2022-10-19T13:04:42.825+0000",
+    "dateExportModification" : "2022-10-19T13:06:44.786+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104329596,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.arenaaix.com/fr/arena-du-pays-daix/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5469911
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Anesthésie Générale, le nouveau spectacle de Jérémy Ferrari à l'Arena du Pays d'Aix"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Après la religion et la guerre, Jérémy Ferrari s’attaque à la santé ! Une nouvelle thématique explosive pour l’humoriste au succès retentissant : 300 000 spectateurs en salle, DVD de platine, spectacle de l’année et record de ventes en 2017, tournée à guichets fermés en France, en Suisse, en Belgique, au Québec et aux USA !\r\n\r\nLe phénomène de l’humour revient avec le one-man show le plus attendu de 2020."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Arena du Pays d'Aix",
+      "adresse1" : "1955 Rue Claude Nicolas Ledoux",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.404033, 43.473078 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5500208
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 20h30.",
+      "libelleEn" : "Friday 11 November 2022 at 8.30 pm.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 20:30.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 20:30.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 20.30 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 20.30 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 20h30.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时分钟.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  20h30.",
+      "libelleJa" : "金曜日 11 11月 2022 8.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24486040,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "20:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24535893
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 30 à 43 € (Selon la catégorie).\n",
+      "libelleEn" : "Full price: 30 to 43 €.\n",
+      "libelleEs" : "Tarifa completa: de 30 a 43 €.\n",
+      "libelleIt" : "Tarrifa intera: da 30 a 43 €.\n",
+      "libelleDe" : "Voller Preis: von 30 bis 43 €.\n",
+      "libelleNl" : "Vol tarief: € 30 tot en met € 43.\n",
+      "libelleRu" : "Полную цену : с 30 до  43 €.\n",
+      "libelleZh" : "全额 : 从 30 到  43 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 30 a 43 €.\n",
+      "libelleJa" : "通常料金: 30 から 43 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13738261,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 30.00,
+        "maximum" : 43.00,
+        "precisionTarif" : {
+          "libelleFr" : "Selon la catégorie"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6853755,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5469911
+      },
+      "nom" : "Arena du Pays d'Aix",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104094136,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://billetterie.arenaaix.com/fr/manifestation/jeremy-ferrari-billet/idmanif/491517/idseance/3200244"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14380885,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Arena"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/147/14717887.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/147/14717887-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/147/14717887-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/147/14717887-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ferrari",
+      "taille" : 192364,
+      "hauteur" : 999,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-12T15:14:55.899+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Arena du Pays d'Aix"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

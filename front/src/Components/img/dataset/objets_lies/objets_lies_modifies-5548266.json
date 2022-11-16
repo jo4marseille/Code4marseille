@@ -1,0 +1,373 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5548266,
+  "nom" : {
+    "libelleFr" : "Boutique de l'Atelier de Cezanne",
+    "libelleEn" : "[Closed until further information] Cezanne Studio shop"
+  },
+  "identifier" : "SITRA2_COS_5548266",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-06T04:18:44.657+0000",
+    "dateModification" : "2022-10-06T10:14:00.089+0000",
+    "dateExportModification" : "2022-10-06T10:14:00.216+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79967849,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 21 06 53"
+      }
+    }, {
+      "identifiant" : 79967850,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "infos@atelier-cezanne.com"
+      }
+    }, {
+      "identifiant" : 79967851,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.cezanne-en-provence.com"
+      }
+    }, {
+      "identifiant" : 79967852,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/ateliercezanne/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5530319
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Pour trouver la boutique, rien de plus simple, elle se situe au rez-de-chaussée de l'atelier, en accès libre.",
+      "libelleEn" : "The shop is located on the ground floor of the atelier de Cezanne. Access is free"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Venez découvrir la boutique de l'atelier de Cezanne. Au sein de ce lieu emblématique du peintre provençal, de nombreux produits souvenirs n'attendent que vous. Vous y retrouvez des livres d'art, des souvenirs et produits dérivés autour de l'oeuvre de Paul Cezanne.",
+      "libelleEn" : "Come and visit the atelier de Cezanne shop! In a legendary site dedicated to the Provençal painter, a wide range of souvenirs are waiting just for you. Here you will find art books, souvenirs and objects linked to the work of Paul Cezanne.\r\n\r\nTo find the shop, there's nothing simpler, because it is on the ground floor of the studio."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "9 Avenue Paul Cézanne",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.446005, 43.537966 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538099
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/10 au 31/12/2021, du mardi au samedi\r\nde 9h30 à 12h30 et de 14h à 17h.\r\nFermé le 25 décembre.\r\n\r\n\r\nDu 11/01 au 31/03/2022, du mardi au samedi\r\nde 9h30 à 12h30 et de 14h à 17h.\r\n\r\nDu 01/04 au 31/05/2022, tous les jours.\r\nde 9h30 à 12h30 et de 14h à 18h.\r\nFermé le 1er mai.\r\n\r\nDu 01/06 au 30/09/2022, tous les jours.\r\nde 9h30 à 18h.\r\n\r\nDu 01/10 au 31/12/2022, du mardi au samedi\r\nde 9h30 à 12h30 et de 14h à 17h.\r\nFermé le 25 décembre.",
+      "libelleEn" : "From 01/10 to 31/12/2021, Tuesday to Saturday, 9.30 am to 12.30 am and 2 pm to 5 pm.\r\nClosed 25th December\r\n\r\nFrom 11/01 to 31/03/2022,Tuesday to Saturday, 9.30 am to 12.30 am and 2 pm to 5 pm.\r\n\r\nFrom 01/04 to 31/05/2022, every day, 9.30 am to 12.30 am and 2 pm to 6 pm\r\nClosed on 1st May.\r\n\r\nFrom 01/06 to 30/09/2022, every day, 9.30 am to 6 pm.\r\nClosed on 1st May.\r\n\r\nFrom 01/10 to 31/12/2022, Tuesday to Saturday, 9.30 am to 12.30 am and 2 pm to 5 pm.\r\nClosed 25th December.",
+      "libelleEs" : "Del 01/10 al 31/12/2021, todos los martes, miércoles, jueves, viernes y sábados.\r\nSe cierra, excepcionalmente el 25 de diciembre.\r\n\r\nDel 11/01 al 31/03/2022, todos los martes, miércoles, jueves, viernes y sábados.\r\n\r\nDel 01/04 al 31/05/2022, todos los dias.\r\nSe cierra, excepcionalmente el 1er de mayo.\r\n\r\nDel 01/06 al 30/09/2022, todos los dias.\r\n\r\nDel 01/10 al 31/12/2022, todos los martes, miércoles, jueves, viernes y sábados.\r\nSe cierra, excepcionalmente el 25 de diciembre.",
+      "libelleIt" : "Dal 01/10 al 31/12/2021, tutti i martedì, mercoledì, giovedì, venerdì e sabati.\r\nChiusura eccezionale il 25 dicembre.\r\n\r\nDal 11/01 al 31/03/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.\r\n\r\nDal 01/04 al 31/05/2022, ogni giorno.\r\nChiusura eccezionale il 1° maggio.\r\n\r\nDal 01/06 al 30/09/2022, ogni giorno.\r\n\r\nDal 01/10 al 31/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.\r\nChiusura eccezionale il 25 dicembre.",
+      "libelleDe" : "Vom 01/10 bis 31/12/2021, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.\r\nAusnahmsweise geschlossen am 25. Dezember.\r\n\r\nVom 11/01 bis 31/03/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.\r\n\r\nVom 01/04 bis 31/05/2022, täglich.\r\nAusnahmsweise geschlossen am 1. Mai.\r\n\r\nVom 01/06 bis 30/09/2022, täglich.\r\n\r\nVom 01/10 bis 31/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.\r\nAusnahmsweise geschlossen am 25. Dezember.",
+      "libelleNl" : "Van 01/10 tot en met 31/12/2021, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.\r\nBij uitzondering gesloten op 25 december.\r\n\r\nVan 11/01 tot en met 31/03/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.\r\n\r\nVan 01/04 tot en met 31/05/2022, iedere dag.\r\nBij uitzondering gesloten op 1 mei.\r\n\r\nVan 01/06 tot en met 30/09/2022, iedere dag.\r\n\r\nVan 01/10 tot en met 31/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.\r\nBij uitzondering gesloten op 25 december.",
+      "libelleRu" : "С 01/10 до 31/12/2021, каждый вторники, среды, четверги, пятницы и субботы.\r\nВ порядке исключения не работает 25 декабря.\r\n\r\nС 11/01 до 31/03/2022, каждый вторники, среды, четверги, пятницы и субботы.\r\n\r\nС 01/04 до 31/05/2022, ежедневно.\r\nВ порядке исключения не работает 1 мая.\r\n\r\nС 01/06 до 30/09/2022, ежедневно.\r\n\r\nС 01/10 до 31/12/2022, каждый вторники, среды, четверги, пятницы и субботы.\r\nВ порядке исключения не работает 25 декабря.",
+      "libelleZh" : "从 10月1日 到 2021年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.\r\n在 12月25日 例外关闭.\r\n\r\n从 1月11日 到 2022年3月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.\r\n\r\n从 4月1日 到 2022年5月31日, 日常.\r\n在 5月1日 例外关闭.\r\n\r\n从 6月1日 到 2022年9月30日, 日常.\r\n\r\n从 10月1日 到 2022年12月31日, 每星期二, 星期三, 星期四, 星期五 和 星期六.\r\n在 12月25日 例外关闭.",
+      "libellePtBR" : "De 01/10 a 31/12/2021, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.\r\nFechamento excepcional em 25 de dezembro.\r\n\r\nDe 11/01 a 31/03/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.\r\n\r\nDe 01/04 a 31/05/2022, todos os dias.\r\nFechamento excepcional em 1º de maio.\r\n\r\nDe 01/06 a 30/09/2022, todos os dias.\r\n\r\nDe 01/10 a 31/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.\r\nFechamento excepcional em 25 de dezembro.",
+      "libelleJa" : "01/10 から 31/12/2021 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日.\r\n12月25日 は特別休業.\r\n\r\n11/01 から 31/03/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日.\r\n\r\n01/04 から 31/05/2022 まで, 毎日.\r\n5月1日 は特別休業.\r\n\r\n01/06 から 30/09/2022 まで, 毎日.\r\n\r\n01/10 から 31/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日.\r\n12月25日 は特別休業."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22155858,
+      "dateDebut" : "2022-01-11",
+      "dateFin" : "2022-03-31",
+      "complementHoraire" : {
+        "libelleFr" : "De 9h30 à 12h30 et de 14h à 17h."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24443995
+    }, {
+      "identifiant" : 22155871,
+      "dateDebut" : "2022-04-01",
+      "dateFin" : "2022-05-31",
+      "complementHoraire" : {
+        "libelleFr" : "De 9h30 à 12h30 et de 14h à 18h."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443996
+    }, {
+      "identifiant" : 22155885,
+      "dateDebut" : "2022-06-01",
+      "dateFin" : "2022-09-30",
+      "complementHoraire" : {
+        "libelleFr" : "De 9h30 à 18h."
+      },
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24443997
+    }, {
+      "identifiant" : 22155833,
+      "dateDebut" : "2022-10-01",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "De 9h30 à 12h30 et de 14h à 17h.\r\n\r\nAtelier fermé du 1er au 9 janvier 2023.",
+        "libelleEn" : "From 9.30am to 12.30pm and from 2pm to 5pm.\r\n\r\nClosed from January 1st to 9th, 2023."
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24443998
+    } ],
+    "fermeturesExceptionnelles" : [ {
+      "dateSpeciale" : "PREMIER_JANVIER"
+    }, {
+      "dateSpeciale" : "PREMIER_MAI"
+    }, {
+      "dateSpeciale" : "VINGT_CINQ_DECEMBRE"
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19196257,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Morucci",
+    "prenom" : "Fabienne",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9220474,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV009621_2_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/241/8974818.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/241/8974818-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/241/8974818-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/241/8974818-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 912568,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:10:50.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9220475,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13DIV009621_3_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Sophie Spiteri"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/241/8974819.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/241/8974819-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/241/8974819-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/241/8974819-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 978564,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-12-15T05:10:48.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1874
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2058
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 2160
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13DIV009621"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

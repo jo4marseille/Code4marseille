@@ -1,0 +1,341 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5542143,
+  "nom" : {
+    "libelleFr" : "Les jeudis musicaux du Frelon d'Or"
+  },
+  "identifier" : "SITRA2_EVE_5542143",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-28T10:16:00.049+0000",
+    "dateModification" : "2022-11-02T10:22:17.157+0000",
+    "dateExportModification" : "2022-11-02T10:22:17.863+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 89575016,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 41 55 98"
+      }
+    }, {
+      "identifiant" : 89575062,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lefrelondor@lefrelondor.fr"
+      }
+    }, {
+      "identifiant" : 89576945,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/Lefrelondor"
+      }
+    }, {
+      "identifiant" : 91374965,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.lefrelondor.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5254391
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Désormais une fois par mois , les jeudis musicaux du frelon restent le rendez-vous incontournable des mélomanes gastronomes !"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Vous sont proposés des dîners musicaux avec des artistes de jazz, de blues, de soul ou de musiques du monde.\r\nEn parfaite harmonie avec la cuisine du chef Rodrigo Augusto Silva.\r\nAu programme :\r\n* Le 10 novembre :\r\nConcert jazz de Clément Vidal-Naquet et sa chanteuse Sabrina Dalessio, un piano-voix qui a déjà rencontré un franc succès l'année dernière... \r\n* Le 8 décembre :\r\nConcert blues avec Nasser Bendadoo et Matthieu Tomi : le \"White Feet Duo\" !!\r\n\r\nD'autres artistes à vernir.."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le Frelon d'Or",
+      "adresse1" : "1 Avenue Alexandre Philip",
+      "codePostal" : "13710",
+      "bureauDistribution" : "FUVEAU",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.560707, 43.453113 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "SANS_SUPPLEMENT",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 4306
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 11/09 au 11/05, tous les jeudis de 19h30 à 22h30.",
+      "libelleEn" : "From 11/09 to 11/05, every Thursday between 7.30 pm and 10.30 pm.",
+      "libelleEs" : "Del 11/09 al 11/05, todos los jueves de 19:30 a 22:30.",
+      "libelleIt" : "Dal 11/09 al 11/05, tutti i giovedì dalle 19:30 alle 22:30.",
+      "libelleDe" : "Vom 11/09 bis 11/05, jeden Donnerstag von 19.30 Uhr bis 22.30 Uhr.",
+      "libelleNl" : "Van 11/09 tot en met 11/05, elke donderdag van 19.30 tot en met 22.30 u.",
+      "libelleRu" : "С 11/09 до 11/05, каждый четверги с 19h30 до 22h30.",
+      "libelleZh" : "从 9月11日 到 5月11日, 每星期四 小时小时分钟  和 小时小时分钟  之间.",
+      "libellePtBR" : "De 11/09 a 11/05, todas as quintas-feiras de 19h30 a  22h30.",
+      "libelleJa" : "11/09 から 11/05 まで, 毎木曜日 7.30 午後 と 10.30 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19960664,
+      "dateDebut" : "2022-09-11",
+      "dateFin" : "2023-05-11",
+      "horaireOuverture" : "19:30:00",
+      "horaireFermeture" : "22:30:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 24676372
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Pour l'ambiance musicale en plus du repas et des boissons consommées.\r\nParticipation de 8 euros par personne pour le concert."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Pour l'ambiance musicale en plus du repas et des boissons consommées.\r\nParticipation de 8 euros par personne pour le concert."
+    },
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5848302,
+      "nom" : "https://www.lefrelondor.fr/?lang=fr#reservation",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "locked" : false
+    }, {
+      "identifiant" : 5848311,
+      "nom" : "0488415598",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14724151,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Les jeudis musicaux du Frelon d'Or"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Frelon d'or"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/102/15099393.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/102/15099393-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/102/15099393-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/102/15099393-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "jeudis-musicaux-frelon-dor",
+      "taille" : 85265,
+      "hauteur" : 676,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-11-02T10:22:17.256+0000"
+    } ],
+    "locked" : false
+  } ],
+  "multimedias" : [ {
+    "identifiant" : 10277553,
+    "link" : false,
+    "type" : "DOCUMENT",
+    "nom" : {
+      "libelleFr" : "Le Frelon d'or"
+    },
+    "legende" : {
+      "libelleFr" : "Logo"
+    },
+    "copyright" : {
+      "libelleFr" : "Le Frelon d'or"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/215/112/10055895/logo.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/215/112/10055895-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/215/112/10055895-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/documents/215/112/10055895-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "logo",
+      "taille" : 18887,
+      "hauteur" : 494,
+      "largeur" : 494,
+      "lastModifiedDate" : "2021-06-15T09:08:37.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-03", "2022-11-10", "2022-11-17", "2022-11-24", "2022-12-01", "2022-12-08", "2022-12-15", "2022-12-22", "2022-12-29", "2023-01-05", "2023-01-12", "2023-01-19", "2023-01-26", "2023-02-02", "2023-02-09", "2023-02-16", "2023-02-23", "2023-03-02", "2023-03-09", "2023-03-16", "2023-03-23", "2023-03-30", "2023-04-06", "2023-04-13", "2023-04-20", "2023-04-27", "2023-05-04", "2023-05-11", "2023-09-14", "2023-09-21", "2023-09-28", "2023-10-05", "2023-10-12", "2023-10-19", "2023-10-26", "2023-11-02", "2023-11-09", "2023-11-16", "2023-11-23", "2023-11-30", "2023-12-07", "2023-12-14", "2023-12-21", "2023-12-28", "2024-01-04", "2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21", "2024-03-28", "2024-04-04", "2024-04-11", "2024-04-18", "2024-04-25", "2024-05-02", "2024-05-09", "2024-09-12", "2024-09-19", "2024-09-26", "2024-10-03", "2024-10-10", "2024-10-17", "2024-10-24", "2024-10-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2121
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2136
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2208
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2280
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Le Frelon d'Or"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT113630"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Fuveau"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.fuveau-tourisme.com"
+    }
+  } ]
+}

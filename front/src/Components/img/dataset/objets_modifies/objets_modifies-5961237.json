@@ -1,0 +1,231 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5961237,
+  "nom" : {
+    "libelleFr" : "Commémoration du 11 Novembre"
+  },
+  "identifier" : "SITRA2_EVE_5961237",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-05T10:26:12.667+0000",
+    "dateModification" : "2022-11-07T16:10:21.276+0000",
+    "dateExportModification" : "2022-11-07T16:10:22.167+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70518741,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 71 05"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Graveson"
+      }
+    }, {
+      "identifiant" : 70518742,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-graveson.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225093
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Commémoration 11 Novembre à Graveson."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Michel Pécout, Maire de Graveson, le Conseil Municipal, les Associations d’Anciens Combattants et Victimes de Guerre vous invitent à participer à la cérémonie de commémoration de l’Armistice du 11 Novembre 1918.\r\n\r\nLes enfants des écoles de Graveson chanteront l'hymne national \"La Marseillaise\" et égrèneront les noms des combattants morts pour la France.\r\n\r\n8h30 : Messe en l'Eglise de Rognonas.\r\n11h : Rassemblement sur le Cours National.\r\n11h15 : Départ du Cortège. Allocution et Dépôt de Gerbes au Monument aux Morts du Cimetière. Hymne National et Lecture des Noms des Victimes de la Grande Guerre par les enfants des écoles.\r\n12h : Vin d'Honneur offert par la Municipalité à l'Espace Culturel."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Cours National",
+      "codePostal" : "13690",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4456
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.772876, 43.851623 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4456
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 11 novembre 2022 à 11h.",
+      "libelleEn" : "Friday 11 November 2022 at 11 am.",
+      "libelleEs" : "Viernes, 11 de noviembre de 2022 a 11.",
+      "libelleIt" : "Venerdì 11 novembre 2022 alle 11.",
+      "libelleDe" : "Freitag, den 11. November 2022 um 11 Uhr.",
+      "libelleNl" : "Vrijdag 11 november 2022 om 11.00 u.",
+      "libelleRu" : "Пятница 11 ноября 2022  до 11h.",
+      "libelleZh" : "2022年11月11日, 星期五   在 小时小时.",
+      "libellePtBR" : "Sexta-feira 11 Novembro 2022 para  11h.",
+      "libelleJa" : "金曜日 11 11月 2022 11 午前 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24715917,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "11:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24715917
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19873892,
+    "referent" : true,
+    "titre" : {
+      "libelleFr" : "Mairie de Graveson"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 93473892,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 71 05"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14810560,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "© Graveson"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/222/15195832.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/222/15195832-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/222/15195832-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/222/15195832-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Graveson 11 Novembre",
+      "taille" : 515002,
+      "hauteur" : 1754,
+      "largeur" : 1240,
+      "lastModifiedDate" : "2022-11-07T16:10:21.383+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693779
+  } ],
+  "datesOuverture" : [ "2022-11-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1973
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2066
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-11T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

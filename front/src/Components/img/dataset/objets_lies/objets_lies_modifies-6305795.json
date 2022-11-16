@@ -1,0 +1,413 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6305795,
+  "nom" : {
+    "libelleFr" : "Dans ton coeur"
+  },
+  "identifier" : "SITRA2_EVE_6305795",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-21T13:01:38.641+0000",
+    "dateModification" : "2022-10-21T13:14:58.747+0000",
+    "dateExportModification" : "2022-10-24T13:52:09.174+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104409794,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 93 48 14"
+      },
+      "observation" : {
+        "libelleFr" : "Du mardi au vendredi de 12h à 18h et le samedi uniquement les jours de spectacles de 15h à 18h."
+      }
+    }, {
+      "identifiant" : 104409795,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@preljocaj.org"
+      }
+    }, {
+      "identifiant" : 104409796,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://preljocaj.org/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228758
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Dans ton cœur est un joyeux bazar savamment orchestré, où les huit acrobates dialoguent prodigieusement avec les quatre musiciens. Après un passage remarqué à Avignon en 2021, le Grand Théâtre est ravi d’accueillir ce spectacle plein d’humour et d’amour."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Toute la famille et toutes les générations s’enticheront de cette fresque\r\nburlesque et explosive qui tourneboule le train-train quotidien d’un\r\ncouple ordinaire.\r\nIls se rencontrent et c’est le coup de foudre. Ils s’aiment, ont des enfants, les jours se suivent... la routine guette. Et ça dérape. C’est le cirque. Des disputes de haute voltige éclatent. Les corps s’envolent, l’électroménager s’en mêle, le frigo tangue, le four s’affole dans un charivari de numéros aussi virtuoses que fantaisistes.\r\nFruit de la collaboration providentielle entre Pierre Guillois, sulfureux metteur en scène de Bigre et Opéraporno accueillis au Gymnase, et la compagnie de cirque Akoreacro,  \r\n\r\n● Mise en scène : Pierre Guillois\r\n● Avec Claire Aldaya (voltigeuse), Romain Vigier (acrobate, porteur), Andreu Casadella (acrobate, trapèze Washington), Basile Narcy (acrobate, porteur, jongleur), Maxime La Sala (porteur cadre), Antonio Segura Lizan (voltigeur), Pedro Consciência (porteur, acrobate), Joan Ramon Graell Gabriel (porteur, acrobate), Vladimir Tserabun (contrebasse, violoncelle, basse), Gaël Guelat (batterie, percussions, guitare), Nicolas Bachet (saxophone, acrobate), Johann Chauveau (clavier, flute)"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Grand Théâtre de Provence",
+      "adresse1" : "380 Avenue Max Juvénal",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.439908, 43.526001 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5228760
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 72,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 7 décembre 2022 à 20h.\n\nVendredi 9 décembre 2022 à 20h.\n\nSamedi 10 décembre 2022 à 20h.\n\nDimanche 11 décembre 2022 à 15h.",
+      "libelleEn" : "Wednesday 7 December 2022 at 8 pm.\n\nFriday 9 December 2022 at 8 pm.\n\nSaturday 10 December 2022 at 8 pm.\n\nSunday 11 December 2022 at 3 pm.",
+      "libelleEs" : "Miércoles, 7 de diciembre de 2022 a 20.\n\nViernes, 9 de diciembre de 2022 a 20.\n\nSábado, 10 de diciembre de 2022 a 20.\n\nDomingo, 11 de diciembre de 2022 a 15.",
+      "libelleIt" : "Mercoledì 7 dicembre 2022 alle 20.\n\nVenerdì 9 dicembre 2022 alle 20.\n\nSabato 10 dicembre 2022 alle 20.\n\nDomenica 11 dicembre 2022 alle 15.",
+      "libelleDe" : "Mittwoch, den 7. Dezember 2022 um 20 Uhr.\n\nFreitag, den 9. Dezember 2022 um 20 Uhr.\n\nSamstag, den 10. Dezember 2022 um 20 Uhr.\n\nSonntag, den 11. Dezember 2022 um 15 Uhr.",
+      "libelleNl" : "Woensdag 7 december 2022 om 20.00 u.\n\nVrijdag 9 december 2022 om 20.00 u.\n\nZaterdag 10 december 2022 om 20.00 u.\n\nZondag 11 december 2022 om 15.00 u.",
+      "libelleRu" : "Среда 7 декабря 2022  до 20h.\n\nПятница 9 декабря 2022  до 20h.\n\nСуббота 10 декабря 2022  до 20h.\n\nВоскресенье 11 декабря 2022  до 15h.",
+      "libelleZh" : "2022年12月7日, 星期三   在 小时小时.\n\n2022年12月9日, 星期五   在 小时小时.\n\n2022年12月10日, 星期六   在 小时小时.\n\n2022年12月11日, 星期日   在 小时小时.",
+      "libellePtBR" : "Quarta-feira 7 Dezembro 2022 para  20h.\n\nSexta-feira 9 Dezembro 2022 para  20h.\n\nSábado 10 Dezembro 2022 para  20h.\n\nDomingo 11 Dezembro 2022 para  15h.",
+      "libelleJa" : "水曜日 7 12月 2022 8 午後 に.\n\n金曜日 9 12月 2022 8 午後 に.\n\n土曜日 10 12月 2022 8 午後 に.\n\n日曜日 11 12月 2022 3 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24556564,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-07",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556564
+    }, {
+      "identifiant" : 24556686,
+      "dateDebut" : "2022-12-09",
+      "dateFin" : "2022-12-09",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556686
+    }, {
+      "identifiant" : 24556694,
+      "dateDebut" : "2022-12-10",
+      "dateFin" : "2022-12-10",
+      "horaireOuverture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556694
+    }, {
+      "identifiant" : 24556698,
+      "dateDebut" : "2022-12-11",
+      "dateFin" : "2022-12-11",
+      "horaireOuverture" : "15:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24556698
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : de 10 à 23 €.\n",
+      "libelleEn" : "Full price: 10 to 23 €.\n",
+      "libelleEs" : "Tarifa completa: de 10 a 23 €.\n",
+      "libelleIt" : "Tarrifa intera: da 10 a 23 €.\n",
+      "libelleDe" : "Voller Preis: von 10 bis 23 €.\n",
+      "libelleNl" : "Vol tarief: € 10 tot en met € 23.\n",
+      "libelleRu" : "Полную цену : с 10 до  23 €.\n",
+      "libelleZh" : "全额 : 从 10 到  23 €.\n",
+      "libellePtBR" : "Tarifa inteira: de 10 a 23 €.\n",
+      "libelleJa" : "通常料金: 10 から 23 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13779255,
+      "dateDebut" : "2022-12-07",
+      "dateFin" : "2022-12-11",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "maximum" : 23.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1274
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6510
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6875585,
+      "nom" : "Lestheatres.net",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104409792,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.lestheatres.net/fr/a/3686-dans-ton-coeur"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21469326,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Paul",
+    "prenom" : "Sophie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104409793,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication@preljocaj.org"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14482158,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haugton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/93/14834954.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/93/14834954-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/93/14834954-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/93/14834954-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "coeur 1",
+      "taille" : 148700,
+      "hauteur" : 800,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T13:14:59.943+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14482160,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haugton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/93/14834956.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/93/14834956-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/93/14834956-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/93/14834956-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "coeur 2",
+      "taille" : 170241,
+      "hauteur" : 1555,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T13:14:59.068+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14482161,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Richard Haugton"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/93/14834957.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/93/14834957-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/93/14834957-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/13/93/14834957-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "coeur 3",
+      "taille" : 206101,
+      "hauteur" : 819,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-21T13:14:59.527+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-12-07", "2022-12-09", "2022-12-10", "2022-12-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    }, {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2147
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Grand Théâtre de Provence"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-11T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

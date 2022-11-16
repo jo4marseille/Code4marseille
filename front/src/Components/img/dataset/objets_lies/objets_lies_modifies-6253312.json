@@ -1,0 +1,248 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6253312,
+  "nom" : {
+    "libelleFr" : "\"Ces Arméniens qui ont fait la France\""
+  },
+  "identifier" : "SITRA2_EVE_6253312",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-09-06T07:59:58.259+0000",
+    "dateModification" : "2022-09-28T13:58:41.783+0000",
+    "dateExportModification" : "2022-09-28T13:58:41.980+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Maison du Tourisme d'Allauch",
+      "dateCreation" : "2020-10-14T08:22:33.130+0000",
+      "dateModification" : "2022-10-24T08:49:33.880+0000",
+      "id" : 2104,
+      "siteWeb" : "https://tourisme.allauch.com"
+    },
+    "signalerUnProblemeMails" : [ "c.blin@allauch.com", "f.garzino@allauch.com", "g.geffroy@allauch.com", "s.liffaud@allauch.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77071597,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 91 10 49 20"
+      }
+    }, {
+      "identifiant" : 77071598,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@allauch.com"
+      }
+    }, {
+      "identifiant" : 84328981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://tourisme.allauch.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5466111
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5223971
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Conférence dans le cadre des \"Sentiers de la Connaissance\" par Daniel ISRAEL, conférencier, chargé d'enseignement à l'Université d'Aix-Marseille (spécialité Histoire contemporaine)"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Ils sont venus, ils sont tous là : les MANOUCHIAN, MANOUKIAN, GUEDIGUIAN, DEVEDJIAN...\r\n\r\nEt d'autres encore, que leur nom ne désigne pas de prime abord comme des enfants d'EREVAN : Henri VERNEUIL, Michel LEGRAND, sans oublier, bien sûr, Charles AZNAVOUR. Fuyant le génocide de 1915, 100 000 Arméniens ont trouvé refuge en France. Ces survivants, comme ils se désignent, ont fait souche dans notre nation. Ils ont gravi discrètement les échelons de leur pays d'adoption, sans rien renier de leurs origines.\r\n\r\nCette histoire mérite d'être racontée car elle constitue un pan de notre mémoire commune."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Espace François Mitterrand",
+      "adresse1" : "Espace François Mitterrand, traverse Chapelle des filles",
+      "adresse2" : "Vieux village",
+      "codePostal" : "13190",
+      "commune" : {
+        "id" : 4413
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.482639, 43.334688 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4413
+    } ],
+    "lieu" : {
+      "id" : 18471
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540501
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6266616
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 2 mars 2023 à 19h.",
+      "libelleEn" : "Thursday 2 March 2023 at 7 pm.",
+      "libelleEs" : "Jueves, 2 de marzo de 2023 a 19.",
+      "libelleIt" : "Giovedì 2 marzo 2023 alle 19.",
+      "libelleDe" : "Donnerstag, den 2. März 2023 um 19 Uhr.",
+      "libelleNl" : "Donderdag 2 maart 2023 om 19.00 u.",
+      "libelleRu" : "Четверг 2 марта 2023  до 19h.",
+      "libelleZh" : "2023年3月2日, 星期四   在 小时小时.",
+      "libellePtBR" : "Quinta-feira 2 Março 2023 para  19h.",
+      "libelleJa" : "木曜日 2 3月 2023 7 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24232770,
+      "dateDebut" : "2023-03-02",
+      "dateFin" : "2023-03-02",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24390217
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ACCES_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Accès libre.",
+      "libelleEn" : "Free access.",
+      "libelleEs" : "Acceso libre.",
+      "libelleIt" : "Accesso libero.",
+      "libelleDe" : "Freier Zugang.",
+      "libelleNl" : "Gratis toegang.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由访问.",
+      "libellePtBR" : "Acesso livre.",
+      "libelleJa" : "フリーアクセス."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13972551,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Arménien"
+    },
+    "copyright" : {
+      "libelleFr" : "Mairie d'Allauch"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/108/14249028.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/108/14249028-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/108/14249028-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/108/14249028-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "23 03 Arménie",
+      "taille" : 2041766,
+      "hauteur" : 1061,
+      "largeur" : 1600,
+      "lastModifiedDate" : "2022-09-07T09:28:38.927+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "datesOuverture" : [ "2023-03-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Espace François Mitterrand"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-03-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

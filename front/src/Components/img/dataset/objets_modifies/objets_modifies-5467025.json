@@ -1,0 +1,291 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5467025,
+  "nom" : {
+    "libelleFr" : "Marché de Mollégès",
+    "libelleEn" : "Mollégès market",
+    "libelleEs" : "Mollégès mercado",
+    "libelleIt" : "Mollégès mercato",
+    "libelleDe" : "Mollégès Markt",
+    "libelleNl" : "Mollégès markt"
+  },
+  "identifier" : "SITRA2_EVE_5467025",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:04:24.928+0000",
+    "dateModification" : "2021-05-31T11:55:58.504+0000",
+    "dateExportModification" : "2022-09-01T13:31:09.987+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme Intercommunal de Terre de Provence",
+      "dateCreation" : "2020-10-28T10:42:53.102+0000",
+      "dateModification" : "2022-10-24T08:49:48.093+0000",
+      "id" : 2119
+    },
+    "signalerUnProblemeMails" : [ "accueil.oti@terredeprovence-agglo.com", "accueil2.oti@terredeprovence-agglo.com", "espaceculturetourisme@orange.fr", "office.tourisme@st-andiol.fr", "office.tourisme@ville-graveson.fr", "ot-culture@maillane.fr", "promotion.oti@terredeprovence-agglo.com", "romain.pascal@ville-graveson.fr", "tourisme@noves.fr", "tourisme@terredeprovence-agglo.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70524959,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 95 03 51"
+      },
+      "observation" : {
+        "libelleFr" : "Mairie de Mollégès"
+      }
+    }, {
+      "identifiant" : 70524960,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "mairie-molleges@orange.fr"
+      }
+    }, {
+      "identifiant" : 70524961,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mairie-molleges.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226438
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Légumes, fruits, fromages de chèvre, vin bio, confitures, huile d'olives, miel, coquillages, jus de fruits, fleurs... vous seront présentés par des paysans producteurs de la région."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Légumes, fruits, fromages de chèvre, vin bio, confitures, huile d'olives, miel, coquillages, jus de fruits, fleurs... vous seront présentés par des paysans producteurs de la région.",
+      "libelleEn" : "Vegetables, fruit, goat cheese, organic wine, jams, oil of olives, honey, shells, fruit juice, flowers... you will be presented by the farmers of the region.",
+      "libelleEs" : "Verduras, frutas, queso de cabra, vino ecológico, mermeladas, aceite de aceitunas, miel, conchas, zumo de fruta, flores... se presentará por los agricultores de la región.",
+      "libelleIt" : "Verdure, frutta, formaggio di capra, vino biologico, marmellate, olio di olive, miele, conchiglie, succo di frutta, fiori... vi si presenterà dai contadini della regione.",
+      "libelleDe" : "Gemüse, Obst, Ziegenkäse, Bio-Wein, Marmeladen, Öl, Oliven, Honig, Muscheln, Fruchtsaft, Blumen... Sie werden von den Bauern aus der Region vorgestellt.",
+      "libelleNl" : "Groenten, fruit, geitenkaas, biologische wijn, jam, olie van olijven, honing, schelpen, vruchtensap, bloemen... u zal worden gepresenteerd door de boeren uit de regio."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Marché de Mollégès",
+      "adresse1" : "Avenue du Lauron",
+      "adresse2" : "Grand Rue",
+      "codePostal" : "13940",
+      "commune" : {
+        "id" : 4475
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.949642, 43.804920 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4475
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12, tous les mercredis.",
+      "libelleEn" : "From 01/01 to 31/12, every Wednesday.",
+      "libelleEs" : "Del 01/01 al 31/12, todos los miércoles.",
+      "libelleIt" : "Dal 01/01 al 31/12, tutti i mercoledì.",
+      "libelleDe" : "Vom 01/01 bis 31/12, jeden Mittwoch.",
+      "libelleNl" : "Van 01/01 tot en met 31/12, elke woensdag.",
+      "libelleRu" : "С 01/01 до 31/12, каждый среды.",
+      "libelleZh" : "从 1月1日 到 12月31日, 每星期三.",
+      "libellePtBR" : "De 01/01 a 31/12, todas as quartas-feiras.",
+      "libelleJa" : "01/01 から 31/12 まで, 毎水曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19471046,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : true,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      } ],
+      "identifiantTechnique" : 21069626
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5113859,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5226438
+      },
+      "nom" : "Mairie de Mollégès",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 80578125,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 90 95 03 51"
+        }
+      }, {
+        "identifiant" : 80578126,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 202
+        },
+        "coordonnees" : {
+          "fr" : "04 90 95 10 81"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8579257,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EV038344_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Larisa K"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/75/8342330.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/75/8342330-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/75/8342330-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/75/8342330-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 84714,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-07-31T13:14:07.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5424410
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-16", "2022-11-23", "2022-11-30", "2022-12-07", "2022-12-14", "2022-12-21", "2022-12-28", "2023-01-04", "2023-01-11", "2023-01-18", "2023-01-25", "2023-02-01", "2023-02-08", "2023-02-15", "2023-02-22", "2023-03-01", "2023-03-08", "2023-03-15", "2023-03-22", "2023-03-29", "2023-04-05", "2023-04-12", "2023-04-19", "2023-04-26", "2023-05-03", "2023-05-10", "2023-05-17", "2023-05-24", "2023-05-31", "2023-06-07", "2023-06-14", "2023-06-21", "2023-06-28", "2023-07-05", "2023-07-12", "2023-07-19", "2023-07-26", "2023-08-02", "2023-08-09", "2023-08-16", "2023-08-23", "2023-08-30", "2023-09-06", "2023-09-13", "2023-09-20", "2023-09-27", "2023-10-04", "2023-10-11", "2023-10-18", "2023-10-25", "2023-11-01", "2023-11-08", "2023-11-15", "2023-11-22", "2023-11-29", "2023-12-06", "2023-12-13", "2023-12-20", "2023-12-27", "2024-01-03", "2024-01-10", "2024-01-17", "2024-01-24", "2024-01-31", "2024-02-07", "2024-02-14", "2024-02-21", "2024-02-28", "2024-03-06", "2024-03-13", "2024-03-20", "2024-03-27", "2024-04-03", "2024-04-10", "2024-04-17", "2024-04-24", "2024-05-01", "2024-05-08", "2024-05-15", "2024-05-22", "2024-05-29", "2024-06-05", "2024-06-12", "2024-06-19", "2024-06-26", "2024-07-03", "2024-07-10", "2024-07-17", "2024-07-24", "2024-07-31", "2024-08-07", "2024-08-14", "2024-08-21", "2024-08-28", "2024-09-04", "2024-09-11", "2024-09-18", "2024-09-25", "2024-10-02", "2024-10-09", "2024-10-16", "2024-10-23", "2024-10-30", "2024-11-06" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1962
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2107
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2292
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Marché de Mollégès"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EV038344"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Terre de Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.myterredeprovence.fr/"
+    }
+  } ]
+}

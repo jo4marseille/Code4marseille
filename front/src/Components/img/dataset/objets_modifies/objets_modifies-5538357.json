@@ -1,0 +1,323 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538357,
+  "nom" : {
+    "libelleFr" : "Mas de la Cure - Maison du Cheval Camargue",
+    "libelleEn" : "Mas de la Cure - Maison du Cheval Camargue",
+    "libelleEs" : "Mas de la Cure - Maison du Cheval Camargue",
+    "libelleIt" : "Mas de la Cure - Maison du Cheval Camargue",
+    "libelleDe" : "Mas de la Cure - Maison du Cheval Camargue",
+    "libelleNl" : "Mas de la Cure - Maison du Cheval Camargue"
+  },
+  "identifier" : "SITRA2_PCU_5538357",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:28:59.238+0000",
+    "dateModification" : "2022-07-26T12:10:10.543+0000",
+    "dateExportModification" : "2022-07-26T12:10:10.660+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme des Saintes Maries de la Mer",
+      "dateCreation" : "2020-03-30T12:46:57.242+0000",
+      "dateModification" : "2022-10-24T08:49:45.014+0000",
+      "id" : 2009,
+      "siteWeb" : "http://www.saintesmaries.com"
+    },
+    "signalerUnProblemeMails" : [ "rronat@saintesmaries.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79628677,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 76 37"
+      },
+      "observation" : {
+        "libelleFr" : "06 08 82 68 03"
+      }
+    }, {
+      "identifiant" : 79628679,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact@masdelacure.org"
+      }
+    }, {
+      "identifiant" : 79628680,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.maisonduchevalcamargue.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5530311
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Rencontre avec un cheval d'exception :\r\nVenez découvrir nos juments et nos chevaux Camargue, dans leur habitat naturel. Visite de 2h sur réservation, 1,5km de marche .",
+      "libelleEn" : "Meeting with an exceptional horse:\r\nCome and discover our mares and our Camargue horses, in their natural habitat. Visit of 2h on reservation, 1,5km of walk.",
+      "libelleEs" : "Conoce a un caballo excepcional:\r\nVenga a descubrir nuestras yeguas y caballos de la Camarga en su hábitat natural. Visita de 2 horas en la reserva, 1,5km de caminata.",
+      "libelleDe" : "Begegnung mit einem außergewöhnlichen Pferd :\r\nEntdecken Sie unsere Camargue-Stuten und -Pferde in ihrem natürlichen Lebensraum. Besuch von 2 Std. mit Reservierung, 1,5 km Fußweg ."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Découverte historique à travers la vie d'un Mas du 19ème siècle, ses activités agricoles et traditionnelles ( viticulture, élevage, ...) découverte écologique en parcourant un sentier permettant notamment de boisements exceptionnels. Découverte de l'élevage extensif du cheval Camargue et du taureau.\r\nOuvert pour les groupes.\r\nOuverture lors des manifestations uniquement.",
+      "libelleEn" : "Historical discovery through the life of a 19th century farmhouse, its agricultural and traditional activities (viticulture, breeding, ...) ecological discovery by walking along a path allowing notably exceptional woodlands. Discovery of the extensive breeding of the Camargue horse and the bull.\r\nOpen for groups.\r\nOpen during events only.",
+      "libelleEs" : "Descubrimiento histórico a través de la vida de un caserío del siglo XIX, sus actividades agrícolas y tradicionales (viticultura, ganadería, ...) descubrimiento ecológico caminando por un sendero que permite un arbolado notablemente excepcional. Descubrimiento de la cría extensiva del caballo y del toro de Camargo.\r\nAbierto para grupos.\r\nAbierto sólo durante los eventos.",
+      "libelleDe" : "Historische Entdeckung durch das Leben in einem Mas aus dem 19. Jahrhundert, seine landwirtschaftlichen und traditionellen Aktivitäten (Weinbau, Viehzucht, ...) Ökologische Entdeckung durch einen Pfad, der vor allem außergewöhnliche Aufforstungen ermöglicht. Entdeckung der extensiven Zucht des Camargue-Pferdes und des Stiers.\r\nFür Gruppen geöffnet.\r\nNur bei Veranstaltungen geöffnet."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1674
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Route D'Arles",
+      "codePostal" : "13460",
+      "bureauDistribution" : "LES SAINTES MARIES DE LA MER",
+      "commune" : {
+        "id" : 4507
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.416156, 43.552628 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4507
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 761
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1130
+    }, {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1190
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 582
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Individuels : d’avril à septembre mercredi et vendredi de 10h à 12h et groupe toute l'année."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16704
+  }, {
+    "id" : 16902
+  }, {
+    "id" : 18002
+  }, {
+    "id" : 19073
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17636571,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "VLASSIS",
+    "prenom" : "Georges",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81736291,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 76 37"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11887771,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/159/11968399.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/159/11968399-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/159/11968399-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/143/159/11968399-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Cure chevaux poulains 019",
+      "taille" : 965568,
+      "hauteur" : 1436,
+      "largeur" : 2154,
+      "lastModifiedDate" : "2021-12-23T14:41:42.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 8487738,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001396_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/253/8256782.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/253/8256782-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/253/8256782-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/14/253/8256782-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 150429,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-07-23T16:54:33.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9812607,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/1/9568554.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/1/9568554-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/1/9568554-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/42/1/9568554-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CURE",
+      "taille" : 32207,
+      "hauteur" : 398,
+      "largeur" : 196,
+      "lastModifiedDate" : "2021-04-15T09:16:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 9812608,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/1/9568555.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/1/9568555-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/1/9568555-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/1/9568555-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "CURE1",
+      "taille" : 31775,
+      "hauteur" : 397,
+      "largeur" : 196,
+      "lastModifiedDate" : "2021-04-15T09:16:52.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 394
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693752
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3851
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001396"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Saintes Maries de la Mer"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.saintesmaries.com"
+    }
+  } ]
+}

@@ -1,0 +1,263 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5539539,
+  "nom" : {
+    "libelleFr" : "Village de Miramas le Vieux",
+    "libelleEn" : "Village de Miramas le Vieux",
+    "libelleEs" : "Village de Miramas le Vieux",
+    "libelleIt" : "Village de Miramas le Vieux",
+    "libelleDe" : "Village de Miramas le Vieux",
+    "libelleNl" : "Village de Miramas le Vieux"
+  },
+  "identifier" : "SITRA2_PCU_5539539",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T15:20:53.570+0000",
+    "dateModification" : "2021-01-08T10:33:19.956+0000",
+    "dateExportModification" : "2022-01-15T18:40:08.508+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Miramas",
+      "dateCreation" : "2020-09-24T09:16:26.716+0000",
+      "dateModification" : "2022-10-24T08:49:41.561+0000",
+      "id" : 2086,
+      "siteWeb" : "https://www.miramas.fr/surprenante/office-de-tourisme"
+    },
+    "signalerUnProblemeMails" : [ "ot.miramas@free.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79675821,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 58 08 24"
+      }
+    }, {
+      "identifiant" : 79675822,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 90 42 72 47"
+      }
+    }, {
+      "identifiant" : 79675823,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ot.miramas@free.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226070
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Les vestiges de Miramas le Vieux sont très bien restaurés. Le village est porté par une table rocheuse qui est bordée par une enceinte. Du Vieux Village on a une vue très étendue sur le côté sauvage de l'étang de Berre et sur l'arrière pays. Le village a conservé ses maisons anciennes à double entrée. Les vestiges du château, bâti au XII ème s, affichent un passage voûté sur croisée d'ogives. L' église du XVème est agrémentée d'un clocher-arcades.\r\nLa chapelle Saint Jullien XII°inscrite à l'inventaire des monuments historiques est un joyau de l'art roman provençal."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13140",
+      "bureauDistribution" : "MIRAMAS",
+      "commune" : {
+        "id" : 4474
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.014758, 43.584217 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4474
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 1115
+    } ],
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "activites" : [ {
+      "elementReferenceType" : "PrestationActivite",
+      "id" : 652
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Parking autocar\nParking public",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 16903
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17644366,
+    "referent" : true,
+    "nom" : "OFFICE DE TOURISME",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81741148,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 58 08 24"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8489196,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2000514_1_HD.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/2/8258240.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/2/8258240-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/2/8258240-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/2/8258240-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 219683,
+      "hauteur" : 800,
+      "largeur" : 600,
+      "lastModifiedDate" : "2020-07-23T17:19:51.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesRestauration" : [ {
+      "elementReferenceType" : "SalleRestauration",
+      "id" : 1230
+    } ]
+  },
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : true
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2000514"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Miramas"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.miramas.org/tourisme"
+    }
+  } ]
+}

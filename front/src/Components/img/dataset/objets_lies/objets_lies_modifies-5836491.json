@@ -1,0 +1,343 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5836491,
+  "nom" : {
+    "libelleFr" : "Atelier Méditation"
+  },
+  "identifier" : "SITRA2_ACT_5836491",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-11T13:02:16.297+0000",
+    "dateModification" : "2022-05-31T09:58:40.371+0000",
+    "dateExportModification" : "2022-10-30T06:21:58.650+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537445,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 202
+      },
+      "coordonnees" : {
+        "fr" : "04 42 55 38 96"
+      }
+    }, {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Juste à la sortie de la ville en direction de Miramas, le dépaysement est total dès qu’on emprunte le chemin qui mène au Moun Mazet, ancien mas typiquement provençal, entouré de prairies de foin de Crau et de platanes."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "C’est dans ce lieu propice à la relaxation et à l’éveil des sens que des séances de méditation sont organisées durant l’été.\r\n\r\nLes ateliers de méditation s’adressent à tous, débutants comme pratiquants.\r\nSeront abordés, l’histoire de la méditation de ses origines jusqu’à nos jours, les différentes techniques et les bienfaits psychologiques et physiologiques scientifiquement reconnus. Ensuite, Pierre Emmanuel Reviron vous guidera pendant une séance de méditation de pleine conscience et vous proposera les clefs pour intégrer cette pratique dans votre quotidien."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Moun Mazet",
+      "adresse1" : "Lieu Dit Sulauze - le Mazet",
+      "adresse2" : "D 569N",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.002136, 43.588896 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 16860
+    },
+    "lieuObjetTouristique" : {
+      "type" : "HEBERGEMENT_LOCATIF",
+      "id" : 5227709
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3737
+    } ],
+    "ageMin" : 216,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Vendredi 22 juillet 2022 de 9h à 10h30.\n\nSamedi 30 juillet 2022 de 9h à 10h30.\n\nSamedi 27 août 2022 de 9h à 10h30.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "Friday 22 July 2022 between 9 am and 10.30 am.\n\nSaturday 30 July 2022 between 9 am and 10.30 am.\n\nSaturday 27 August 2022 between 9 am and 10.30 am.\n\nSubject to favorable weather.",
+      "libelleEs" : "Viernes, 22 de julio de 2022 de 9 a 10:30.\n\nSábado, 30 de julio de 2022 de 9 a 10:30.\n\nSábado, 27 de agosto de 2022 de 9 a 10:30.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Venerdì 22 luglio 2022 dalle 9 alle 10:30.\n\nSabato 30 luglio 2022 dalle 9 alle 10:30.\n\nSabato 27 agosto 2022 dalle 9 alle 10:30.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Freitag, den 22. Juli 2022 von 9 Uhr bis 10.30 Uhr.\n\nSamstag, den 30. Juli 2022 von 9 Uhr bis 10.30 Uhr.\n\nSamstag, den 27. August 2022 von 9 Uhr bis 10.30 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Vrijdag 22 juli 2022 van 9.00 tot en met 10.30 u.\n\nZaterdag 30 juli 2022 van 9.00 tot en met 10.30 u.\n\nZaterdag 27 augustus 2022 van 9.00 tot en met 10.30 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "Пятница 22 июля 2022  с 9h до 10h30.\n\nСуббота 30 июля 2022  с 9h до 10h30.\n\nСуббота 27 августа 2022  с 9h до 10h30.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "2022年7月22日, 星期五   小时小时 和 小时小时分钟  之间.\n\n2022年7月30日, 星期六   小时小时 和 小时小时分钟  之间.\n\n2022年8月27日, 星期六   小时小时 和 小时小时分钟  之间.\n\n需天气良好.",
+      "libellePtBR" : "Sexta-feira 22 Julho 2022 de 9h a  10h30.\n\nSábado 30 Julho 2022 de 9h a  10h30.\n\nSábado 27 Agosto 2022 de 9h a  10h30.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "金曜日 22 7月 2022 9 午前 と 10.30 午前 の間.\n\n土曜日 30 7月 2022 9 午前 と 10.30 午前 の間.\n\n土曜日 27 8月 2022 9 午前 と 10.30 午前 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23345294,
+      "dateDebut" : "2022-07-22",
+      "dateFin" : "2022-07-22",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "10:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454343
+    }, {
+      "identifiant" : 23345297,
+      "dateDebut" : "2022-07-30",
+      "dateFin" : "2022-07-30",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "10:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454344
+    }, {
+      "identifiant" : 21164647,
+      "dateDebut" : "2022-08-27",
+      "dateFin" : "2022-08-27",
+      "horaireOuverture" : "09:00:00",
+      "horaireFermeture" : "10:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23454345
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "5€."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "5€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5842563,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 99433976,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/atelier-meditation-au-moun-mazet.html"
+        }
+      } ],
+      "locked" : false
+    } ],
+    "complement" : {
+      "libelleFr" : "réservations obligatoires"
+    }
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10260119,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Atelier meditation au moun mazet"
+    },
+    "legende" : {
+      "libelleFr" : "Atelier meditation au moun mazet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/45/10038669.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/45/10038669-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/45/10038669-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/45/10038669-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "YOGA DANS UN JARDIN ZEN BAMBOUSERAIE JUILLET  (3)",
+      "taille" : 5153200,
+      "hauteur" : 2976,
+      "largeur" : 3968,
+      "lastModifiedDate" : "2021-06-11T13:06:01.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10260117,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Moun Mazet vous accueille pour des séances bien être"
+    },
+    "legende" : {
+      "libelleFr" : "Le Moun Mazet vous accueille pour des séances bien être"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/45/10038667.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/45/10038667-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/45/10038667-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/139/45/10038667-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "LE MOUN MAZET (2)",
+      "taille" : 88683,
+      "hauteur" : 340,
+      "largeur" : 510,
+      "lastModifiedDate" : "2021-06-11T13:06:01.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Moun Mazet",
+    "dureeSeance" : 90,
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "categories" : [ {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1797
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 1866
+    }, {
+      "elementReferenceType" : "ActiviteCategorie",
+      "id" : 5362
+    } ],
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 5156
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5572478
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-08-27T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

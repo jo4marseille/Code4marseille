@@ -1,0 +1,176 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5703230,
+  "nom" : {
+    "libelleFr" : "Rocher Mistral"
+  },
+  "identifier" : "SITRA2_STR_5703230",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-01-15T14:26:30.146+0000",
+    "dateModification" : "2022-01-22T08:31:02.149+0000",
+    "dateExportModification" : "2022-01-22T08:31:02.251+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Massif des Costes",
+      "dateCreation" : "2020-10-21T12:23:44.707+0000",
+      "dateModification" : "2022-10-24T08:49:46.051+0000",
+      "id" : 2114,
+      "siteWeb" : "http://www.ot-massifdescostes.com"
+    },
+    "signalerUnProblemeMails" : [ "accueil@massifdescostes.com", "promotion.tourisme@massifdescostes.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 85899519,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.rochermistral.com"
+      }
+    }, {
+      "identifiant" : 95971681,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "08 05 29 80 28"
+      }
+    }, {
+      "identifiant" : 86912121,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 60 06 21"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Maison de la chapelle",
+      "codePostal" : "13330",
+      "etat" : "France",
+      "commune" : {
+        "id" : 4420
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.205177, 43.627731 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4420
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 135
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18722816,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "d'Alançon",
+    "prenom" : "Vianney",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 464
+    }
+  }, {
+    "identifiant" : 18722822,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Gratia",
+    "prenom" : "Guillaume",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85899733,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 60 22 58"
+      },
+      "observation" : {
+        "libelleFr" : "06 82 58 84 50"
+      }
+    } ]
+  }, {
+    "identifiant" : 20217474,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Goudon",
+    "prenom" : "Alizée",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 463
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427363
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693847
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

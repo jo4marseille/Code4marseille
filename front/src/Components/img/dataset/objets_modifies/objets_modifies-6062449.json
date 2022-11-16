@@ -1,0 +1,407 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6062449,
+  "nom" : {
+    "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+    "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+  },
+  "identifier" : "SITRA2_EVE_6062449",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-03-17T18:12:20.136+0000",
+    "dateModification" : "2022-11-09T08:29:55.870+0000",
+    "dateExportModification" : "2022-11-09T08:29:56.068+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816667,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+3304 90 14 70 00"
+      }
+    }, {
+      "identifiant" : 97816668,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bonjour.provence@alafrancaise.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5236755
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Découvrez durant cette journée, la ville d'Arles, Saint-Rémy de Provence ainsi que le célèbre village perché des Baux de Provence.",
+      "libelleEn" : "Explore the diversity of the Provencal way of life such as Roman culture, Van Gogh's paintings and beautiful landscapes and villages."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Arrêt photo à l'extérieur de la ville, près de deux monuments romains, datant du 1er siècle avant JC ; l'arc de triomphe et le mausolée, appelé Les Antiques.\r\n\r\nLes Baux de Provence : vous tomberez sous le charme de ce village, datant de l'époque médiévale, construit à 245 mètres d'altitude, au cœur du massif des petites Alpes : les Alpilles.\r\nVous apprécierez votre balade au centre de ce village piétonnier avec ses ruelles pavées, son église, ses boutiques et le superbe panorama depuis le site de l'ancienne forteresse des Baux (entrée non incluse).De Mars à Décembre, à la place du temps libre dans le village, vous aurez la possibilité d'assister au spectacle son et lumière diffusé dans les Carrières de Lumière (entrée non incluse). En 2019, le thème du spectacle est dédié au peintre Van Gogh et la Nuit Etoilée\r\n\r\nArles : la ville d'Arles, autrefois capitale romaine de la Gaule. Vous pourrez admirer cet héritage du monde romain grâce aux Arènes, au Théâtre antique ou encore aux Thermes de Constantin (entrées non incluses). A la fin du 19ème siècle, c'est en Arles que le peintre Vincent Van Gogh est venu s'installer. Ne ratez pas l'opportunité de voir le Café Van Gogh ainsi que le jardin de l'Hôtel Dieu. Temps libre pour flâner au marché le samedi matin.",
+      "libelleEn" : "Through the Crau Plain, this itinerary will take you to the Grand Rhône River bank where stands the ancient city of Arles (UNESCO World Heritage).\r\n\r\nOn the footpaths of Van Gogh, you will discover the roman vestiges with the coliseum and the ancient theater, the Saint Trophime church (carved portal of 12th century), the Forum Square where stands the statue of the provencal poet Frédéric Mistral but also the hotel Dieu (former hospital) and the Van Gogh’s Café.\r\n\r\nLate, on the road that leads you to Les Baux de Provence, you will drive near the abbey of Montmajour (10th century) and pass by Fontvieille, famous place where Alphonse Daudet found inspiration to write his letters.\r\n\r\nLunch on your own, in the perched village of Les Baux de Provence.\r\n\r\nThe afternoon will be spent in the Baux valley well known for its olive trees, before continuing to Saint Rémy de Provence, through the Alpilles mountains and discover its Antiques.\r\n\r\nProvencal markets on wednesdays in Saint-Rémy de Provence and on saturdays in Arles.\r\n\r\nIn les Baux de Provence, possibility to go at les Carrières de Lumières, show dedicated to Venise (entrance not included).\r\n\r\nPlease note that on certain days, a quick drive through Aix-en-Provence to pick up and drop off passengers may be included."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "38 Quai de Rive Neuve",
+      "codePostal" : "13007",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Metro arrêt = Vieux Port- Bus N° 82 et 83 - arrêt Théâtre de la Criée",
+        "libelleEn" : "Metro station stop = Vieux Port- Bus N° 82 and 83 - stops Théâtre de la Criée"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.367380, 43.292400 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4537
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "Informations importantes :\r\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).\r\n\r\nPlease be ready 10 minutes before the departure of the tour.",
+      "libelleEn" : "Important information:\r\nMeeting point in front of the hotel RADISSON BLU MARSEILLE VIEUX PORT (38 quai Rive Neuve).\r\n\r\nPlease be ready 10 minutes before the departure of the tour."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24539251,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24546030
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Transport en minibus climatisé avec chauffeur\r\nNon compris : Le déjeuner\r\nLes sites et monuments.",
+      "libelleEn" : "Included: Transportation with an 8 seater minivan with a driver/guide\r\nNot included: Lunch\r\n\r\nEntrance fees to monuments."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Transport en minibus climatisé avec chauffeur\r\nNon compris : Le déjeuner\r\nLes sites et monuments",
+      "libelleEn" : "Included: Transportation with an 8 seater minivan with a driver/guide\r\nNot included: Lunch\r\n\r\nEntrance fees to monuments"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6870493,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5236755
+      },
+      "nom" : "Tylène Transport Tourisme",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104346026,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/saint-remy-les-baux-de-provence-arles"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14463400,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "legende" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "copyright" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/10/14813854.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/10/14813854-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/10/14813854-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/158/10/14813854-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e2634212ea487691549-cropped600-400-dpl-5e6126f24e39b",
+      "taille" : 53342,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T07:16:55.113+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14463401,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "legende" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "copyright" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/10/14813855.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/10/14813855-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/10/14813855-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/10/14813855-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e26772fe8b886651413-cropped600-400-dpl-5e6126f283f4d",
+      "taille" : 90482,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T07:16:55.371+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14463402,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "legende" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "copyright" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/10/14813856.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/10/14813856-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/10/14813856-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/10/14813856-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e26a0e953b923993933-cropped600-400-dpl-5e6126f2bacf5",
+      "taille" : 80390,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T07:16:55.649+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14463403,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "legende" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "copyright" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/10/14813857.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/10/14813857-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/10/14813857-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/161/10/14813857-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e26d8d8507278737127-cropped600-400-dpl-5e6126f3012fe",
+      "taille" : 104394,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T07:16:54.550+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14463404,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "legende" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "copyright" : {
+      "libelleFr" : "Saint Rémy, Les Baux de Provence, Arles M5",
+      "libelleEn" : "Saint-Rémy, Les Baux de Provence & Arles M5"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/10/14813858.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/10/14813858-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/10/14813858-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/10/14813858-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e2709b2bf7426572060-cropped600-400-dpl-5e6126f3416cd",
+      "taille" : 88544,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-10-20T07:16:54.865+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "144538",
+        "product_supplier_id" : "32302",
+        "sku" : "T-TY50-155328",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

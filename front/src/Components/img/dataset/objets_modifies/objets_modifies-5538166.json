@@ -1,0 +1,218 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538166,
+  "nom" : {
+    "libelleFr" : "Village de Roquevaire",
+    "libelleEn" : "Village de Roquevaire",
+    "libelleEs" : "Village de Roquevaire",
+    "libelleIt" : "Village de Roquevaire",
+    "libelleDe" : "Village de Roquevaire",
+    "libelleNl" : "Village de Roquevaire"
+  },
+  "identifier" : "SITRA2_PCU_5538166",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:14:48.936+0000",
+    "dateModification" : "2020-10-23T13:13:09.750+0000",
+    "dateExportModification" : "2022-11-06T17:40:04.905+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Pays d’Aubagne et de l’Étoile",
+      "dateCreation" : "2020-09-22T14:10:27.011+0000",
+      "dateModification" : "2022-10-24T08:49:46.508+0000",
+      "id" : 2083,
+      "siteWeb" : "http://www.tourisme-paysdaubagne.fr"
+    },
+    "signalerUnProblemeMails" : [ "anne-laure.r@tourisme-paysdaubagne.fr", "cedric.f@tourisme-paysdaubagne.fr", "christine.g@tourisme-paysdaubagne.fr", "damien.d@tourisme-paysdaubagne.fr", "marianne.g@tourisme-paysdaubagne.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 79627981,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 04 01 99"
+      }
+    }, {
+      "identifiant" : 79627982,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.ville-de-roquevaire.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5224162
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "A égale distance entre Marseille, Aix, les Calanques et les plages, Roquevaire s'inscrit dans le Pays Aubagnais.\nRoquevaire centre ville, Lascours village pittoresque niché au pied du Garlaban, Pont de l'Etoile aux petits commerces accueillants et Pont de Joux constituent par leur diversité l'originalité de Roquevaire. \nPatrie des artistes, elle a souvent été surnommée « la cité des peintres » et a compté au nombre des plus célèbres Francis Lascour, Auguste Sieyes, Georges Castelli.\nLe patrimoine rural (croix oratoires, lavoirs...) et industriel (anciennes industries de papier, conserveries de câpres, ancienne savonnerie), la « Maison de Celle qui Peint », constituent un intérêt touristique incontestable.\nLa commune regorge de richesses: la vieille ville et son dédale de ruelles étroites et tortueuses, la chapelle Saint Vincent, chapelle mérovingienne, la plus ancienne de Provence et classée monument historique, Le Pont-Vieux, surplombant l'Huveaune, construit au XVIe siècle, surnommé \"pont Bonaparte \" pour l'avoir vu passer, l'église Saint Vincent du XVIIIe siècle véritable basilique de 2300 m² mais aussi à découvrir de nombreuses randonnées pédestres.",
+      "libelleEn" : "Located in the valley of Huveaune between Aubagne and Auriol, Roquevaire is characterized by its relief. Surrounded by the Sainte-Baume and the Garlaban Mountains, Roquevaire regroups the village of Roquevaire and the Pont de l'Etoile, Pont de Joux and Lascours hamlets.\nYou can admire there a typical landscape made of “restanques” on the slopes, shaped by the orchards (in Lascours particularly).\n\nRoquevaire has two strong patrimonial elements: the most ancient Merovingian chapel of Provence and one of the most important organs of the world.\n\nThe ‘Pierre Cochereau's organs': Pierre Cochereau, an organist, was in charge of the Great Organs of Notre-Dame, in Paris, from 1955 to 1984. He used to own an organ of 70 games on 5 keyboards. A part of this organ composes the 5.000 pipesgames of Roquevaire church.\nThis organ is known as one of the best instruments of the world.\n\nThe ‘Saint Vincent chapel': the most ancient Merovingian chapel of Provence (excavations in process).\n\nBut also...The oratories, the ‘Bonaparte Bridge', dating from the 16th century, the castle ruins, the steeple dating from the Middle Age."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "codePostal" : "13717",
+      "bureauDistribution" : "ROQUEVAIRE",
+      "commune" : {
+        "id" : 4497
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.604011, 43.348750 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4497
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Parking(En centre ville)",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 8488454,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13T2001288_1_WEB.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Mougeot"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/255/8257498.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/255/8257498-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/255/8257498-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/255/8257498-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 60769,
+      "hauteur" : 300,
+      "largeur" : 400,
+      "lastModifiedDate" : "2020-07-23T17:06:25.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427370
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5495125
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693911
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853958
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3507
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001288"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Pays d'Aubagne"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.tourisme-paysdaubagne.fr/fr"
+    }
+  } ]
+}

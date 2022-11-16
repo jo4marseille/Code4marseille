@@ -1,0 +1,228 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5222854,
+  "nom" : {
+    "libelleFr" : "Musée du vieux Lambesc",
+    "libelleEn" : "Musée du vieux Lambesc",
+    "libelleIt" : "Musée du vieux Lambesc",
+    "libelleDe" : "Musée du vieux Lambesc",
+    "libelleNl" : "Musée du vieux Lambesc"
+  },
+  "identifier" : "SITRA2_STR_5222854",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T11:41:19.682+0000",
+    "dateModification" : "2022-05-04T08:52:17.199+0000",
+    "dateExportModification" : "2022-06-30T07:33:57.538+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Bureau municipal du Tourisme de Lambesc",
+      "dateCreation" : "2020-12-03T09:26:21.649+0000",
+      "dateModification" : "2022-11-03T11:45:21.917+0000",
+      "id" : 2145,
+      "siteWeb" : "https://www.lambesc.fr/ma-ville/decouvrez-lambesc/bureau-municipal-de-tourisme/"
+    },
+    "signalerUnProblemeMails" : [ "anne.vasserot-merle@lambesc.fr", "eric.bavay@lambesc.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70512066,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 63 17 60 92"
+      }
+    }, {
+      "identifiant" : 70512067,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 42 57 03 05"
+      }
+    }, {
+      "identifiant" : 70512068,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 03 46 23 46"
+      }
+    }, {
+      "identifiant" : 70512069,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "museelambesc@orange.fr"
+      }
+    }, {
+      "identifiant" : 99039228,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 78 86 19 52"
+      }
+    }, {
+      "identifiant" : 99039323,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/amisduvieuxlambesc/"
+      }
+    } ],
+    "informationsLegales" : {
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "2 Rue Du Jas",
+      "codePostal" : "13410",
+      "commune" : {
+        "id" : 4461
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.261750, 43.651827 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4461
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 20704529,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Cador",
+    "prenom" : "Richard",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 99038816,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 87 52 50 10"
+      }
+    }, {
+      "identifiant" : 99038939,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee.lambesc@orange.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 20704540,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "Thibaut",
+    "prenom" : "Jacques",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "autresFonctions" : [ {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    }, {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 462
+    } ],
+    "moyensCommunication" : [ {
+      "identifiant" : 99038893,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 63 17 60 92"
+      }
+    }, {
+      "identifiant" : 99038925,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "musee.lambesc@orange.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

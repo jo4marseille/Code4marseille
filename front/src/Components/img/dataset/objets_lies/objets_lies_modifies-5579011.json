@@ -1,0 +1,134 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5579011,
+  "nom" : {
+    "libelleFr" : "Fernandez-Ortega",
+    "libelleEn" : "Fernandez-Ortega",
+    "libelleIt" : "Fernandez-Ortega",
+    "libelleDe" : "Fernandez-Ortega",
+    "libelleNl" : "Fernandez-Ortega"
+  },
+  "identifier" : "SITRA2_STR_5579011",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-19T04:18:00.226+0000",
+    "dateModification" : "2021-10-20T15:03:52.209+0000",
+    "dateExportModification" : "2022-06-09T07:16:13.971+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Fuveau",
+      "dateCreation" : "2020-09-22T14:17:07.007+0000",
+      "dateModification" : "2022-10-24T08:49:37.402+0000",
+      "id" : 2084,
+      "siteWeb" : "http://www.fuveau-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "contact@fuveau-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80455446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "07 60 21 31 90"
+      }
+    }, {
+      "identifiant" : 80455447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "safran.emilie@gmail.com"
+      }
+    }, {
+      "identifiant" : 88057221,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 85 92 10 85"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "81412477200017",
+      "codeApeNaf" : "0128Z",
+      "modeGestion" : {
+        "elementReferenceType" : "ModeGestion",
+        "id" : 133
+      }
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "12 Chemin Des Amandiers",
+      "adresse2" : "La Barque",
+      "codePostal" : "13710",
+      "bureauDistribution" : "FUVEAU",
+      "commune" : {
+        "id" : 4451
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.528151, 43.474636 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4451
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19098577,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "FERNANDEZ-ORTEGA",
+    "prenom" : "Emilie",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

@@ -1,0 +1,382 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6245303,
+  "nom" : {
+    "libelleFr" : "Réparations",
+    "libelleEn" : "Réparations",
+    "libelleEs" : "Réparations",
+    "libelleIt" : "Réparations",
+    "libelleDe" : "Réparations",
+    "libelleNl" : "Réparations",
+    "libelleRu" : "Réparations",
+    "libelleZh" : "Réparations",
+    "libellePtBR" : "Réparations",
+    "libelleJa" : "Réparations"
+  },
+  "identifier" : "SITRA2_EVE_6245303",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-08-30T10:17:57.281+0000",
+    "dateModification" : "2022-08-31T10:27:50.791+0000",
+    "dateExportModification" : "2022-10-03T06:19:43.135+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 102730952,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 19 23 33 92"
+      }
+    }, {
+      "identifiant" : 102730953,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "communication.arteum@gmail.com"
+      }
+    }, {
+      "identifiant" : 102730954,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mac-arteum.com"
+      }
+    }, {
+      "identifiant" : 102730955,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/macarteum"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223089
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Exposition collective, Réparations est le thème qui éveille un écho en chacun de nous. Repenser le dessin, dessiner ce qui touche chacun.e et, ce faisant, toucher l’histoire universelle. La faire émerger dans une pratique artistique."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Des pratiques artistiques  parlent de ce point de jonction entre blessure, cassure, accident, traumatisme, panne... et réhabilitation, restauration, soins, conjuration. Que ces méthodes ou techniques visent la matière, le corps ou l’intime. \r\nLe lieu, datant du XVII-XVIII -ème siècle, avec son espace d’exposition constitué de salles distinctes réparties sur 200 m², est en éternelle tentative de sauvegarde ou de restauration : les choses se font, doucement, et se défont. Il dégage un charme certain dans lequel ce thème résonne avec justesse, et permet d’offrir un périmètre dédié, un univers propre à chaque artiste, même si certains se croisent et se côtoient. Des dialogues s’instaurent.\r\n\r\nExposition dans le cadre de la Saison du dessin 2022 en partenariat avec Une 5ème Saison, biennale d'art et de culture d'Aix-en-Provence et Arts Vivants Aix."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "MAC Arteum",
+      "adresse1" : "Le Château - Hôtel de Ville (2éme étage)",
+      "adresse2" : "Place Auguste Baret",
+      "adresse3" : "RN7",
+      "codePostal" : "13790",
+      "commune" : {
+        "id" : 4436
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.568415, 43.489245 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4436
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538501
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 17/09 au 19/11/2022, tous les mercredis, jeudis, vendredis et samedis de 14h à 18h.\nVernissage le 1er octobre à 11h.",
+      "libelleEn" : "From 17/09 to 19/11/2022, every Wednesday, Thursday, Friday and Saturday between 2 pm and 6 pm.",
+      "libelleEs" : "Del 17/09 al 19/11/2022, todos los miércoles, jueves, viernes y sábados de 14 a 18.",
+      "libelleIt" : "Dal 17/09 al 19/11/2022, tutti i mercoledì, giovedì, venerdì e sabati dalle 14 alle 18.",
+      "libelleDe" : "Vom 17/09 bis 19/11/2022, jeden Mittwoch, Donnerstag, Freitag und Samstag von 14 Uhr bis 18 Uhr.",
+      "libelleNl" : "Van 17/09 tot en met 19/11/2022, elke woensdag, donderdag, vrijdag en zaterdag van 14.00 tot en met 18.00 u.",
+      "libelleRu" : "С 17/09 до 19/11/2022, каждый среды, четверги, пятницы и субботы с 14h до 18h.",
+      "libelleZh" : "从 9月17日 到 2022年11月19日, 每星期三, 星期四, 星期五 和 星期六 小时小时 和 小时小时 之间.",
+      "libellePtBR" : "De 17/09 a 19/11/2022, todas as quartas-feiras, quintas-feiras, sextas-feiras e sábados de 14h a  18h.",
+      "libelleJa" : "17/09 から 19/11/2022 まで, 毎水曜日, 木曜日, 金曜日 と 土曜日 2 午後 と 6 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24186860,
+      "dateDebut" : "2022-09-17",
+      "dateFin" : "2022-11-19",
+      "complementHoraire" : {
+        "libelleFr" : "Vernissage le 1er octobre à 11h."
+      },
+      "horaireOuverture" : "14:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24195777
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Adulte : 5 € (à partir de 13 ans.).\n\n\nVisite commentée sur réservation.\r\nPossibilité de faire un don pour soutenir l'association, les artistes et de futures expositions.",
+      "libelleEn" : "Adult: 5 €.\n",
+      "libelleEs" : "Adulto: 5 €.\n",
+      "libelleIt" : "Adulto: 5 €.\n",
+      "libelleDe" : "Erwachsene: 5 €.\n",
+      "libelleNl" : "Volwassene: € 5.\n",
+      "libelleRu" : "Взрослый : 5 €.\n",
+      "libelleZh" : "成人 : 5 €.\n",
+      "libellePtBR" : "Adulto: 5 €.\n",
+      "libelleJa" : "大人: 5 €.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Visite commentée sur réservation.\r\nPossibilité de faire un don pour soutenir l'association, les artistes et de futures expositions."
+    },
+    "periodes" : [ {
+      "identifiant" : 13599283,
+      "dateDebut" : "2022-09-17",
+      "dateFin" : "2022-11-19",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "precisionTarif" : {
+          "libelleFr" : "à partir de 13 ans."
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 1754
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1281
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21240747,
+    "referent" : true,
+    "nom" : "Courbon",
+    "prenom" : "Christiane",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 102730956,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "ch.c.direction.arteum@gmail.com"
+      }
+    }, {
+      "identifiant" : 102730957,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 19 23 33 92"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13907819,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Bataille"
+    },
+    "copyright" : {
+      "libelleFr" : "© Brian Mura"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/53/14169489.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/53/14169489-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/53/14169489-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/53/14169489-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "La Bataille 4",
+      "taille" : 53633,
+      "hauteur" : 330,
+      "largeur" : 485,
+      "lastModifiedDate" : "2022-08-31T10:27:50.896+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13907820,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Je tisserai des liens"
+    },
+    "copyright" : {
+      "libelleFr" : "© Corinne de Battista"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/53/14169490.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/53/14169490-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/53/14169490-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/53/14169490-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "20220517_171629 low",
+      "taille" : 47023,
+      "hauteur" : 443,
+      "largeur" : 591,
+      "lastModifiedDate" : "2022-08-31T10:27:51.363+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13907822,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La noue. 2"
+    },
+    "copyright" : {
+      "libelleFr" : "© Rose Lemeunier"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/53/14169491.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/53/14169491-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/53/14169491-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/147/53/14169491-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "la noue .2",
+      "taille" : 1482655,
+      "hauteur" : 721,
+      "largeur" : 971,
+      "lastModifiedDate" : "2022-08-31T10:27:51.710+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "MAC Arteum"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-19T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,519 @@
+{
+  "type" : "COMMERCE_ET_SERVICE",
+  "id" : 5563670,
+  "nom" : {
+    "libelleFr" : "RTM Le Bateau Frioul If",
+    "libelleEn" : "Frioul If Express",
+    "libelleEs" : "Frioul If Express",
+    "libelleIt" : "Frioul If Express",
+    "libelleDe" : "Frioul If Express",
+    "libelleNl" : "Frioul If Express"
+  },
+  "identifier" : "SITRA2_COS_5563670",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-06-10T22:28:10.498+0000",
+    "dateModification" : "2022-07-12T07:27:19.812+0000",
+    "dateExportModification" : "2022-09-19T09:34:43.519+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 80132426,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 23 36 92 90"
+      }
+    }, {
+      "identifiant" : 80132427,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 96 11 03 50"
+      }
+    }, {
+      "identifiant" : 80132428,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "accueil.frioul@rtm.fr"
+      }
+    }, {
+      "identifiant" : 80132429,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.lebateau-frioul-if.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5349286
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Desserte maritime pour les îles d'If et Frioul au départ du Vieux Port angle Quai des Belges et Quai de Rive Neuve. \r\n\r\nDéparts du Vieux Port tous les jours en fonction de la météo. Le débarcadère au Frioul se trouve quai Léo Lagrange."
+    },
+    "descriptifDetaille" : { },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 6143
+      },
+      "description" : {
+        "libelleFr" : "Nous limitons la capacité de nos navettes à 57 passagers pour permettre la distanciation physique à bord.\nLes masques seront obligatoires pour monter à bord."
+      }
+    } ],
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 6199
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1  Quai de la Fraternité",
+      "adresse2" : "Vieux Port",
+      "codePostal" : "13001",
+      "bureauDistribution" : "MARSEILLE",
+      "commune" : {
+        "id" : 4531
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Nous limitons la capacité de nos navettes à 57 passagers pour permettre la distanciation physique à bord.\r\nLes masques seront obligatoires pour monter à bord."
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374378, 43.294271 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4531
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5234092
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5539391
+      }
+    }, {
+      "type" : "OBJET_PACKAGE",
+      "libelleFr" : "Est proposé par l'offre \"tout compris\"...",
+      "libelleEn" : "Features in the “all-inclusive” offer...",
+      "libelleEs" : "La propone la oferta «todo incluido»...",
+      "libelleIt" : "È proposto dall’offerta “tutto incluso”...",
+      "libelleDe" : "Wird vom „All-inclusive“-Angebot ... angeboten.",
+      "libelleNl" : "Wordt aangeboden door de \"all-inclusive\"-aanbieding ...",
+      "libelleRu" : "Предлагается по тарифу «всё включено»...",
+      "libelleZh" : "由“全包”优惠提供",
+      "libellePtBR" : "Está proposto pela oferta “all inclusive” ...",
+      "libelleJa" : "は「全込み」オファーで提供されています",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5857728
+      }
+    }, {
+      "type" : "OBJET_PACKAGE",
+      "libelleFr" : "Est proposé par l'offre \"tout compris\"...",
+      "libelleEn" : "Features in the “all-inclusive” offer...",
+      "libelleEs" : "La propone la oferta «todo incluido»...",
+      "libelleIt" : "È proposto dall’offerta “tutto incluso”...",
+      "libelleDe" : "Wird vom „All-inclusive“-Angebot ... angeboten.",
+      "libelleNl" : "Wordt aangeboden door de \"all-inclusive\"-aanbieding ...",
+      "libelleRu" : "Предлагается по тарифу «всё включено»...",
+      "libelleZh" : "由“全包”优惠提供",
+      "libellePtBR" : "Está proposto pela oferta “all inclusive” ...",
+      "libelleJa" : "は「全込み」オファーで提供されています",
+      "objetTouristique" : {
+        "type" : "SEJOUR_PACKAGE",
+        "id" : 5849954
+      }
+    } ]
+  },
+  "prestations" : {
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 593
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19196631,
+      "dateDebut" : "2021-01-01",
+      "dateFin" : "2021-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 23858359
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Billet : 11.1€ \r\nForfait : 16.7€"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16636
+  }, {
+    "id" : 16782
+  } ],
+  "contacts" : [ {
+    "identifiant" : 17722221,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "ZARB",
+    "prenom" : "Véronique",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 459
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81096803,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 69 76 93 52"
+      }
+    }, {
+      "identifiant" : 81096804,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "vzarb@rtm.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 17722222,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "DE SANTIS",
+    "prenom" : "Gilles",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81096805,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "gilles.de-santis@transdev.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17722223,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "GUZENE",
+    "prenom" : "Marie-Rose",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81096806,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marie-rose.guzene@transdev.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17722224,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DUPLAN",
+    "prenom" : "Olivia",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81096807,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "olivia.duplan@transdev.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 17722225,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "DARTIGUENAVE",
+    "prenom" : "Florence",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 463
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 81096808,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 94 03 91 88"
+      }
+    }, {
+      "identifiant" : 81096809,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 27 82 94 04"
+      }
+    }, {
+      "identifiant" : 81096810,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "florence.dartiguenave@transdev.com"
+      }
+    } ]
+  }, {
+    "identifiant" : 21054041,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "SANCHEZ",
+    "prenom" : "Philippe",
+    "titre" : {
+      "libelleFr" : "Responsable du pôle maritime"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 4196
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101216674,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 22 21 47 02"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10753629,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "RTM LeBateau Frioul If .jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/249/10615256.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/249/10615256-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/249/10615256-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/249/10615256-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 8977,
+      "hauteur" : 122,
+      "largeur" : 183,
+      "lastModifiedDate" : "2021-08-16T11:50:12.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10753631,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "RTM LeBateau Frioul I.jpg"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/249/10615258.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/249/10615258-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/249/10615258-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/249/10615258-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 8321,
+      "hauteur" : 124,
+      "largeur" : 186,
+      "lastModifiedDate" : "2021-08-16T11:50:13.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "informationsCommerceEtService" : {
+    "commerceEtServiceType" : {
+      "elementReferenceType" : "CommerceEtServiceType",
+      "id" : 1875
+    },
+    "typesDetailles" : [ {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 5433
+    }, {
+      "elementReferenceType" : "CommerceEtServiceTypeDetaille",
+      "id" : 5434
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2021-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T4014450"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Marseille"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.marseille-tourisme.com"
+    }
+  } ]
+}

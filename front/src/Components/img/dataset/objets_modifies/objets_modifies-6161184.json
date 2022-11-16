@@ -1,0 +1,468 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6161184,
+  "nom" : {
+    "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+  },
+  "identifier" : "SITRA2_EVE_6161184",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-06-07T22:14:38.063+0000",
+    "dateModification" : "2022-11-08T09:22:04.913+0000",
+    "dateExportModification" : "2022-11-08T23:13:53.652+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100163665,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "0 826 50 05 00"
+      }
+    }, {
+      "identifiant" : 100163666,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "resa@marseille-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5464509
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Parcours enfant \"Le Corbusier, un jeu d'enfant\"\nVisite guidée ludique à faire en famille à la découverte de l'une des plus suprenantes architectures du XXe siècle, patrimoine mondial de l'UNESCO.\n\n"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Au moyen de questions, énigmes, d'observation, découverte des différents espaces de l'édifice : hall, 3e et 4e rues (rues commerçantes), appartement classé Monument Historique et toit terrasse. L'architecture du grand maître du XXe siècle n'aura plus de secret pour les petits visiteurs\n\nCes visites guidées sont destinées à la clientèle individuelle. Pour les groupes d'enfants (à partir de 10 enfants) merci de contacter le Service Groupes : groupes@marseille-tourisme.com"
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"Parcours ludique à la Cité radieuse \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. Une activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "280 Boulevard Michelet",
+      "codePostal" : "13008",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Se présenter 15 mn avant le départ- Merci de venir à l’heure de visite que vous avez sélectionnée. En cas de retard, l’accès peut vous être refusé.\nMétro 2 direction \"Sante-Marguerite Dromel\" jusqu'à la station \"Rond Point du Prado\"puis bus B1/22/22S (Direction Luminy) jusqu'à l'arrêt \"Le Corbusier\". compter 40 mn\nSur la contre-allée le long du boulevard Michelet (interdiction de stationner dans la résidence"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.396250, 43.261700 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4538
+    }, {
+      "id" : 4466
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nPrérequis :\nPrésence d'un adulte obligatoire. Un seul adulte accompagnateur/par réservation.\nInformations importantes :\nEnfants de 6 à 11 ans\nPoussettes et chiens non autorisés (excepté chien d'assistance).\n\nPour pouvoir vous accueillir en toute sécurité, nos guides mettent tout en oeuvre pour le respect des règles sanitaires liées au Covid19: port du masque et visière, respect des distances et gel hydroalcoolique"
+    },
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716868,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716868
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Compris : Livret de visite +  crayons."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Compris : Livret de visite +  crayons"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915461,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5464509
+      },
+      "nom" : "Office Métropolitain de Tourisme et des Congrès de Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993262,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/parcours-ludique-a-la-cite-radieuse"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16642
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813251,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/233/15198516.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/233/15198516-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/233/15198516-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/233/15198516-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e72f4445ef888816658-cropped600-400",
+      "taille" : 109078,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:09.746+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813252,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/233/15198517.png",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/233/15198517-liste.png",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/233/15198517-fiche.png",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/233/15198517-diaporama.png",
+      "extension" : "png",
+      "fileName" : "big-ticket-image-5e5e751de69c1688155254-cropped600-400",
+      "taille" : 401525,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:10.058+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813253,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/233/15198518.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/233/15198518-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/233/15198518-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/54/233/15198518-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e134f3d63233777979186-cropped600-400",
+      "taille" : 41646,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:08.782+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813254,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/55/233/15198519.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/55/233/15198519-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/55/233/15198519-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/55/233/15198519-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e134d1db8614058994049-cropped600-400",
+      "taille" : 82985,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:09.414+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813255,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/233/15198520.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/233/15198520-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/233/15198520-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/233/15198520-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e134c29f0216574116988-cropped600-400",
+      "taille" : 99333,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:08.056+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813256,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/233/15198521.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/233/15198521-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/233/15198521-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/57/233/15198521-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e5e73385134a604025950-cropped600-400",
+      "taille" : 75050,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:08.378+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813257,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "legende" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "copyright" : {
+      "libelleFr" : "Parcours ludique à la Cité radieuse (Famille)"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/233/15198522.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/233/15198522-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/233/15198522-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/233/15198522-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5e134f6f32530961581129-cropped600-400",
+      "taille" : 61114,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:22:07.788+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2126
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2162
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.8,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 767,
+        "dateMaj" : 1656011444798
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "129162",
+        "product_supplier_id" : "28482",
+        "sku" : "T-OF85-138422",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

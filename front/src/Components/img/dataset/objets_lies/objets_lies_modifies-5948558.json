@@ -1,0 +1,100 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5948558,
+  "nom" : {
+    "libelleFr" : "Cirque Mondial"
+  },
+  "identifier" : "SITRA2_STR_5948558",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-10-19T11:48:07.601+0000",
+    "dateModification" : "2021-10-19T11:49:53.541+0000",
+    "dateExportModification" : "2021-10-19T11:49:53.967+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 92967691,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.cirque-mondial.com/"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "117 Promenade des Anglais",
+      "codePostal" : "06200",
+      "etat" : "France",
+      "commune" : {
+        "id" : 37423
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 7.244770, 43.690656 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 37423
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19807991,
+    "referent" : true
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 100012
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 100154
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 100180
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 585905
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4920302
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5505653
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5674661
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

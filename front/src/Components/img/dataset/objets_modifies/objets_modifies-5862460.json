@@ -1,0 +1,376 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5862460,
+  "nom" : {
+    "libelleFr" : "L'Estaque : Un village aux confins."
+  },
+  "identifier" : "SITRA2_EVE_5862460",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-06T10:53:59.623+0000",
+    "dateModification" : "2022-11-08T09:20:43.731+0000",
+    "dateExportModification" : "2022-11-08T23:15:00.263+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816556,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 6 62 19 48 39"
+      }
+    }, {
+      "identifiant" : 97816557,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sanchorio@free.fr"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5584533
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5584533
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Promenades Urbaines à l’Estaque : Un village aux confins. Le comédien/tchatcheur Jean Marie A. Sanchez vous propose de sortir des chemins balisés et de croiser les regards : entre vie de village et réflexion philosophique sur l'usage de l’espace…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Les Promenades Urbaines.\n\nUne Promenade Urbaine, c'est un instant suspendu, une approche différente et curieuse de la ville qui mêle tourisme, théâtre, découverte et réflexion philosophique.\n\nUne Promenade Urbaine c'est poétique, littéraire durant 3 heures dans le dédale des ruelles, des escaliers et des impasses d'un quartier mythique, propice à la découverte, à l'émotion, à la réflexion.\n\nJean Marie Arnaud Sanchez, comédien tchatcheur, amoureux des mots de G. Perec, combine lieux historiques de Marseille, réflexions sur l'espace et textes incisifs de l'écrivain célèbre, entre autre, pour son regard urbain. Parcourir l’espace, l’espace d’un moment, Voir ce que l’on ne voit plus, la rue, le passant, le détail qui fait sourire, la perspective, les passages matérialisés… Voir ce que l'on ne sait plus voir, ce que l'on a toujours rêvé de voir.\n\nUne Promenade Urbaine, c'est aussi, un peu, comme une Visité Guidée de l'espace qui nous entoure et qu'on ne regarde plus.\n\nA Marseille, il y a 2 Promenades Urbaines : Le Panier, Premier village de Marseille &amp; L'Estaque, un village aux confins."
+    },
+    "descriptifsThematises" : [ {
+      "dateDisponibilite" : null,
+      "dateLimiteDePublication" : null,
+      "theme" : {
+        "elementReferenceType" : "DescriptifTheme",
+        "id" : 5417
+      },
+      "description" : {
+        "libelleFr" : "Votre Engagement : \"L'Estaque : Un village aux confins \" est une activité bas carbone. En choisissant cette prestation, vous limitez considérablement votre impact environnemental. \r\nUne activité bas carbone n'émet pas ou très peu de CO2 provenant des énergies fossiles."
+      }
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "122 Plage de l'Estaque",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Nous avons déplacé le rendez-vous à 10h15 pour qui vous puissiez prendre la Navette Maritime qui part du Vieux-Port. Billet non compris dans le prix de la Promenade Urbaine.\n2 min Ligne 35 Arrêt Estaque Village\n5 min Gratuit parking de l'espace Mistral"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.311940, 43.361600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4546
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nAttention beaucoup d'escaliers, de montées et de descentes : difficile en fauteuil, poussette, enfants en bas âge, cannes, béquilles... mais pas impossible !!\n\nDéconseillé aux enfants de moins de 10 ans."
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716920,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716920
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915509,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5584533
+      },
+      "nom" : "Jean-Marie Arnaud Sanchez",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993410,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/estaque-promenade-urbaine-poetique-et-culturelle"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 16644
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14813398,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "legende" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "copyright" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/233/15198663.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/233/15198663-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/233/15198663-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/199/233/15198663-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6034dd1966948432180387-cropped600-400",
+      "taille" : 155830,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:48.264+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813399,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "legende" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "copyright" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/233/15198664.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/233/15198664-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/233/15198664-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/233/15198664-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6034dd4921bf4718812611-cropped600-400",
+      "taille" : 124500,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:47.329+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813400,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "legende" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "copyright" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/233/15198665.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/233/15198665-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/233/15198665-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/201/233/15198665-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6034dd93569ef369504131-cropped600-400",
+      "taille" : 102582,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:47.790+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813401,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "legende" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "copyright" : {
+      "libelleFr" : "L'Estaque : Un village aux confins."
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/233/15198666.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/233/15198666-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/233/15198666-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/233/15198666-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-6034ddb3398e1504070123-cropped600-400",
+      "taille" : 115552,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:20:46.805+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2210
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2238
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.6,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 61,
+        "dateMaj" : 1667557118096
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "154311",
+        "product_supplier_id" : "32317",
+        "sku" : "T-RI10-154963",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

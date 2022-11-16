@@ -1,0 +1,331 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6290322,
+  "nom" : {
+    "libelleFr" : "Les Ateliers des Petits Fans"
+  },
+  "identifier" : "SITRA2_EVE_6290322",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-08T14:44:43.211+0000",
+    "dateModification" : "2022-10-10T09:08:26.561+0000",
+    "dateExportModification" : "2022-10-10T09:08:42.294+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.ginoux@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103975196,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 78 07 83 26"
+      }
+    }, {
+      "identifiant" : 103975197,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@leeufan-arles.org"
+      }
+    }, {
+      "identifiant" : 103975198,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.leeufan-arles.org/evenements/les-ateliers-des-petits-fans"
+      }
+    } ]
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Les Ateliers des Petits Fans, destinés aux 6-12 ans, proposent le temps d’un mercredi après-midi une visite découverte des œuvres de Lee Ufan suivi d’un atelier créatif."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Mercredi 9 Novembre / Ombre & Lumière \r\nQue la lumière crée des reliefs inattendus ou que l’ombre métamorphose notre perspective d’une œuvre, elles sont toutes deux des personnages à part entière des créations de Lee Ufan. Pendant cet atelier, puisant dans l'univers de l'artiste, fabrique ton propre théâtre d’ombres. Goûter de chez Yamamoto inclus."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Lee Ufan Arles",
+      "adresse1" : "Hôtel Vernon",
+      "adresse2" : "5 Rue Vernon",
+      "codePostal" : "13200",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.628124, 43.677951 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5929926
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290327
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6290328
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 16h30.",
+      "libelleEn" : "Wednesday 9 November 2022 at 4.30 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 16:30.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 16:30.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 16.30 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 16.30 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 16h30.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时分钟.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  16h30.",
+      "libelleJa" : "水曜日 9 11月 2022 4.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24458720,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireFermeture" : "16:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24458720
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : à partir de 12 € (De 6 à 12 ans).\n",
+      "libelleEn" : "One price: from 12 €.\n",
+      "libelleEs" : "Tarifa única: a partir de 12 €.\n",
+      "libelleIt" : "Tariffa unica: a partire da 12 €.\n",
+      "libelleDe" : "Einheitspreis: ab 12 €.\n",
+      "libelleNl" : "Vast tarief: vanaf 12 €.\n",
+      "libelleRu" : "Единый тариф : с 12 €.\n",
+      "libelleZh" : "定价 : 从 12 €.\n",
+      "libellePtBR" : "Tarifa única: a partir de 12 €.\n",
+      "libelleJa" : "シングルレート: 12 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13724136,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 12.00,
+        "precisionTarif" : {
+          "libelleFr" : "De 6 à 12 ans"
+        },
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1268
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 6283
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 21403586,
+    "referent" : true,
+    "nom" : "Jouchoux",
+    "prenom" : "Lily",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 471
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103975199,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "billetterie@leeufan-arles.org"
+      }
+    }, {
+      "identifiant" : 103975200,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "09 78 07 83 26"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14340397,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Lee Ufan Arles"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/222/14671578.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/222/14671578-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/222/14671578-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/222/14671578-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/218/222/14671578-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "Petits Fans 2",
+      "taille" : 3327775,
+      "hauteur" : 3615,
+      "largeur" : 3024,
+      "lastModifiedDate" : "2022-10-10T09:08:26.854+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 8,
+    "nomLieu" : "Lee Ufan Arles"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

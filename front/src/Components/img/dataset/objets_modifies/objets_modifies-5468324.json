@@ -1,0 +1,281 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5468324,
+  "nom" : {
+    "libelleFr" : "Les arènes de l'impro",
+    "libelleEn" : "Les arènes de l'impro",
+    "libelleIt" : "Les arènes de l'impro",
+    "libelleDe" : "Les arènes de l'impro",
+    "libelleNl" : "Les arènes de l'impro"
+  },
+  "identifier" : "SITRA2_EVE_5468324",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-04T08:42:31.155+0000",
+    "dateModification" : "2022-10-12T09:52:35.456+0000",
+    "dateExportModification" : "2022-10-12T09:52:35.575+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77077669,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://fondus.fr/"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5468323
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Café Culturel Citoyen accueille les Fondus pour les arènes de l'impro. \r\nVenez assister au spectacle d'impro mythique des Fondus."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "9 gladiateurs...\r\n3 sénateurs pour les juger...\r\nUne arène remplie de spectateurs...\r\nA la fin, un seul des gladiateurs prendra place parmi les dieux !"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Le 3C - Café Culturel Citoyen",
+      "adresse1" : "23 Boulevard Carnot",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.454783, 43.525843 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5753794
+      }
+    }, {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "COMMERCE_ET_SERVICE",
+        "id" : 5558428
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 09/09 au 09/06, le 2ème vendredi du mois de 20h30 à 22h. sauf pour le mois de mars (le 3)",
+      "libelleEn" : "From 09/09 to 09/06, 2nd Friday of the month between 8.30 pm and 10 pm.",
+      "libelleEs" : "Del 09/09 al 09/06, el 2° viernes de mes de 20:30 a 22.",
+      "libelleIt" : "Dal 09/09 al 09/06, il 2° venerdì del mese dalle 20:30 alle 22.",
+      "libelleDe" : "Vom 09/09 bis 09/06, jeden 2. Freitag des Monats von 20.30 Uhr bis 22 Uhr.",
+      "libelleNl" : "Van 09/09 tot en met 09/06, op de 2de vrijdag van de maand van 20.30 tot en met 22.00 u.",
+      "libelleRu" : "С 09/09 до 09/06, 2-й пятница месяца с 20h30 до 22h.",
+      "libelleZh" : "从 9月9日 到 6月9日, 本月 于 第二天 星期五  小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "De 09/09 a 09/06, as 2º sexta-feira do mês de 20h30 a  22h.",
+      "libelleJa" : "09/09 から 09/06 まで, 月の2日 金曜日 8.30 午後 と 10 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 19997965,
+      "dateDebut" : "2022-09-09",
+      "dateFin" : "2023-06-09",
+      "horaireOuverture" : "20:30:00",
+      "horaireFermeture" : "22:00:00",
+      "type" : "OUVERTURE_MOIS",
+      "tousLesAns" : true,
+      "ouverturesJourDuMois" : [ {
+        "jourDuMois" : "D_2EME",
+        "jour" : "VENDREDI"
+      } ],
+      "identifiantTechnique" : 24481735
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Sans réservation.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "sans réservation"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 9066754,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13EVT097555_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Fondus"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/155/8821613.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/155/8821613-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/155/8821613-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/155/8821613-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 118572,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2020-11-15T05:08:45.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-14", "2022-11-11", "2022-12-09", "2023-01-13", "2023-02-10", "2023-03-10", "2023-04-14", "2023-05-12", "2023-06-09", "2023-10-13", "2023-11-10", "2023-12-08", "2024-01-12", "2024-02-09", "2024-03-08", "2024-04-12", "2024-05-10", "2024-09-13", "2024-10-11" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Le 3C - Café Culturel Citoyen"
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13EVT097555"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

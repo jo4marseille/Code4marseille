@@ -1,0 +1,849 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538988,
+  "nom" : {
+    "libelleFr" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleEn" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleEs" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleIt" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleDe" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleNl" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleRu" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleZh" : "Miroir aux oiseaux et canal St Sébastien",
+    "libellePtBR" : "Miroir aux oiseaux et canal St Sébastien",
+    "libelleJa" : "Miroir aux oiseaux et canal St Sébastien"
+  },
+  "identifier" : "SITRA2_PCU_5538988",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-27T10:51:34.290+0000",
+    "dateModification" : "2022-08-12T12:38:16.512+0000",
+    "dateExportModification" : "2022-10-18T12:48:17.692+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme et des Loisirs de Martigues",
+      "dateCreation" : "2020-09-21T14:40:58.539+0000",
+      "dateModification" : "2022-10-24T08:49:47.539+0000",
+      "id" : 2082,
+      "siteWeb" : "http://www.martigues-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "etourisme@splte-martigues.fr", "animations@martigues-tourisme.com", "webmaster@splte-martigues.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 100160016,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "info@martigues-tourisme.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5661581
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le pittoresque Miroir aux oiseaux fait la réputation internationale de Martigues.",
+      "libelleEn" : "The picturesque Miroir aux oiseaux has made Martigues famous internationally.",
+      "libelleEs" : "El pintoresco Miroir aux oiseaux ha dado fama internacional a Martigues.",
+      "libelleDe" : "Das malerische Miroir aux oiseaux hat Martigues international bekannt gemacht."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "L'ensemble formé par le canal St Sébastien, le miroir aux oiseaux et le quai Brescon est site classé depuis 1942.\r\nCe bras de mer enjambé par le pont Saint Sébastien, l'alignement des maisons de pêcheurs colorées aux hauteurs aléatoires a fasciné de nombreux peintres comme Delacroix, Corot, Loubon, Ziem ou Dufy depuis la fin du XIXe siècle.",
+      "libelleEn" : "The area including the Canal St Sébastien, the Miroir aux Oiseaux and the Quai Brescon was listed in 1942.\r\nThis strip of sea straddled by the Pont Saint Sébastien and the line of colourful fishermen's houses with random heights has fascinated numerous painters since the end of the 19th century including Delacroix, Corot, Loubon, Ziem and Dufy.",
+      "libelleEs" : "Brescon Wharf, pájaro espejo dijo, se ha convertido en un lugar para la elección de los pintores desde el final del siglo XIX. Plan de agua flanqueada por casas de pescadores, con fachadas pintadas, que ha fascinado a muchos pintores como Delacroix, Corot, Loubon, Ziem o Dufy.",
+      "libelleDe" : "Das Ensemble aus Canal Saint-Sébastien, Miroir aux Oiseaux und Quai Brescon steht seit 1942 unter Denkmalschutz.\r\nDieser Meeresarm, der vom Pont Saint Sébastien überspannt wird, und die Reihe aus bunten Fischerhäusern mit ihren willkürlich zusammengewürfelten Höhen faszinierte seit Ende des 19. Jahrhunderts zahlreiche Maler wie Delacroix, Corot, Loubon, Ziem oder Dufy."
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1603
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Quai Brescon",
+      "adresse3" : "L'île",
+      "codePostal" : "13500",
+      "bureauDistribution" : "MARTIGUES",
+      "commune" : {
+        "id" : 4467
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Marseille Provence : Aéroport/Aérodrome à 20 km\r\nGare de Martigues Lavéra : Gare ferroviaire à 4 km",
+        "libelleEn" : "Marseille Provence: Airport / Aerodrome 20 km\r\nMartigues Lavéra station: Railway station at 4 km",
+        "libelleEs" : "Marsella Provenza: Aeropuerto / Aeródromo 20 km\r\nEstación Martigues Lavéra: estación de tren a 4 km",
+        "libelleDe" : "Marseille Provence: Flughafen / Flugplatz 20 km\r\nMartigues Lavéra Bahnhof: Bahnhof in 4 km Entfernung"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.055456, 43.405141 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4467
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 151
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 181
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 183
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 191
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3743
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3974
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 5449
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538692
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5537912
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5472232
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5220331
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "RESTAURATION",
+        "id" : 5221015
+      }
+    }, {
+      "type" : "ETAPE_PARCOURS",
+      "libelleFr" : "Est une étape de ...",
+      "libelleEn" : "Follows a section of...",
+      "libelleEs" : "Es una etapa de...",
+      "libelleIt" : "È una tappa di...",
+      "libelleDe" : "Ist eine Etappe von ...",
+      "libelleNl" : "Is een etappe van ...",
+      "libelleRu" : "Является этапом...",
+      "libelleZh" : "是路线的一阶段",
+      "libellePtBR" : "É uma etapa de ...",
+      "libelleJa" : "はステップ",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5592230
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1321
+    } ],
+    "services" : [ {
+      "elementReferenceType" : "PrestationService",
+      "id" : 687
+    } ],
+    "animauxAcceptes" : "ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "tourismesAdaptes" : [ {
+      "elementReferenceType" : "TourismeAdapte",
+      "id" : 4219
+    } ],
+    "descriptifHandicapMoteur" : {
+      "libelleFr" : "Accès fauteuil par la rue Marcel Galdy puis à droite avant la place Mirabeau",
+      "libelleEn" : "Wheelchair access via rue Marcel Galdy then right before place Mirabeau",
+      "libelleDe" : "Zugang für Rollstuhlfahrer über die Rue Marcel Galdy, dann direkt vor dem Place Mirabeau"
+    },
+    "descriptifHandicapVisuel" : {
+      "libelleFr" : "Acceso para sillas de ruedas a través de rue Marcel Galdy y luego justo antes de place Mirabeau"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16775
+  }, {
+    "id" : 18002
+  } ],
+  "contacts" : [ {
+    "identifiant" : 18309385,
+    "referent" : true,
+    "nom" : "Art, Histoire et Archéologie",
+    "prenom" : "Service",
+    "titre" : {
+      "libelleFr" : "14 quai Aristide Briand"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 83653059,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 49 03 30"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653060,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact.aha@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83653071,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 95"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653072,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "magali.gouiran@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Magali GOUIRAN (responsable)"
+      }
+    }, {
+      "identifiant" : 83653083,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 71"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 83653084,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "emmanuelle.achilli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "VAH - Emmanuelle ACHILLI (chargé des publics)"
+      }
+    }, {
+      "identifiant" : 89792418,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 24 00 24 14"
+      },
+      "observation" : {
+        "libelleFr" : "Sylviane Allivons-Chapelle l'Annonciade"
+      }
+    }, {
+      "identifiant" : 103445971,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nais.paoli@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Naïs Paoli - Médiatrice culturelle"
+      }
+    } ]
+  }, {
+    "identifiant" : 18308730,
+    "referent" : false,
+    "nom" : "Culturelle",
+    "prenom" : "Direction",
+    "titre" : {
+      "libelleFr" : "Quai Lucien Toulmond - La cour de l'Île"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 457
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86959729,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Edith Anastasiou - Directrice"
+      }
+    }, {
+      "identifiant" : 93007908,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "dc@ville-martigues.fr"
+      }
+    }, {
+      "identifiant" : 83648168,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 90"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83648964,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "culture@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Accueil"
+      }
+    }, {
+      "identifiant" : 83650240,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 78"
+      },
+      "observation" : {
+        "libelleFr" : "David DELEYE (Coordinateur de l’Action Culturelle)"
+      }
+    }, {
+      "identifiant" : 83650241,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "david.deleye@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "David DELEYE (Coordinateur de l’Action Culturelle)"
+      }
+    }, {
+      "identifiant" : 83652927,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 75"
+      },
+      "observation" : {
+        "libelleFr" : "Santillane SABOURET (ART DE RUE)"
+      }
+    }, {
+      "identifiant" : 83652928,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "santillane.sabouret@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Santillane SABOURET (ART DE RUE)"
+      }
+    }, {
+      "identifiant" : 83652929,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 75"
+      },
+      "observation" : {
+        "libelleFr" : "Caroline FANCELLO (cirque)"
+      }
+    }, {
+      "identifiant" : 83652930,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "caroline.fancello@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Caroline FANCELLO (cirque)"
+      }
+    }, {
+      "identifiant" : 83652957,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 77"
+      },
+      "observation" : {
+        "libelleFr" : "Nathalie HUYGHE (adm dir cult)"
+      }
+    }, {
+      "identifiant" : 83652958,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "nathalie.huyghe@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Nathalie HUYGHE (adm dir cult)"
+      }
+    }, {
+      "identifiant" : 83653140,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 90"
+      },
+      "observation" : {
+        "libelleFr" : "Sébastien GARGUILO (ciné plein air)"
+      }
+    }, {
+      "identifiant" : 83653145,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "sebastien.garguilo@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Sébastien GARGUILO (ciné plein air)"
+      }
+    }, {
+      "identifiant" : 90086917,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "isabelle.marteau@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "Isabelle Marteau-Resp com DC"
+      }
+    }, {
+      "identifiant" : 96067690,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 92"
+      },
+      "observation" : {
+        "libelleFr" : "Isabelle Marteau-Resp com DC"
+      }
+    }, {
+      "identifiant" : 90086927,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 89"
+      },
+      "observation" : {
+        "libelleFr" : "Florent Piquer resp adm DC"
+      }
+    }, {
+      "identifiant" : 100730670,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 10 82 76"
+      },
+      "observation" : {
+        "libelleFr" : "MONZON Chouchane-Administration du spectacle, Ecoresponsabilité des événements culturels"
+      }
+    }, {
+      "identifiant" : 100730671,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "chouchane.monzon@ville-martigues.fr"
+      },
+      "observation" : {
+        "libelleFr" : "MONZON Chouchane-Administration du spectacle, Ecoresponsabilité des événements culturels"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 13732540,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/238/13954768.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/238/13954768-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/238/13954768-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/238/13954768-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-KarimK",
+      "taille" : 3415371,
+      "hauteur" : 3393,
+      "largeur" : 4519,
+      "lastModifiedDate" : "2022-08-12T12:38:26.299+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732536,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/238/13954764.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/238/13954764-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/238/13954764-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/204/238/13954764-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Le Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-KK (3)",
+      "taille" : 5597866,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2022-08-12T12:38:16.634+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732537,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/238/13954765.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/238/13954765-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/238/13954765-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/238/13954765-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Le Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-KK (8)",
+      "taille" : 5869205,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2022-08-12T12:38:22.899+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732538,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / CecileK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/238/13954766.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/238/13954766-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/238/13954766-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/238/13954766-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-CecileK (4)",
+      "taille" : 4921648,
+      "hauteur" : 2135,
+      "largeur" : 3020,
+      "lastModifiedDate" : "2022-08-12T12:38:20.031+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732539,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / KarimK"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/238/13954767.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/238/13954767-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/238/13954767-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/238/13954767-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-KarimK (6)",
+      "taille" : 5576496,
+      "hauteur" : 3472,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2022-08-12T12:38:28.960+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 13732541,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Le Miroir aux oiseaux"
+    },
+    "copyright" : {
+      "libelleFr" : "Otmartigues / VictoriaG"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/238/13954769.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/238/13954769-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/238/13954769-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/238/13954769-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Miroir aux oiseaux - Office de Tourisme de Martigues©OtMartigues-VictoriaG (1)",
+      "taille" : 4848728,
+      "hauteur" : 3468,
+      "largeur" : 4624,
+      "lastModifiedDate" : "2022-08-12T12:38:32.083+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460459
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693912
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3516
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 6097
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "PatrimoineCulturelCategorie",
+      "id" : 3265
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T2001243"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Martigues"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.martigues-tourisme.com"
+    }
+  } ]
+}

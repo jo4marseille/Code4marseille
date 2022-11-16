@@ -1,0 +1,450 @@
+{
+  "type" : "RESTAURATION",
+  "id" : 5225800,
+  "nom" : {
+    "libelleFr" : "Mazet du Vaccarès",
+    "libelleEn" : "Mazet du Vaccarès",
+    "libelleEs" : "La Vaccarès Mazet",
+    "libelleIt" : "Mazet du Vaccarès",
+    "libelleDe" : "Mazet du Vaccarès",
+    "libelleNl" : "Mazet du Vaccarès"
+  },
+  "identifier" : "SITRA2_RES_5225800",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-04-01T13:06:37.806+0000",
+    "dateModification" : "2022-01-04T11:19:58.235+0000",
+    "dateExportModification" : "2022-11-06T10:33:02.385+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Arles",
+      "dateCreation" : "2020-10-20T08:31:09.923+0000",
+      "dateModification" : "2022-10-24T08:49:35.216+0000",
+      "id" : 2112,
+      "siteWeb" : "http://www.arlestourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "a.quarta@arlestourisme.com", "f.soliveres@arlestourisme.com", "m.louvet@arlestourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70521004,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 97 10 79"
+      }
+    }, {
+      "identifiant" : 70521005,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "reservation@mazet-du-vaccares.fr"
+      }
+    }, {
+      "identifiant" : 83156180,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.mazet-du-vaccares.fr/"
+      }
+    }, {
+      "identifiant" : 83805510,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "http://www.facebook.com/pages/Mazet-Du-Vaccares/374918195879111"
+      }
+    } ],
+    "informationsLegales" : {
+      "siret" : "43184676500011",
+      "codeApeNaf" : "553A"
+    },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225799
+    }
+  },
+  "presentation" : {
+    "descriptifDetaille" : {
+      "libelleFr" : "Un lieu unique, l'un des restaurants les plus typiquement camarguais. Situation privilégiée, en pleine nature, en bordure du Vaccarès.\r\nPour la magie du Vaccarès, pour l'ambiance conviviale et bien entendu pour la cuisine, toutes les raisons sont bonnes pour venir chez Hélène et Néné",
+      "libelleEn" : "A unique place, one of the most typical Camargue restaurants. Privileged location, in the heart of nature, on the edge of the Vaccarès.\r\nFor the magic of Vaccarès, for the friendly atmosphere and of course for the cuisine, all the reasons are good to come to Hélène and Néné",
+      "libelleEs" : "Un lugar único, uno de los restaurantes más típicos de la Camarga. Una ubicación privilegiada, en plena naturaleza, al borde del Vaccarès.\r\nPor la magia del Vaccarès, por el ambiente acogedor y, por supuesto, por la cocina, hay muchas buenas razones para venir a Hélène y Néné's",
+      "libelleIt" : "Un posto unico, uno dei ristoranti più tipici della Camargue. Una posizione privilegiata, in mezzo alla natura, sul bordo del Vaccarès.\r\nPer la magia del Vaccarès, per l'atmosfera amichevole e, naturalmente, per la cucina, ci sono molte buone ragioni per venire da Hélène e Néné"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Domaine de Méjanes",
+      "adresse3" : "Camargue",
+      "codePostal" : "13200",
+      "bureauDistribution" : "ARLES",
+      "commune" : {
+        "id" : 4415
+      }
+    },
+    "geolocalisation" : {
+      "complement" : {
+        "libelleFr" : "Nîmes Garons : Aéroport/Aérodrome à 25km\r\nArles : Gare ferroviaire à 18km\r\nArles : Sortie autoroute à 15km"
+      },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.498791, 43.568447 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4415
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 141
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 3971
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 180
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 137
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 176
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5787265
+      }
+    } ]
+  },
+  "prestations" : {
+    "equipements" : [ {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 804
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 723
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 972
+    }, {
+      "elementReferenceType" : "PrestationEquipement",
+      "id" : 1322
+    } ],
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "complementAccueil" : {
+      "libelleFr" : "Accessible pour handicapés\r\nParking\r\nParking autocar",
+      "libelleEn" : "Accessible for disabled",
+      "libelleIt" : "Accessibile ai disabili",
+      "libelleDe" : "Zugänglich für Behinderte",
+      "libelleNl" : "Toegankelijk voor mensen met een handicap"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleEn" : "All year round.",
+      "libelleEs" : "Todo el año.",
+      "libelleIt" : "Tutto l'anno.",
+      "libelleDe" : "Ganzjährig.",
+      "libelleNl" : "Het hele jaar.",
+      "libelleRu" : "В течение всего года.",
+      "libelleZh" : "全年.",
+      "libellePtBR" : "Todo o ano.",
+      "libelleJa" : "オールシーズン."
+    },
+    "periodeEnClairGenerationMode" : "MANUEL",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22403389,
+      "dateDebut" : "2022-01-21",
+      "dateFin" : "2022-12-31",
+      "complementHoraire" : {
+        "libelleFr" : "Du vendredi midi au dimanche midi"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 22403389
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : 40€."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Tarif unique : 40€"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "criteresInternes" : [ {
+    "id" : 16902
+  }, {
+    "id" : 19073
+  } ],
+  "contacts" : [ {
+    "identifiant" : 16128946,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "MONDET",
+    "prenom" : "Muriel",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 470
+    }
+  }, {
+    "identifiant" : 16128947,
+    "referent" : false,
+    "nom" : "RICARD",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 464
+    }
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10874167,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/85/10769829.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/85/10769829-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/85/10769829-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/85/10769829-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "1603901870-1603901870-Caroussel-Mazet-2-jpg",
+      "taille" : 147363,
+      "hauteur" : 325,
+      "largeur" : 480,
+      "lastModifiedDate" : "2021-09-01T08:54:37.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10874168,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/85/10769830.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/85/10769830-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/85/10769830-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/85/10769830-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "1603901870-1603901870-Caroussel-Mazet-3-jpg",
+      "taille" : 285368,
+      "hauteur" : 325,
+      "largeur" : 480,
+      "lastModifiedDate" : "2021-09-01T08:54:37.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10874215,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/85/10769877.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/85/10769877-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/85/10769877-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/85/10769877-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "restaurant-atypique-camargue",
+      "taille" : 66039,
+      "hauteur" : 232,
+      "largeur" : 413,
+      "lastModifiedDate" : "2021-09-01T09:02:24.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10874217,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/85/10769879.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/85/10769879-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/85/10769879-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/215/85/10769879-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "restaurant-camargue",
+      "taille" : 77482,
+      "hauteur" : 232,
+      "largeur" : 413,
+      "lastModifiedDate" : "2021-09-01T09:02:25.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 10874218,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/85/10769880.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/85/10769880-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/85/10769880-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/85/10769880-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "restaurant-poissons-camargue",
+      "taille" : 106965,
+      "hauteur" : 232,
+      "largeur" : 413,
+      "lastModifiedDate" : "2021-09-01T09:02:24.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "tourismeAffaires" : {
+    "tourismeAffairesEnabled" : true,
+    "sallesEquipement" : [ {
+      "elementReferenceType" : "SalleEquipement",
+      "id" : 1259
+    } ],
+    "nombreSallesReunionEquipees" : 2
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 324346
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 324348
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4877700
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427584
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853849
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853921
+  } ],
+  "datesOuverture" : [ "2022-11-06", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-25", "2022-11-26", "2022-11-27", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-30", "2022-12-31" ],
+  "informationsRestauration" : {
+    "restaurationType" : {
+      "elementReferenceType" : "RestaurationType",
+      "id" : 2866
+    },
+    "specialites" : [ {
+      "elementReferenceType" : "RestaurationSpecialite",
+      "id" : 2982
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "RestaurationCategorie",
+      "id" : 2883
+    } ],
+    "capacite" : {
+      "nombreMaximumCouverts" : 80,
+      "nombreCouvertsTerrasse" : 40
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000"
+  },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13T1031856"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Arles"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.arlestourisme.com"
+    }
+  } ],
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 8.6,
+        "label" : "Très bon",
+        "couleur" : "#71a63e",
+        "nombreAvis" : 104,
+        "dateMaj" : 1667729230202
+      }
+    } ]
+  } ]
+}

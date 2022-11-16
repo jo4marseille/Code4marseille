@@ -1,0 +1,278 @@
+{
+  "type" : "ACTIVITE",
+  "id" : 5842497,
+  "nom" : {
+    "libelleFr" : "Balade paddle à la découverte de l'étang de Berre"
+  },
+  "identifier" : "SITRA2_ACT_5842497",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-06-17T13:04:05.994+0000",
+    "dateModification" : "2022-05-11T14:19:07.136+0000",
+    "dateExportModification" : "2022-05-11T14:19:07.438+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "dateCreation" : "2020-02-18T15:09:26.099+0000",
+      "dateModification" : "2022-10-24T08:49:35.836+0000",
+      "id" : 1991,
+      "siteWeb" : "http://www.istres-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "bmeurin@istres.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70537444,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 81 76 00"
+      }
+    }, {
+      "identifiant" : 70537446,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tourisme@istres.fr"
+      }
+    }, {
+      "identifiant" : 70537447,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.istres-tourisme.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5467892
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5228515
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Des randonnées sur l'eau, le soir tombant., sur un paddle, encadrées et agrémentées de commentaires sur l'histoire des étangs de Berre avec des moniteurs d’Istres Entressen Canoé Kayak, diplômés et passionnés."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Base nautique Les Heures Claires",
+      "adresse1" : "Chemin du Port",
+      "codePostal" : "13800",
+      "bureauDistribution" : "ISTRES",
+      "commune" : {
+        "id" : 4458
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.997406, 43.499681 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4458
+    } ],
+    "lieu" : {
+      "id" : 15471
+    },
+    "lieuObjetTouristique" : {
+      "type" : "EQUIPEMENT",
+      "id" : 5540758
+    }
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466430
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 3735
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 5416
+    } ],
+    "ageMin" : 144,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/07 au 25/08/2022, tous les jeudis de 17h45 à 20h.\n\nSous réserve de conditions météo favorables.",
+      "libelleEn" : "From 07/07 to 25/08/2022, every Thursday between 5.45 pm and 8 pm.\n\nSubject to favorable weather.",
+      "libelleEs" : "Del 07/07 al 25/08/2022, todos los jueves de 17:45 a 20.\n\nA reserva de buen tiempo.",
+      "libelleIt" : "Dal 07/07 al 25/08/2022, tutti i giovedì dalle 17:45 alle 20.\n\nCon riserva di condizioni atmosferiche favorevoli.",
+      "libelleDe" : "Vom 07/07 bis 25/08/2022, jeden Donnerstag von 17.45 Uhr bis 20 Uhr.\n\nNur bei günstigen Wetterbedingungen.",
+      "libelleNl" : "Van 07/07 tot en met 25/08/2022, elke donderdag van 17.45 tot en met 20.00 u.\n\nOnder voorbehoud, van de weersomstandigheden.",
+      "libelleRu" : "С 07/07 до 25/08/2022, каждый четверги с 17h45 до 20h.\n\nПри благоприятных погодных условиях.",
+      "libelleZh" : "从 7月7日 到 2022年8月25日, 每星期四 小时小时分钟  和 小时小时 之间.\n\n需天气良好.",
+      "libellePtBR" : "De 07/07 a 25/08/2022, todas as quintas-feiras de 17h45 a  20h.\n\nSob reserva de condições metereológicas favoráveis.",
+      "libelleJa" : "07/07 から 25/08/2022 まで, 毎木曜日 5.45 午後 と 8 午後 の間.\n\n天候に左右されます."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 21212400,
+      "dateDebut" : "2022-07-07",
+      "dateFin" : "2022-08-25",
+      "horaireOuverture" : "17:45:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "JEUDI"
+      } ],
+      "identifiantTechnique" : 23313975
+    } ],
+    "ouverturesComplementaires" : [ {
+      "elementReferenceType" : "OuvertureComplementaire",
+      "id" : 4188
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique 20 €."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Tarif unique 20 €"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 5856427,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5228515
+      },
+      "nom" : "Office de Tourisme d'Istres",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 89668873,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.istres-tourisme.com/balade-en-paddle-et-decouverte-de-l-etang-de-berre.html"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 17325
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 10317787,
+    "link" : false,
+    "type" : "IMAGE",
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/13/10096100.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/13/10096100-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/13/10096100-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/13/10096100-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "PADDLE ETANG DE BERRE ETE 2020 (2)",
+      "taille" : 529086,
+      "hauteur" : 1536,
+      "largeur" : 2048,
+      "lastModifiedDate" : "2021-06-17T13:11:18.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693765
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693899
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853947
+  } ],
+  "informationsActivite" : {
+    "nomLieu" : "Base nautique Les Heures Claires",
+    "activiteType" : {
+      "elementReferenceType" : "ActiviteType",
+      "id" : 1789
+    },
+    "activitesSportives" : [ {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 1799
+    }, {
+      "elementReferenceType" : "ActiviteSportivePrestation",
+      "id" : 3852
+    } ],
+    "prestataireActivites" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5559126
+    },
+    "commerceEtServicePrestataire" : {
+      "type" : "COMMERCE_ET_SERVICE",
+      "id" : 5559126
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-08-25T00:00:00.000+0000"
+  },
+  "enquete" : { }
+}

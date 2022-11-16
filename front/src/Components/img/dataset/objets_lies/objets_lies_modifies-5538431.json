@@ -1,0 +1,145 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5538431,
+  "nom" : {
+    "libelleFr" : "Place Baragnon",
+    "libelleEn" : "Place Baragnon",
+    "libelleIt" : "Place Baragnon",
+    "libelleDe" : "Place Baragnon",
+    "libelleNl" : "Place Baragnon"
+  },
+  "identifier" : "SITRA2_PCU_5538431",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T17:35:59.878+0000",
+    "dateModification" : "2020-12-15T11:20:06.392+0000",
+    "dateExportModification" : "2021-12-28T14:20:48.228+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de Cassis",
+      "dateCreation" : "2020-10-19T06:23:27.752+0000",
+      "dateModification" : "2022-10-24T08:49:36.803+0000",
+      "id" : 2108,
+      "siteWeb" : "https://www.ot-cassis.com"
+    },
+    "signalerUnProblemeMails" : [ "a.rick@ot-cassis.com", "cgallo@ot-cassis.com", "direction@ot-cassis.com", "evillers@ot-cassis.com", "lbaille@ot-cassis.com", "lmichelini@ot-cassis.com", "m.vallet@ot-cassis.com", "patricia@ot-cassis.com", "presse@ot-cassis.com", "sdelage@ot-cassis.com" ]
+  },
+  "informations" : {
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5226638
+    }
+  },
+  "presentation" : { },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Place Baragnon",
+      "codePostal" : "13260",
+      "bureauDistribution" : "CASSIS",
+      "commune" : {
+        "id" : 4433
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.539588, 43.214286 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4433
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 4857
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13SI000144"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Cassis"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.ot-cassis.com"
+    }
+  } ]
+}

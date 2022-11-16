@@ -1,0 +1,377 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5972099,
+  "nom" : {
+    "libelleFr" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleEn" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleEs" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleIt" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleDe" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleNl" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleRu" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleZh" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libellePtBR" : "C'est quoi votre genre ? Nouvel accrochage des collections",
+    "libelleJa" : "C'est quoi votre genre ? Nouvel accrochage des collections"
+  },
+  "identifier" : "SITRA2_EVE_5972099",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-11-19T16:27:58.608+0000",
+    "dateModification" : "2022-03-24T13:34:48.325+0000",
+    "dateExportModification" : "2022-06-09T07:05:17.293+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70513127,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.museegranet-aixenprovence.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5223246
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le musée Granet propose au public de porter un nouveau regard sur les peintures et sculptures des Écoles française, nordique, espagnole et italienne du XIVe au XVIIIe siècle avec une sélection de 103 œuvres dont 11 sculptures"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le musée Granet réaccroche une partie de ses collections avec de nouvelles œuvres et une nouvelle façon de les faire découvrir. Ce nouvel accrochage fera des variations sur la thématique du \"genre\" en peinture ; peinture d'histoire, peinture religieuse, portrait, paysage, scène de genre comme un repas galant, un couple de paysans qui discutent en gardant les bêtes,...\r\n\r\nCet ensemble sera présenté dans un nouvel écrin où les couleurs, le redimensionnement des salles d'exposition, offriront au grand public une nouvelle approche des riches collections du musée Granet.\r\n\r\nL'occasion aussi d'observer combien les dons et legs que le musée Granet a pu obtenir au fil des décennies, font la part belle aux portraits, paysages et scènes de genre, autant de thématiques prisées par les collectionneurs aixois dans leurs cabinets de curiosité à une époque où la ville d'Aix était, de part sa situation géographique, un carrefour entre l'Est et l'Ouest, le Nord et le Sud…"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Musée Granet",
+      "adresse1" : "Place Saint Jean de Malte",
+      "codePostal" : "13100",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.452673, 43.525507 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538995
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 20/11/2021 au 31/12/2022 de 12h à 18h.\nFermé le lundi.",
+      "libelleEn" : "From 20/11/2021 to 31/12/2022 between 12 pm and 6 pm.\nClosed on Monday.",
+      "libelleEs" : "Del 20/11/2021 al 31/12/2022 de 12 a 18.\nCerrado los lunes.",
+      "libelleIt" : "Dal 20/11/2021 al 31/12/2022 dalle 12 alle 18.\nChiuso il lunedì.",
+      "libelleDe" : "Vom 20/11/2021 bis 31/12/2022 von 12 Uhr bis 18 Uhr.\nMontag geschlossen.",
+      "libelleNl" : "Van 20/11/2021 tot en met 31/12/2022 van 12.00 tot en met 18.00 u.\nMaandag gesloten.",
+      "libelleRu" : "С 20/11/2021 до 31/12/2022 с 12h до 18h.\nНе работает понедельник.",
+      "libelleZh" : "从 2021年11月20日 到 2022年12月31日 小时小时 和 小时小时 之间.\n星期一 关闭.",
+      "libellePtBR" : "De 20/11/2021 a 31/12/2022 de 12h a  18h.\nFechado em segunda-feira.",
+      "libelleJa" : "20/11/2021 から 31/12/2022 まで 12 午後 と 6 午後 の間.\n月曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 22126492,
+      "dateDebut" : "2021-11-20",
+      "dateFin" : "2022-12-31",
+      "horaireOuverture" : "12:00:00",
+      "horaireFermeture" : "18:00:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      } ],
+      "identifiantTechnique" : 22228120
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Plein tarif : 6 €, Tarif réduit : 5 €.\r\n\r\n Gratuit pour les moins de 18 ans, la presse, les demandeurs d'emploi.\r\n\r\n✘ Tarif réduit : \r\n● Apprentis de moins de 25 ans, accompagnateurs d'une personne détentrice de la carte mobilité inclusion (CMI) ou handicap, pour les achats en nombre à partir de 15 entrées payantes, détenteurs de la carte MGEN Avantage, détenteurs d'un billet payant de moins de 6 mois du Musée des Civilisations de l'Europe et de la Méditerranée (MuCEM, Marseille).\r\n\r\n✘ Gratuités :\r\n● Avec le City Pass Aix-en-Provence\r\n● Etudiants de moins de 26 ans, bénéficiaires du RSA (sur présentation d’un justificatif de moins de 3 mois), bénéficiaires de l'aide sociale (CAF), minimum vieillesse et invalidité, détenteurs de la carte mobilité inclusion (CMI) ou handicap, détenteurs de la carte ministère de la Culture, membres de l’Icom, Icomos, AGCCPF, guide-conférenciers régionaux, nationaux et internationaux agréés, adhérents de l’association des Amis du musée Granet, adhérents de l'association Maison des artistes, abonnés du musée Granet, enseignants de l'École Supérieure d'Art d'Aix-en-Provence.",
+      "libelleEn" : "Full price: 6 €, Reduced price: 5 €.\r\n\r\n Free entry for children < 18 years, press, Job-seeker.",
+      "libelleEs" : "Tarifa completa: 6 €, Precio reducido: 5 €.\r\n\r\n Gratuito para los niños menores de 18 años, La prensa, Los demandantes de empleo.",
+      "libelleIt" : "Tarrifa intera: 6 €, Prezzo ridotto: 5 €.\r\n\r\n Gratuito per i bambini di età inferiore a 18 anni, giornalista, Disoccupati.",
+      "libelleDe" : "Voller Preis: 6 €, Reduzierter Preis: 5 €.\r\n\r\n Kostenlos für Kinder unter 18 Jahren, die Presse, Arbeitssuchende.",
+      "libelleNl" : "Vol tarief: € 6, Korting: € 5.\r\n\r\n Gratis voor kinderen onder de 18 jaar, pers, Werkzoekende.",
+      "libelleRu" : "Полную цену : 6 €, Сниженная цена : 5 €.\r\n\r\n Бесплатно для лицам младше 18 лет, пресса, соискатели работы.",
+      "libelleZh" : "全额 : 6 €, 减价 : 5 €.\r\n\r\n 儿童 < 18 岁, 新闻工作者, 求职者自由进入.",
+      "libellePtBR" : "Tarifa inteira: 6 €, Preço reduzido: 5 €.\r\n\r\n Gratuito para menores de 18 anos, pressione, Procurando emprego.",
+      "libelleJa" : "通常料金: 6 €, 割引料金: 5 €.\r\n\r\n 子供 < 18 歳, 新聞社, 求職者 は入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "✘ Tarif réduit : \r\n● Apprentis de moins de 25 ans, accompagnateurs d'une personne détentrice de la carte mobilité inclusion (CMI) ou handicap, pour les achats en nombre à partir de 15 entrées payantes, détenteurs de la carte MGEN Avantage, détenteurs d'un billet payant de moins de 6 mois du Musée des Civilisations de l'Europe et de la Méditerranée (MuCEM, Marseille).\r\n\r\n✘ Gratuités :\r\n● Avec le City Pass Aix-en-Provence\r\n● Etudiants de moins de 26 ans, bénéficiaires du RSA (sur présentation d’un justificatif de moins de 3 mois), bénéficiaires de l'aide sociale (CAF), minimum vieillesse et invalidité, détenteurs de la carte mobilité inclusion (CMI) ou handicap, détenteurs de la carte ministère de la Culture, membres de l’Icom, Icomos, AGCCPF, guide-conférenciers régionaux, nationaux et internationaux agréés, adhérents de l’association des Amis du musée Granet, adhérents de l'association Maison des artistes, abonnés du musée Granet, enseignants de l'École Supérieure d'Art d'Aix-en-Provence."
+    },
+    "periodes" : [ {
+      "identifiant" : 12637659,
+      "dateDebut" : "2021-11-20",
+      "dateFin" : "2022-12-31",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 6.00,
+        "maximum" : 6.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5239
+        }
+      }, {
+        "devise" : "EUR",
+        "minimum" : 5.00,
+        "maximum" : 5.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 5240
+        }
+      } ]
+    } ],
+    "devise" : "EUR",
+    "conditions" : {
+      "conditionsGratuite" : [ {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 4772
+      }, {
+        "elementReferenceType" : "ConditionGratuite",
+        "id" : 5076
+      } ],
+      "gratuitPourLesMoinsDe" : 18
+    }
+  },
+  "reservation" : {
+    "complement" : {
+      "libelleFr" : "Sans réservation, dans la limite des places disponibles"
+    }
+  },
+  "contacts" : [ {
+    "identifiant" : 18756362,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Staïner",
+    "prenom" : "Véronique",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86083374,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "4 42 52 88 43"
+      }
+    }, {
+      "identifiant" : 86085503,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "StainerV@mairie-aixenprovence.fr"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 11571945,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DR"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/232/11593773.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/232/11593773-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/232/11593773-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/45/232/11593773-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "granet",
+      "taille" : 314415,
+      "hauteur" : 849,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2021-11-19T16:37:48.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11726262,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Claude Almodovar / Musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/180/11777116.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/180/11777116-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/180/11777116-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/180/11777116-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "860_1_118-002",
+      "taille" : 8873716,
+      "hauteur" : 5504,
+      "largeur" : 6209,
+      "lastModifiedDate" : "2021-12-06T10:47:02.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11726263,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Claude Almodovar / Musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/180/11777117.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/180/11777117-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/180/11777117-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/180/11777117-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "860_1_279-001",
+      "taille" : 5737507,
+      "hauteur" : 3405,
+      "largeur" : 6711,
+      "lastModifiedDate" : "2021-12-06T10:46:52.000+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 11726264,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "Claude Almodovar / Musée Granet"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/180/11777118.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/180/11777118-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/180/11777118-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/180/11777118-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "860_1_947-001",
+      "taille" : 9864672,
+      "hauteur" : 7441,
+      "largeur" : 5320,
+      "lastModifiedDate" : "2021-12-06T10:46:56.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-10-11", "2022-10-12", "2022-10-13", "2022-10-14", "2022-10-15", "2022-10-16", "2022-10-18", "2022-10-19", "2022-10-20", "2022-10-21", "2022-10-22", "2022-10-23", "2022-10-25", "2022-10-26", "2022-10-27", "2022-10-28", "2022-10-29", "2022-10-30", "2022-11-01", "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-06", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "Musée Granet"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,315 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6291735,
+  "nom" : {
+    "libelleFr" : "Les chauves-souris, nos voisines insoupçonnées"
+  },
+  "identifier" : "SITRA2_EVE_6291735",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-11T07:40:02.018+0000",
+    "dateModification" : "2022-10-11T08:28:02.876+0000",
+    "dateExportModification" : "2022-10-11T08:28:06.237+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 104028364,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 71 81 81"
+      }
+    }, {
+      "identifiant" : 104028365,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "contact_museum@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 104028366,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovence.fr/Museum-d-histoire-naturelle-1039"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5221770
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5221770
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Le Muséum d'Histoire Naturelle d'Aix-en-Provence vous propose une conférence animée par Cécile Albert Chargée de Recherches IMBE et Laurent Grima, chargé d’étude sur les chiroptères pour l’ABC d’Aix-en-Provence"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La nuit, alors que les enfants vont au lit et que la ville prend une tournure festive, un ballet silencieux prend place au-dessus de nos têtes. Les avez-vous vu voler, piquer, tourbillonner à la recherche de leurs proies ? Non-non pas des cous à saigner, comme Dracula, car nos chauve-souris d’ici sont insectivores ! Moustiques, moucherons, papillons de nuit et autres insectes volants sont à leur menu. Dans notre ville, noctules, pipistrelles et autres chiroptères sont au rendez-vous. Mais comment savoir qui est qui la nuit quand tous les chats sont gris ? Comment font les scientifiques pour les comptabiliser et les observer ? Sont-elles partout dans la ville ? Peut-on les trouver tout le long du Parc Naturel Urbain ? C’est ce qu’a tenté de démêler le  Muséum d’Histoire Naturelle de Aix-en-Provence, en partenariat avec l’Institut Méditerranéen de biodiversité et d’écologie, et le Groupe des Chiroptères de Provence."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Salle assendi / Muséum d'Histoire Naturelle",
+      "adresse1" : "Parc Saint Mitre",
+      "adresse2" : "166 Avenue Jean Monnet",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.423145, 43.533137 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538964
+      }
+    }, {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5538689
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Jeudi 24 novembre 2022 de 18h30 à 20h.",
+      "libelleEn" : "Thursday 24 November 2022 between 6.30 pm and 8 pm.",
+      "libelleEs" : "Jueves, 24 de noviembre de 2022 de 18:30 a 20.",
+      "libelleIt" : "Giovedì 24 novembre 2022 dalle 18:30 alle 20.",
+      "libelleDe" : "Donnerstag, den 24. November 2022 von 18.30 Uhr bis 20 Uhr.",
+      "libelleNl" : "Donderdag 24 november 2022 van 18.30 tot en met 20.00 u.",
+      "libelleRu" : "Четверг 24 ноября 2022  с 18h30 до 20h.",
+      "libelleZh" : "2022年11月24日, 星期四   小时小时分钟  和 小时小时 之间.",
+      "libellePtBR" : "Quinta-feira 24 Novembro 2022 de 18h30 a  20h.",
+      "libelleJa" : "木曜日 24 11月 2022 6.30 午後 と 8 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24470249,
+      "dateDebut" : "2022-11-24",
+      "dateFin" : "2022-11-24",
+      "horaireOuverture" : "18:30:00",
+      "horaireFermeture" : "20:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24470249
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6848957,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5221770
+      },
+      "nom" : "Muséum d'Histoire Naturelle",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70506156,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 88 71 81 81"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21410777,
+    "referent" : true,
+    "prenom" : "Marine",
+    "moyensCommunication" : [ {
+      "identifiant" : 104028367,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "TheardM@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 104028368,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 71 81 81"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14362386,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "MHN Aix"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/67/14697314.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/67/14697314-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/67/14697314-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/67/14697314-diaporama.jpg",
+      "urlQHD" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/98/67/14697314-QHD.jpg",
+      "extension" : "jpg",
+      "fileName" : "IMGP3814",
+      "taille" : 5837883,
+      "hauteur" : 3141,
+      "largeur" : 4743,
+      "lastModifiedDate" : "2022-10-11T08:28:03.153+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-24" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2072
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2064
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2282
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nbParticipantsAttendu" : 2,
+    "nbVisiteursAttendu" : 60,
+    "nomLieu" : "Salle assendi / Muséum d'Histoire Naturelle"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-24T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

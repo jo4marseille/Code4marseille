@@ -1,0 +1,374 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6288282,
+  "nom" : {
+    "libelleFr" : "Riquet, Opéra Miroir"
+  },
+  "identifier" : "SITRA2_EVE_6288282",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-06T12:57:24.570+0000",
+    "dateModification" : "2022-10-20T07:56:10.961+0000",
+    "dateExportModification" : "2022-10-20T07:56:11.292+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 103917872,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 38 94 38"
+      }
+    }, {
+      "identifiant" : 103917873,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredumaquis@wanadoo.fr"
+      }
+    }, {
+      "identifiant" : 103917874,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.theatredumaquis.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5230847
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Dans le cadre du Festival Mômaix, Riquet est un spectacle librement adapté de Riquet à la Houppe de Charles Perrault."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Il est né du désir de se regarder. Mieux. De plus près. Encore plus près. Et ce que l’on observe, à la loupe, est parfois effrayant.\r\nEn grandissant, on ne cesse de se regarder, ou au contraire de s’aveugler avec de fausses idées sur soi-même.\r\nL’image de soi-même, des autres, est-elle la réalité ?\r\nComment faire la part des choses entre ce que l’on me renvoie et ce que je ressens ? Quelle confiance puis-je accorder à mes sensations ?\r\nCe que je vois, est-ce la vraie vérité ?\r\nA quoi croire ?"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "L'Ouvre-Boîte",
+      "adresse1" : "13 Rue Joseph Jourdan",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.451552, 43.515223 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5629440
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 96,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mardi 8 novembre 2022 de 20h à 21h.\n\nMercredi 9 novembre 2022 de 18h à 19h.\n\nJeudi 10 novembre 2022 de 20h à 21h.\n\nVendredi 11 novembre 2022 de 18h à 19h.\n\nSamedi 12 novembre 2022 de 18h à 19h.",
+      "libelleEn" : "Tuesday 8 November 2022 between 8 pm and 9 pm.\n\nWednesday 9 November 2022 between 6 pm and 7 pm.\n\nThursday 10 November 2022 between 8 pm and 9 pm.\n\nFriday 11 November 2022 between 6 pm and 7 pm.\n\nSaturday 12 November 2022 between 6 pm and 7 pm.",
+      "libelleEs" : "Martes, 8 de noviembre de 2022 de 20 a 21.\n\nMiércoles, 9 de noviembre de 2022 de 18 a 19.\n\nJueves, 10 de noviembre de 2022 de 20 a 21.\n\nViernes, 11 de noviembre de 2022 de 18 a 19.\n\nSábado, 12 de noviembre de 2022 de 18 a 19.",
+      "libelleIt" : "Martedì 8 novembre 2022 dalle 20 alle 21.\n\nMercoledì 9 novembre 2022 dalle 18 alle 19.\n\nGiovedì 10 novembre 2022 dalle 20 alle 21.\n\nVenerdì 11 novembre 2022 dalle 18 alle 19.\n\nSabato 12 novembre 2022 dalle 18 alle 19.",
+      "libelleDe" : "Dienstag, den 8. November 2022 von 20 Uhr bis 21 Uhr.\n\nMittwoch, den 9. November 2022 von 18 Uhr bis 19 Uhr.\n\nDonnerstag, den 10. November 2022 von 20 Uhr bis 21 Uhr.\n\nFreitag, den 11. November 2022 von 18 Uhr bis 19 Uhr.\n\nSamstag, den 12. November 2022 von 18 Uhr bis 19 Uhr.",
+      "libelleNl" : "Dinsdag 8 november 2022 van 20.00 tot en met 21.00 u.\n\nWoensdag 9 november 2022 van 18.00 tot en met 19.00 u.\n\nDonderdag 10 november 2022 van 20.00 tot en met 21.00 u.\n\nVrijdag 11 november 2022 van 18.00 tot en met 19.00 u.\n\nZaterdag 12 november 2022 van 18.00 tot en met 19.00 u.",
+      "libelleRu" : "Вторник 8 ноября 2022  с 20h до 21h.\n\nСреда 9 ноября 2022  с 18h до 19h.\n\nЧетверг 10 ноября 2022  с 20h до 21h.\n\nПятница 11 ноября 2022  с 18h до 19h.\n\nСуббота 12 ноября 2022  с 18h до 19h.",
+      "libelleZh" : "2022年11月8日, 星期二   小时小时 和 小时小时 之间.\n\n2022年11月9日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月10日, 星期四   小时小时 和 小时小时 之间.\n\n2022年11月11日, 星期五   小时小时 和 小时小时 之间.\n\n2022年11月12日, 星期六   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Terça-feira 8 Novembro 2022 de 20h a  21h.\n\nQuarta-feira 9 Novembro 2022 de 18h a  19h.\n\nQuinta-feira 10 Novembro 2022 de 20h a  21h.\n\nSexta-feira 11 Novembro 2022 de 18h a  19h.\n\nSábado 12 Novembro 2022 de 18h a  19h.",
+      "libelleJa" : "火曜日 8 11月 2022 8 午後 と 9 午後 の間.\n\n水曜日 9 11月 2022 6 午後 と 7 午後 の間.\n\n木曜日 10 11月 2022 8 午後 と 9 午後 の間.\n\n金曜日 11 11月 2022 6 午後 と 7 午後 の間.\n\n土曜日 12 11月 2022 6 午後 と 7 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24445765,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-08",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24541218
+    }, {
+      "identifiant" : 24445766,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24541219
+    }, {
+      "identifiant" : 24445767,
+      "dateDebut" : "2022-11-10",
+      "dateFin" : "2022-11-10",
+      "horaireOuverture" : "20:00:00",
+      "horaireFermeture" : "21:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24541220
+    }, {
+      "identifiant" : 24445768,
+      "dateDebut" : "2022-11-11",
+      "dateFin" : "2022-11-11",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24541221
+    }, {
+      "identifiant" : 24445769,
+      "dateDebut" : "2022-11-12",
+      "dateFin" : "2022-11-12",
+      "horaireOuverture" : "18:00:00",
+      "horaireFermeture" : "19:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24541222
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Tarif unique : à partir de 10 €.\n",
+      "libelleEn" : "One price: from 10 €.\n",
+      "libelleEs" : "Tarifa única: a partir de 10 €.\n",
+      "libelleIt" : "Tariffa unica: a partire da 10 €.\n",
+      "libelleDe" : "Einheitspreis: ab 10 €.\n",
+      "libelleNl" : "Vast tarief: vanaf 10 €.\n",
+      "libelleRu" : "Единый тариф : с 10 €.\n",
+      "libelleZh" : "定价 : 从 10 €.\n",
+      "libellePtBR" : "Tarifa única: a partir de 10 €.\n",
+      "libelleJa" : "シングルレート: 10 €から.\n"
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "periodes" : [ {
+      "identifiant" : 13717981,
+      "dateDebut" : "2022-11-08",
+      "dateFin" : "2022-11-12",
+      "tarifs" : [ {
+        "devise" : "EUR",
+        "minimum" : 10.00,
+        "type" : {
+          "elementReferenceType" : "TarifType",
+          "id" : 4123
+        }
+      } ]
+    } ],
+    "modesPaiement" : [ {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1271
+    }, {
+      "elementReferenceType" : "ModePaiement",
+      "id" : 1277
+    } ],
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6843184,
+      "nom" : "Billetweb",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 103951724,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://www.billetweb.fr/riquet-opera-miroir"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "contacts" : [ {
+    "identifiant" : 21395377,
+    "referent" : true,
+    "nom" : "CHANTIN",
+    "prenom" : "Anaïs",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 103917875,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theatredumaquis@wanadoo.fr"
+      }
+    }, {
+      "identifiant" : 103917876,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "06 65 05 53 39"
+      }
+    } ]
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14320469,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Riquet"
+    },
+    "copyright" : {
+      "libelleFr" : "macompagnie"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/131/14648161.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/131/14648161-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/131/14648161-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/131/14648161-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Riquet_0422-14",
+      "taille" : 555636,
+      "hauteur" : 750,
+      "largeur" : 1000,
+      "lastModifiedDate" : "2022-10-07T13:06:58.014+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2134
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2276
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2353
+    },
+    "nomLieu" : "L'Ouvre-Boîte"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

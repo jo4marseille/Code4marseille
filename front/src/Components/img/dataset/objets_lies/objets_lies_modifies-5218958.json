@@ -1,0 +1,128 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5218958,
+  "nom" : {
+    "libelleFr" : "Les vignerons de Pélissanne",
+    "libelleEn" : "Les vignerons de Pélissanne",
+    "libelleIt" : "Les vignerons de Pélissanne",
+    "libelleDe" : "Les vignerons de Pélissanne",
+    "libelleNl" : "Les vignerons de Pélissanne"
+  },
+  "identifier" : "SITRA2_STR_5218958",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2019-03-29T15:49:58.378+0000",
+    "dateModification" : "2021-06-28T07:37:35.180+0000",
+    "dateExportModification" : "2021-06-28T12:14:17.365+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme du Massif des Costes",
+      "dateCreation" : "2020-10-21T12:23:44.707+0000",
+      "dateModification" : "2022-10-24T08:49:46.051+0000",
+      "id" : 2114,
+      "siteWeb" : "http://www.ot-massifdescostes.com"
+    },
+    "signalerUnProblemeMails" : [ "accueil@massifdescostes.com", "promotion.tourisme@massifdescostes.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70477824,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 55 04 66"
+      }
+    }, {
+      "identifiant" : 70477825,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "cave.pelissanne@orange.fr"
+      }
+    }, {
+      "identifiant" : 70477826,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.vignerons-de-pelissanne.com"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "13 Avenue Frédéric Mistral",
+      "codePostal" : "13330",
+      "commune" : {
+        "id" : 4480
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.152084, 43.634597 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4480
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 19390977,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 443
+    },
+    "nom" : "BARACHANT",
+    "prenom" : "Jacques",
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 460
+    }
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427363
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693770
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693907
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853933
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

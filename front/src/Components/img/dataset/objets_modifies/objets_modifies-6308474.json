@@ -1,0 +1,236 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6308474,
+  "nom" : {
+    "libelleFr" : "Exposition de peintures de Virginie Eude"
+  },
+  "identifier" : "SITRA2_EVE_6308474",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-25T12:26:39.718+0000",
+    "dateModification" : "2022-10-25T12:38:44.723+0000",
+    "dateExportModification" : "2022-10-25T12:38:44.863+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme de La Ciotat",
+      "dateCreation" : "2020-10-06T11:35:17.725+0000",
+      "dateModification" : "2022-10-24T08:49:39.014+0000",
+      "id" : 2099,
+      "siteWeb" : "https://www.destinationlaciotat.com/"
+    },
+    "signalerUnProblemeMails" : [ "a.guillaume@destinationlaciotat.com", "b.chaudet@destinationlaciotat.com", "c.famoso@destinationlaciotat.com", "m.toche@destinationlaciotat.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 81702538,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "marianneblanc@cegetel.net"
+      }
+    }, {
+      "identifiant" : 81702539,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://marianneblanc.com"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5608313
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La Galerie Les Toiles de Marianne accueillera en novembre l’artiste Virginie Eude."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Artiste peintre autodidacte, fascinée par la nature et plus particulièrement par les arbres, c’est tout naturellement que Virginie Eude a choisi l’Arbre comme mode d’expression et source d’inspiration artistique.\r\nElle a découvert le dessin et notamment la peinture en 2018, et elle explore depuis les différentes techniques autour de son thème d’inspiration. Elle utilise l’arbre comme support pour transmettre des émotions à travers la peinture ou le dessin. \r\nLa plupart de ses toiles sont réalisées avec de la peinture acrylique mais aussi au fusain ou parfois encre de chine.\r\nElle accorde beaucoup d’importance aux jeux de lumière et d’ombre, porteurs d’espoir et de résilience dans la plupart de ses œuvres .\r\nAprès plusieurs expositions, c’est à La Ciotat qu'elle vous invite à venir découvrir quelques-uns de ses tableaux tout le mois de novembre."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Les Toiles de Marianne",
+      "adresse1" : "14 Rue Marius Monnet",
+      "codePostal" : "13600",
+      "bureauDistribution" : "LA CIOTAT",
+      "commune" : {
+        "id" : 4439
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.607129, 43.175653 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4439
+    } ],
+    "environnements" : [ {
+      "elementReferenceType" : "Environnement",
+      "id" : 173
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 197
+    }, {
+      "elementReferenceType" : "Environnement",
+      "id" : 6042
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 02/11 au 02/12/2022, tous les mardis, mercredis, jeudis, vendredis et samedis.\nDe 10h à 13h et de 15h à 18h.",
+      "libelleEn" : "From 02/11 to 02/12/2022, every Tuesday, Wednesday, Thursday, Friday and Saturday.",
+      "libelleEs" : "Del 02/11 al 02/12/2022, todos los martes, miércoles, jueves, viernes y sábados.",
+      "libelleIt" : "Dal 02/11 al 02/12/2022, tutti i martedì, mercoledì, giovedì, venerdì e sabati.",
+      "libelleDe" : "Vom 02/11 bis 02/12/2022, jeden Dienstag, Mittwoch, Donnerstag, Freitag und Samstag.",
+      "libelleNl" : "Van 02/11 tot en met 02/12/2022, elke dinsdag, woensdag, donderdag, vrijdag en zaterdag.",
+      "libelleRu" : "С 02/11 до 02/12/2022, каждый вторники, среды, четверги, пятницы и субботы.",
+      "libelleZh" : "从 11月2日 到 2022年12月2日, 每星期二, 星期三, 星期四, 星期五 和 星期六.",
+      "libellePtBR" : "De 02/11 a 02/12/2022, todas as terças-feiras, quartas-feiras, quintas-feiras, sextas-feiras e sábados.",
+      "libelleJa" : "02/11 から 02/12/2022 まで, 毎火曜日, 水曜日, 木曜日, 金曜日 と 土曜日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24584061,
+      "dateDebut" : "2022-11-02",
+      "dateFin" : "2022-12-02",
+      "complementHoraire" : {
+        "libelleFr" : "de 10h à 13h et de 15h à 18h"
+      },
+      "type" : "OUVERTURE_SEMAINE",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "MERCREDI"
+      }, {
+        "jour" : "JEUDI"
+      }, {
+        "jour" : "VENDREDI"
+      }, {
+        "jour" : "SAMEDI"
+      } ],
+      "identifiantTechnique" : 24584098
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 14536196,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Exposition de peintures de Virginie Eude"
+    },
+    "legende" : {
+      "libelleFr" : "Exposition de peintures de Virginie Eude"
+    },
+    "copyright" : {
+      "libelleFr" : "lestoilesdemarianne"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/77/14896435.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/77/14896435-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/77/14896435-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/77/14896435-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Affiche Exposition Les Toiles de Marianne",
+      "taille" : 610794,
+      "hauteur" : 1679,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-25T12:38:33.807+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693743
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853941
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-08", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Les Toiles de Marianne"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-02T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

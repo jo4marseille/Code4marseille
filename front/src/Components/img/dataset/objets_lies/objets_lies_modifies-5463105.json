@@ -1,0 +1,521 @@
+{
+  "type" : "STRUCTURE",
+  "id" : 5463105,
+  "nom" : {
+    "libelleFr" : "Mairie d'Aix-en-Provence",
+    "libelleEn" : "Aix-en-Provence city hall",
+    "libelleEs" : "Mairie d'Aix en Provence",
+    "libelleIt" : "Mairie d'Aix en Provence",
+    "libelleDe" : "Mairie d'Aix en Provence",
+    "libelleNl" : "Mairie d'Aix en Provence"
+  },
+  "identifier" : "SITRA2_STR_5463105",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-03-03T14:36:04.183+0000",
+    "dateModification" : "2022-11-07T09:49:00.439+0000",
+    "dateExportModification" : "2022-11-07T09:49:00.630+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77002296,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 90 00"
+      }
+    }, {
+      "identifiant" : 77002297,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 95 12"
+      }
+    }, {
+      "identifiant" : 77002298,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 26 76 40"
+      }
+    }, {
+      "identifiant" : 101420576,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 88 80"
+      },
+      "observation" : {
+        "libelleFr" : "Direction des espaces verts"
+      }
+    }, {
+      "identifiant" : 77002300,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "https://www.aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 98092864,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 207
+      },
+      "coordonnees" : {
+        "fr" : "https://www.facebook.com/aixmaville"
+      }
+    } ],
+    "informationsLegales" : { }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Hôtel de Ville",
+      "adresse2" : "Place De l'Hôtel de Ville",
+      "codePostal" : "13616",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.447715, 43.529844 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "descriptionTarif" : {
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "contacts" : [ {
+    "identifiant" : 18712214,
+    "referent" : true,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Aublet",
+    "prenom" : "Christiane",
+    "titre" : {
+      "libelleFr" : "Service coordination des Musées de la ville"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85848963,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "AubletC@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 85848973,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 88 71 84 45"
+      },
+      "observation" : {
+        "libelleFr" : "04 42 91 88 75"
+      }
+    } ]
+  }, {
+    "identifiant" : 18712195,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Staïner",
+    "prenom" : "Véronique",
+    "titre" : {
+      "libelleFr" : "au Musée Granet"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85848822,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "StainerV@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 85848848,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 52 88 43"
+      }
+    } ]
+  }, {
+    "identifiant" : 18712323,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Agopian",
+    "prenom" : "Camille",
+    "titre" : {
+      "libelleFr" : "Direction des Sports"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85849525,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "agopianc@mairieaixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 85849537,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 97 06"
+      }
+    } ]
+  }, {
+    "identifiant" : 18712417,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Cardone",
+    "prenom" : "Mélanie",
+    "titre" : {
+      "libelleFr" : "Service Affaires Provençales"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 468
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 85849932,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "affaires-provencales@mairie-aixenprovence.fr"
+      }
+    }, {
+      "identifiant" : 85849933,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 26 23 41"
+      }
+    } ]
+  }, {
+    "identifiant" : 18875576,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Gaidan",
+    "prenom" : "Laurence",
+    "titre" : {
+      "libelleFr" : "Responsable des bibliothèques de proximité"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86790172,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "gaidanl@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18875596,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Ortin",
+    "prenom" : "Marion",
+    "titre" : {
+      "libelleFr" : "Responsable du service Bibliotèque de la Halle aux Grains"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86790241,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "OrtinM@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18875599,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Serena",
+    "prenom" : "Céline",
+    "titre" : {
+      "libelleFr" : "Responsable du service Bibliothèque des Deux Ormes"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86790259,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "serenace@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18875600,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Thérond",
+    "prenom" : "Anne",
+    "titre" : {
+      "libelleFr" : "Responsable du service Bibliothèque Li Campaneto"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86790284,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "theronda@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18875624,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Bois",
+    "prenom" : "Alix",
+    "titre" : {
+      "libelleFr" : "Responsable du service Médiabus"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86790306,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "boisa@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18876023,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Candido",
+    "prenom" : "Cécile",
+    "titre" : {
+      "libelleFr" : "Responsable du service de la Bibliothèques Méjanes"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86792242,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "candidoc@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 18876035,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Meirieu",
+    "prenom" : "Coline",
+    "titre" : {
+      "libelleFr" : "Programmation et communication de la Bibliothèque Méjanes"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 467
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 86792332,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "meirieuc@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 21081066,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Rouden",
+    "prenom" : "Sandrine",
+    "titre" : {
+      "libelleFr" : "Direction des espaces verts"
+    },
+    "fonction" : {
+      "elementReferenceType" : "ContactFonction",
+      "id" : 458
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 101420353,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 91 88 80"
+      }
+    } ]
+  }, {
+    "identifiant" : 21549076,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Lauthier",
+    "prenom" : "Any-Claude",
+    "titre" : {
+      "libelleFr" : "Gestion des salles"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104966363,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "lauthierAC@mairie-aixenprovence.fr"
+      }
+    } ]
+  }, {
+    "identifiant" : 21549085,
+    "referent" : false,
+    "civilite" : {
+      "elementReferenceType" : "ContactCivilite",
+      "id" : 442
+    },
+    "nom" : "Rouve",
+    "prenom" : "Natacha",
+    "titre" : {
+      "libelleFr" : "Chargée de mission"
+    },
+    "moyensCommunication" : [ {
+      "identifiant" : 104966426,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "rouveN@mairie-aixenprovence.fr"
+      }
+    } ]
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsStructure" : { },
+  "formatVersion" : "v002",
+  "enquete" : { }
+}

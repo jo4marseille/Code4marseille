@@ -1,0 +1,200 @@
+{
+  "type" : "PATRIMOINE_CULTUREL",
+  "id" : 5537870,
+  "nom" : {
+    "libelleFr" : "Fontaine de Saint-Jean de Malte",
+    "libelleEn" : "St John of Malta Fountain",
+    "libelleIt" : "Fontaine de St. Jean de Malte",
+    "libelleDe" : "Fontaine de St. Jean de Malte",
+    "libelleNl" : "Fontaine de St. Jean de Malte"
+  },
+  "identifier" : "SITRA2_PCU_5537870",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2020-05-26T16:56:15.960+0000",
+    "dateModification" : "2022-01-28T08:54:07.410+0000",
+    "dateExportModification" : "2022-10-17T12:22:36.789+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5225100
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "La fontaine, premièrement érigée en 1759 selon les plans de Vallon, est placée devant l'entrée de l'église St. Jean de Malte. Elle fut détruite et remplacée en 1862 par la fontaine actuelle.",
+      "libelleEn" : "The fountain, which was first built in 1759 to plans by Vallon, stands in front of the entrance to the Church of St John of Malta."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Le quartier Mazarin fut conçu au XVIIe. siècle sur un plan d'urbanisme baroque romain à 2 axes, dont le decumanus (axe routier dans les villes romaines) aboutissait à l'église Saint-Jean de Malte.\r\n\r\nIl fallait réussir l'intégration de ce nouveau quartier avec l'ensemble médiéval fortifié constitué par l'église et ses attachements, lieu qui servait de sépulture aux derniers comtes de Provence.\r\n\r\nLe bassin est en pierre dure et l'eau y est déversée par 2 modestes canons. La Fontaine est adossée à un mur et offre un décor inspiré de l'ordre des Hospitaliers de Saint-Jean de Malte (qui est omniprésent aux alentours avec son église et son prieuré).\r\n\r\nDeux croix de Malte sont visibles sur le fronton. L'une est taillée dedans, à l'intérieur tandis que l'autre ressort de cette première. En tout 8 branches sont donc visibles, symbole probable des huit langues que traverses l'ordre en Europe (le provençal, l'auvergnat, le français, l'italien, l'aragon, l'anglais,...). \r\n\r\nCette fontaine ne trouble pas l'unité de la place, elle en fait partie mais n'en vole pas l'attention grâce à sa modestie et sa beauté simpliste.",
+      "libelleEn" : "It was destroyed and replaced by the present fountain in 1862. Its basin is in hardstone and the water flows into it from two small pipes. \r\n\r\nIt is built against a wall and its design is inspired by the order of the Hospitaliers of St John of Malta (which is omnipresent around it, with its church and priory). \r\n\r\nTwo Maltese crosses can be seen on the pediment. One is carved inside while the other protrudes from the first, so that eight branches are visible in all, probably symbolising the eight languages of the countries where the order is present in Europe (Provençal, Auvergnat, French, Italian, Aragon, English, etc). \r\n\r\nThis fountain does not intrude: it is a part of the square, but its modest and simple beauty do not draw attention to itself."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "Rue Cardinale",
+      "codePostal" : "13100",
+      "bureauDistribution" : "AIX EN PROVENCE",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.450092, 43.525310 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "PATRIMOINE_CULTUREL",
+        "id" : 5537915
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : { },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE"
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : { },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 8491271,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "13MO000102_1_HD.jpg"
+    },
+    "copyright" : {
+      "libelleFr" : "Martinez - Ville d'Aix-en-Provence"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/10/8260315.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/10/8260315-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/10/8260315-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/10/8260315-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "full",
+      "taille" : 864164,
+      "hauteur" : 1440,
+      "largeur" : 1920,
+      "lastModifiedDate" : "2020-07-23T17:50:02.000+0000"
+    } ],
+    "locked" : false
+  } ],
+  "visites" : {
+    "visitable" : false
+  },
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "informationsPatrimoineCulturel" : {
+    "patrimoineCulturelType" : {
+      "elementReferenceType" : "PatrimoineCulturelType",
+      "id" : 3203
+    },
+    "themes" : [ {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3486
+    }, {
+      "elementReferenceType" : "PatrimoineCulturelTheme",
+      "id" : 3512
+    } ]
+  },
+  "formatVersion" : "v002",
+  "expiration" : { },
+  "informationsPrestataireActivites" : {
+    "prestataireActivites" : false
+  },
+  "enquete" : { },
+  "donneesPrivees" : [ {
+    "nomTechnique" : "1947_Id_patio",
+    "libelleFr" : "Id_Patio",
+    "ordre" : 1,
+    "descriptif" : {
+      "libelleFr" : "13MO000102"
+    }
+  }, {
+    "nomTechnique" : "1947_Source_patio",
+    "libelleFr" : "Source_Patio",
+    "ordre" : 2,
+    "descriptif" : {
+      "libelleFr" : "OT Aix en Provence"
+    }
+  }, {
+    "nomTechnique" : "1947_Url_patio",
+    "libelleFr" : "URL_Patio",
+    "ordre" : 3,
+    "descriptif" : {
+      "libelleFr" : "http://www.aixenprovencetourism.com"
+    }
+  } ]
+}

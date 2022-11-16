@@ -1,0 +1,318 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6286500,
+  "nom" : {
+    "libelleFr" : "Zikotempo \"recyclown\"",
+    "libelleEn" : "Zikotempo \"recyclown\"",
+    "libelleEs" : "Zikotempo \"recyclown\"",
+    "libelleIt" : "Zikotempo \"recyclown\"",
+    "libelleDe" : "Zikotempo \"recyclown\"",
+    "libelleNl" : "Zikotempo \"recyclown\"",
+    "libelleRu" : "Zikotempo \"recyclown\"",
+    "libelleZh" : "Zikotempo \"recyclown\"",
+    "libellePtBR" : "Zikotempo \"recyclown\"",
+    "libelleJa" : "Zikotempo \"recyclown\""
+  },
+  "identifier" : "SITRA2_EVE_6286500",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-10-05T07:24:07.364+0000",
+    "dateModification" : "2022-10-05T15:29:49.748+0000",
+    "dateExportModification" : "2022-10-17T14:28:18.044+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office de Tourisme d'Aix en Provence",
+      "dateCreation" : "2020-02-14T10:34:37.912+0000",
+      "dateModification" : "2022-10-24T08:49:34.452+0000",
+      "id" : 1988,
+      "siteWeb" : "http://www.aixenprovencetourism.com"
+    },
+    "signalerUnProblemeMails" : [ "jchevalier@aixenprovencetourism.com", "sdardenne@aixenprovencetourism.com", "vmontpellaz@aixenprovencetourism.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 70503837,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 42 59 19 71"
+      }
+    }, {
+      "identifiant" : 70503841,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://lamareschale.com/"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5221488
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Spectacle jeune public, à partir de 4 ans, par la compagnie Amuzik, à la Mareschale"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "\"Et si nos déchets d'aujourd'hui étaient nos trésors de demain ?\"\r\nZik est un clochard céleste qui vit dans la rue.\r\nIl fabrique des instruments de musique avec des déchets, contre la volonté de Bruitos, grand dictateur du son, qui diffuse partout ses mélodies immondes.\r\nZik ne le sait pas encore mais son destin est bien plus grand qu'il ne l'imagine. Tempo vient en effet lui annoncer sa mission : Sauver la Musique !\r\n\r\nPartant du principe que \"tout est son\", embarquez avec les 2 musiComédiens dans un voyage comico-burlesque ! Tout devient alors jonglerie musicale : Des objets recyclés jusqu'au corps tout entier !\r\n\r\nDurée : 50min"
+    },
+    "typologiesPromoSitra" : [ {
+      "elementReferenceType" : "TypologiePromoSitra",
+      "id" : 1671
+    } ]
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "La Mareschale - Maison de quartier d'Encagnane",
+      "adresse1" : "Maison de Quartier Culturelle et Artistique d'Aix-Encagnane",
+      "adresse2" : "27 Avenue De Tübingen",
+      "adresse3" : "Encagnane",
+      "codePostal" : "13090",
+      "commune" : {
+        "id" : 4412
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.436101, 43.526385 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4412
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "SUR_PLACE",
+      "libelleFr" : "Sur place",
+      "libelleEn" : "On the premises",
+      "libelleEs" : "In situ",
+      "libelleIt" : "Sul posto",
+      "libelleDe" : "Vor Ort",
+      "libelleNl" : "Ter plaatse",
+      "libelleRu" : "На месте",
+      "libelleZh" : "堂食",
+      "libellePtBR" : "No local",
+      "libelleJa" : "現地で",
+      "objetTouristique" : {
+        "type" : "EQUIPEMENT",
+        "id" : 5221489
+      }
+    }, {
+      "type" : "PROGRAMME_ORGANISATEUR",
+      "libelleFr" : "Est organisé dans le cadre de ...",
+      "libelleEn" : "Is organised as part of...",
+      "libelleEs" : "Se organiza en el marco de...",
+      "libelleIt" : "È organizzato nel contesto di...",
+      "libelleDe" : "Wird organisiert im Rahmen von ...",
+      "libelleNl" : "Wordt georganiseerd in het kader van ...",
+      "libelleRu" : "Проводится в рамках...",
+      "libelleZh" : "作为的一部分被组织",
+      "libellePtBR" : "É organizado no âmbito de...",
+      "libelleJa" : "はこの催しの一部",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 5466040
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "typesClientele" : [ {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 513
+    }, {
+      "elementReferenceType" : "TypeClientele",
+      "id" : 594
+    } ],
+    "ageMin" : 48,
+    "uniteAgeMin" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 9 novembre 2022 à 15h30.",
+      "libelleEn" : "Wednesday 9 November 2022 at 3.30 pm.",
+      "libelleEs" : "Miércoles, 9 de noviembre de 2022 a 15:30.",
+      "libelleIt" : "Mercoledì 9 novembre 2022 alle 15:30.",
+      "libelleDe" : "Mittwoch, den 9. November 2022 um 15.30 Uhr.",
+      "libelleNl" : "Woensdag 9 november 2022 om 15.30 u.",
+      "libelleRu" : "Среда 9 ноября 2022  до 15h30.",
+      "libelleZh" : "2022年11月9日, 星期三   在 小时小时分钟.",
+      "libellePtBR" : "Quarta-feira 9 Novembro 2022 para  15h30.",
+      "libelleJa" : "水曜日 9 11月 2022 3.30 午後 に."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24433908,
+      "dateDebut" : "2022-11-09",
+      "dateFin" : "2022-11-09",
+      "horaireOuverture" : "15:30:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24439610
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "ENTREE_LIBRE",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Entrée libre. Sur réservation.",
+      "libelleEn" : "Free entry.",
+      "libelleEs" : "Entrada libre.",
+      "libelleIt" : "Ingresso libero.",
+      "libelleDe" : "Eintritt frei.",
+      "libelleNl" : "Gratis entree.",
+      "libelleRu" : "Вход свободный.",
+      "libelleZh" : "自由进入.",
+      "libellePtBR" : "Entrada livre.",
+      "libelleJa" : "入場無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "sur réservation"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6836552,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5221488
+      },
+      "nom" : "La Mareschale - Maison de quartier d'Encagnane",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 70503837,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 42 59 19 71"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14307977,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "La Mareschale"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/78/14634632.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/78/14634632-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/78/14634632-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/78/14634632-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "ziko",
+      "taille" : 401757,
+      "hauteur" : 1695,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-05T07:39:01.971+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14307899,
+    "link" : false,
+    "type" : "IMAGE",
+    "copyright" : {
+      "libelleFr" : "DjiB"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/78/14634555.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/78/14634555-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/78/14634555-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/78/14634555-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "djib",
+      "taille" : 128447,
+      "hauteur" : 901,
+      "largeur" : 1200,
+      "lastModifiedDate" : "2022-10-05T07:29:26.538+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427620
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460325
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693839
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5775948
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5853930
+  } ],
+  "datesOuverture" : [ "2022-11-09" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2091
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2278
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    },
+    "nomLieu" : "La Mareschale - Maison de quartier d'Encagnane"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-09T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}

@@ -1,0 +1,388 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 5869277,
+  "nom" : {
+    "libelleFr" : "Balade La Pitchoune",
+    "libelleEn" : "The Pitchoune tour"
+  },
+  "identifier" : "SITRA2_EVE_5869277",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2021-07-13T13:57:51.752+0000",
+    "dateModification" : "2022-11-08T09:24:25.926+0000",
+    "dateExportModification" : "2022-11-08T23:14:50.783+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Office Métropolitain de tourisme et des congrès de Marseille",
+      "dateCreation" : "2017-02-13T09:29:30.842+0000",
+      "dateModification" : "2022-10-24T08:49:48.642+0000",
+      "id" : 1490,
+      "siteWeb" : "http://www.marseille-tourisme.com"
+    },
+    "signalerUnProblemeMails" : [ "alegrand@marseille-tourisme.com", "hcochet@marseille-tourisme.com", "jorengo@marseille-tourisme.com", "lchavet@marseille-tourisme.com", "mamadier@marseille-tourisme.com", "sbenimeli@marseille-tourisme.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 97816799,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "+33 6 25 35 47 21"
+      }
+    }, {
+      "identifiant" : 97816800,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "tuktukmarseille@gmail.com"
+      }
+    } ],
+    "informationsLegales" : { },
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    },
+    "structureInformation" : {
+      "type" : "STRUCTURE",
+      "id" : 5558474
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Départ vieux Port, longez la Corniche avec une vue exceptionnelle sur les îles du Frioul et château de If, plage des catalans, descente au Vallon des Auffes avec son cadre authentique, montez à Notre Dame de la Garde pour un arrêt de 20mn !",
+      "libelleEn" : "Our famous church Notre Dame de la Garde is waiting for you with his panoramic view of the city and Mediterranean seaside. On the drive of Kennedy roaside you will enjoy the frioul archipelago view and the fantastic and richest villa of the Roucas…"
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "La « Bonne Mère », Notre-Dame-de-la-Garde, vous attend avec sa vue éblouissante sur Marseille et la mer Méditerranée.Longez le bord de mer sur la mythique Corniche Kennedy et appréciez la vue splendide sur l’archipel du Frioul et les villas somptueuses du Roucas-Blanc…Sans oublier une descente vers un authentique port de pêche de Marseille : le vallon des Auffes.\n\n \n\nItinéraire : Vieux-Port – Abbaye Saint-Victor – La Corniche Kennedy – Le vallon des Auffes – Le Roucas-Blanc – Notre-Dame-de-la-Garde (halte de 20minutes) – Endoume -Vieux-Port.",
+      "libelleEn" : "Our famous church Notre Dame de la Garde is waiting for you with his panoramic view of the city and Mediterranean seaside.On the drive of Kennedy roaside you will enjoy the frioul archipelago view and the fantastic and richest villa of the Roucas Blanc district …You will have the opportunity to visit one of the typical Marseille tresor: the little fisher port of le vallon des Auffes. Where the time had stop.Circuit: Old harbour – Kennedy roadside – le Vallon des Auffes – Le Roucas Blanc – Basilica Notre Dame (20mn to visit) – old harbour."
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "adresse1" : "1 La Canebière",
+      "commune" : {
+        "id" : 4466
+      }
+    },
+    "geolocalisation" : {
+      "complement" : { },
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.374570, 43.295600 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4466
+    }, {
+      "id" : 4531
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1192
+    }, {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "complementAccueil" : {
+      "libelleFr" : "\nInformations importantes :\nPensez à vous munir de votre masque",
+      "libelleEn" : "\nImportant information:\nPensez à vous munir de votre masque"
+    }
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 01/01 au 31/12/2022, tous les jours.",
+      "libelleEn" : "From 01/01 to 31/12/2022, daily.",
+      "libelleEs" : "Del 01/01 al 31/12/2022, todos los dias.",
+      "libelleIt" : "Dal 01/01 al 31/12/2022, ogni giorno.",
+      "libelleDe" : "Vom 01/01 bis 31/12/2022, täglich.",
+      "libelleNl" : "Van 01/01 tot en met 31/12/2022, iedere dag.",
+      "libelleRu" : "С 01/01 до 31/12/2022, ежедневно.",
+      "libelleZh" : "从 1月1日 到 2022年12月31日, 日常.",
+      "libellePtBR" : "De 01/01 a 31/12/2022, todos os dias.",
+      "libelleJa" : "01/01 から 31/12/2022 まで, 毎日."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24716914,
+      "dateDebut" : "2022-01-01",
+      "dateFin" : "2022-12-31",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24716914
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "PAYANT",
+    "gratuit" : false,
+    "tarifsEnClair" : {
+      "libelleFr" : "Billet groupe : 51,00 EUR",
+      "libelleEn" : "Billet groupe : 51,00 EUR"
+    },
+    "tarifsEnClairGenerationMode" : "MANUEL",
+    "complement" : {
+      "libelleFr" : "\nNon compris : Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)",
+      "libelleEn" : "\nNot included: Transfert depuis votre bateau vers le centre ville (30 euros l'aller, 60 l'aller-retour)"
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6915503,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5558474
+      },
+      "nom" : "Tuk Tuk Marseille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 104993392,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 205
+        },
+        "coordonnees" : {
+          "fr" : "https://marseilletourisme.regiondo.fr/balade-la-pitchoune"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "illustrations" : [ {
+    "identifiant" : 14813381,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/233/15198646.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/233/15198646-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/233/15198646-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/233/15198646-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5ff4dbd9e79f3527762843-cropped600-400",
+      "taille" : 115669,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:29.893+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813382,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/233/15198647.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/233/15198647-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/233/15198647-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/233/15198647-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fb88ea1600931486728-cropped600-400",
+      "taille" : 66879,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:30.288+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813383,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/233/15198648.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/233/15198648-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/233/15198648-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/184/233/15198648-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fb8984d644207239551-cropped600-400",
+      "taille" : 137859,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:29.179+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  }, {
+    "identifiant" : 14813384,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "legende" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "copyright" : {
+      "libelleFr" : "Balade La Pitchoune",
+      "libelleEn" : "The Pitchoune tour"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/233/15198649.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/233/15198649-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/233/15198649-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/185/233/15198649-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "big-ticket-image-5f4fb8a4b0ceb712177395-cropped600-400",
+      "taille" : 87733,
+      "hauteur" : 400,
+      "largeur" : 600,
+      "lastModifiedDate" : "2022-11-08T09:24:29.567+0000"
+    } ],
+    "locked" : false,
+    "source" : "Regiondo"
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693758
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12", "2022-11-13", "2022-11-14", "2022-11-15", "2022-11-16", "2022-11-17", "2022-11-18", "2022-11-19", "2022-11-20", "2022-11-21", "2022-11-22", "2022-11-23", "2022-11-24", "2022-11-25", "2022-11-26", "2022-11-27", "2022-11-28", "2022-11-29", "2022-11-30", "2022-12-01", "2022-12-02", "2022-12-03", "2022-12-04", "2022-12-05", "2022-12-06", "2022-12-07", "2022-12-08", "2022-12-09", "2022-12-10", "2022-12-11", "2022-12-12", "2022-12-13", "2022-12-14", "2022-12-15", "2022-12-16", "2022-12-17", "2022-12-18", "2022-12-19", "2022-12-20", "2022-12-21", "2022-12-22", "2022-12-23", "2022-12-24", "2022-12-25", "2022-12-26", "2022-12-27", "2022-12-28", "2022-12-29", "2022-12-30", "2022-12-31" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    }, {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1974
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2101
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2129
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2206
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2351
+    }
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-12-31T00:00:00.000+0000",
+    "expirationAction" : "MASQUER"
+  },
+  "enquete" : { },
+  "metadonnees" : [ {
+    "noeudId" : "fairguest",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "note" : 9.9,
+        "label" : "Excellent",
+        "couleur" : "#277712",
+        "nombreAvis" : 19,
+        "dateMaj" : 1662455918305
+      }
+    } ]
+  }, {
+    "noeudId" : "regiondo-paca",
+    "contenus" : [ {
+      "cible" : "general",
+      "metadonnee" : {
+        "product_id" : "158966",
+        "product_supplier_id" : "35331",
+        "sku" : "T-TU49-171049",
+        "source" : "Marseille"
+      }
+    } ]
+  } ]
+}

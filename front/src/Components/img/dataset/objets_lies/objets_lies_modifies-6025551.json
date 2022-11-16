@@ -1,0 +1,390 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6025551,
+  "nom" : {
+    "libelleFr" : "L'heure des contes pour les 4-9 ans"
+  },
+  "identifier" : "SITRA2_EVE_6025551",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-02-03T15:13:22.386+0000",
+    "dateModification" : "2022-10-17T15:29:28.978+0000",
+    "dateExportModification" : "2022-10-17T15:29:30.054+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Régie Tourisme de la CC Vallée Des Baux-Alpilles",
+      "dateCreation" : "2020-09-21T13:49:42.365+0000",
+      "dateModification" : "2022-10-24T08:49:50.520+0000",
+      "id" : 2081
+    },
+    "signalerUnProblemeMails" : [ "fontvieille@alpillesenprovence.com", "mouries@alpillesenprovence.com", "web@alpillesenprovence.com" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 77204775,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 201
+      },
+      "coordonnees" : {
+        "fr" : "04 90 92 70 21"
+      }
+    }, {
+      "identifiant" : 96407228,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 204
+      },
+      "coordonnees" : {
+        "fr" : "bibliotheque@ville-srdp.fr"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5482381
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Lecture de contes traditionnels, modernes ou mythologiques à la bibliothèque municipale Joseph Roumanille, une séance par mois, le mercredi de 15h à 16h avec le goûter offert."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Contes traditionnels, contes modernes ou contes mythologiques.\r\n1 séance par mois, de septembre 2022 à juin 2023, le mercredi de 15h à 16h.\r\n\r\n2022\r\n28 septembre\r\n19 octobre\r\n2* | 23 novembre\r\n28* décembre\r\n\r\n2023\r\n25 janvier\r\n22* février\r\n22 mars\r\n26* avril\r\n24 mai\r\n28 juin\r\n\r\n*période de vacances"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Bibliothèque municipale Joseph Roumanille",
+      "adresse1" : "4 boulevard Gambetta",
+      "codePostal" : "13210",
+      "commune" : {
+        "id" : 4511
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 4.833067, 43.790306 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4511
+    } ]
+  },
+  "liens" : {
+    "liensObjetsTouristiquesTypes" : [ {
+      "type" : "DEFAUT",
+      "libelleFr" : "En lien avec",
+      "libelleEn" : "Related to",
+      "libelleEs" : "En relación con",
+      "libelleIt" : "In collegamento con",
+      "libelleDe" : "In Verbindung mit",
+      "libelleNl" : "In verband met",
+      "libelleRu" : "Применительно к",
+      "libelleZh" : "与携手",
+      "libellePtBR" : "Em relação com",
+      "libelleJa" : "と関連して",
+      "objetTouristique" : {
+        "type" : "FETE_ET_MANIFESTATION",
+        "id" : 6025577
+      }
+    } ]
+  },
+  "prestations" : {
+    "animauxAcceptes" : "NON_ACCEPTES",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ],
+    "ageMin" : 48,
+    "ageMax" : 108,
+    "uniteAgeMin" : "ANNEE",
+    "uniteAgeMax" : "ANNEE"
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Mercredi 19 octobre 2022 de 15h à 16h.\n\nMercredi 2 novembre 2022 de 15h à 16h.\n\nMercredi 23 novembre 2022 de 15h à 16h.\n\nMercredi 28 décembre 2022 de 15h à 16h.\n\nMercredi 25 janvier 2023 de 15h à 16h.\n\nMercredi 22 février 2023 de 15h à 16h.\n\nMercredi 22 mars 2023 de 15h à 16h.\n\nMercredi 26 avril 2023 de 15h à 16h.\n\nMercredi 24 mai 2023 de 15h à 16h.\n\nMercredi 28 juin 2023 de 15h à 16h.",
+      "libelleEn" : "Wednesday 19 October 2022 between 3 pm and 4 pm.\n\nWednesday 2 November 2022 between 3 pm and 4 pm.\n\nWednesday 23 November 2022 between 3 pm and 4 pm.\n\nWednesday 28 December 2022 between 3 pm and 4 pm.\n\nWednesday 25 January 2023 between 3 pm and 4 pm.\n\nWednesday 22 February 2023 between 3 pm and 4 pm.\n\nWednesday 22 March 2023 between 3 pm and 4 pm.\n\nWednesday 26 April 2023 between 3 pm and 4 pm.\n\nWednesday 24 May 2023 between 3 pm and 4 pm.\n\nWednesday 28 June 2023 between 3 pm and 4 pm.",
+      "libelleEs" : "Miércoles, 19 de octubre de 2022 de 15 a 16.\n\nMiércoles, 2 de noviembre de 2022 de 15 a 16.\n\nMiércoles, 23 de noviembre de 2022 de 15 a 16.\n\nMiércoles, 28 de diciembre de 2022 de 15 a 16.\n\nMiércoles, 25 de enero de 2023 de 15 a 16.\n\nMiércoles, 22 de febrero de 2023 de 15 a 16.\n\nMiércoles, 22 de marzo de 2023 de 15 a 16.\n\nMiércoles, 26 de abril de 2023 de 15 a 16.\n\nMiércoles, 24 de mayo de 2023 de 15 a 16.\n\nMiércoles, 28 de junio de 2023 de 15 a 16.",
+      "libelleIt" : "Mercoledì 19 ottobre 2022 dalle 15 alle 16.\n\nMercoledì 2 novembre 2022 dalle 15 alle 16.\n\nMercoledì 23 novembre 2022 dalle 15 alle 16.\n\nMercoledì 28 dicembre 2022 dalle 15 alle 16.\n\nMercoledì 25 gennaio 2023 dalle 15 alle 16.\n\nMercoledì 22 febbraio 2023 dalle 15 alle 16.\n\nMercoledì 22 marzo 2023 dalle 15 alle 16.\n\nMercoledì 26 aprile 2023 dalle 15 alle 16.\n\nMercoledì 24 maggio 2023 dalle 15 alle 16.\n\nMercoledì 28 giugno 2023 dalle 15 alle 16.",
+      "libelleDe" : "Mittwoch, den 19. Oktober 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 2. November 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 23. November 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 28. Dezember 2022 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 25. Januar 2023 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 22. Februar 2023 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 22. März 2023 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 26. April 2023 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 24. Mai 2023 von 15 Uhr bis 16 Uhr.\n\nMittwoch, den 28. Juni 2023 von 15 Uhr bis 16 Uhr.",
+      "libelleNl" : "Woensdag 19 oktober 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 2 november 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 23 november 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 28 december 2022 van 15.00 tot en met 16.00 u.\n\nWoensdag 25 januari 2023 van 15.00 tot en met 16.00 u.\n\nWoensdag 22 februari 2023 van 15.00 tot en met 16.00 u.\n\nWoensdag 22 maart 2023 van 15.00 tot en met 16.00 u.\n\nWoensdag 26 april 2023 van 15.00 tot en met 16.00 u.\n\nWoensdag 24 mei 2023 van 15.00 tot en met 16.00 u.\n\nWoensdag 28 juni 2023 van 15.00 tot en met 16.00 u.",
+      "libelleRu" : "Среда 19 октября 2022  с 15h до 16h.\n\nСреда 2 ноября 2022  с 15h до 16h.\n\nСреда 23 ноября 2022  с 15h до 16h.\n\nСреда 28 декабря 2022  с 15h до 16h.\n\nСреда 25 января 2023  с 15h до 16h.\n\nСреда 22 февраля 2023  с 15h до 16h.\n\nСреда 22 марта 2023  с 15h до 16h.\n\nСреда 26 апреля 2023  с 15h до 16h.\n\nСреда 24 мая 2023  с 15h до 16h.\n\nСреда 28 июня 2023  с 15h до 16h.",
+      "libelleZh" : "2022年10月19日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月2日, 星期三   小时小时 和 小时小时 之间.\n\n2022年11月23日, 星期三   小时小时 和 小时小时 之间.\n\n2022年12月28日, 星期三   小时小时 和 小时小时 之间.\n\n2023年1月25日, 星期三   小时小时 和 小时小时 之间.\n\n2023年2月22日, 星期三   小时小时 和 小时小时 之间.\n\n2023年3月22日, 星期三   小时小时 和 小时小时 之间.\n\n2023年4月26日, 星期三   小时小时 和 小时小时 之间.\n\n2023年5月24日, 星期三   小时小时 和 小时小时 之间.\n\n2023年6月28日, 星期三   小时小时 和 小时小时 之间.",
+      "libellePtBR" : "Quarta-feira 19 Outubro 2022 de 15h a  16h.\n\nQuarta-feira 2 Novembro 2022 de 15h a  16h.\n\nQuarta-feira 23 Novembro 2022 de 15h a  16h.\n\nQuarta-feira 28 Dezembro 2022 de 15h a  16h.\n\nQuarta-feira 25 Janeiro 2023 de 15h a  16h.\n\nQuarta-feira 22 Fevereiro 2023 de 15h a  16h.\n\nQuarta-feira 22 Março 2023 de 15h a  16h.\n\nQuarta-feira 26 Abril 2023 de 15h a  16h.\n\nQuarta-feira 24 Maio 2023 de 15h a  16h.\n\nQuarta-feira 28 Junho 2023 de 15h a  16h.",
+      "libelleJa" : "水曜日 19 10月 2022 3 午後 と 4 午後 の間.\n\n水曜日 2 11月 2022 3 午後 と 4 午後 の間.\n\n水曜日 23 11月 2022 3 午後 と 4 午後 の間.\n\n水曜日 28 12月 2022 3 午後 と 4 午後 の間.\n\n水曜日 25 1月 2023 3 午後 と 4 午後 の間.\n\n水曜日 22 2月 2023 3 午後 と 4 午後 の間.\n\n水曜日 22 3月 2023 3 午後 と 4 午後 の間.\n\n水曜日 26 4月 2023 3 午後 と 4 午後 の間.\n\n水曜日 24 5月 2023 3 午後 と 4 午後 の間.\n\n水曜日 28 6月 2023 3 午後 と 4 午後 の間."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 418
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 435
+    }, {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 436
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 24518652,
+      "dateDebut" : "2022-10-19",
+      "dateFin" : "2022-10-19",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518652
+    }, {
+      "identifiant" : 24518656,
+      "dateDebut" : "2022-11-02",
+      "dateFin" : "2022-11-02",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518656
+    }, {
+      "identifiant" : 24518658,
+      "dateDebut" : "2022-11-23",
+      "dateFin" : "2022-11-23",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518658
+    }, {
+      "identifiant" : 24518659,
+      "dateDebut" : "2022-12-28",
+      "dateFin" : "2022-12-28",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518659
+    }, {
+      "identifiant" : 24518661,
+      "dateDebut" : "2023-01-25",
+      "dateFin" : "2023-01-25",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518661
+    }, {
+      "identifiant" : 24518663,
+      "dateDebut" : "2023-02-22",
+      "dateFin" : "2023-02-22",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518663
+    }, {
+      "identifiant" : 24518665,
+      "dateDebut" : "2023-03-22",
+      "dateFin" : "2023-03-22",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518665
+    }, {
+      "identifiant" : 24518669,
+      "dateDebut" : "2023-04-26",
+      "dateFin" : "2023-04-26",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518669
+    }, {
+      "identifiant" : 24518671,
+      "dateDebut" : "2023-05-24",
+      "dateFin" : "2023-05-24",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518671
+    }, {
+      "identifiant" : 24518673,
+      "dateDebut" : "2023-06-28",
+      "dateFin" : "2023-06-28",
+      "horaireOuverture" : "15:00:00",
+      "horaireFermeture" : "16:00:00",
+      "type" : "OUVERTURE_TOUS_LES_JOURS",
+      "tousLesAns" : false,
+      "identifiantTechnique" : 24518673
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit. Pour les 4-9ans.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "complement" : {
+      "libelleFr" : "Pour les 4-9ans."
+    },
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : {
+    "organismes" : [ {
+      "identifiant" : 6274432,
+      "structureReference" : {
+        "type" : "STRUCTURE",
+        "id" : 5482381
+      },
+      "nom" : "Bibliothèque municipale Joseph Roumanille",
+      "type" : {
+        "elementReferenceType" : "ReservationType",
+        "id" : 475
+      },
+      "moyensCommunication" : [ {
+        "identifiant" : 77204775,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 201
+        },
+        "coordonnees" : {
+          "fr" : "04 90 92 70 21"
+        }
+      }, {
+        "identifiant" : 96407986,
+        "type" : {
+          "elementReferenceType" : "MoyenCommunicationType",
+          "id" : 204
+        },
+        "coordonnees" : {
+          "fr" : "bibliotheque@ville-srdp.fr"
+        }
+      } ],
+      "locked" : false
+    } ]
+  },
+  "criteresInternes" : [ {
+    "id" : 18428
+  } ],
+  "illustrations" : [ {
+    "identifiant" : 14436045,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'heure des contes"
+    },
+    "copyright" : {
+      "libelleFr" : "Bibliothèque Municipale Joseph Roumanille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/146/14783085.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/146/14783085-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/146/14783085-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/109/146/14783085-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "Heure_des_contes",
+      "taille" : 35141,
+      "hauteur" : 570,
+      "largeur" : 1555,
+      "lastModifiedDate" : "2022-10-17T15:29:29.196+0000"
+    } ],
+    "locked" : false
+  }, {
+    "identifiant" : 14436046,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "L'heure des contes"
+    },
+    "copyright" : {
+      "libelleFr" : "Bibliothèque Municipale Joseph Roumanille"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/146/14783086.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/146/14783086-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/146/14783086-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/146/14783086-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "heure-des-contes-2022",
+      "taille" : 362658,
+      "hauteur" : 1200,
+      "largeur" : 848,
+      "lastModifiedDate" : "2022-10-17T15:29:29.552+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 658199
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4819487
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 4881511
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427354
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447176
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5447185
+  } ],
+  "datesOuverture" : [ "2022-10-19", "2022-11-02", "2022-11-23", "2022-12-28", "2023-01-25", "2023-02-22", "2023-03-22", "2023-04-26", "2023-05-24", "2023-06-28" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 5651
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2308
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Bibliothèque municipale Joseph Roumanille"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2023-06-28T00:00:00.000+0000",
+    "expirationAction" : "MASQUER_AUTOMATIQUEMENT"
+  },
+  "enquete" : { }
+}

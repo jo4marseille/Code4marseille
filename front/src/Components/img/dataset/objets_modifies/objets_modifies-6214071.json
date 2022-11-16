@@ -1,0 +1,220 @@
+{
+  "type" : "FETE_ET_MANIFESTATION",
+  "id" : 6214071,
+  "nom" : {
+    "libelleFr" : "La Torpeur du Papillon - Pascale Lefebvre, Nicolas Pilard"
+  },
+  "identifier" : "SITRA2_EVE_6214071",
+  "state" : "PUBLISHED",
+  "gestion" : {
+    "dateCreation" : "2022-07-22T08:28:57.067+0000",
+    "dateModification" : "2022-07-22T08:41:41.721+0000",
+    "dateExportModification" : "2022-07-24T14:11:38.623+0000",
+    "membreProprietaire" : {
+      "type" : {
+        "elementReferenceType" : "MembreSitraType",
+        "id" : 233
+      },
+      "nom" : "Ville de Marseille",
+      "dateCreation" : "2017-01-24T06:54:50.567+0000",
+      "dateModification" : "2022-10-24T08:49:51.518+0000",
+      "id" : 1470,
+      "siteWeb" : "http://www.marseille.fr/"
+    },
+    "signalerUnProblemeMails" : [ "narezki@marseille.fr", "sortir@marseille.fr" ]
+  },
+  "informations" : {
+    "moyensCommunication" : [ {
+      "identifiant" : 78243809,
+      "type" : {
+        "elementReferenceType" : "MoyenCommunicationType",
+        "id" : 205
+      },
+      "coordonnees" : {
+        "fr" : "http://www.urbangallery.org"
+      }
+    } ],
+    "structureGestion" : {
+      "type" : "STRUCTURE",
+      "id" : 5518859
+    }
+  },
+  "presentation" : {
+    "descriptifCourt" : {
+      "libelleFr" : "Retrouvez les oeuvres de Pascale Lefebvre et Nicolas Pilard du 27 août au 24 septembre.7 octobre au 12 novembre."
+    },
+    "descriptifDetaille" : {
+      "libelleFr" : "Difficile de ne pas imaginer l’ivresse du papillon qui, dans une débauche de couleurs et de textures s’abreuve de nectars et s’enduit de pollens. Il doit y avoir une forme d’hébétude à évoluer dans une telle sensualité.\r\n\r\nPascale embarque ses pinceaux dans les sous-bois, les prairies. Elle déplie ses papiers et se repaît du motif ; venir s’imprégner de formes dans les espaces foisonnants qui se déploient dans l’énergie désordonnée de la croissance végétale. Dans ses dessins, c’est une expansion qui contamine le corps, abritant parfois des êtres et des récits oniriques.\r\n\r\nDe mon côté, je me complais dans l’idée d’être devenu un cultureux, cul-terreux, même si c’est dans l’air du temps. Ma serre, mon laboratoire horticole, est devenue une extension de l’atelier et ce qui y prend forme, dans le silence et une lenteur qui tient de l’immobilité, me semble avoir toujours trait au dessin. Forcément toutes ces morphologies produisent de la peinture…\r\nNicolas Pilard\r\n\r\nVernissage le 06 octobre 2022 de 18h à 21h"
+    }
+  },
+  "localisation" : {
+    "adresse" : {
+      "nomDuLieu" : "Urban Gallery",
+      "adresse1" : "9 Rue Mazenod",
+      "codePostal" : "13002",
+      "commune" : {
+        "id" : 4532
+      }
+    },
+    "geolocalisation" : {
+      "valide" : true,
+      "geoJson" : {
+        "type" : "Point",
+        "coordinates" : [ 5.365353, 43.301839 ]
+      }
+    },
+    "perimetreGeographique" : [ {
+      "id" : 4532
+    } ]
+  },
+  "liens" : { },
+  "prestations" : {
+    "animauxAcceptes" : "NON_DISPONIBLE",
+    "animauxAcceptesSupplement" : "NON_DISPONIBLE",
+    "languesParlees" : [ {
+      "elementReferenceType" : "Langue",
+      "id" : 1197
+    } ]
+  },
+  "ouverture" : {
+    "periodeEnClair" : {
+      "libelleFr" : "Du 07/10 au 12/11/2022 de 13h30 à 18h30.\nFermé lundi, mardi et dimanche.\nEt sur rendez vous.",
+      "libelleEn" : "From 07/10 to 12/11/2022 between 1.30 pm and 6.30 pm.\nClosed Monday, Tuesday and Sunday.",
+      "libelleEs" : "Del 07/10 al 12/11/2022 de 13:30 a 18:30.\nCerrado lunes, martes y domingo.",
+      "libelleIt" : "Dal 07/10 al 12/11/2022 dalle 13:30 alle 18:30.\nChiuso lunedì, martedì e domenica.",
+      "libelleDe" : "Vom 07/10 bis 12/11/2022 von 13.30 Uhr bis 18.30 Uhr.\nMontag, Dienstag und Sonntag geschlossen.",
+      "libelleNl" : "Van 07/10 tot en met 12/11/2022 van 13.30 tot en met 18.30 u.\nMaandag, dinsdag en zondag gesloten.",
+      "libelleRu" : "С 07/10 до 12/11/2022 с 13h30 до 18h30.\nНе работает понедельник, вторник и воскресенье.",
+      "libelleZh" : "从 10月7日 到 2022年11月12日 小时小时分钟  和 小时小时分钟  之间.\n星期一, 星期二 和 星期日 关闭.",
+      "libellePtBR" : "De 07/10 a 12/11/2022 de 13h30 a  18h30.\nFechado em segunda-feira, terça-feira e domingo.",
+      "libelleJa" : "07/10 から 12/11/2022 まで 1.30 午後 と 6.30 午後 の間.\n月曜日, 火曜日 と 日曜日 は休み."
+    },
+    "periodeEnClairGenerationMode" : "AUTOMATIQUE",
+    "indicationsPeriode" : [ {
+      "elementReferenceType" : "IndicationPeriode",
+      "id" : 416
+    } ],
+    "periodesOuvertures" : [ {
+      "identifiant" : 23937059,
+      "dateDebut" : "2022-10-07",
+      "dateFin" : "2022-11-12",
+      "complementHoraire" : {
+        "libelleFr" : "et sur rendez vous"
+      },
+      "horaireOuverture" : "13:30:00",
+      "horaireFermeture" : "18:30:00",
+      "type" : "OUVERTURE_SAUF",
+      "tousLesAns" : false,
+      "ouverturesJournalieres" : [ {
+        "jour" : "LUNDI"
+      }, {
+        "jour" : "MARDI"
+      }, {
+        "jour" : "DIMANCHE"
+      } ],
+      "identifiantTechnique" : 23937059
+    } ]
+  },
+  "descriptionTarif" : {
+    "indicationTarif" : "GRATUIT",
+    "gratuit" : true,
+    "tarifsEnClair" : {
+      "libelleFr" : "Gratuit.",
+      "libelleEn" : "Free of charge.",
+      "libelleEs" : "Gratis.",
+      "libelleIt" : "Gratuito.",
+      "libelleDe" : "Kostenlos.",
+      "libelleNl" : "Gratis.",
+      "libelleRu" : "Бесплатно.",
+      "libelleZh" : "免费.",
+      "libellePtBR" : "Gratuito.",
+      "libelleJa" : "無料."
+    },
+    "tarifsEnClairGenerationMode" : "AUTOMATIQUE",
+    "devise" : "EUR",
+    "conditions" : { }
+  },
+  "reservation" : { },
+  "illustrations" : [ {
+    "identifiant" : 13530801,
+    "link" : false,
+    "type" : "IMAGE",
+    "nom" : {
+      "libelleFr" : "La Torpeur du Papillon - Pascale Lefebvre, Nicolas Pilard"
+    },
+    "legende" : {
+      "libelleFr" : "La Torpeur du Papillon - Pascale Lefebvre, Nicolas Pilard"
+    },
+    "copyright" : {
+      "libelleFr" : "Montage photo, Nicolas Pilard, ST2, huile sur toile, 24 x18 cm, 2021 - Pascale Lefebvre, Singe bleu, technique mixte sur papier, 2022 - Urban Gallery"
+    },
+    "traductionFichiers" : [ {
+      "locale" : "fr",
+      "url" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/60/13712488.jpg",
+      "urlListe" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/60/13712488-liste.jpg",
+      "urlFiche" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/60/13712488-fiche.jpg",
+      "urlDiaporama" : "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/104/60/13712488-diaporama.jpg",
+      "extension" : "jpg",
+      "fileName" : "torpeur",
+      "taille" : 183150,
+      "hauteur" : 600,
+      "largeur" : 800,
+      "lastModifiedDate" : "2022-07-22T08:41:41.807+0000"
+    } ],
+    "locked" : false
+  } ],
+  "territoires" : [ {
+    "type" : "TERRITOIRE",
+    "id" : 591381
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 591419
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5127066
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5427637
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5460436
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693878
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 5693903
+  }, {
+    "type" : "TERRITOIRE",
+    "id" : 6008197
+  } ],
+  "datesOuverture" : [ "2022-11-02", "2022-11-03", "2022-11-04", "2022-11-05", "2022-11-09", "2022-11-10", "2022-11-11", "2022-11-12" ],
+  "informationsFeteEtManifestation" : {
+    "typesManifestation" : [ {
+      "elementReferenceType" : "FeteEtManifestationType",
+      "id" : 1958
+    } ],
+    "categories" : [ {
+      "elementReferenceType" : "FeteEtManifestationCategorie",
+      "id" : 2080
+    } ],
+    "themes" : [ {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2159
+    }, {
+      "elementReferenceType" : "FeteEtManifestationTheme",
+      "id" : 2232
+    } ],
+    "portee" : {
+      "elementReferenceType" : "FeteEtManifestationPortee",
+      "id" : 2352
+    },
+    "nomLieu" : "Urban Gallery"
+  },
+  "formatVersion" : "v002",
+  "expiration" : {
+    "dateExpiration" : "2022-11-12T00:00:00.000+0000",
+    "expirationAction" : "SUPPRIMER"
+  },
+  "enquete" : { }
+}
